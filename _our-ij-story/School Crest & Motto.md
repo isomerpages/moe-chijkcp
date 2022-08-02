@@ -10,8 +10,10 @@ description: ""
 
 ### School Crest
 
+<img src="/images/Our%20IJ%20Story/School%20Crest.png"  
+     style="width:70%">
 
-![](/images/Our%20IJ%20Story/School%20Crest.png)
+
 
 The CHIJ School Crest is an international badge worn by students of the Infant Jesus schools found in South America, the United Kingdom, Europe, Africa and South East Asia.
 
@@ -60,8 +62,9 @@ The CHIJ school crest is a badge of honour, history and distinction, inspiring e
 
 The motto on the crest reads:
 
+<img src="/images/Our%20IJ%20Story/School%20Motto.jpg"  
+     style="width:50%">
 
-![](/images/Our%20IJ%20Story/School%20Motto.jpg)
 
 
 ### To be SIMPLE IN VIRTUE
