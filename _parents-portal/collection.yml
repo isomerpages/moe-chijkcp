@@ -2,6 +2,7 @@ collections:
   parents-portal:
     output: true
     order:
+      - CCA Online Registration for 2022.md
       - Travel Declaration.md
       - Form for Parents.md
       - Parent Teacher Meeting (PTM)/.keep
