@@ -2,5 +2,6 @@ collections:
   our-ij-family:
     output: true
     order:
+      - Subject Heads (SH) & Level Heads (LH).md
       - Year Heads (YH) & Head of Departments (HOD).md
       - Principal & Vice Principals.md
