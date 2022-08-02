@@ -18,8 +18,8 @@ third_nav_title: Letters & Notifications
 
 [REMOVAL OF COMMON LAST TOPICS FOR PRELIMS & PSLE 2021.pdf](/files/Parents%20Portal/Letters%20and%20Notifications/REMOVAL%20OF%20COMMON%20LAST%20TOPICS_2021%20PRELIMS%20%20PSLE%20WEBSITE%20%20PG.pdf)
 
-Safeguarding the well-being of candidates for the National Examinations
------------------------------------------------------------------------
+### Safeguarding the well-being of candidates for the National Examinations
+
 
 Dear Primary 6 Parents and Guardians,
 
@@ -47,4 +47,4 @@ Please refer to the attached instructions or visit SEAB’s website for more inf
 
   
 
-[SEAB Exam Instructions to Sch Candidates](https://www.chijkcp.moe.edu.sg/qql/slot/u495/2022/Our%20IJ%20Partners/Letters%20&%20Notifications/Primary%206/SEAB%20Exam%20Instructions%20to%20Sch%20Candidates.pdf)
+[SEAB Exam Instructions to Sch Candidates](/files/Parents%20Portal/Letters%20and%20Notifications/SEAB%20Exam%20Instructions%20to%20Sch%20Candidates.pdf)
