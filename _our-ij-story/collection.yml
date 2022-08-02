@@ -2,4 +2,5 @@ collections:
   our-ij-story:
     output: true
     order:
+      - School Vision & Mission.md
       - Principal's Message.md
