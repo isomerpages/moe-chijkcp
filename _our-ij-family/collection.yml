@@ -2,6 +2,7 @@ collections:
   our-ij-family:
     output: true
     order:
+      - Form Teachers/Allied Educators (AED).md
       - Form Teachers/Tamil Language (TL).md
       - Form Teachers/Malay Language (ML).md
       - Form Teachers/Chinese Language (CL).md
