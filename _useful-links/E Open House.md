@@ -33,3 +33,8 @@ We have prepared the following videos to introduce our school's programmes to yo
 Click on each IJ girl to view the video.
 
 
+
+<p><a href="https://drive.google.com/file/d/1kjjyxd8YGac4B9V_-HIJVBis6v-pV3fi/view">
+<img src="/images/Useful%20Links/IJ%20girl%202.png" style="width:100px;height:150px;margin-right:5px;" align = "left">
+</a></p>
+
