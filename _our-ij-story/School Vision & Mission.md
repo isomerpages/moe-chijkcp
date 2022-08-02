@@ -11,11 +11,16 @@ description: ""
 
 ### School Vision
 
-![](/images/Our%20IJ%20Story/School%20Vision.png)
+<img src="/images/Our%20IJ%20Story/School%20Vision.png" 
+     style="width:65%">
+
+
 
 ### School Mission
 
-![](/images/Our%20IJ%20Story/School%20Mission.png)
+<img src="/images/Our%20IJ%20Story/School%20Mission.png" 
+     style="width:65%">
+
 
 ### Christ Centred Community
 
