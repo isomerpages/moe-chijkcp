@@ -3,6 +3,8 @@ title: Enhanced OPAC and SERR
 permalink: /events/enhanced-opac-and-serr
 description: ""
 ---
+![](/images/subpage.jpg)
+
 ## Enhanced OPAC and SERR
 
 To access OPAC for CHIJ (Katong) Primary, please click [here](https://schoolibrary.moe.edu.sg/chijkatongpri)
