@@ -2,11 +2,8 @@ collections:
   parents-portal:
     output: true
     order:
-      - Parents @ IJ.md
-      - CCA Online Registration for 2022.md
-      - Travel Declaration.md
-      - Form for Parents.md
-      - Parent Teacher Meeting (PTM)/.keep
+      - Parents' Portal.md
+      - Assessment Information.md
       - Letters & Notifications/.keep
       - Letters & Notifications/Letters & Notifications.md
       - Letters & Notifications/Primary 1.md
@@ -15,5 +12,8 @@ collections:
       - Letters & Notifications/Primary 4.md
       - Letters & Notifications/Primary 5.md
       - Letters & Notifications/Primary 6.md
-      - Assessment Information.md
-      - Parents' Portal.md
+      - Parent Teacher Meeting (PTM)/.keep
+      - Form for Parents.md
+      - Travel Declaration.md
+      - CCA Online Registration for 2022.md
+      - Parents @ IJ.md
