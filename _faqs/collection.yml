@@ -2,5 +2,5 @@ collections:
   faqs:
     output: true
     order:
-      - IJ Alumni.md
       - FAQs.md
+      - IJ Alumni.md
