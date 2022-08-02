@@ -2,13 +2,13 @@ collections:
   parents-portal:
     output: true
     order:
-      - Letters & Notifications/Primary 6.md
-      - Letters & Notifications/Primary 5.md
-      - Letters & Notifications/Primary 4.md
-      - Letters & Notifications/Primary 3.md
-      - Letters & Notifications/Primary 2.md
-      - Letters & Notifications/Primary 1.md
-      - Letters & Notifications/Letters & Notifications.md
       - Letters & Notifications/.keep
+      - Letters & Notifications/Letters & Notifications.md
+      - Letters & Notifications/Primary 1.md
+      - Letters & Notifications/Primary 2.md
+      - Letters & Notifications/Primary 3.md
+      - Letters & Notifications/Primary 4.md
+      - Letters & Notifications/Primary 5.md
+      - Letters & Notifications/Primary 6.md
       - Assessment Information.md
       - Parents' Portal.md
