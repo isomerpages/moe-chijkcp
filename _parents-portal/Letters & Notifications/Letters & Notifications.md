@@ -23,12 +23,11 @@ third_nav_title: Letters & Notifications
 ### 2021
 
 
-[Celebrating Coaches' and Instructors' Day 2021][](/files/Parents%20Portal/Letters%20and%20Notifications/Appreciate%20Your%20Coach%20sgthankyoucoach.pdf)
+[Celebrating Coaches' and Instructors' Day 2021](/files/Parents%20Portal/Letters%20and%20Notifications/Appreciate%20Your%20Coach%20sgthankyoucoach.pdf)
 
   
 
-**How to beat the bug!**
-
+**How to beat the bug!**<br>
 Dear Parents and Guardians,
 
   
