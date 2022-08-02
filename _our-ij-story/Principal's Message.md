@@ -53,7 +53,7 @@ The School’s Learning Directions are:
 
   
 
-**School Theme for the Year – ‘Our Journey’.**
+**<u>School Theme for the Year – ‘Our Journey’.</u>**
 
   
 
@@ -66,17 +66,14 @@ The school’s theme for 2022 – ‘Our Journey’ – encapsulates our hopes a
 
   
 
-A journey is full of life experiences, lessons and challenges, but it is also filled with joy and fulfillment.
-
-It is one where the act of getting there is just as important as getting there itself.
-
-The key word however, in this theme, is not ‘Journey’ but the word ‘Our’.
-
+A journey is full of life experiences, lessons and challenges, but it is also filled with joy and fulfillment.<br>
+It is one where the act of getting there is just as important as getting there itself.<br>
+The key word however, in this theme, is not ‘Journey’ but the word ‘Our’.<br>
 ‘Our’ means to journey together and to journey as a community and as a family – staff, students, and parents.
 
   
 
-**2021 PSLE Results**
+**<u>2021 PSLE Results</u>**
 
   
 
@@ -84,7 +81,7 @@ Our 2020 P6 Cohort did very well for their PSLE, and we could not be more proud 
 
   
 
-**Key areas of focus for teaching and learning**
+**<u>Key areas of focus for teaching and learning</u>**
 
   
 
