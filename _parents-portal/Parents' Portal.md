@@ -89,8 +89,8 @@ We give you our very best!
 </center>
 	
 
-WHY I SEND MY GIRLS TO CHIJKCP
-------------------------------
+### WHY I SEND MY GIRLS TO CHIJKCP
+
 
 Just like any mother who wants the best for her children, I became a little anxious when it came to deciding on a school for my first child. I wanted a school that believed in a holistic education rather than an over-emphasis on academics. Fortunately, I spoke to a friend who had nothing but praise for CHIJ (Katong) Primary. I have not looked back ever since.
 
