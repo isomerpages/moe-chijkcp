@@ -16,14 +16,14 @@ third_nav_title: Letters & Notifications
 
   
 
-[MoneySense For Your Child by Institute for Financial Literacy](https://www.chijkcp.moe.edu.sg/qql/slot/u495/2022/Our%20IJ%20Partners/Letters%20&%20Notifications/2022/MoneySense_Primary%20Sch%20EDM%202022.pdf)  
+[MoneySense For Your Child by Institute for Financial Literacy](/files/Parents%20Portal/Letters%20and%20Notifications/MoneySense_Primary%20Sch%20EDM%202022_compressed.pdf)  
 
-["Ask-Me-Anything" Facebook Live - MoneySense For Your Child](https://www.chijkcp.moe.edu.sg/qql/slot/u495/2022/Our%20IJ%20Partners/Letters%20&%20Notifications/2022/AMA%20MoneySense%20For%20Your%20Child.pdf)  
+["Ask-Me-Anything" Facebook Live - MoneySense For Your Child](/files/Parents%20Portal/Letters%20and%20Notifications/AMA%20MoneySense%20For%20Your%20Child.pdf)
 
 ### 2021
 
 
-[Celebrating Coaches' and Instructors' Day 2021](https://www.chijkcp.moe.edu.sg/qql/slot/u495/2022/Our%20IJ%20Partners/Letters%20&%20Notifications/Appreciate%20Your%20Coach%20sgthankyoucoach.pdf)
+[Celebrating Coaches' and Instructors' Day 2021][](/files/Parents%20Portal/Letters%20and%20Notifications/Appreciate%20Your%20Coach%20sgthankyoucoach.pdf)
 
   
 
@@ -38,5 +38,3 @@ In School, we are teaching our children about the novel coronavirus and the good
   
 
 Let us work together to role model and reinforce these good practices at home. Watch, download and share the attached GIF on how to beat the bug!
-
-
