@@ -65,3 +65,12 @@ Click on each IJ girl to view the video.
 <p><a href="https://drive.google.com/file/d/1g-HcOg5u_Cg2GrtGalqqJGlrCuF6izd3/view">
 <img src="/images/Useful%20Links/IJ%20girl%20wearing%20PE%20uniform.png" style="width:100px;height:150px;margin-right:5px;" align = "left">
 </a></p>
+
+<br><br><br><br><br>
+
+
+
+### School Virtual Tour
+
+
+Click [here](https://roundme.com/embed/1JR3bRKB0eMLes4sSXy1) to view our virtual tour!
