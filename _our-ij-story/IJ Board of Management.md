@@ -7,4 +7,6 @@ description: ""
 
 ## IJ Board of Management
 
-![](/images/Our%20IJ%20Story/IJ%20Board%20of%20Management.png)
+
+<img src="/images/Our%20IJ%20Story/IJ%20Board%20of%20Management.png"  
+     style="width:80%">
