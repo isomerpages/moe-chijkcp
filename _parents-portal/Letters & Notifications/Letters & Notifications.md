@@ -69,7 +69,7 @@ Dear Parents and Guardians,
 
   
 
-**BOOKLISTS FOR 2022**
+**<u>BOOKLISTS FOR 2022</u>**
 
 [P1 Booklist.pdf](https://www.chijkcp.moe.edu.sg/qql/slot/u495/2022/Our%20IJ%20Partners/Letters%20&%20Notifications/P1%20Booklist.pdf)  
 
