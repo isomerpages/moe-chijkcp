@@ -2,4 +2,5 @@ collections:
   events:
     output: true
     order:
+      - 2022 Beginning of the Year Mass.md
       - News.md
