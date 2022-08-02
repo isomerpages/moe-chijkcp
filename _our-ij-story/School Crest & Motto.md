@@ -55,8 +55,8 @@ This is symbolic of purity and simplicity towards God, our neighbours and oursel
 
 The CHIJ school crest is a badge of honour, history and distinction, inspiring every IJ school student to live guided by noble deeds and to uphold a three-century old tradition of heroic virtue, Christian fidelity and the best elements of global citizenship.
 
-School Motto
-------------
+### School Motto
+
 
 The motto on the crest reads:
 
@@ -64,32 +64,22 @@ The motto on the crest reads:
 ![](/images/Our%20IJ%20Story/School%20Motto.jpg)
 
 
-To be SIMPLE IN VIRTUE
-----------------------
+### To be SIMPLE IN VIRTUE
 
-is to go to God in full confidence and love.
 
-It means being open and honest with others,
-
-so that we can live in a spirit of togetherness.
-
-This calls for an acknowledgement of our own faults and
-
-an effort to overcome selfishness.
-
-It is nobleness of character as shown in the correct behaviour
-
+is to go to God in full confidence and love.<br>
+It means being open and honest with others,<br>
+so that we can live in a spirit of togetherness.<br>
+This calls for an acknowledgement of our own faults and<br>
+an effort to overcome selfishness.<br>
+It is nobleness of character as shown in the correct behaviour<br>
 towards God and man.
 
-To be STEADFAST IN DUTY
------------------------
+### To be STEADFAST IN DUTY
 
-means to have an awareness of our duty to be of service to others.
 
-The duty to give oneself demands energy because it presents itself daily.
-
-Only when one puts self and petty interests aside
-
-can this steadfastness in duty be fully achieved.
-
+means to have an awareness of our duty to be of service to others.<br>
+The duty to give oneself demands energy because it presents itself daily.<br>
+Only when one puts self and petty interests aside<br>
+can this steadfastness in duty be fully achieved.<br>
 It is to be faithful in fulfilling obligations.
