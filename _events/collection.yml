@@ -2,5 +2,6 @@ collections:
   events:
     output: true
     order:
+      - Enhanced OPAC and SERR.md
       - 2022 Beginning of the Year Mass.md
       - News.md
