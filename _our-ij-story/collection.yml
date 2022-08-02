@@ -2,6 +2,7 @@ collections:
   our-ij-story:
     output: true
     order:
+      - School Song & Prayer.md
       - School Crest & Motto.md
       - School Virtues.md
       - School Vision & Mission.md
