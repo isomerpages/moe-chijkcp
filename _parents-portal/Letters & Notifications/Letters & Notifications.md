@@ -110,18 +110,18 @@ Example: **GREEN** (House of ST ANNE)
 
 7) Home Delivery Charges:
 
-> *   $8.00 (for orders less than $80.00)
-> *   $12.00 (for orders between $80.00 - $150.00)
-> *   $15.00 (for orders more than $150.00)
+ *   $8.00 (for orders less than $80.00)
+ *   $12.00 (for orders between $80.00 - $150.00)
+ *   $15.00 (for orders more than $150.00)
 
 8) Enquiries
 
-> *   Office: 6293 5840
-> *   WhatsApp Only: 8638 0499
-> *   Email: [info@magdalene.com.sg](mailto:info@magdalene.com.sg)
-> *   Website: [https://www.magdalene.com.sg](https://www.magdalene.com.sg/)
-> *   Address: 5000 Ang Mo Kio Ave 5, Techplace II, #05-09, Singapore 569870
+ *   Office: 6293 5840
+ *   WhatsApp Only: 8638 0499
+ *   Email: [info@magdalene.com.sg](mailto:info@magdalene.com.sg)
+ *   Website: [https://www.magdalene.com.sg](https://www.magdalene.com.sg/)
+ *   Address: 5000 Ang Mo Kio Ave 5, Techplace II, #05-09, Singapore 569870
 
   
 
-[CHIJ Katong Price list and Size Spec](https://www.chijkcp.moe.edu.sg/qql/slot/u495/2022/Our%20IJ%20Partners/Letters%20&%20Notifications/CHIJ%20Katong%20Price%20list%20and%20Size%20Spec.pdf)
+[CHIJ Katong Price list and Size Spec](/files/Parents%20Portal/Letters%20and%20Notifications/CHIJ%20Katong%20Price%20list%20and%20Size%20Spec.pdf)
