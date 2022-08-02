@@ -1,8 +1,12 @@
 logo: /images/logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
   - title: Our Ij Story
     collection: our-ij-story
+  - title: Our IJ Family
+    collection: our-ij-family
+  - title: Contact Us
+    url: /contact-us
+  - title: Events
+    collection: events
+  - title: Menu Title
+    collection: co-curricular
