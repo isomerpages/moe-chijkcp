@@ -2,6 +2,8 @@ collections:
   events:
     output: true
     order:
+      - Celebration of the 400th Anniversary of the birth of our founder,
+        Blessed Nicolas Barré.md
       - CHIJ (Katong) Primary featured in Hai Sing Bao.md
       - Enhanced OPAC and SERR.md
       - 2022 Beginning of the Year Mass.md
