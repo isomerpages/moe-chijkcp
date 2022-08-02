@@ -7,6 +7,8 @@ description: ""
 
 ## School Vision & Mission
 
+
+
 ### School Vision
 
 ![](/images/Our%20IJ%20Story/School%20Vision.png)
