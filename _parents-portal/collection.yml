@@ -2,6 +2,7 @@ collections:
   parents-portal:
     output: true
     order:
+      - Letters & Notifications/Letters & Notifications.md
       - Letters & Notifications/.keep
       - Assessment Information.md
       - Parents' Portal.md
