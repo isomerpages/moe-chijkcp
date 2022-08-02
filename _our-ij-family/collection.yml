@@ -2,7 +2,9 @@ collections:
   our-ij-family:
     output: true
     order:
-      - Non Teaching Staff.md
+      - Principal & Vice Principals.md
+      - Year Heads (YH) & Head of Departments (HOD).md
+      - Subject Heads (SH) & Level Heads (LH).md
       - Form Teachers/.keep
       - Form Teachers/Form Teachers.md
       - Form Teachers/Chinese Language (CL).md
@@ -10,6 +12,4 @@ collections:
       - Form Teachers/Tamil Language (TL).md
       - Form Teachers/Allied Educators (AED).md
       - Form Teachers/Learning Support.md
-      - Subject Heads (SH) & Level Heads (LH).md
-      - Year Heads (YH) & Head of Departments (HOD).md
-      - Principal & Vice Principals.md
+      - Non Teaching Staff.md
