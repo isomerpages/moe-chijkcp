@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Form Teachers/.keep
-      - Form Teachers.md
       - Subject Heads (SH) & Level Heads (LH).md
       - Year Heads (YH) & Head of Departments (HOD).md
       - Principal & Vice Principals.md
