@@ -2,6 +2,7 @@ collections:
   our-ij-story:
     output: true
     order:
+      - School Corporate Brochure.md
       - School Rules.md
       - IJ Board of Management.md
       - History.md
