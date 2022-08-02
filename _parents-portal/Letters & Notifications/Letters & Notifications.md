@@ -94,8 +94,7 @@ Dear Parents and Guardians,
 1) Please purchase your order via website: [https://www.magdalene.com.sg](https://www.magdalene.com.sg/)
 
 2) Purchase of School Uniform and PE Attire is available online from 1st November 2021
-
-3) Indicate the **House Colour** for PE Attire
+3) Indicate the **House Colour** for PE Attire
 
   
 
