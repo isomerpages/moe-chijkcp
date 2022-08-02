@@ -12,7 +12,7 @@ description: ""
 
 <center>
 
-**A Convent Education**<br>
+A Convent Education<br>
 _by Mrs Sylvia Liew_
 
   
