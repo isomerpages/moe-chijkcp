@@ -96,7 +96,7 @@ The infographics below capture the key programmes and structures to bring these 
 ![](/images/Our%20IJ%20Story/Active%20contributors%20and%20caring%20citizens.png)
 
 
-**Supportive Partnerships:**
+**<u>Supportive Partnerships:</u>**
 
   
 
@@ -108,8 +108,6 @@ The School has a strong partnership with our parents. We are happy to announce t
 
   
 
-May God protect and keep you and your family safe.
-
-Mrs. Mischa Simon
-
+May God protect and keep you and your family safe.<br>
+Mrs. Mischa Simon<br>
 Principal/CHIJ (Katong) Primary
