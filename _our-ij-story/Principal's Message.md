@@ -3,6 +3,9 @@ title: Principal's Message
 permalink: /our-ij-story/principals-message
 description: ""
 ---
+![](/images/subpage.jpg)
+
+
 ## Principal's Message
 
 Dear Parents and CHIJ Girls,
