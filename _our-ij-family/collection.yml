@@ -2,4 +2,5 @@ collections:
   our-ij-family:
     output: true
     order:
+      - Year Heads (YH) & Head of Departments (HOD).md
       - Principal & Vice Principals.md
