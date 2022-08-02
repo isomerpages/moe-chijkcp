@@ -2,6 +2,7 @@ collections:
   parents-portal:
     output: true
     order:
+      - Parent Teacher Meeting (PTM)/.keep
       - Letters & Notifications/.keep
       - Letters & Notifications/Letters & Notifications.md
       - Letters & Notifications/Primary 1.md
