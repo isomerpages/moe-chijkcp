@@ -13,7 +13,7 @@ description: ""
 <center>
 
 A Convent Education<br>
-_by Mrs Sylvia Liew_
+by Mrs Sylvia Liew<br><br>
 
   
 
@@ -22,14 +22,14 @@ Builds character and confidence<br>
 Motivates critical thinking<br>
 Communicate with competence
 
-  
+  <br><br>
 
 Serve the needs of others<br>
 Have a heart of gold<br>
 Inspired by founder Father Barre<br>
 Whose vision was so bold
 
-  
+  <br><br>
 
 We are Simple in Virtue<br>
 Steadfast in Duty<br>
@@ -37,48 +37,49 @@ Our motto we uphold<br>
 Affirm, support, be true
 
   
-
+<br><br>
+	
 Expanding our abilities<br>
 In a well adjusted way<br>
 A broad range of experiences<br>
 Nurtured day by day
 
-  
+  <br><br>
 
 A Convent Education<br>
 Gives room for you to grow<br>
 It taps on your potential<br>
 Your range of talents show
 
-  
+  <br><br>
 
 To be Christ-like in love<br>
 Care for the weak and poor<br>
 Honour our God above<br>
 Makes life worth living for
 
-  
+  <br><br>
 
 Respect, integrity and love<br>
 Within our school community<br>
 Each one has dignity and worth<br>
 Given many an opportunity
 
-  
+  <br><br>
 
 A willingness to reach out<br>
 To those who are in need<br>
 Face challenges that come about<br>
 With IJ in the lead
 
-  
+  <br><br>
 
 In a fast changing world<br>
 A vibrant balanced education<br>
 We promote future learning<br>
 Inspiring creativity and innovation
 
-  
+  <br><br>
 
 A Convent Education<br>
 A cut above the rest<br>
