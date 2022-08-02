@@ -4,9 +4,37 @@ links:
     collection: our-ij-story
   - title: Our IJ Family
     collection: our-ij-family
+  - title: Our IJ Experience
+    url: /our-ij-experience/curricular
+    sublinks:
+      - title: Curricular
+        url: /our-ij-experience/curricular
+      - title: Co-Curricular
+        url: /our-ij-experience/co-curricular
+      - title: Signature Programs
+        url: /our-ij-experience/signature-programs
   - title: Contact Us
     url: /contact-us
+  - title: Useful Links
+    collection: useful-links
   - title: Events
     collection: events
-  - title: Menu Title
-    collection: co-curricular
+  - title: Our IJ Partners
+    url: /our-ij-partners/parents-portal
+    sublinks:
+      - title: Parents' Portal
+        url: /our-ij-partners/parents-portal
+      - title: IJ Parent Volunteers (PV)
+        url: /our-ij-partners/ij-parent-volunteers-pv
+      - title: Home-Based Learning (HBL)
+        url: /our-ij-partners/home-based-learning-hbl
+      - title: Popular Links
+        url: /our-ij-partners/popular-links
+      - title: P1 2021 Orientation Day
+        url: /our-ij-partners/p1-2021-orientation-day
+      - title: P1 2021 Administration Day
+        url: /our-ij-partners/p1-2021-administration-day
+      - title: Feedback
+        url: /our-ij-partners/feedback
+      - title: FAQs
+        url: /our-ij-partners/faqs
