@@ -71,35 +71,17 @@ Dear Parents and Guardians,
 
 **<u>BOOKLISTS FOR 2022</u>**
 
-[P1 Booklist.pdf](https://www.chijkcp.moe.edu.sg/qql/slot/u495/2022/Our%20IJ%20Partners/Letters%20&%20Notifications/P1%20Booklist.pdf)  
-
-[P2 Booklist.pdf](https://www.chijkcp.moe.edu.sg/qql/slot/u495/2022/Our%20IJ%20Partners/Letters%20&%20Notifications/P2%20Booklist.pdf)
-
-  
-
-[P3 Booklist.pdf](https://www.chijkcp.moe.edu.sg/qql/slot/u495/2022/Our%20IJ%20Partners/Letters%20&%20Notifications/P3%20Booklist.pdf)  
-
-[P3 HMT Booklist.pdf](https://www.chijkcp.moe.edu.sg/qql/slot/u495/2022/Our%20IJ%20Partners/Letters%20&%20Notifications/P3%20HMT%20Booklist.pdf)
-
-  
-
-[P4 Booklist.pdf](https://www.chijkcp.moe.edu.sg/qql/slot/u495/2022/Our%20IJ%20Partners/Letters%20&%20Notifications/P4%20Booklist.pdf)  
-
-  
-
-[P5 Booklist.pdf](https://www.chijkcp.moe.edu.sg/qql/slot/u495/2022/Our%20IJ%20Partners/Letters%20&%20Notifications/P5%20Booklist.pdf)  
-
-[P5 HMT Booklist.pdf](https://www.chijkcp.moe.edu.sg/qql/slot/u495/2022/Our%20IJ%20Partners/Letters%20&%20Notifications/P5%20HMT%20Booklist.pdf)  
-
-[P5 FDN Booklist.pdf](https://www.chijkcp.moe.edu.sg/qql/slot/u495/2022/Our%20IJ%20Partners/Letters%20&%20Notifications/P5%20FDN%20Booklist.pdf)
-
-  
-
-[P6 Booklist.pdf](https://www.chijkcp.moe.edu.sg/qql/slot/u495/2022/Our%20IJ%20Partners/Letters%20&%20Notifications/P6%20Booklist.pdf)  
-
-[P6 HMT.pdf](https://www.chijkcp.moe.edu.sg/qql/slot/u495/2022/Our%20IJ%20Partners/Letters%20&%20Notifications/P6%20HMT.pdf)  
-
-[P6 FDN Booklist.pdf](https://www.chijkcp.moe.edu.sg/qql/slot/u495/2022/Our%20IJ%20Partners/Letters%20&%20Notifications/P6%20FDN%20Booklist.pdf)
+[P1 Booklist.pdf](/files/Parents%20Portal/Letters%20and%20Notifications/P1%20Booklist.pdf)<br>
+[P2 Booklist.pdf](/files/Parents%20Portal/Letters%20and%20Notifications/P2%20Booklist.pdf)<br>
+[P3 Booklist.pdf](/files/Parents%20Portal/Letters%20and%20Notifications/P3%20Booklist.pdf)<br>
+[P3 HMT Booklist.pdf](/files/Parents%20Portal/Letters%20and%20Notifications/P3%20HMT%20Booklist.pdf)<br>
+[P4 Booklist.pdf](/files/Parents%20Portal/Letters%20and%20Notifications/P4%20Booklist.pdf)<br>
+[P5 Booklist.pdf](/files/Parents%20Portal/Letters%20and%20Notifications/P5%20Booklist.pdf)<br>
+[P5 HMT Booklist.pdf](/files/Parents%20Portal/Letters%20and%20Notifications/P5%20HMT%20Booklist.pdf)<br>
+[P5 FDN Booklist.pdf](/files/Parents%20Portal/Letters%20and%20Notifications/P5%20FDN%20Booklist.pdf)<br>
+[P6 Booklist.pdf](/files/Parents%20Portal/Letters%20and%20Notifications/P6%20Booklist.pdf)<br>
+[P6 HMT.pdf](/files/Parents%20Portal/Letters%20and%20Notifications/P6%20HMT.pdf)  
+[P6 FDN Booklist.pdf](/files/Parents%20Portal/Letters%20and%20Notifications/P6%20FDN%20Booklist.pdf)
 
   
 
