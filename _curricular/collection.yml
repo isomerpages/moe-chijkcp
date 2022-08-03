@@ -2,4 +2,5 @@ collections:
   curricular:
     output: true
     order:
+      - English.md
       - Curricular.md
