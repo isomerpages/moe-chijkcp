@@ -2,11 +2,11 @@ collections:
   co-curricular:
     output: true
     order:
-      - CCE/Sexuality Education Programme 2022.md
-      - CCE/Citizenship Education.md
-      - CCE/Character Development.md
-      - CCE/Character & Citizenship Education.md
       - CCE/.keep
+      - CCE/Character & Citizenship Education.md
+      - CCE/Character Development.md
+      - CCE/Citizenship Education.md
+      - CCE/Sexuality Education Programme 2022.md
       - The School Library.md
       - Information Communications Technology (ICT).md
       - Co Curricular.md
