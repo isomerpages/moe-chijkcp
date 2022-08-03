@@ -20,7 +20,7 @@ STEM education embarks on a common level topic which integrates different subjec
 Students engage in fun and exploratory science-based play which requires analyzing, investigating and generating activities. The enrichment activities are an extension of the Science Curriculum designed by the Science teachers.
 
 
-
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTQEtdH-SNElQ1Q91SUu7JYXS0lw7QhnbbtPhvNnrFMIovm1WVa14CvId_1ZFqi5j1MhvvOFqsv9CBl/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 
 
@@ -28,3 +28,6 @@ Students engage in fun and exploratory science-based play which requires analyzi
 
 
 Students are taught the fundamentals of coding during their CCA sessions. After which, they are required to think of a practical solution to the problems that they observe commonly around the school. Apart from learning about hardware and software, they also apply the concepts in solving authentic problems.
+
+
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSgE66bQFL0pn5UTedGoqJFJHGSh4YuQg0WQYam7QfrX7AKgYp0Ko4V8qsS3N4JRxVcnC0JrNIbGPbs/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
