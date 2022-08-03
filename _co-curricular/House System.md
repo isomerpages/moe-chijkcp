@@ -11,4 +11,10 @@ CHIJ (Katong) Primary uses the House System to boost team spirit in Sports and N
 
 There are four houses named after saints: **Saint Anne**, **Saint Clare**, **Saint Joan** and **Saint Rose**.
 
-<span style=”color:red;”>insert word or letter</span>
+![](/images/Co%20Curricular/House%20System_1.png)
+
+![](/images/Co%20Curricular/House%20System_2.png)
+
+![](/images/Co%20Curricular/House%20System_3.png)
+
+![](/images/Co%20Curricular/House%20System_4.png)
