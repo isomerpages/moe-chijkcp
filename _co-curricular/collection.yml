@@ -2,7 +2,6 @@ collections:
   co-curricular:
     output: true
     order:
-      - Physical Sports.md
       - CCE/.keep
       - CCE/Character & Citizenship Education.md
       - CCE/Character Development.md
