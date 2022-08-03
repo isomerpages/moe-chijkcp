@@ -2,14 +2,14 @@ collections:
   co-curricular:
     output: true
     order:
-      - Physical Sports/Sports Club.md
-      - Physical Sports/Track & Field.md
-      - Physical Sports/Sailing.md
-      - Physical Sports/Netball.md
-      - Physical Sports/Ten Pin Bowling.md
-      - Physical Sports/Badminton.md
-      - Physical Sports/Artistic Gymnastics.md
       - Physical Sports/.keep
+      - Physical Sports/Artistic Gymnastics.md
+      - Physical Sports/Badminton.md
+      - Physical Sports/Ten Pin Bowling.md
+      - Physical Sports/Netball.md
+      - Physical Sports/Sailing.md
+      - Physical Sports/Track & Field.md
+      - Physical Sports/Sports Club.md
       - CCE/.keep
       - CCE/Character & Citizenship Education.md
       - CCE/Character Development.md
