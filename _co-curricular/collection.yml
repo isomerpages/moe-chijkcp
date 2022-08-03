@@ -2,6 +2,7 @@ collections:
   co-curricular:
     output: true
     order:
+      - Sports Safety.md
       - Visual & Performing Arts/.keep
       - Visual & Performing Arts/Art.md
       - Visual & Performing Arts/Choir.md
