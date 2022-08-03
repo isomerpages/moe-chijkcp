@@ -2,6 +2,7 @@ collections:
   co-curricular:
     output: true
     order:
+      - Physical Sports/Sports Club.md
       - Physical Sports/Track & Field.md
       - Physical Sports/Sailing.md
       - Physical Sports/Netball.md
