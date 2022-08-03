@@ -2,6 +2,7 @@ collections:
   co-curricular:
     output: true
     order:
+      - PE Swimming Programme.md
       - PAL @ CHIJ (Katong) Primary.md
       - House System.md
       - CCA Achievements.md
