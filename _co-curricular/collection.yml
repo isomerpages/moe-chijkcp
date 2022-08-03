@@ -2,23 +2,14 @@ collections:
   co-curricular:
     output: true
     order:
-      - PE Swimming Programme.md
-      - PAL @ CHIJ (Katong) Primary.md
-      - House System.md
-      - CCA Achievements.md
-      - Sports Safety.md
-      - Visual & Performing Arts/.keep
-      - Visual & Performing Arts/Art.md
-      - Visual & Performing Arts/Choir.md
-      - Visual & Performing Arts/Drama.md
-      - Visual & Performing Arts/Dance.md
-      - Visual & Performing Arts/Handbell Ensemble.md
-      - Uniformed Groups/Brownies.md
-      - Uniformed Groups/.keep
-      - Clubs & Societies/Innovation.md
-      - Clubs & Societies/Home Crafts.md
-      - Clubs & Societies/Science.md
-      - Clubs & Societies/.keep
+      - Co Curricular.md
+      - Information Communications Technology (ICT).md
+      - The School Library.md
+      - CCE/.keep
+      - CCE/Character & Citizenship Education.md
+      - CCE/Character Development.md
+      - CCE/Citizenship Education.md
+      - CCE/Sexuality Education Programme 2022.md
       - Physical Sports/.keep
       - Physical Sports/Artistic Gymnastics.md
       - Physical Sports/Badminton.md
@@ -27,11 +18,20 @@ collections:
       - Physical Sports/Sailing.md
       - Physical Sports/Track & Field.md
       - Physical Sports/Sports Club.md
-      - CCE/.keep
-      - CCE/Character & Citizenship Education.md
-      - CCE/Character Development.md
-      - CCE/Citizenship Education.md
-      - CCE/Sexuality Education Programme 2022.md
-      - The School Library.md
-      - Information Communications Technology (ICT).md
-      - Co Curricular.md
+      - Clubs & Societies/.keep
+      - Clubs & Societies/Innovation.md
+      - Clubs & Societies/Home Crafts.md
+      - Clubs & Societies/Science.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Brownies.md
+      - Visual & Performing Arts/.keep
+      - Visual & Performing Arts/Art.md
+      - Visual & Performing Arts/Choir.md
+      - Visual & Performing Arts/Drama.md
+      - Visual & Performing Arts/Dance.md
+      - Visual & Performing Arts/Handbell Ensemble.md
+      - Sports Safety.md
+      - CCA Achievements.md
+      - House System.md
+      - PAL @ CHIJ (Katong) Primary.md
+      - PE Swimming Programme.md
