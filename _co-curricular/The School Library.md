@@ -123,7 +123,7 @@ Through this programme, the students are more familiar with:
 
   
 
-Super Reader Badges \- Termly rewards for those who meet the target number of books read.
+<u>Super Reader Badges</u> \- Termly rewards for those who meet the target number of books read.
 
   
 
@@ -131,7 +131,7 @@ Super Reader Badges \- Termly rewards for those who meet the target number of b
 
   
 
-Master Reader Badges \- Year-end rewards for those who hit the target number of books borrowed for the whole year (see above).
+<u>Master Reader Badges</u> \- Year-end rewards for those who hit the target number of books borrowed for the whole year (see above).
 
   
 
