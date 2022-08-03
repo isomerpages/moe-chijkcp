@@ -11,7 +11,7 @@ Please click on the following links to visit the website for more information:
 
   
 
-1.  [Ministry of Education](http://www.moe.edu.sg/)
+1.  [Ministry of Education](http://www.moe.edu.sg/) **(BROKEN LINK)**
 
 *   [Subject-based Banding](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html)
 *   [Primary One (P1) Registration](https://www.moe.gov.sg/primary/p1-registration)
@@ -19,7 +19,7 @@ Please click on the following links to visit the website for more information:
 *   Click [here](https://www.moe.gov.sg/exam-related-services) regarding misplaced of Original Certificates
 
 *   [Financial Assistance Scheme](https://www.moe.gov.sg/financial-matters/financial-assistance)
-*   [Mother Tongue Language Digital Resources](https://www.mtl.moe.edu.sg/)
+*   [Mother Tongue Language Digital Resources](https://www.mtl.moe.edu.sg/) **(BROKEN LINK)**
 *   [Mother Tongue as Second Language](https://www.moe.gov.sg/primary/curriculum/mother-tongue-languages/learning-in-school)
 *   [Mother Tongue Exemption](https://www.moe.gov.sg/primary/curriculum/mother-tongue-languages/exemption)
 *   [Parenting With You](https://www.instagram.com/parentingwith.moesg/?hl=en)
