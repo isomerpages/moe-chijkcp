@@ -7,13 +7,13 @@ description: ""
 
 ## The School Library
 
-The Vision
-----------
+### The Vision
+
 
 **_To promote interest in reading among pupils and equip them with basic library skills_**
 
-Enhanced OPAC and SERR
-----------------------
+### Enhanced OPAC and SERR
+
 
 To access OPAC for CHIJ (Katong) Primary, please click [here](https://schoolibrary.moe.edu.sg/chijkatongpri)
 
@@ -37,8 +37,7 @@ You can also browse, borrow and enjoy titles from the [National Library Board](
 
   
 
-The School Library @ CHIJ (Katong) Primary is a vibrant and colourful haunt for our pupils.
-
+The School Library @ CHIJ (Katong) Primary is a vibrant and colourful haunt for our pupils.<br>
 They relish reading the wide range of books and magazines and playing the exciting computer games available in the library. Each girl is allowed to borrow 4 books (at least 2 MTL books) fortnightly, including CD-ROMs from the library.
 
   
@@ -51,8 +50,8 @@ The following are the various **NEW** initiatives planned for the pupils:
 
 *   Silent Reading (USSR) to be conducted before school starts.
 
-*   From Monday to Wednesday, students are to bring English story books to read before flag-raising ceremony.
-*   From Thursday to Friday, they have to bring a MTL book to read. NTIL students will bring an English book instead.
+    *   From Monday to Wednesday, students are to bring English story books to read before flag-raising ceremony.
+    *   From Thursday to Friday, they have to bring a MTL book to read. NTIL students will bring an English book instead.
 
 *   More regular Mobile Library @ Canteen (EL and MT): To make it more convenient for the pupils to borrow books, a book kiosk will be set up in the canteen during recess.
 *   Storytelling@Recesses: Parent-Volunteers read to girls in the Library to enthuse them to read interesting books of different genres during their recesses (P1 & P2; P3 & P4)      
