@@ -2,6 +2,7 @@ collections:
   signature-programmes:
     output: true
     order:
+      - Save the Earth.md
       - Joy for Learning.md
       - Religious Education.md
       - Learning for Life Programme (LLP).md
