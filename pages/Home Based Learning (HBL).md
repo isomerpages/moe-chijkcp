@@ -47,4 +47,4 @@ Follow this [link](https://drive.google.com/drive/folders/1sOutTe_Wtis9Chp4KbTy
 
   
 
-[Home-based Learning for Students 2021.pdf](https://www.chijkcp.moe.edu.sg/qql/slot/u495/2022/Our%20IJ%20Partners/HBL/Home-based%20Learning%20for%20Students%202021.pdf)
+[Home-based Learning for Students 2021.pdf](/files/Home-based%20Learning%20for%20Students%202021.pdf)
