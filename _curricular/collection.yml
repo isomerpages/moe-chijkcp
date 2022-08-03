@@ -2,10 +2,10 @@ collections:
   curricular:
     output: true
     order:
-      - Aesthetics/Music.md
-      - Aesthetics/Art.md
-      - Aesthetics/Aesthetics.md
       - Aesthetics/.keep
+      - Aesthetics/Aesthetics.md
+      - Aesthetics/Art.md
+      - Aesthetics/Music.md
       - Physical Education.md
       - Science.md
       - Mathematics.md
