@@ -7,13 +7,13 @@ description: ""
 
 ## Physical Education
 
-Vision
-------
+### Vision
+
 
 **_Healthy Body & Healthy Mind_**
 
-Mission
--------
+### Mission
+
 
 **_To empower pupils and staff to feel good about themselves through involvement in sports and recreational endeavours for personal excellence in life._**
 
@@ -23,7 +23,7 @@ The purpose of Physical Education (PE) is to enable students to demonstrate indi
 
   
 
-**Key Programmes:**
+**<u>Key Programmes:</u>**
 
   
 
