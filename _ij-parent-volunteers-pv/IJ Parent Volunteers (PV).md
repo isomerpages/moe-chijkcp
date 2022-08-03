@@ -29,3 +29,6 @@ Please note that to join as an IJ Katong Parent Volunteer, your child must be su
   
 
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSeFtPXnqCMpyYMqQ4lz9pjbJp5F1fBMXDNjO8mqPedoSYN1pQ/viewform) or scan the QR code to sign up!
+
+
+![](/images/Our%20IJ%20Partners/download.png)
