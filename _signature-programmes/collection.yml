@@ -2,6 +2,7 @@ collections:
   signature-programmes:
     output: true
     order:
+      - Art in Claynation.md
       - Save the Earth.md
       - Joy for Learning.md
       - Religious Education.md
