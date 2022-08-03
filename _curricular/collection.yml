@@ -2,5 +2,6 @@ collections:
   curricular:
     output: true
     order:
+      - Mother Tongue.md
       - English.md
       - Curricular.md
