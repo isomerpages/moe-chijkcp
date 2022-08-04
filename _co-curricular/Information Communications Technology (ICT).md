@@ -50,13 +50,13 @@ The ICT programmes for 2020 are as follows:
 
   
 
-1.  **Acquiring Computer skills Education in Infocommunication Technology! (ACE-iT!)**
+1. **Acquiring Computer skills Education in Infocommunication Technology! (ACE-iT!)**
 
 ACE-iT! is a structured 6-year programme for P1-P6 pupils. Pupils undergo a comprehensive programme where the acquisition of essential ICT skills is learnt. The deliverables are a project customized by the level teachers which incorporate ICT skills with the curriculum. Upon completion of the programme, each pupil will receive a certificate, a Rubric card and a badge to mark their achievement.
 
   
 
-2.  **iEnrich Programme**
+2. **iEnrich Programme**
 
 During the term breaks, different levels of pupils will be invited to participate in the holiday enrichment programme.
 
@@ -66,7 +66,7 @@ Here the pupils have an extension of the ACE-iT! skills that have been taught. I
 
   
 
-3.  **e-Learning @ IJ (iLearn & Project CLICK)**
+3. **e-Learning @ IJ (iLearn & Project CLICK)**
 
 It is commonly thought that new technologies can make a big difference in education. One such technology initiative implemented by CHIJ (Katong) Primary since 2004 is e-Learning. Each pupil subscribes to a McOnline portal account where a rich variety of curriculum resources are available for both the teachers and the pupils. Every month, there is a day that has been set aside for the pupils to not have any written work. This day is known as iLearn @ IJ. Instead they do their homework online. Once a semester, pupils will undergo Project CLICK @ IJ – an independent e-learning day where the objectives are for pupils to experience independent learning, be exposed to a different learning environment and be operationally ready in a national emergency.
 
