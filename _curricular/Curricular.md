@@ -7,7 +7,7 @@ description: ""
 
 ## Curricular
 
-<center>
+
 	
  _“Success is the good fortune_ <br>
 	_that comes from_ <br>
@@ -17,4 +17,3 @@ description: ""
 _- Evan Esar_
 	
 	
-</center>
