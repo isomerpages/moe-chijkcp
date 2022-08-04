@@ -101,9 +101,12 @@ This is a platform for our Primary 3 to 6 students to showcase their talents and
 **Maths Showcase**<br>
 As a post-PSLE activity, Primary 6 students will present Maths concepts in a fun and engaging way to the Primary 1 and 2 students. The concepts are presented in the form of challenges, puzzles and games and our Primary 6’s do a good job in facilitation and everyone is clearly engaged and enjoying their learning. This platform also gives our senior graduating students a chance to bond and interact with their juniors.
 
-![](/images/Curricular/Mathematics_4.jpg)
+<img src="/images/Curricular/Mathematics_4.jpg"  
+     style="width:60%">
+		 
+<img src="/images/Curricular/Mathematics_5.jpg"  
+     style="width:85%">		 
 
-![](/images/Curricular/Mathematics_5.jpg)
 
 **Mathematics Trail**<br>
 The Mathematics trail is a stimulating experience for our students and offers them an opportunity to solve mathematical problems while interacting with her classmates within our school compound and at outdoor locations such as the East Coast Park and Gardens by the Bay. The activities emphasize relevant Mathematical skills such as estimation and mental calculation. Students will also be able to relate some Science and National Education concepts during the trail.
