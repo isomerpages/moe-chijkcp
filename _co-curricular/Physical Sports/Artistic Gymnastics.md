@@ -13,8 +13,7 @@ third_nav_title: Physical Sports
 
   
 
-**Level**: P2 to P6
-
+**Level**: P2 to P6<br>
 **DAY:** Beginners - Tuesday (2.00 pm - 3.30 pm)<br>
           Intermediate - Thursday (2.00 pm - 3.30 pm)<br>
          Advanced - Tuesday & Thursday (3.30 pm – 5.00 pm)<br>
