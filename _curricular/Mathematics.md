@@ -67,7 +67,10 @@ The REAL approach is a problem-solving strategy that is based on the works of Ge
 These principles are reflected in the REAL approach. The acronym is used with the intention of helping our students remember the four principles better.
 
 
-![](/images/Curricular/Mathematics_3.png)
+
+<img src="/images/Curricular/Mathematics_3.png"  
+     style="width:85%">
+
 
 ### Our Enrichment Programmes
 
