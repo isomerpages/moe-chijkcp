@@ -25,15 +25,21 @@ The Home Craft Club aims to equip our girls with basic life skills. Here they le
 
 Here are some pictures of the activities that the girls were engaged in.
 
+<img src="/images/Co%20Curricular/Home%20Crafts_1.jpg"  
+     style="width:65%">
 
-![](/images/Co%20Curricular/Home%20Crafts_1.jpg)
+<img src="/images/Co%20Curricular/Home%20Crafts_2.jpg"  
+     style="width:65%">
+		 
+<img src="/images/Co%20Curricular/Home%20Crafts_3.jpg"  
+     style="width:65%">
 
-![](/images/Co%20Curricular/Home%20Crafts_2.jpg)
+<img src="/images/Co%20Curricular/Home%20Crafts_4.jpg"  
+     style="width:65%">
+		 
+<img src="/images/Co%20Curricular/Home%20Crafts_5.jpg"  
+     style="width:65%">		 
+		 
+<img src="/images/Co%20Curricular/Home%20Crafts_6.jpg"  
+     style="width:65%">
 
-![](/images/Co%20Curricular/Home%20Crafts_3.jpg)
-
-![](/images/Co%20Curricular/Home%20Crafts_4.jpg)
-
-![](/images/Co%20Curricular/Home%20Crafts_5.jpg)
-
-![](/images/Co%20Curricular/Home%20Crafts_6.jpg)
