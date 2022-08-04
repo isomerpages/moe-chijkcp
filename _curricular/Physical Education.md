@@ -53,12 +53,16 @@ The swimming lessons are conducted during PE lessons at Primary 3.
 
 In addition to the PE curriculum, students in Primary 3, 4 and 6 will participate in a level sport/physical activity at the end of Term 2 or Term 4. These could be an extension of what is covered during PE lessons or something new. Students in Primary 5 will attend an adventure cohort camp at an MOE Outdoor and Adventure Learning Centre, where they will learn more about their strengths, teamwork and camaraderie, in an outdoor setting.
 
+<img src="/images/Curricular/PE_1.jpg"  
+     style="width:75%">
 
-![](/images/Curricular/PE_1.jpg)
+<img src="/images/Curricular/PE_2.jpg"  
+     style="width:75%">
 
-![](/images/Curricular/PE_2.jpg)
+<img src="/images/Curricular/PE_3.jpg"  
+     style="width:75%">
 
-![](/images/Curricular/PE_3.jpg)
+
 
 
 **Mdm Rozana Kamsari**<br>
