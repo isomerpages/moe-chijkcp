@@ -111,7 +111,9 @@ As a post-PSLE activity, Primary 6 students will present Maths concepts in a fun
 **Mathematics Trail**<br>
 The Mathematics trail is a stimulating experience for our students and offers them an opportunity to solve mathematical problems while interacting with her classmates within our school compound and at outdoor locations such as the East Coast Park and Gardens by the Bay. The activities emphasize relevant Mathematical skills such as estimation and mental calculation. Students will also be able to relate some Science and National Education concepts during the trail.
 
-![](/images/Curricular/Mathematics_6.jpg)
+
+<img src="/images/Curricular/Mathematics_6.jpg"  
+     style="width:85%">		 
 
 **Mrs Cindy Ng**<br>
 **Head of Department (Mathematics)**
