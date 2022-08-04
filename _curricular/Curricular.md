@@ -8,6 +8,7 @@ description: ""
 ## Curricular
 
 <center>
+	
  _“Success is the good fortune_ <br>
 	_that comes from_ <br>
 	_aspiration, desperation,_ <br>
