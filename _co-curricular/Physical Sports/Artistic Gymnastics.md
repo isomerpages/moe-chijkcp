@@ -66,3 +66,9 @@ Below are the results of our gymnasts:
 (II) Singapore Gymnastics (WAG Junior 11 & over)
 
 During the March holidays, Isabelle has achieved excellent performance during the competition. She attained 1st position for Bar, 2nd position for Beam, Vault and Floor exercise.
+
+
+![](/images/Co%20Curricular/Artistic%20Gymnastics_1.jpg)
+
+
+![](/images/Co%20Curricular/Artistic%20Gymnastics_2.jpg)
