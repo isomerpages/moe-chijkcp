@@ -47,9 +47,11 @@ Please click on the [link](https://form.gov.sg/#!/5ff1c39f404a380012f84102) or
 
   
 
-![](/images/qrcode_sls.jpeg)
 
-  
+
+  <img src="/images/qrcode_sls.jpeg"  
+     style="width:25%">
+
 
   
 
