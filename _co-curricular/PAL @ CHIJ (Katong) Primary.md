@@ -30,21 +30,29 @@ Below are the synopses of the various PAL modules at CHIJ (Katong) Primary:
 
 Students are introduced to various traditional games played by children in the olden days. They will also be given the opportunity to experience these games and create their own. During PAL lessons, students will be exposed to working in groups or pairs to complete simple activities and challenges. In the process, they will be presented with opportunities to resolve conflicts and find compromises, through which they will learn to recognize and manage their emotions and reactions to achieve a desirable outcome.
 
-![](/images/Co%20Curricular/Students%20playing%20congkak.jpg)
+
+
+<img src="/images/Co%20Curricular/Students%20playing%20congkak.jpg"  
+     style="width:75%">
+
 
 <center>
 	
-_Students playing congkak_
+Students playing congkak
 	
 </center>
 
 
-![](/images/Co%20Curricular/Students%20making%20a%20hopscotch%20design%20on%20the%20floor.jpg)
+
+
+<img src="/images/Co%20Curricular/Students%20making%20a%20hopscotch%20design%20on%20the%20floor.jpg"  
+     style="width:75%">
+
 
 
 <center>
 	
-_Students making a hopscotch design on the floor_
+Students making a hopscotch design on the floor
 	
 </center>
 
@@ -59,12 +67,13 @@ PAL Drama aims to promote creativity, self-confidence and critical thinking thro
 The PAL Drama lessons are activity-oriented and use the hands-on approach. Students get to participate in interactive drama activities that allow them to understand and appreciate the arts and love language. Some of these activities include role playing, hot seating, conscience alley and tableaux among others. The teacher acts as a guide to allow for creative development and expression, constantly motivating a child that is already dynamic in her own way.
 
 
-![](/images/Co%20Curricular/A%20group%20acting%20out%20a%20scene%20in%20a%20story.jpg)
 
+<img src="/images/Co%20Curricular/A%20group%20acting%20out%20a%20scene%20in%20a%20story.jpg"  
+     style="width:85%">
 
 <center>
 	
-_A group acting out a scene in a story_
+A group acting out a scene in a story
 	
 </center>
 
@@ -82,23 +91,26 @@ The PAL VA @ CHIJ (Katong) Primary aims to develop our students into confident, 
 PAL VA programme is also designed to promote interaction among students to develop their interpersonal and social skills, attitudes and values. It provides fun and enjoyable learning experiences for students.
 
 
-![](/images/Co%20Curricular/Creating%20some%20food%20with%20molding%20clay.jpg)
 
+<img src="/images/Co%20Curricular/Creating%20some%20food%20with%20molding%20clay.jpg"  
+     style="width:75%">
 
 
 <center>
 	
-_Creating some food with molding clay_
+Creating some food with molding clay
 	
 </center>
 
 
-![](/images/Co%20Curricular/Project%20Runway.jpg)
+
+<img src="/images/Co%20Curricular/Project%20Runway.jpg"  
+     style="width:55%">
 
 
 <center>
 	
-_Project Runway_
+Project Runway
 	
 </center>
 
@@ -109,11 +121,12 @@ _Project Runway_
 Outdoor Education is a PAL module for our Primary 1 cohort. Students will engage in activities outdoors. The main aim of this module is to instil in our students the love of nature. They will learn how nature affects us and vice versa. Activities planned will expose our students to various aspects of nature catered to their level of learning. Students will be able to interact with each other as they learn and play games. This exposure will aid in the holistic development of our students.
 
 
-![](/images/Co%20Curricular/Students%20looking%20for%20twigs,%20fallen%20leaves%20and%20flowers%20for%20a%20group%20activity.jpg)
 
+<img src="/images/Co%20Curricular/Students%20looking%20for%20twigs,%20fallen%20leaves%20and%20flowers%20for%20a%20group%20activity.jpg"  
+     style="width:75%">
 
 <center>
 	
-_Students looking for twigs, fallen leaves and flowers for a group activity_
+Students looking for twigs, fallen leaves and flowers for a group activity
 	
 </center>
