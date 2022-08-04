@@ -39,8 +39,7 @@ Website: [https://www.pacificbookstores.com/](https://www.pacificbookstores.com
 
   
 
-For the 2022 booklists, please click [here](https://www.chijkcp.moe.edu.sg/our-ij-partners/letters-n-notifications). <font size=5>BROKEN LINK</font>
-
+For the 2022 booklists, please click [here](https://staging.dv22qe1j6nsk1.amplifyapp.com/our-ij-partners/parents-portal/letters-n-notifications). 
 ### School Bus Service
 
 
