@@ -41,9 +41,9 @@ Framework for the teaching and learning of the General Music Programme \[GMP\]
 *   Creative Music – P2 to P5
 *   Garage Band – P6
 
-3.  Music CCA (Handbell Ensemble, Choir and Dance)
-4.  Music Curriculum based on MOE Music Syllabus 2015
-5.  Learning to play musical instruments - By the end of P6, students would have learnt to play 5 different instruments:
+3. Music CCA (Handbell Ensemble, Choir and Dance)
+4. Music Curriculum based on MOE Music Syllabus 2015
+5. Learning to play musical instruments - By the end of P6, students would have learnt to play 5 different instruments:
 
 *   P1 – Simple Percussion instruments
 *   P2 – Hand Chimes
@@ -51,7 +51,7 @@ Framework for the teaching and learning of the General Music Programme \[GMP\]
 *   P4 – Ukulele
 *   P5 – Guitar
 
-6.  GMP contributes to the quality of students’ holistic education and plays a part in nurturing them to become informed audiences for the Arts.
+6. GMP contributes to the quality of students’ holistic education and plays a part in nurturing them to become informed audiences for the Arts.
 
 ### Music Programme
 
@@ -119,6 +119,3 @@ Students are also given special attention in singing, dancing and Hand chimes pl
 4.  Music Programme
 
 ![](/images/Curricular/Music_5.jpg)
-
-
-
