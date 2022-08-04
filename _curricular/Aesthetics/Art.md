@@ -57,11 +57,9 @@ _2021 Mocha 2 students with their artwork, "Me, Myself and I"_
 	
 </center>
 
-
 ![](/images/Curricular/Art_2.jpg)
 
-
-<center>
+<center>	
 	
 _Primary 1 students at work_
 
