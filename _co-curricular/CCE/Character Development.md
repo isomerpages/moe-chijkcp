@@ -44,7 +44,7 @@ Our students Leaders from Primary 3 to Primary 6 are trained in many areas to en
 The Peer Support Programme builds a school culture of care and strengthen the network of positive relationships. Students learn social emotional skills during lessons and develop strong peer support through interaction with their friends.
 
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQRsGjEKR6anG1pum-z3vQt9oMXZWudOyQrLm8pRJvLxs0_MmB5ia20mJXYm9gr-lCIz23Jh-3KWmTX/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQRsGjEKR6anG1pum-z3vQt9oMXZWudOyQrLm8pRJvLxs0_MmB5ia20mJXYm9gr-lCIz23Jh-3KWmTX/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 
 
@@ -60,7 +60,7 @@ Ethnic lessons aligned with our School Virtues are conducted for our non-Catholi
 
 
 
-
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQl1FFoflrt5kLUT1vuESYBACYwy-HoXSxboHBdS_e-e2IuCrWLHUuvpj_ceS8luedjimEI06KTTZN9/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 
 
@@ -83,3 +83,6 @@ The focus of our Cyber Wellness education is to develop:
 \- netizens who promote truth, justice and love in both the real world and Cyber world.
 
 \- women of Grace and Substance navigating the technology era - 21st Century
+
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT96sih29AcRjC0uogxIoy7WYIwjNKXAxwC-0n1wPtZPPurZCX-iTlKs0lP-UwJarSkd95VKaLCA5bg/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
