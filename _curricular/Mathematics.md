@@ -20,7 +20,11 @@ description: ""
 
 **<u>N</u>** urture a positive attitude and spirit of perseverance in the pursuit of mathematical knowledge and skills
 
-![](/images/Curricular/Mathematics_1.png)
+
+<img src="/images/Curricular/Mathematics_1.png"  
+     style="width:65%">
+
+
 
 The Mathematics Department is dedicated to the goal of making the learning of Mathematics meaningful by offering our students various platforms and avenues to excel and improve in Maths. Our instructional programme is aimed at building a strong foundation at lower levels and reinforcing concepts at upper levels, guiding students in problem-solving heuristics and addressing misconceptions. Our teachers embrace the Growth mindset, and will patiently guide our students to embrace challenges and see failures as an opportunity to grow.
 
