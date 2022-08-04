@@ -63,7 +63,7 @@ The CHIJ school crest is a badge of honour, history and distinction, inspiring e
 The motto on the crest reads:
 
 <img src="/images/Our%20IJ%20Story/School%20Motto.jpg"  
-     style="width:50%">
+     style="width:40%">
 
 
 
