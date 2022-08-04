@@ -16,9 +16,14 @@ To become independent, active and creative learners through the processes of inq
 
 "The Living Classroom" nature trail is specially designed to engage our Primary 5 students in a meaningful educational experience beyond the classroom walls. The students are led by their fellow classmates who have been trained as nature guides. During the trail, the students will be immersed in a realm of knowledge related to flora and fauna, which will not only captivate their senses but bring them closer to nature!
 
-![](/images/Curricular/Science_1.png)
+<img src="/images/Curricular/Science_1.png"  
+     style="width:65%">
 
-![](/images/Curricular/Science_2.jpg)
+
+<img src="/images/Curricular/Science_2.jpg"  
+     style="width:65%">
+
+
 
 #### 2) 'Let's Recycle with our Neighbours' Project
 
@@ -30,17 +35,22 @@ Reduce, reuse, recycle is a phrase that many of us are acquainted with. At CHIJ 
 
 In an effort to help drive the message of recycling, the students are encouraged to bring in their newspapers every last week of the month, which is dedicated to recycling week. We enlist the assistance of the students' fathers in this project and in doing so, build a meaningful partnership with them.
 
-![](/images/Curricular/Science_3.png)
+<img src="/images/Curricular/Science_3.png"  
+     style="width:75%">		 
+
 
 #### 4) Science Fun Day @ IJ
 
 
 Science Fun Day is spent discovering all things science. The science monitors are tasked with conducting interesting and engaging experiments for their schoolmates, which provide them with the opportunity to get first-hand experience at exploring and discovering various scientific concepts.
 
+<img src="/images/Curricular/Science_4.png"  
+     style="width:65%">		 
+		 
 
-![](/images/Curricular/Science_4.png)
-
-![](/images/Curricular/Science_5.jpg)
+<img src="/images/Curricular/Science_5.jpg"  
+     style="width:65%">		 
+		 
 
 
 #### 5) Local Learning Journeys
@@ -48,10 +58,14 @@ Science Fun Day is spent discovering all things science. The science monitors ar
 
 Learning journeys to either the Science Centre or the Singapore Zoological Gardens are conducted for the P3 to P6 students as an extension to the current Science syllabus. It is through such trips that the students become more acquainted and aware of conservation efforts, scientific concepts and much more.
 
+<img src="/images/Curricular/Science_6.png"  
+     style="width:70%">		 
+		 
+<img src="/images/Curricular/Science_7.jpg"  
+     style="width:70%">		 
+		 
+		 
 
-![](/images/Curricular/Science_6.png)
-
-![](/images/Curricular/Science_7.jpg)
 
 
 #### 6) E2K Programme
