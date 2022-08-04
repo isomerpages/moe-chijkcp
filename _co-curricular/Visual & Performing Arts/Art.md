@@ -23,11 +23,15 @@ third_nav_title: Visual & Performing Arts
 
 The ART Club at CHIJ (Katong) Primary aims to develop in each student an interest in Arts and the ability for creative expressions. It provides students P3 to P6 with opportunities to explore various art media. Through participation in the CCA, the students not only master the necessary skills and techniques of artistic expression but also develop aesthetic understanding and appreciation.
 
+<img src="/images/Co%20Curricular/Art%20Club_1.png"  
+     style="width:65%">
 
-![](/images/Co%20Curricular/Art%20Club_1.png)
+<img src="/images/Co%20Curricular/Art%20Club_2.jpg"  
+     style="width:65%">
+		 
+<img src="/images/Co%20Curricular/Art%20Club_3.png"  
+     style="width:65%">		 
 
-![](/images/Co%20Curricular/Art%20Club_2.jpg)
+<img src="/images/Co%20Curricular/Art%20Club_4.png"  
+     style="width:65%">
 
-![](/images/Co%20Curricular/Art%20Club_3.png)
-
-![](/images/Co%20Curricular/Art%20Club_4.png)
