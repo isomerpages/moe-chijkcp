@@ -11,4 +11,4 @@ A virtue is a habitual and firm disposition to do good. It allows the person not
 
 
 <img src="/images/Our%20IJ%20Story/School%20Virtues.png"  
-     style="width:65%">
+     style="width:45%">
