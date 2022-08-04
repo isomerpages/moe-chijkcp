@@ -67,7 +67,11 @@ Below are the results of our gymnasts:
 During the March holidays, Isabelle has achieved excellent performance during the competition. She attained 1st position for Bar, 2nd position for Beam, Vault and Floor exercise.
 
 
-![](/images/Co%20Curricular/Artistic%20Gymnastics_1.jpg)
+<img src="/images/Co%20Curricular/Artistic%20Gymnastics_1.jpg"  
+     style="width:65%">
 
 
-![](/images/Co%20Curricular/Artistic%20Gymnastics_2.jpg)
+<img src="/images/Co%20Curricular/Artistic%20Gymnastics_2.jpg"  
+     style="width:65%">
+
+
