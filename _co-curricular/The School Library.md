@@ -61,8 +61,10 @@ The following are the various **NEW** initiatives planned for the pupils:
 *   Long Recess activities like Origami, Treasure Hunt etc.
 *   Assembly Book Talks by authors
 
+<img src="/images/Co%20Curricular/The%20School%20Library_1.jpg" 
+     style="width:75%">
 
-![](/images/Co%20Curricular/The%20School%20Library_1.jpg)
+
 
 
 **Post-exam activities for each level:**
