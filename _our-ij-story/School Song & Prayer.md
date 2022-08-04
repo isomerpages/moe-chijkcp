@@ -28,5 +28,4 @@ _**The golden rule to follow each day**_<br>
 ### School Prayer
 
 <img src="/images/Our%20IJ%20Story/School%20Prayer.png"  
-     style="width:70%">
-
+     style="width:50%">
