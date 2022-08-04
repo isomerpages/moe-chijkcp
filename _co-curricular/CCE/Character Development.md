@@ -38,17 +38,17 @@ Photographs and more information of the programme can be found on the School’s
 
 Our students Leaders from Primary 3 to Primary 6 are trained in many areas to enhance their leadership skills. They are involved in planning and carrying out student-led projects to promote the school virtues and to improve the school environment.
 
-### Peer Support & Social Skills Programme
+### Peer Support &amp; Social Skills Programme
 
 
 The Peer Support Programme builds a school culture of care and strengthen the network of positive relationships. Students learn social emotional skills during lessons and develop strong peer support through interaction with their friends.
 
 
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQRsGjEKR6anG1pum-z3vQt9oMXZWudOyQrLm8pRJvLxs0_MmB5ia20mJXYm9gr-lCIz23Jh-3KWmTX/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 
 
-
-### Grace & Love Programme
+### Grace &amp; Love Programme
 
 
 Our Catechism classes aimed at helping students to understand their faith and live the gospel values in their daily lives. School activities such as retreats, Praise and Worship sessions and Rosary devotions are conducted for Catholic students to help them deepen their faith. The Catholic students attend Family Masses and all students attend the School Masses.
