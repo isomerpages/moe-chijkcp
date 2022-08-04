@@ -44,5 +44,6 @@ Ten-pin bowling at CHIJ (Katong) Primary aims to cultivate & build fundamental s
 
 The senior bowlers had the opportunity to participate at the recent National School Games Tenpin Bowling Championship this year. They did the school proud when they emerged 4th in the competition.
 
+<img src="/images/Co%20Curricular/Bowling.jpg"  
+     style="width:75%">
 
-![](/images/Co%20Curricular/Bowling.jpg)
