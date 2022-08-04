@@ -11,7 +11,7 @@ description: ""
 ### School Crest
 
 <img src="/images/Our%20IJ%20Story/School%20Crest.png"  
-     style="width:70%">
+     style="width:50%">
 
 
 
