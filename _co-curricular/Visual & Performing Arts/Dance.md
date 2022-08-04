@@ -54,11 +54,15 @@ Students will be required to attend extra practices prior to performances.
 
 The objective of this contemporary dance CCA is to build confidence and develop grace in our students who have shown interest in dance. In this CCA, students are introduced to the different genres of dance such as hip-hop and jazz. Our practice sessions include warm-ups, stretching techniques, and varied dance techniques. This is also a platform for students to cultivate the appreciation of dance and improve their physical coordination and confidence while learning the importance of teamwork and developing their 21st Century Competencies.
 
+<img src="/images/Co%20Curricular/Dance%20Xposure_1.jpg"  
+     style="width:65%">
 
-![](/images/Co%20Curricular/Dance%20Xposure_1.jpg)
+<img src="/images/Co%20Curricular/Dance%20Xposure_2.jpg"  
+     style="width:65%">
 
-![](/images/Co%20Curricular/Dance%20Xposure_2.jpg)
+<img src="/images/Co%20Curricular/Dance%20Xposure_3.jpg"  
+     style="width:45%">
 
-![](/images/Co%20Curricular/Dance%20Xposure_3.jpg)
-
-![](/images/Co%20Curricular/Dance%20Xposure_4.jpg)
+<img src="/images/Co%20Curricular/Dance%20Xposure_4.jpg"  
+     style="width:50%">
+		 
