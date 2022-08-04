@@ -17,4 +17,10 @@ The theme for the Mass was Communicate with Love. In the Gospel, we are reminded
 
 In the Homily, Fr Gabriel spoke on our need to listen to Jesus, Our Shepherd.
 
-![](/images/News/2022%20Beginning%20of%20the%20Year%20Mass_1.jpg)![](/images/News/2022%20Beginning%20of%20the%20Year%20Mass_2.jpg)
+<img src="/images/News/2022%20Beginning%20of%20the%20Year%20Mass_1.jpg"  
+     style="width:75%">
+
+<img src="/images/News/2022%20Beginning%20of%20the%20Year%20Mass_2.jpg"  
+     style="width:75%">
+
+
