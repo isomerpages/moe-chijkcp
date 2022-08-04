@@ -4,3 +4,51 @@ permalink: /our-ij-experience/co-curricular/physical-sports/ten-pin-bowling
 description: ""
 third_nav_title: Physical Sports
 ---
+![](/images/subpage.jpg)
+
+## Ten-Pin Bowling
+
+**(Non-Modular CCA)**
+
+  
+
+**Level:** P3 to P6
+
+**DAY:**
+
+P3 / Beginners
+
+Tuesday: 2.00 - 4.00 pm (training duration)
+
+  
+
+P4-6 (TWICE WEEKLY)
+
+Tuesday: 2.00 - 4.00 pm (training duration)
+
+Friday: 2.00 - 3.30 pm (training duration)
+
+  
+
+**VENUE:** Chinese Swimming Club
+
+**TEACHERS I/C:** \*Mdm Toh Chiew Yen, Miss Siti Nabilah, Ms Ng Huimin & Mdm Zhai Yuan
+
+SYNOPSIS:
+---------
+
+Ten-pin bowling at CHIJ (Katong) Primary aims to cultivate & build fundamental skills in bowling. It provides students from P3 to P6 with the opportunity to understand and apply basic bowling skills, bowling terminology and game rules respectively. Through participation in the CCA, the students not only master the necessary skills required but have a sense of appreciation and passion for the game. Assessments will be conducted by the coaches every semester to monitor the progress of the students.
+
+Pre-requisite:
+--------------
+
+*   Must be able to commit from P3 to P6.
+*   Students in the school team are expected to attend extra training sessions, nearing the competition, when required.
+
+Updates:
+--------
+
+The senior bowlers had the opportunity to participate at the recent National School Games Tenpin Bowling Championship this year. They did the school proud when they emerged 4th in the competition.
+
+
+![](/images/Co%20Curricular/Bowling.jpg)
