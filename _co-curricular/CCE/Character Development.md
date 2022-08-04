@@ -74,14 +74,10 @@ Ethnic lessons aligned with our School Virtues are conducted for our non-Catholi
 #### Cyber Wellness
 
 
-The focus of our Cyber Wellness education is to develop:
-
-\- savvy users of technology and ready for e-Learning
-
-\- users who spread positive messages online, display right behaviour and are discerning
-
-\- netizens who promote truth, justice and love in both the real world and Cyber world.
-
+The focus of our Cyber Wellness education is to develop:<br>
+\- savvy users of technology and ready for e-Learning<br>
+\- users who spread positive messages online, display right behaviour and are discerning<br>
+\- netizens who promote truth, justice and love in both the real world and Cyber world.<br>
 \- women of Grace and Substance navigating the technology era - 21st Century
 
 
