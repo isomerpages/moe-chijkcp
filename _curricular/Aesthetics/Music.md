@@ -104,18 +104,18 @@ Students are also given special attention in singing, dancing and Hand chimes pl
 ![](/images/Curricular/Music_1.jpg)
 
 
-2.  Ad-hoc Zonal / National competitions
+2\.  Ad-hoc Zonal / National competitions
 
 ![](/images/Curricular/Music_2.jpg)
 
 
-3.  Music Recess Programme
+3\.  Music Recess Programme
 
 ![](/images/Curricular/Music_3.jpg)
 
 ![](/images/Curricular/Music_4.jpg)
 
 
-4.  Music Programme
+4\.  Music Programme
 
 ![](/images/Curricular/Music_5.jpg)
