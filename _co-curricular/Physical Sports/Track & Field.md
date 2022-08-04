@@ -27,12 +27,20 @@ The Track and Field team trains conscientiously twice a week. Under the leadersh
 
 *   Must be able to commit from P3 to P6.
 
+<img src="/images/Co%20Curricular/Track%20%20Field_1.jpg"  
+     style="width:70%">
 
-![](/images/Co%20Curricular/Track%20%20Field_1.jpg)
+<img src="/images/Co%20Curricular/Track%20%20Field_2.jpg"  
+     style="width:60%">
 
-![](/images/Co%20Curricular/Track%20%20Field_2.jpg)
 
-![](/images/Co%20Curricular/Track%20%20Field_3.jpg)
+<img src="/images/Co%20Curricular/Track%20%20Field_3.jpg"  
+     style="width:60%">
+
+
+
+
+
 
 
 ### What our graduating students say...
