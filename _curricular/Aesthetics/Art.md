@@ -53,7 +53,7 @@ The number of assignments to be completed varies with each class/level. Art teac
 
 <center>
 	
-_2021 Mocha 2 students with their artwork, "Me, Myself and I"_
+2021 Mocha 2 students with their artwork, "Me, Myself and I"
 	
 </center>
 
@@ -61,6 +61,6 @@ _2021 Mocha 2 students with their artwork, "Me, Myself and I"_
 
 <center>	
 	
-_Primary 1 students at work_
+Primary 1 students at work
 
 </center>
