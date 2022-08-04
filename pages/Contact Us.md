@@ -64,7 +64,7 @@ Website: [https://www.magdalene.com.sg/](https://www.magdalene.com.sg/)
 
   
 
-The School Uniforms and PE Attires are available at the School Bookshop during School Terms on Monday, Tuesday, Thursday & Friday from 2 pm to 4 pm. Alternatively, you may place your orders [here](https://www.chijkcp.moe.edu.sg/qql/slot/u495/2022/Contact%20Us/School%20Uniform%20and%20PE%20Attire%202020_2021.pdf).
+The School Uniforms and PE Attires are available at the School Bookshop during School Terms on Monday, Tuesday, Thursday & Friday from 2 pm to 4 pm. Alternatively, you may place your orders [here](/files/School%20Uniform%20and%20PE%20Attire%202020_2021.pdf).
 
 ### School-Based Student Care Centre
 
