@@ -46,8 +46,9 @@ A range of assessment modes are used to provide parents and teachers with inform
 *   Journaling
 *   Self and Peer Assessment
 
+<img src="/images/Curricular/Mathematics_2.jpg"  
+     style="width:85%">
 
-![](/images/Curricular/Mathematics_2.jpg)
 
 ### Our Approach to Problem-Solving – The REAL Way
 
