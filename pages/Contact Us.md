@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-permalink: /contact-us
+permalink: /contact-us/
 description: ""
 ---
 ![](/images/subpage.jpg)
@@ -10,8 +10,10 @@ description: ""
 
 ### Locate Us
 
-(INSERT GOOGLE MAP HERE)
 
+![](/images/Google_Map.jpg)
+
+[CHIJ (Katong) Primary on Google Map]
 
 Address: 17 Martia Road, Singapore 424821<br>
 Phone: 6344 3072<br>
