@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/CHIJ Katong Pri Homepage GIF.gif
+      background: /images/School_BackgroundV4.jpg
       key_highlights:
         - title: Announcements
           description: ""
