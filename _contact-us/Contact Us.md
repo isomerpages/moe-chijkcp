@@ -5,8 +5,6 @@ description: ""
 ---
 
 
-![](/images/subpage.jpg)
-
 ## Contact Us
 
 
@@ -40,8 +38,6 @@ Email:&nbsp;[sales@pacificbookstores.com](mailto:sales@pacificbookstores.com)<br
 Website:&nbsp;[https://www.pacificbookstores.com/](https://www.pacificbookstores.com/)
 
   
-
-For the 2022 booklists, please click&nbsp;[here](https://staging.dv22qe1j6nsk1.amplifyapp.com/our-ij-partners/parents-portal/letters-n-notifications). 
 ### School Bus Service
 
 
