@@ -3,8 +3,6 @@ title: Contact Us
 permalink: /contact-us/
 description: ""
 ---
-
-
 ## Contact Us
 
 
@@ -41,15 +39,13 @@ Website:&nbsp;[https://www.pacificbookstores.com/](https://www.pacificbookstores
 ### School Bus Service
 
 
-**Arcelie Bus Service**<br>
-School Bus Coordinators: Mr Lim H.K and Aunty May<br>
-First Contact Person (Mr Lim H.K): 9098 2622<br>
-Second Contact Person (Aunty May): 9734 5155<br>
-Email:&nbsp;[mel\_8088@yahoo.com.sg](mailto:mel_8088@yahoo.com.sg)
-
+**Darren Lim Transport**<br>
+School Bus Coordinators: Mr Darren Lim & Mr Shawn Teo<br>
+First Contact Person (Darren): 9028 5548<br>
+Second Contact Person (Shawn): 8189 6168<br>
   
 
-Please note that Arcelie Bus Service is the appointed School Bus Operator. If you have any queries, please contact directly to Arcelie Bus Service for the daily School Bus Service and After School Services.
+Please note that Darren Lim Transport is the appointed School Bus Operator. If you have any queries, please contact them for the daily School Bus and After School Services.
 
 ### School Uniform &amp; PE Attire
 
