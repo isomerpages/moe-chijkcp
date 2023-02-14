@@ -1,9 +1,9 @@
 ---
 title: School Song & Prayer
-permalink: /our-ij-story/school-song-n-prayer
+permalink: /our-ij-story/school-song-n-prayer/
 description: ""
 ---
-![](/images/subpage.jpg)
+
 
 
 ## School Song & Prayer
