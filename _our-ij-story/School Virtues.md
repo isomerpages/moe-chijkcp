@@ -1,9 +1,9 @@
 ---
 title: School Virtues
-permalink: /our-ij-story/school-virtues
+permalink: /our-ij-story/school-virtues/
 description: ""
 ---
-![](/images/subpage.jpg)
+
 
 ## School Virtues
 
