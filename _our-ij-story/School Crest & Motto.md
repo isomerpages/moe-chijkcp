@@ -1,9 +1,8 @@
 ---
 title: School Crest & Motto
-permalink: /our-ij-story/school-crest-n-motto
+permalink: /our-ij-story/school-crest-n-motto/
 description: ""
 ---
-![](/images/subpage.jpg)
 
 ## School Crest & Motto
 
