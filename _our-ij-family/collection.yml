@@ -2,7 +2,7 @@ collections:
   our-ij-family:
     output: true
     order:
-      - Principal & Vice Principals.md
+      - School Leaders.md
       - Year Heads (YH) & Head of Departments (HOD).md
       - Subject Heads (SH) & Level Heads (LH).md
       - Form Teachers/.keep
