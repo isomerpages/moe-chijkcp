@@ -1,9 +1,9 @@
 ---
 title: School Vision & Mission
-permalink: /our-ij-story/school-vision-n-mission
+permalink: /our-ij-story/school-vision-n-mission/
 description: ""
 ---
-![](/images/subpage.jpg)
+
 
 ## School Vision & Mission
 
