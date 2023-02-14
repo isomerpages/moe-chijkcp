@@ -23,17 +23,20 @@ Bus Services at Gate 1 (along East Coast Road): 10, 12, 14, 32 &amp; 40<br>
 Bus Services at Gate 2 (along Marine Parade Road): 13, 15, 16, 31, 36, 43, 47, 48, 55, 134, 135, 196 &amp; 197
 
   
-
-[**Find us on Facebook!**](https://www.facebook.com/CHIJ-Katong-Primary-102734441797461/?ti=as)
-
 ### School Bookshop
 
 
 **Pacific Bookstores Pte Ltd**<br>
 Tel: 6346 2095<br>
 Operating Hours: Monday to Friday (8.30 am – 4 pm)<br>
-Email:&nbsp;[sales@pacificbookstores.com](mailto:sales@pacificbookstores.com)<br>
-Website:&nbsp;[https://www.pacificbookstores.com/](https://www.pacificbookstores.com/)
+*Students are able to purchase the PE attire from the School Bookshop:*<br>
+* 8.30 a.m. to 4.00 p.m. (Monday, Tuesday, Thursday & Friday)
+* 8.30 a.m. to 3.00 p.m. (Wednesday)
+* 12.30 p.m. to 1.30 p.m. (Closed for Lunch)
+
+*Parents are allowed to visit the Bookshop only at the following times:*
+* 2.00 p.m. to 4.00 p.m. (Monday, Tuesday, Thursday & Friday)
+* 2.00 p.m. to 3.00 p.m. (Wednesday)
 
   
 ### School Bus Service
