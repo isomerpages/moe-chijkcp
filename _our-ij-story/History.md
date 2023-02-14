@@ -1,9 +1,9 @@
 ---
 title: History
-permalink: /our-ij-story/history
+permalink: /our-ij-story/history/
 description: ""
 ---
-![](/images/subpage.jpg)
+
 
 ## History
 
