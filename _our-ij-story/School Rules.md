@@ -1,9 +1,9 @@
 ---
 title: School Rules
-permalink: /our-ij-story/school-rules
+permalink: /our-ij-story/school-rules/
 description: ""
 ---
-![](/images/subpage.jpg)
+
 
 ## School Rules
 
