@@ -37,31 +37,30 @@ Operating Hours: Monday to Friday (8.30 am – 4 pm)<br>
 *Parents are allowed to visit the Bookshop only at the following times:*
 * 2.00 p.m. to 4.00 p.m. (Monday, Tuesday, Thursday & Friday)
 * 2.00 p.m. to 3.00 p.m. (Wednesday)
-
   
 ### School Bus Service
 
 
 **Darren Lim Transport**<br>
-School Bus Coordinators: Mr Darren Lim & Mr Shawn Teo<br>
-First Contact Person (Darren): 9028 5548<br>
-Second Contact Person (Shawn): 8189 6168<br>
+Point-of-Contact:<br>
+* Mr Darren Lim: 9028 5548<br>
+* Mr Shawn Teo: 8189 6168<br>
   
-
-Please note that Darren Lim Transport is the appointed School Bus Operator. If you have any queries, please contact them for the daily School Bus and After School Services.
 
 ### School Uniform &amp; PE Attire
 
 
 **Magdalene Sewing Centre Pte Ltd**<br>
-Address: 5000, Ang Mo Kio Avenue 5, Techplace 2 #05-09, Singapore 569870<br>
-Tel: 6293 5840<br>
-Operating Hours: Monday to Friday (8 am – 4 pm)<br>
-Website:&nbsp;[https://www.magdalene.com.sg/](https://www.magdalene.com.sg/)
+5000, Ang Mo Kio Avenue 5, Techplace 2 #05-09, Singapore 569870<br>
+Tel: 8630499 (WhatsApp only) / 6293 5840<br>
+Operating Hours: Monday to Friday (9.00 a.m. – 4.00 p.m.)<br>
+The school uniform is being sold at the School Bookshop as follow: <br>
+* 2.00 p.m. to 4.00 p.m. (Monday, Tuesday, Thursday & Friday)
+* 2.00 p.m. to 3.00 p.m. (Wednesday)<br>
 
-  
+*Please note that parents are only allowed to be in the school premises to assist their children in purchasing school uniforms **after 2.00 p.m.** <br>
 
-The School Uniforms and PE Attires are available at the School Bookshop during School Terms on Monday, Tuesday, Thursday &amp; Friday from 2 pm to 4 pm. Alternatively, you may place your orders&nbsp;[here](/files/School%20Uniform%20and%20PE%20Attire%202020_2021.pdf).
+
 
 ### School-Based Student Care Centre
 
@@ -69,8 +68,8 @@ The School Uniforms and PE Attires are available at the School Bookshop during S
 **NASCANS Pte Ltd**<br>
 Centre Supervisor: Ms Nur Fathiah Pathi<br>
 Tel: 8198 9721<br>
-Operating Hours during School Term: Monday to Friday (10 am – 7 pm)<br>
-Operating Hours during School Holidays: Monday to Friday (7.30 am – 7 pm)<br>
+* Operating Hours during School Term: Monday to Friday (10.00 a.m. – 7.00 p.m.)<br>
+Operating Hours during School Holidays: Monday to Friday (7.30 a.m. – 7.00 p.m.)<br>
 Website:&nbsp;[https://www.nascans.com/](https://www.nascans.com/)
 
 ### School Dental Clinic
@@ -82,8 +81,8 @@ Emergency Tel (Health Promotion Board): 6435 3782
   
 
 **<u>Operating Hours only on 1st &amp; 3rd week of the month</u>**<br>
-Monday to Thursday: 8 am – 5.30 pm (Lunch from 1 pm – 2 pm)<br>
-Friday: 8 am – 5 pm (Lunch from 1 pm – 2 pm)
+* Monday to Thursday: 8.00 a.m. – 5.30 pm (Lunch from 1.00 p.m. – 2.00 p.m.)<br>
+* Friday: 8.00 a.m. – 5.00 p.m. (Lunch from 1.00 p.m. – 2.00 p.m.)
 
   
 
