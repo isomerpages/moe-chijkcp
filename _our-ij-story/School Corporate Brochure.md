@@ -1,9 +1,9 @@
 ---
 title: School Corporate Brochure
-permalink: /our-ij-story/school-corporate-brochure
+permalink: /our-ij-story/school-corporate-brochure/
 description: ""
 ---
-![](/images/subpage.jpg)
+
 
 ## School Corporate Brochure
 
