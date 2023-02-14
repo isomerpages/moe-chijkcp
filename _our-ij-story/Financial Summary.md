@@ -1,9 +1,9 @@
 ---
 title: Financial Summary
-permalink: /our-ij-story/financial-summary
+permalink: /our-ij-story/financial-summary/
 description: ""
 ---
-![](/images/subpage.jpg)
+
 
 ## Financial Summary
 
