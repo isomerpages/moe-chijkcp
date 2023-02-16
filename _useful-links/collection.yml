@@ -2,5 +2,4 @@ collections:
   useful-links:
     output: true
     order:
-      - Useful Links.md
       - E Open House.md
