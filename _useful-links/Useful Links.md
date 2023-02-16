@@ -3,12 +3,7 @@ title: Useful Links
 permalink: /useful-links/
 description: ""
 ---
-
-
-### Useful Links
-
-
-#### IJ Links
+### IJ Links
 
 
 *   [Roman Catholic Archdiocese of Singapore](https://www.catholic.sg/)
@@ -19,7 +14,7 @@ description: ""
 
 *   [Infant Jesus Sisters (International)](https://www.infantjesussisters.org/)
 
-### CHIJ Schools
+#### CHIJ Schools
 
 
 *   [CHIJ Bukit Timah (Our Lady Queen of Peace)](https://chijourladyqueenofpeace.moe.edu.sg/)
