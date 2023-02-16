@@ -9,10 +9,13 @@ sections:
   - hero:
       background: /images/School_BackgroundV5.jpg
       key_highlights:
-        - title: Announcements
+        - title: ANNOUNCEMENTS
           description: ""
           url: /chijkps/announcements
         - title: SOCIAL MEDIA
           description: ""
           url: /events/news
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
 ---
