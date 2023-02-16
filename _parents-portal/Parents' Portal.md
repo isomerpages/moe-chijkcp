@@ -1,9 +1,9 @@
 ---
 title: Parents' Portal
-permalink: /our-ij-partners/parents-portal
+permalink: /our-ij-partners/parents-portal/
 description: ""
 ---
-![](/images/subpage.jpg)
+
 
 ## Parents' Portal
 
