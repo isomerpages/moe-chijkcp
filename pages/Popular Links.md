@@ -1,17 +1,16 @@
 ---
 title: Popular Links
-permalink: /our-ij-partners/popular-links
+permalink: /our-ij-partners/popular-links/
 description: ""
 ---
-![](/images/subpage.jpg)
 
-## Popular Links
+
+### Popular Links
 
 Please click on the following links to visit the website for more information:
 
-  
 
-1.  [Ministry of Education](http://www.moe.edu.sg/) **(BROKEN LINK)**
+1.  [Ministry of Education](http://www.moe.gov.sg/)
 
 *   [Subject-based Banding](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html)
 *   [Primary One (P1) Registration](https://www.moe.gov.sg/primary/p1-registration)
