@@ -14,5 +14,5 @@ sections:
           url: /chijkps/announcements
         - title: SOCIAL MEDIA
           description: ""
-          url: /events/news
+          url: /social-media
 ---
