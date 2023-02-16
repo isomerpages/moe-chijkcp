@@ -11,7 +11,7 @@ Assessment Weighting for All Levels
 <br>
 Grading System for Primary 5 and Primary 6
 <br>
-![](/images/GS2.jpg)
+
 <br>
 Grading System for Primary 5 & Primary 6 (Foundational Level)
 <br>
@@ -40,5 +40,3 @@ Grading System for Primary 3 to Primary 6 (Art)
 Grading System for Primary 3 to Primary Six (Music)
 ![](/images/G6.jpg)
 <br>
-
-																																																																																																																																																																																																																												
