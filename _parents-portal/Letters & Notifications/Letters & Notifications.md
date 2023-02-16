@@ -11,3 +11,5 @@ third_nav_title: Letters & Notifications
 <br>
 [Embracing the Growth Mindset]()<br>
 [CHIJ (Katong) Primary Growth Mindset Parents Bulletin]()<br>
+[Smart Goal Setting Worksheet]()<br>
+[WOOP (Planning for Obstacles) Worksheet]()
