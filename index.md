@@ -12,7 +12,7 @@ sections:
         - title: Announcements
           description: ""
           url: /chijkps/announcements
-        - title: News & Events
+        - title: SOCIAL MEDIA
           description: ""
           url: /events/news
 ---
