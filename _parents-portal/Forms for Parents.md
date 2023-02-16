@@ -1,13 +1,11 @@
 ---
 title: Forms for Parents
-permalink: /our-ij-partners/parents-portal/forms-for-parents
+permalink: /our-ij-partners/parents-portal/forms-for-parents/
 description: ""
 ---
-![](/images/subpage.jpg)
+### Forms for Parents<br>
 
-## Forms for Parents
-
-### Interbank Giro Forms
+#### Interbank Giro Forms
 
 
 [GIRO Application Form](/files/Parents%20Portal/GIRO_Application_Form_Oct%2021.pdf)  
