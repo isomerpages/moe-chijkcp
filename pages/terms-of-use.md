@@ -2,9 +2,9 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-![](/images/subpage.jpg)
 
-## Terms of Use
+
+### Terms of Use
 
 **1\. Terms of Agreement**
 
