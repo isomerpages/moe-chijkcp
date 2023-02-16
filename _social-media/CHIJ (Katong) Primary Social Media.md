@@ -3,7 +3,6 @@ title: CHIJ (Katong) Primary Social Media
 permalink: /chijkps/social-media/facebookandinstagram/
 description: ""
 ---
-
 <center>
 	
 ##### Find us on the following Social Media Platforms<br>
