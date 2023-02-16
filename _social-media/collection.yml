@@ -1,4 +1,5 @@
 collections:
   social-media:
     output: true
-    order: []
+    order:
+      - CHIJ (Katong) Primary Social Media.md
