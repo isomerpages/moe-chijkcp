@@ -15,7 +15,4 @@ sections:
         - title: SOCIAL MEDIA
           description: ""
           url: /events/news
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
 ---
