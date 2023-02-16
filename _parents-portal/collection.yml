@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Parents' Portal.md
-      - Assessment Information.md
       - Letters & Notifications/.keep
       - Letters & Notifications/Letters & Notifications.md
+      - Assessment Information.md
       - Parent Teacher Meeting (PTM)/.keep
       - Parent Teacher Meeting (PTM)/Primary 1 & 2.md
       - Parent Teacher Meeting (PTM)/Primary 3 & 4.md
