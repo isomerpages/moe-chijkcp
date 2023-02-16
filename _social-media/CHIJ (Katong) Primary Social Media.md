@@ -4,7 +4,8 @@ permalink: /social-media/permalink/
 description: ""
 ---
 <center>
-Find us on the following Social Media Platforms<br>
+	
+##### Find us on the following Social Media Platforms<br>
 
 
 <p><a href="https://www.facebook.com/profile.php?id=100064368781577">
