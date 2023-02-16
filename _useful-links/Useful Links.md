@@ -1,14 +1,14 @@
 ---
 title: Useful Links
-permalink: /useful-links
+permalink: /useful-links/
 description: ""
 ---
-![](/images/subpage.jpg)
-
-## Useful Links
 
 
-### IJ Links
+### Useful Links
+
+
+#### IJ Links
 
 
 *   [Roman Catholic Archdiocese of Singapore](https://www.catholic.sg/)
