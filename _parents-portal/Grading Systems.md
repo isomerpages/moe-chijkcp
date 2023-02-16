@@ -28,12 +28,17 @@ For Higher Mother Tongue Language, the grades and suggested marks are as follows
 Grading System for Primary 3 and Primary 4
 <br>
 ![](/images/GS4.jpg)
+<br>![](/images/GS6.jpg)
+Grading System for Primary 3 to Primary 6 {Social Studies
 <br>
-Grading System for Primary 3 to Primary 6 Social Studies
+![](/images/GS8.jpg)
 <br>
-![](/images/GS5.jpg)
+Grading System for Primary 3 to Primary 6 (Art)
 <br>
-Grading System for Primary 3 to Primary 6 Art
+![](/images/GS5.jpg)																																
 <br>
-![](/images/GS6.jpg)
+Grading System for Primary 3 to Primary Six (Music)
+![](/images/G6.jpg)
 <br>
+
+																																																																																																																																																																																																																												
