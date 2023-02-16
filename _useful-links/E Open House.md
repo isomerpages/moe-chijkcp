@@ -3,8 +3,6 @@ title: E Open House
 permalink: /useful-links/e-open-house/
 description: ""
 ---
-
-
 ###  E-Open House
 
 #### CHIJ (Katong) Primary e-Open House 2022
