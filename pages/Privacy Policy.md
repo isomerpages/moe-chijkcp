@@ -3,9 +3,7 @@ title: Privacy Policy
 permalink: /privacy/
 description: ""
 ---
-![](/images/subpage.jpg)
-
-## Privacy Policy
+### Privacy Policy
 
 1.  This is a CHIJ (Katong) Primary, Government Agency website. We adopt the same principles relating to your privacy as other Government of Singapore websites.
 2.  If you are only browsing this website, we do not capture data that allows us to identify you individually.
