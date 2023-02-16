@@ -1,11 +1,9 @@
 ---
 title: Home Based Learning (HBL)
-permalink: /our-ij-partners/home-based-learning-hbl
+permalink: /our-ij-partners/home-based-learning-hbl/
 description: ""
 ---
-![](/images/subpage.jpg)
-
-## Home Based Learning (HBL)
+### Home Based Learning (HBL)
 
 The helpline information for HBL are as follows:
 
@@ -27,18 +25,18 @@ Tel: (65) 6702 6513 (Call the helpdesk only after 4.00pm on weekdays)
 Email: [helpdesk@mail-imtl.moe.edu.sg](mailto:helpdesk@mail-imtl.moe.edu.sg)<br>
 Tel: (65) 6848 8900 (Call the helpdesk from 7.00am to 7.00pm)
 
-### What should I do if I cannot remember my SLS login ID and password?
+##### What should I do if I cannot remember my SLS login ID and password?
 
 
 You can click on "FORGOT PASSWORD" or contact the school-based helpdesk by scanning this QR code or click on this [link](https://form.gov.sg/#!/5ff1c39f404a380012f84102).
 
   <img src="/images/Our%20IJ%20Partners/SLS%20QR%20Code.jpg"  
-     style="width:20%">
+     style="width:30%">
 
 
 
 
-### Resources
+##### Resources
 
 
 Read the user guide to Student Learning Space [here](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html).
