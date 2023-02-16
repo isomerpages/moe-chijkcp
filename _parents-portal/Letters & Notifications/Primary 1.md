@@ -1,12 +1,10 @@
 ---
 title: Primary 1
-permalink: /our-ij-partners/parents-portal/letters-n-notifications/primary-1
+permalink: /our-ij-partners/parents-portal/letters-n-notifications/primary-1/
 description: ""
 third_nav_title: Letters & Notifications
 ---
-![](/images/subpage.jpg)
-
-## Primary 1
+### Primary 1
 
 [P1 Orientation - Overview](/files/Parents%20Portal/Letters%20and%20Notifications/P1%20Orientation%20-%20Overview.pdf)
 
