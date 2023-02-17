@@ -1,11 +1,9 @@
 ---
 title: Co Curricular
-permalink: /our-ij-experience/co-curricular
+permalink: /our-ij-experience/co-curricular/
 description: ""
 ---
-![](/images/subpage.jpg)
-
-## Co-Curricular
+### Co-Curricular
 
 As part of the school’s effort to provide a holistic education for our students, all P3 to P6 students are strongly encouraged to join a CCA. Through active participation in the CCAs, they will learn life skills such as confidence, perseverance and resilience.
 
@@ -21,7 +19,7 @@ Since 2010, we have embarked on a modular CCA Programme to give students even mo
 
 Students who have very strong inclination / aptitude towards a certain CCA will be invited to join the developmental teams where they can further hone their skills through customized training programme.
 
-### Our School Policy
+#### Our School Policy
 
 
 P3 to P6 students are strongly encouraged to join **\*one** CCA. P6 students will be required to participate in CCAs only in Semester 1.
@@ -38,32 +36,32 @@ Under the modular CCA, students will participate in 2 different CCAs per year, o
 
 Under the non-modular CCA, each student will be required to remain in the CCA throughout the whole year, till Primary 6 (Semester 1).
 
-### Change of CCA
+#### Change of CCA
 
 
 Should any student need to change her CCA in the course of the semester / year, parents are to write in to the HOD PE/CCA.
 
-### CCA Attendance
+#### CCA Attendance
 
 
 An explanation in written form from parents, or a doctor’s medical certificate is required to be submitted to the teacher-in-charge whenever a student fails to attend a session.
 
-### Exemption from School's CCA
+#### Exemption from School's CCA
 
 
 Parents are to write in to the Principal to seek approval for exemption.
 
-### Transport Arrangement
+#### Transport Arrangement
 
 
 Parents are to make their own transport arrangement after CCAs.
 
-### Co-Payment (if applicable)
+#### Co-Payment (if applicable)
 
 
 **Details will be given to students before the start of the CCA sessions.**
 
-### Co-curricular Activities 2022
+#### Co-curricular Activities 2022
 
 
 
