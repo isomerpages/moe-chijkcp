@@ -1,14 +1,13 @@
 ---
 title: Primary 1 & 2
-permalink: /our-ij-partners/parents-portal/parent-teacher-meeting-ptm/primary-1-n-primary-2
+permalink: /our-ij-partners/parents-portal/parent-teacher-meeting-ptm/primary-1-n-primary-2/
 description: ""
 third_nav_title: Parent Teacher Meeting (PTM)
 ---
-![](/images/subpage.jpg)
 
-## Primary 1 & 2
+### Primary 1 & 2
 
-### Beginning of Year (BOY)
+#### Beginning of Year (BOY)
 
 
 1) [English Language Department](https://drive.google.com/file/d/1ZHEDBnJSLOtTjBdxsP4Ui_uSPnP9VioP/view)
