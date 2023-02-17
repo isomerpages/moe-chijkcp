@@ -1,11 +1,9 @@
 ---
 title: Curricular
-permalink: /our-ij-experience/curricular
+permalink: /our-ij-experience/curricular/
 description: ""
 ---
-![](/images/subpage.jpg)
-
-## Curricular
+### Curricular
 
 
 	
@@ -15,5 +13,3 @@ description: ""
 	_perspiration, and inspiration.”_ <br>
 
 _- Evan Esar_
-	
-	
