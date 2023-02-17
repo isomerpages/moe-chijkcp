@@ -1,20 +1,18 @@
 ---
 title: Art
-permalink: /our-ij-experience/curricular/aesthetics/art
+permalink: /our-ij-experience/curricular/aesthetics/art/
 description: ""
 third_nav_title: Aesthetics
 ---
-![](/images/subpage.jpg)
+### Art
 
-## Art
-
-### ART PROGRAMMES
+#### ART PROGRAMMES
 
 
 *   P1 to P2 Art Curriculum based on MOE Art Syllabus 2018; P3 to P6 Art Curriculum based on MOE Art Syllabus 2009
 *   Ceramics Enrichment Programmes for students
 
-### Art Syllabus Content P1 to P6
+#### Art Syllabus Content P1 to P6
 
 
 The learning content outlines the knowledge, skills and values that pupils will acquire to achieve the learning outcomes.
@@ -44,7 +42,7 @@ The learning content outlines the knowledge, skills and values that pupils will 
 3.  Art communicates ideas (P3 & P4)
 4.  Art has purposes and functions (P5 & P6)
 
-### Students’ Art Assignments
+#### Students’ Art Assignments
 
 
 The number of assignments to be completed varies with each class/level. Art teachers ensure that the activities include a variety of media.
