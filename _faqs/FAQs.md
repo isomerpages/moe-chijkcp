@@ -1,11 +1,9 @@
 ---
 title: FAQs
-permalink: /our-ij-partners/faqs
+permalink: /our-ij-partners/faqs/
 description: ""
 ---
-![](/images/subpage.jpg)
-
-## FAQs
+### FAQs
 
 This FAQ page has the answers to some of the commonly asked questions.
 
