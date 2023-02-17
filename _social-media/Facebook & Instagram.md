@@ -11,5 +11,5 @@ description: ""
 </a></p>
 
 <p><a href="https://www.instagram.com/chij_katong_primary/">
-<img src="/images/Instagram%20Logo.png" style="width:250px;height:250px;margin-right:5px;" align = "left">
+<img src="/images/Instagram%20Logo.png" style="width:250px;height:250px;margin-right:5px;" align = "center">
 </a></p>
