@@ -2,4 +2,4 @@ collections:
   social-media:
     output: true
     order:
-      - Facebook & Instagram.md
+      - Social Media.md
