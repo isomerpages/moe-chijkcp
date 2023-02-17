@@ -1,10 +1,9 @@
 ---
 title: IJ Alumni
-permalink: /our-ij-partners/faqs/ij-alumni
+permalink: /our-ij-partners/faqs/ij-alumni/
 description: ""
 ---
-![](/images/subpage.jpg)
 
-## IJ Alumni
+### IJ Alumni
 
 Coming soon.....
