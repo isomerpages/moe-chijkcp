@@ -1,19 +1,17 @@
 ---
 title: Aesthetics
-permalink: /our-ij-experience/curricular/aesthetics
+permalink: /our-ij-experience/curricular/aesthetics/
 description: ""
 third_nav_title: Aesthetics
 ---
-![](/images/subpage.jpg)
+### Aesthetics
 
-## Aesthetics
-
-### The Vision
+#### The Vision
 
 
 **_Passion for the Arts_**
 
-### The Mission Statement
+#### The Mission Statement
 
 
 **_To develop the Arts through the mastery of techniques, aesthetic appreciation and creativity_**
