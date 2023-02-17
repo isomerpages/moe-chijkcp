@@ -1,10 +1,8 @@
 ---
 title: Social Studies
-permalink: /our-ij-experience/curricular/social-studies
+permalink: /our-ij-experience/curricular/social-studies/
 description: ""
 ---
-![](/images/subpage.jpg)
-
-## Social Studies
+### Social Studies
 
 Coming soon.....
