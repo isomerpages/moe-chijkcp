@@ -2,5 +2,5 @@ collections:
   announcements:
     output: true
     order:
-      - 2002 Year End Message from IJBOM Chairperson.md
       - Announcements.md
+      - 2002 Year End Message from IJBOM Chairperson.md
