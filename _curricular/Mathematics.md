@@ -48,7 +48,7 @@ A range of assessment modes are used to provide parents and teachers with inform
      style="width:85%">
 
 
-### Our Approach to Problem-Solving – The REAL Way
+#### Our Approach to Problem-Solving – The REAL Way
 
 
 The REAL approach is a problem-solving strategy that is based on the works of George Polya, an influential mathematician whose ideas on how problems can be solved, is widely used today. Polya identified these four basic principles of problem solving:
@@ -70,7 +70,7 @@ These principles are reflected in the REAL approach. The acronym is used with th
      style="width:85%">
 
 
-### Our Enrichment Programmes
+#### Our Enrichment Programmes
 
 
 **Maths Olympiad Coaching Programme**<br>
