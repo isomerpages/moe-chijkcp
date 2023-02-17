@@ -1,12 +1,12 @@
 ---
 title: Sexuality Education Programme 2022
-permalink: /our-ij-experience/co-curricular/cce/sexuality-education-programme-2022
+permalink: /our-ij-experience/co-curricular/cce/sexuality-education-programme-2022/
 description: ""
 third_nav_title: CCE
 ---
-![](/images/subpage.jpg)
 
-## Sexuality Education Programme 2022
+
+## Sexuality Education Programme 2023
 
 
 Your child will learn about the physical, emotional, social and ethical dimensions of human sexuality in primary schools, secondary schools, junior colleges and Millennia Institute. Learn more about the MOE Sexuality Education and how you can support your child.
