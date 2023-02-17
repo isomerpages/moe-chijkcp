@@ -1,18 +1,16 @@
 ---
 title: The School Library
-permalink: /our-ij-experience/co-curricular/the-school-library
+permalink: /our-ij-experience/co-curricular/the-school-library/
 description: ""
 ---
-![](/images/subpage.jpg)
+### The School Library
 
-## The School Library
-
-### The Vision
+#### The Vision
 
 
 **_To promote interest in reading among pupils and equip them with basic library skills_**
 
-### Enhanced OPAC and SERR
+#### Enhanced OPAC and SERR
 
 
 To access OPAC for CHIJ (Katong) Primary, please click [here](https://schoolibrary.moe.edu.sg/chijkatongpri)
