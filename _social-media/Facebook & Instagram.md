@@ -3,9 +3,6 @@ title: Facebook & Instagram
 permalink: /chijkps/socialmedia/
 description: ""
 ---
-
-
-
 <center>
 	
 ##### Find us on the following Social Media Platforms<br>
