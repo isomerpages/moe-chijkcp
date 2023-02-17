@@ -1,25 +1,22 @@
 ---
 title: Character & Citizenship Education
-permalink: /our-ij-experience/co-curricular/character-n-citizenship-education-cce
+permalink: /our-ij-experience/co-curricular/character-n-citizenship-education-cce/
 description: ""
 third_nav_title: CCE
 ---
-![](/images/subpage.jpg)
+### Character & Citizenship Education
 
-
-## Character & Citizenship Education
-
-### Vision
+#### Vision
 
 
 _Rooted in virtues, branching far and making a difference_
 
-### Mission
+#### Mission
 
 
 _To nurture actions that become habits, which shaped our character and lead us to making the world a better place._
 
-### Programmes
+#### Programmes
 
 
 _Character and Citizenship Education in CHIJ (Katong) Primary embodies the spirit of our founder, Blessed Nicholas Barré. We go forth committed to nurturing every student to realise her potential and to make a difference to the society._
