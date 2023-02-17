@@ -1,21 +1,19 @@
 ---
 title: Mother Tongue
-permalink: /our-ij-experience/curricular/mother-tongue
+permalink: /our-ij-experience/curricular/mother-tongue/
 description: ""
 ---
-![](/images/subpage.jpg)
-
-## Mother Tongue
+### Mother Tongue
 
 <center>"If you talk to a man in a language he understands, that goes to his head.  
 If you talk to him in his language, that goes to his heart." - Nelson Mandela</center>
 
-### Mission
+#### Mission
 
 
 Delivering quality content to stakeholders
 
-### Vision
+#### Vision
 
 
 Unity in Culture, competence in Language
@@ -29,7 +27,7 @@ A safe, happy and harmonious environment invites children to take risks, make mi
 
 As they move on to middle primary levels, there is more emphasis on the oral, reading, writing and comprehension skills to prepare students for more complex linguistic skills in the upper primary. In upper primary, focus will be on enhancing all language skills taught to prepare them for PSLE.
 
-### Key MTL Department Programmes
+#### Key MTL Department Programmes
 
 
 **1) Reading and Culture Program**
