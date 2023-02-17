@@ -1,13 +1,11 @@
 ---
 title: Mathematics
-permalink: /our-ij-experience/curricular/mathematics
+permalink: /our-ij-experience/curricular/mathematics/
 description: ""
 ---
-![](/images/subpage.jpg)
+### Mathematics
 
-## Mathematics
-
-### The Mission Statement
+#### The Mission Statement
 
 
 **_Towards a FUN Mathematics learning experience for our students_**
