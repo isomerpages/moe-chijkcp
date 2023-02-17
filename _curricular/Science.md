@@ -1,13 +1,11 @@
 ---
 title: Science
-permalink: /our-ij-experience/curricular/science
+permalink: /our-ij-experience/curricular/science/
 description: ""
 ---
-![](/images/subpage.jpg)
+### Science
 
-## Science
-
-### HOD's Message
+#### HOD's Message
 
 
 To become independent, active and creative learners through the processes of inquiry and investigation, incorporating technology and thinking skills.
