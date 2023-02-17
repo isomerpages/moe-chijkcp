@@ -1,21 +1,19 @@
 ---
 title: Character Development
-permalink: /our-ij-experience/co-curricular/character-n-citizenship-education-cce/character-development
+permalink: /our-ij-experience/co-curricular/character-n-citizenship-education-cce/character-development/
 description: ""
 third_nav_title: CCE
 ---
-![](/images/subpage.jpg)
-
-## Character Development
+### Character Development
 
 In nurturing our girls to be Women of Grace and Substance, our character education focuses on the four School Virtues (**Self-Discipline, Compassion, Respect and Integrity**). These virtues are upheld and expressed by our staff and students in our daily lives.
 
-### Values Education
+#### Values Education
 
 
 The School Virtues Programme and Value-in-Action Programme provide a rich learning experience through a variety of learning activities, some of which are collaboration with our community partners. The programmes aim to imbue our students with the virtues necessary for them to lead a flourishing life and to provide them with opportunities to serve the community and to appreciate the joy in contributing to society and enrich the lives of all.
 
-### Learning For Life Programme (LLP) - Community Student Leadership
+#### Learning For Life Programme (LLP) - Community Student Leadership
 
 
 Our School is a Christ-centred school community where all work together for the promotion of truth, justice, freedom and love, with special reference to the needs of persons who are disadvantaged in any way. Aligned to our School Mission, the Learning for Life Programme (LLP) focuses on Community Student Leadership and the development of an Inclusive Community that believes in the worth and dignity of each person.
@@ -38,7 +36,7 @@ Photographs and more information of the programme can be found on the School’s
 
 Our students Leaders from Primary 3 to Primary 6 are trained in many areas to enhance their leadership skills. They are involved in planning and carrying out student-led projects to promote the school virtues and to improve the school environment.
 
-### Peer Support &amp; Social Skills Programme
+#### Peer Support &amp; Social Skills Programme
 
 
 The Peer Support Programme builds a school culture of care and strengthen the network of positive relationships. Students learn social emotional skills during lessons and develop strong peer support through interaction with their friends.
@@ -48,7 +46,7 @@ The Peer Support Programme builds a school culture of care and strengthen the ne
 
 
 
-### Grace &amp; Love Programme
+#### Grace &amp; Love Programme
 
 
 Our Catechism classes aimed at helping students to understand their faith and live the gospel values in their daily lives. School activities such as retreats, Praise and Worship sessions and Rosary devotions are conducted for Catholic students to help them deepen their faith. The Catholic students attend Family Masses and all students attend the School Masses.
