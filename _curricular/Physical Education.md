@@ -1,18 +1,16 @@
 ---
 title: Physical Education
-permalink: /our-ij-experience/curricular/physical-education
+permalink: /our-ij-experience/curricular/physical-education/
 description: ""
 ---
-![](/images/subpage.jpg)
+### Physical Education
 
-## Physical Education
-
-### Vision
+#### Vision
 
 
 **_Healthy Body & Healthy Mind_**
 
-### Mission
+#### Mission
 
 
 **_To empower pupils and staff to feel good about themselves through involvement in sports and recreational endeavours for personal excellence in life._**
