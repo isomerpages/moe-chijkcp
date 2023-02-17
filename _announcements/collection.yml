@@ -2,7 +2,7 @@ collections:
   announcements:
     output: true
     order:
-      - Centralized Platforms for Communication between Teachers and Parents.md
       - Announcements.md
+      - Centralized Platforms for Communication between Teachers and Parents.md
       - Principal's Letter to Parents.md
       - 2022 Year End Message from IJBOM Chairperson.md
