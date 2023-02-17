@@ -1,24 +1,24 @@
 ---
 title: Information Communications Technology (ICT)
-permalink: /our-ij-experience/co-curricular/information-communications-technology-ict
+permalink: /our-ij-experience/co-curricular/information-communications-technology-ict/
 description: ""
 ---
-![](/images/subpage.jpg)
-
-## Information Communications Technology (ICT)
 
 
-### The Vision
+### Information Communications Technology (ICT)
+
+
+#### The Vision
 
 
 **_Enhance Empower Engage._**
 
-### The Mission Statement
+#### The Mission Statement
 
 
 **_To infuse the use of ICT in the aspects of the educational process for the benefits of the entire school community._**
 
-### The Guiding Principle
+#### The Guiding Principle
 
 
 **_If we teach TODAY as we taught YESTERDAY, we rob our students of TOMORROW._**
