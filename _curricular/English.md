@@ -1,13 +1,11 @@
 ---
 title: English
-permalink: /our-ij-experience/curricular/english
+permalink: /our-ij-experience/curricular/english/
 description: ""
 ---
-![](/images/subpage.jpg)
+### English
 
-## English
-
-### Our Vision
+#### Our Vision
 
 
 **_Empowered individuals who are proficient and confident users of the English Language_**
@@ -24,7 +22,7 @@ CHIJ (Katong) Primary uses both Stellar (the national English Language curriculu
 
 The English Language Syllabus focuses on the development, reinforcement and extension of language skills in the primary years through an enjoyment of the language and the promotion of extensive reading; and leveraging oracy, reading and writing skills to develop knowledge and independent use of the language.
 
-### School-based curriculum
+#### School-based curriculum
 
 To build a strong foundation and rich language, we use a variety of print and non-print resources to broaden our students' language exposure and learning experiences so that they will develop an appreciation for the use of language in various contexts according to the purpose, audience and culture. We continuously strive to enhance our teaching to enrich learning for our students. It includes the following teaching and learning programmes:
 
@@ -36,7 +34,7 @@ P3: Story Telling<br>
 P4: Public Speaking<br>
 P5: Debate
 
-### Active Use of English
+#### Active Use of English
 
 
 Students are encouraged to read widely and given various platforms to apply the skills that they have acquired. Some of these include presentations, performances and emceeing.
