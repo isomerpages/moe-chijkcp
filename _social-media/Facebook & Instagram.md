@@ -3,7 +3,7 @@ title: Facebook & Instagram
 permalink: /chijkps/socialmedia/
 description: ""
 ---
-##### Follow CHIJ (Katong) Primary on Facebook & Instagram<br>
+##### Visit our Facebook page & follow us on Instagram<br>
 
 
 <p><a href="https://www.facebook.com/profile.php?id=100064368781577">
