@@ -2,8 +2,8 @@ collections:
   news-and-events:
     output: true
     order:
-      - E Open House.md
       - Useful Links.md
+      - E Open House.md
       - 2022 Beginning of the Year Mass.md
       - Enhanced OPAC and SERR.md
       - CHIJ (Katong) Primary featured in Hai Sing Bao.md
