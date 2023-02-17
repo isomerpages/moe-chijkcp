@@ -3,11 +3,7 @@ title: Contact Us
 permalink: /contact-chij/
 description: ""
 ---
-
-### Contact Us
-
-
-### Locate Us
+#### Locate Us
 
 <iframe loading="lazy" allowfullscreen="" style="border:0;" height="600" width="800" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7812177215555!2d103.90646516579453!3d1.3064155590330229!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1874dca6e5db%3A0x1eaa79a189114d82!2sCHIJ%20Katong%20(Primary)!5e0!3m2!1sen!2ssg!4v1654502411410!5m2!1sen!2ssg"></iframe>
 
@@ -24,7 +20,7 @@ Bus Services at Gate 1 (along East Coast Road): 10, 12, 14, 32 &amp; 40<br>
 Bus Services at Gate 2 (along Marine Parade Road): 13, 15, 16, 31, 36, 43, 47, 48, 55, 134, 135, 196 &amp; 197
 
   
-### School Bookshop
+#### School Bookshop
 
 
 **Pacific Bookstores Pte Ltd**<br>
@@ -39,7 +35,7 @@ Operating Hours: Monday to Friday (8.30 am – 4 pm)<br>
 * 2.00 p.m. to 4.00 p.m. (Monday, Tuesday, Thursday & Friday)
 * 2.00 p.m. to 3.00 p.m. (Wednesday)
   
-### School Bus Service
+#### School Bus Service
 
 
 **Darren Lim Transport**<br>
@@ -48,7 +44,7 @@ Point-of-Contact:<br>
 * Mr Shawn Teo: 8189 6168<br>
   
 
-### School Uniform &amp; PE Attire
+#### School Uniform &amp; PE Attire
 
 
 **Magdalene Sewing Centre Pte Ltd**<br>
@@ -63,7 +59,7 @@ The school uniform is being sold at the School Bookshop as follow: <br>
 
 
 
-### School-Based Student Care Centre
+#### School-Based Student Care Centre
 
 
 **NASCANS Pte Ltd**<br>
@@ -73,7 +69,7 @@ Tel: 8198 9721<br>
 Operating Hours during School Holidays: Monday to Friday (7.30 a.m. – 7.00 p.m.)<br>
 Website:&nbsp;[https://www.nascans.com/](https://www.nascans.com/)
 
-### School Dental Clinic
+#### School Dental Clinic
 
 Dental Therapist: Ms Judy Tee<br>
 Tel: 6345 4107<br>
