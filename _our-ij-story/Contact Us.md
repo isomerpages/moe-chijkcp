@@ -3,8 +3,7 @@ title: Contact Us
 permalink: /contact-us/
 description: ""
 ---
-
-## Contact Us
+### Contact Us
 
 
 ### Locate Us
