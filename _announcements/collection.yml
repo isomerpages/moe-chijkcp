@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Safety Briefing (Parents Webinar).md
       - Announcements.md
       - Centralized Platforms for Communication between Teachers and Parents.md
       - Principal's Letter to Parents.md
