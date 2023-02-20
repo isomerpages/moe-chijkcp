@@ -77,7 +77,7 @@ c)  Character and Citizenship Education (CCE)
 
   
 
-9.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is downloadable [here](https://form.gov.sg/#!/error/404). _(BROKEN LINK)_ The completed opt-out form is to be submitted by 31 January 2022.
+9.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is downloadable [here](https://form.gov.sg/#!/error/404). _(BROKEN LINK)_ The completed opt-out form is to be submitted by 31 January 2023.
 
   
 
