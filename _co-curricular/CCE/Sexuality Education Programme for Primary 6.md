@@ -32,7 +32,7 @@ iv.  Abstinence before marriage is the best protection against STIs/HIV and unin
 
 You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education) for more information on MOE Sexuality Education.
 
-**<u>Overview of CHIJ (Katong) Primary Sexuality Education Programme for 2022</u>**
+**<u>Overview of CHIJ (Katong) Primary Sexuality Education Programme for 2023</u>**
 
   
 
@@ -43,8 +43,7 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 5\. The subjects that incorporate topics on sexuality include:
 
 a)  Science<br>
-b)  Form Teacher Guidance Period (FTGP)<br>
-c)  Character and Citizenship Education (CCE)
+b)  Character and Citizenship Education (CCE)
 
   
 
