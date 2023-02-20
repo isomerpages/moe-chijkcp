@@ -1,10 +1,10 @@
 ---
 title: Ten Pin Bowling
-permalink: /our-ij-experience/co-curricular/physical-sports/ten-pin-bowling
+permalink: /our-ij-experience/co-curricular/physical-sports/ten-pin-bowling/
 description: ""
 third_nav_title: Physical Sports
 ---
-![](/images/subpage.jpg)
+
 
 ## Ten-Pin Bowling
 
@@ -46,4 +46,3 @@ The senior bowlers had the opportunity to participate at the recent National Sch
 
 <img src="/images/Co%20Curricular/Bowling.jpg"  
      style="width:75%">
-
