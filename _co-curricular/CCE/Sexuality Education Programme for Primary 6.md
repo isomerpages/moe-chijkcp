@@ -11,7 +11,7 @@ third_nav_title: CCE
 
   
 
-2\.  The **Goals **of Sexuality Education are:
+2\.  The **Goals** of Sexuality Education are:
 
  i.  To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate <u>knowledge</u> on human sexuality and the consequences of sexual activity;
 
