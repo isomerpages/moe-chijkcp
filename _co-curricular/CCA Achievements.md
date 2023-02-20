@@ -1,9 +1,8 @@
 ---
 title: CCA Achievements
-permalink: /our-ij-experience/co-curricular/cca-achievements
+permalink: /our-ij-experience/co-curricular/cca-achievements/
 description: ""
 ---
-![](/images/subpage.jpg)
 
 ## CCA Achievements
 
