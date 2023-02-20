@@ -53,7 +53,7 @@ c)  Character and Citizenship Education (CCE)
 
   
 
-**<u>Sexual Education</u>**: “Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching & Learning resource package
+**<u>Sexual Education Lessons:</u>**
 
   
 
