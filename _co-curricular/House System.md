@@ -1,9 +1,9 @@
 ---
 title: House System
-permalink: /our-ij-experience/co-curricular/house-system
+permalink: /our-ij-experience/co-curricular/house-system/
 description: ""
 ---
-![](/images/subpage.jpg)
+
 
 ## House System
 
