@@ -1,9 +1,9 @@
 ---
 title: PE Swimming Programme
-permalink: /our-ij-experience/co-curricular/pe-swimming-programme
+permalink: /our-ij-experience/co-curricular/pe-swimming-programme/
 description: ""
 ---
-![](/images/subpage.jpg)
+
 
 ## PE-Swimming Programme
 
