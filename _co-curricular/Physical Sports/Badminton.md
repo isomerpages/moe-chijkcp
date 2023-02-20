@@ -1,11 +1,9 @@
 ---
 title: Badminton
-permalink: /our-ij-experience/co-curricular/physical-sports/badminton
+permalink: /our-ij-experience/co-curricular/physical-sports/badminton/
 description: ""
 third_nav_title: Physical Sports
 ---
-![](/images/subpage.jpg)
-
 ## Badminton
 
 **(Modular CCA)**
@@ -28,5 +26,3 @@ The objective of the CCA is to provide students with the opportunities to acquir
 
 <img src="/images/Co%20Curricular/Badminton_2.png"  
      style="width:75%">
-
-
