@@ -1,9 +1,9 @@
 ---
 title: PAL @ CHIJ (Katong) Primary
-permalink: /our-ij-experience/co-curricular/pal-at-chij-katong-primary
+permalink: /our-ij-experience/co-curricular/pal-at-chij-katong-primary/
 description: ""
 ---
-![](/images/subpage.jpg)
+
 
 ## PAL @ CHIJ (Katong) Primary
 
