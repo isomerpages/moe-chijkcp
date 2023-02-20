@@ -1,10 +1,9 @@
 ---
 title: Artistic Gymnastics
-permalink: /our-ij-experience/co-curricular/physical-sports/artistic-gymnastics
+permalink: /our-ij-experience/co-curricular/physical-sports/artistic-gymnastics/
 description: ""
 third_nav_title: Physical Sports
 ---
-![](/images/subpage.jpg)
 
 ## Artistic Gymnastics
 
@@ -73,5 +72,3 @@ During the March holidays, Isabelle has achieved excellent performance during th
 
 <img src="/images/Co%20Curricular/Artistic%20Gymnastics_2.jpg"  
      style="width:65%">
-
-
