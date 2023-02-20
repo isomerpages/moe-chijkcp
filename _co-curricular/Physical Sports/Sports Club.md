@@ -1,10 +1,9 @@
 ---
 title: Sports Club
-permalink: /our-ij-experience/co-curricular/physical-sports/sports-club
+permalink: /our-ij-experience/co-curricular/physical-sports/sports-club/
 description: ""
 third_nav_title: Physical Sports
 ---
-![](/images/subpage.jpg)
 
 ## Sports Club
 
@@ -37,4 +36,3 @@ In Sports Club, through collaborations with ActiveSG, we aim to provide opportun
 
 <img src="/images/Co%20Curricular/Sports%20Club_4.jpg"  
      style="width:60%">
-
