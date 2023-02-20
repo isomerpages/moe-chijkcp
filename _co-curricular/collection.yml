@@ -2,7 +2,6 @@ collections:
   co-curricular:
     output: true
     order:
-      - Character & Citizenship Education.md
       - Co Curricular.md
       - Information Communications Technology (ICT).md
       - The School Library.md
