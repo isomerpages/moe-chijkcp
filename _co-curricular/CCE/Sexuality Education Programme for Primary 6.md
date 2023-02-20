@@ -11,7 +11,7 @@ third_nav_title: CCE
 
   
 
-2\.  The goals of Sexuality Education are:
+2\.  The **Goals **of Sexuality Education are:
 
  i.  To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate <u>knowledge</u> on human sexuality and the consequences of sexual activity;
 
@@ -21,7 +21,7 @@ iii.  To help students develop a moral compass, respect for themselves and for o
 
   
 
-3\. The key messages of Sexuality Education are:
+3\. The **Key Messages** of Sexuality Education are:
 
 i.  Love and respect yourself as you love and respect others;<br>
 ii. Build positive relationships based on love and respect (which are the foundation for strong families);<br>
