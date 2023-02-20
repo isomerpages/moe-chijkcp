@@ -1,10 +1,10 @@
 ---
 title: Home Crafts
-permalink: /our-ij-experience/co-curricular/clubs-n-societies/home-crafts
+permalink: /our-ij-experience/co-curricular/clubs-n-societies/home-crafts/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-![](/images/subpage.jpg)
+
 
 ## Home Crafts
 
@@ -42,4 +42,3 @@ Here are some pictures of the activities that the girls were engaged in.
 		 
 <img src="/images/Co%20Curricular/Home%20Crafts_6.jpg"  
      style="width:65%">
-
