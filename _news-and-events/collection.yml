@@ -1,0 +1,11 @@
+collections:
+  news-and-events:
+    output: true
+    order:
+      - Useful Links.md
+      - E Open House.md
+      - Enhanced OPAC and SERR.md
+      - CHIJ (Katong) Primary featured in Hai Sing Bao.md
+      - Celebration of the 400th Anniversary of the birth of our founder,
+        Blessed Nicolas Barré.md
+      - Girls Like Tech featured on ETD to go YouTube channel.md

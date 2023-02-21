@@ -1,0 +1,15 @@
+collections:
+  our-ij-story:
+    output: true
+    order:
+      - Principal's Message.md
+      - School Vision & Mission.md
+      - School Virtues.md
+      - School Crest & Motto.md
+      - School Song & Prayer.md
+      - Hymm to Father Barré.md
+      - History.md
+      - IJ Board of Management.md
+      - School Rules.md
+      - School Corporate Brochure.md
+      - Financial Summary.md

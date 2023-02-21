@@ -1,0 +1,7 @@
+collections:
+  ij-parent-volunteers-pv:
+    output: true
+    order:
+      - IJ Parent Volunteers (PV).md
+      - Central Parent Council (CPC) 2022.md
+      - Guidelines for Parent Volunteers (PV).md

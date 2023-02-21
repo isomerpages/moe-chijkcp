@@ -1,0 +1,15 @@
+collections:
+  our-ij-family:
+    output: true
+    order:
+      - School Leaders.md
+      - Year Heads & Head of Departments.md
+      - Subject Heads.md
+      - Form Teachers/.keep
+      - Form Teachers/Form Teachers.md
+      - Form Teachers/Chinese Language (CL).md
+      - Form Teachers/Malay Language (ML).md
+      - Form Teachers/Tamil Language (TL).md
+      - Form Teachers/Allied Educators (AED).md
+      - Form Teachers/Learning Support.md
+      - Executive and Administrative Staff.md
