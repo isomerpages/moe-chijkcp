@@ -72,7 +72,7 @@ Website:&nbsp;[https://www.nascans.com/](https://www.nascans.com/)
 #### School Dental Clinic
 
 Dental Therapist: Ms Judy Tee<br>
-Tel: 6345 4107<br>
+Tel: 8940 1058<br>
 Emergency Tel (Health Promotion Board): 6435 3782
 
   
