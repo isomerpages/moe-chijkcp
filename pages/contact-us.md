@@ -6,17 +6,11 @@ agency_name: CHIJ (Katong) Primary
 locations:
   - address:
       - 17 Martia Road
-      - Singapore 424821
+      - Singpore 424821
       - ""
-    operating_hours:
-      - days: Mon - Fri
-        time: 7.30am - 5.30pm
-        description: Closed on Saturday & Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-        description: ""
+    title: Our Address
+    operating_hours: []
     maps_link: https://www.google.com.sg/maps/place/CHIJ+Katong+(Primary)/@1.3064102,103.9087665,17z/data=!3m1!4b1!4m6!3m5!1s0x31da1874dca6e5db:0x1eaa79a189114d82!8m2!3d1.3064102!4d103.9109552!16s%2Fg%2F1v_vqfhb
-    title: Address
 contacts:
   - content:
       - phone: +65 6344 3072
