@@ -3,7 +3,6 @@ title: E Open House
 permalink: /useful-links/e-open-house/
 description: ""
 ---
-
 ###  E-Open House
 
 #### CHIJ (Katong) Primary e-Open House 2022
@@ -62,10 +61,3 @@ Click on each IJ girl to view the video.
 </a></p>
 
 <br><br><br><br><br>
-
-
-
-#### School Virtual Tour
-
-
-Click [here](https://roundme.com/embed/1JR3bRKB0eMLes4sSXy1) to view our virtual tour!
