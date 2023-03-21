@@ -2,8 +2,8 @@ collections:
   parents-portal:
     output: true
     order:
-      - Parents' Newsletter.md
       - Parents' Portal.md
+      - Parents' Newsletter.md
       - Letters & Notifications.md
       - Assessment Information.md
       - Grading Systems.md
