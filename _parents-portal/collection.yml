@@ -2,7 +2,7 @@ collections:
   parents-portal:
     output: true
     order:
-      - Letters.md
+      - Letters & Notifications.md
       - Parents' Portal.md
       - Assessment Information.md
       - Grading Systems.md
