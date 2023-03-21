@@ -16,7 +16,7 @@ Grading Systems
 
 **GRADING SYSTEM FOR P5 & P6 (FOUNDATIONAL LEVEL)** <br>
 <img src="/images/Grading%20System/GS3.jpg"  
-     style="width:90%"
+     style="width:85%"
 		align=left>
 		
 <br><br><br><br><br><br>
@@ -41,4 +41,3 @@ For Higher Mother Tongue Language, the grades and suggested mark range are as fo
 
 **GRADING SYSTEM FOR P3 – P6 PHYSICAL EDUCATION**
 ![](/images/Grading%20System/GS8.jpg)
-
