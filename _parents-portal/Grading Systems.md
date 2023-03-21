@@ -11,10 +11,5 @@ Grading Systems
 
 **GRADING SYSTEM FOR P5 & P6**
 
-![](/images/Grading%20System/GS2.jpg)
-
-
-		
-
-
-
+<img src="/images/Grading%20System/GS2.jpg"  
+     style="width:60%">
