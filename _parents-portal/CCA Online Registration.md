@@ -18,20 +18,10 @@ Registration link: [https://forms.moe.edu.sg/forms/vNlDAo](https://forms.moe.ed
 
 Please make sure you select "STUDENTS" to proceed with the registration.
 
-     
+<img src="/images/CCARegistration2023.jpg"  
+     style="width:50%"
+		align=left>
+		
 
-  
-![](/images/CCARegistration2023.jpg)
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
+<br><br><br><br><br><br><br><br><br><br>
 For enquiry, please contact Miss Rina Oon via email ([oon\_ai\_lin\_rina@moe.edu.sg](mailto:oon_ai_lin_rina@moe.edu.sg)).
