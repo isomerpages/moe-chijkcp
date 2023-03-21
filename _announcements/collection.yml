@@ -2,7 +2,6 @@ collections:
   announcements:
     output: true
     order:
-      - Parents' Newsletter.md
       - Announcements.md
       - Principal's Letter to Parents.md
       - Safety Briefing (Parents Webinar).md
