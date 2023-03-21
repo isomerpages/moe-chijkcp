@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Parents' Portal.md
-      - Letters & Notifications/Example Title.md
       - Letters & Notifications/Letters & Notifications.md
       - Letters & Notifications/.keep
       - Assessment Information.md
