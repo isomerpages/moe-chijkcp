@@ -17,10 +17,9 @@ Grading Systems
 **GRADING SYSTEM FOR P5 & P6 (FOUNDATIONAL LEVEL)** <br><br><br>
 <img src="/images/Grading%20System/GS3.jpg"  
      style="width:85%"
-		align=left>
+		align=left><br><br>
 		
-<br><br><br><br><br><br><br><br>
-
+<br><br><br><br><br>
 For Higher Mother Tongue Language, the grades and suggested mark range are as follows :
 \-          Distinction   : 80 – 100 <br>
 \-          Merit             : 65 – 79 <br>
