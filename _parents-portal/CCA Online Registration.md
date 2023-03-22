@@ -23,5 +23,5 @@ Please make sure you select "STUDENTS" to proceed with the registration.
 		align=left>
 		
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 For enquiry, please contact Miss Rina Oon via email ([oon\_ai\_lin\_rina@moe.edu.sg](mailto:oon_ai_lin_rina@moe.edu.sg)).
