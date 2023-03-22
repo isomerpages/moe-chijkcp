@@ -1,0 +1,19 @@
+---
+title: Letters & Notifications
+permalink: /parents-portal/letters-nofications/
+description: ""
+---
+
+
+### Letters & Notifications
+
+##### **Growth Mindset Matters** 
+
+[Embracing the Growth Mindset]()<br>
+[CHIJ (Katong) Primary Growth Mindset Parents Bulletin]()<br>
+[Smart Goal Setting Worksheet]()<br>
+[WOOP (Planning for Obstacles) Worksheet]()<br>
+
+##### **Gifted Education Programme (GEP) Identification Exercise** 
+
+[Primary 3 Gifted Education Programme Notification](/files/P3%20GEP%20NOTIFICATION%202023.pdf)
