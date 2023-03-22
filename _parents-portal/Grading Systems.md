@@ -3,8 +3,6 @@ title: Grading Systems
 permalink: /parents-portal/grading-systems/
 description: ""
 ---
-
-
 Grading Systems
 ===============
 **ASSESSMENT WEIGHTINGS FOR ALL LEVELS** <br><br>
@@ -16,13 +14,13 @@ Grading Systems
 		 align=left>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-**GRADING SYSTEM FOR P5 & P6 (FOUNDATIONAL LEVEL)** <br><br><br>
+<br>**GRADING SYSTEM FOR P5 & P6 (FOUNDATIONAL LEVEL)** <br><br><br>
 <img src="/images/Grading%20System/GS3.jpg"  
      style="width:85%"
 		align=left><br><br>
 		
 <br><br><br><br><br>
-For Higher Mother Tongue Language, the grades and suggested mark range are as follows :
+<br>For Higher Mother Tongue Language, the grades and suggested mark range are as follows :
 \-          Distinction   : 80 – 100 <br>
 \-          Merit             : 65 – 79 <br>
 \-          Pass                  : 50 – 64    <br>
