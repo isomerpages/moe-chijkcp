@@ -3,10 +3,8 @@ title: Letters & Notifications
 permalink: /parents-portal/permalink/
 description: ""
 ---
-
 ### Letters & Notifications
 
-#### 2023
 **Growth Mindset Matters**
 <br>
 [Embracing the Growth Mindset]()<br>
