@@ -61,7 +61,7 @@ Parents are to make their own transport arrangement after CCAs.
 
 **Details will be given to students before the start of the CCA sessions.**
 
-#### Co-curricular Activities 2022
+#### Co-curricular Activities
 
 
 
