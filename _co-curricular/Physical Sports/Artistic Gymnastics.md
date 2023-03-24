@@ -23,9 +23,6 @@ The CCA aims to develop in each gymnast significant values and skills for life a
 
 ### Pre-requisite:
 
-
-*   Must be able to commit from P2 to P6
-
   
 
 (I) National School Games competition (Artistic Gymnastics) for our senior team has come to an end. It's really a blessing that they were given the opportunity to participate in NSG this year. For them, it's really a good learning experience.
