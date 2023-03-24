@@ -7,16 +7,13 @@ third_nav_title: Physical Sports
 ## Artistic Gymnastics
 
 
-**(Non-Modular CCA)**
+**(Modular CCA)**
 
   
 
-**Level**: P2 to P6<br>
-**DAY:** Beginners - Tuesday (2.00 pm - 3.30 pm)<br>
-          Intermediate - Thursday (2.00 pm - 3.30 pm)<br>
-         Advanced - Tuesday & Thursday (3.30 pm – 5.00 pm)<br>
-         School Team - Tuesday & Thursday (2.00 pm – 5.00 pm)<br>
-**TEACHERS I/C:** \*Mdm Ang Bee Bee, Mrs Bernadette Koo, Mdm Tan Lee Kin & Ms Jenny Koh<br>
+**Level**: P3 to P6<br>
+**DAY:** Tuesday (2.00 pm - 3.30 pm)<br>
+**TEACHERS I/C:** \*Mdm Ang Bee Bee & Ms Jenny Koh<br>
 **VENUE:** School
 
 ### SYNOPSIS:
