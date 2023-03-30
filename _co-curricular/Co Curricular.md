@@ -40,7 +40,7 @@ Under the non-modular CCA, each student will be required to remain in the CCA th
 
 
 Students should commit to the CCA for the whole semester or year.
-Should any student need change her CCA due to medical reasons, parents are to write in the HOD PE/CCA.
+Should any student need to change her CCA due to medical reasons, parents are to write in the HOD PE/CCA.
 
 #### CCA Attendance
 
