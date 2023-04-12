@@ -12,14 +12,18 @@ third_nav_title: Physical Sports
   
 
 **Level**: P3 to P6<br>
-**DAY:** Tuesday (2.00 pm - 3.30 pm)<br>
-**TEACHERS I/C:** \*Mdm Ang Bee Bee & Ms Jenny Koh<br>
-**VENUE:** School
+**DAY:**&nbsp;Tuesday (2.00 pm - 3.30 pm)<br>
+**TEACHERS I/C:**&nbsp;\*Mdm Ang Bee Bee &amp; Ms Jenny Koh<br>
+**VENUE:**&nbsp;School
 
 ### SYNOPSIS:
 
 
-The CCA aims to develop in each gymnast significant values and skills for life as they explore basic movements through a variety of tasks. These movements develop self-discipline, physical and emotional strength, joint mobility, balance, co-ordination and good posture.  In conjunction with school study habits, practice for gymnastics can indeed lead a young person into an individual with graceful confidence.  Half-yearly assessment by coaches will be carried out to monitor the progress of pupils and to determine their level of skills. By the end of the course, pupils will be proficient in gymnastic skills and instilled with confidence and sportsmanship.
+Starting gymnastics is a great way to improve physically, mentally and socially. Gymnastics training can build students' physical strength, stamina, flexibility, agility, coordination and balance. It provides them the platform to discover and learn various body movements with control as well as develop confidence in what thier body can perform safely.
+
+The modular Gymnastics CCA introduces students to some of the foundational gymnastic skills. These skills enable them to apply the fundamentals leart in other sport too.
+
+Besides requiring basic gymnastics skills, our girls also develop teamwork and friendships with their peers
 
 ### Pre-requisite:
 
@@ -54,14 +58,12 @@ Below are the results of our gymnasts:
 
   
 
-(II) Singapore Gymnastics (WAG Junior 11 & over)
+(II) Singapore Gymnastics (WAG Junior 11 &amp; over)
 
 During the March holidays, Isabelle has achieved excellent performance during the competition. She attained 1st position for Bar, 2nd position for Beam, Vault and Floor exercise.
 
 
-<img src="/images/Co%20Curricular/Artistic%20Gymnastics_1.jpg"  
-     style="width:65%">
+<img src="/images/Co%20Curricular/Artistic%20Gymnastics_1.jpg" style="width:65%">
 
 
-<img src="/images/Co%20Curricular/Artistic%20Gymnastics_2.jpg"  
-     style="width:65%">
+<img src="/images/Co%20Curricular/Artistic%20Gymnastics_2.jpg" style="width:65%">
