@@ -16,7 +16,7 @@ third_nav_title: Physical Sports
   
 
 <u>School Team</u><br>
-Friday: 2.00 - 3.30 pm (training duration)
+Friday: 2.00 - 3.45 pm (training duration)
 
   
 
