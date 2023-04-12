@@ -23,5 +23,4 @@ Starting gymnastics is a great way to improve physically, mentally and socially.
 
 The modular Gymnastics CCA introduces students to some of the foundational gymnastic skills. These skills enable them to apply the fundamentals leart in other sport too.
 
-Besides requiring basic gymnastics skills, our girls also develop teamwork and friendships with their peers
-
+Besides requiring basic gymnastics skills, our girls also develop teamwork and friendships with their peers.
