@@ -4,7 +4,7 @@ permalink: /our-ij-experience/co-curricular/clubs-n-societies/scienceandmathclub
 description: ""
 third_nav_title: Clubs &amp; Societies
 ---
-## Science
+## Science / Math Club
 
 **(Modular CCA)**
 
@@ -12,9 +12,9 @@ third_nav_title: Clubs &amp; Societies
 
 **LEVEL:**&nbsp;P3 – P6<br>
 **DAY:**&nbsp;Friday<br>
-**TIME:**&nbsp;2.00 - 4.00 pm (tentatively)<br>
+**TIME:**&nbsp;2.00 - 4.00 pm<br>
 **VENUE:**&nbsp;Science Room<br>
-**TEACHER I/C:**&nbsp;Mr Yip Chuen Yen\* &amp; Miss Lim Meixuan
+**TEACHER I/C:**&nbsp;Mr Yip Chuen Yen\*, Mrs Heeran Soloman &amp; Mrs Jaclyn Guo
 
 ### Synopsis:
 
