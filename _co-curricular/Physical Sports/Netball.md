@@ -4,8 +4,6 @@ permalink: /our-ij-experience/co-curricular/physical-sports/netball/
 description: ""
 third_nav_title: Physical Sports
 ---
-
-
 ## Netball
 
 
@@ -16,11 +14,11 @@ third_nav_title: Physical Sports
 
   
 
-**Level:** P3 to P6<br>
-**DAY:** Friday<br>
-**TIME:** 2.00 pm - 3.30 pm<br>
-**VENUE:** School<br>
-**TEACHERS I/C:** Mdm Li Li\*
+**Level:**&nbsp;P3 to P6<br>
+**DAY:**&nbsp;Friday<br>
+**TIME:**&nbsp;2.00 pm - 4.00 pm<br>
+**VENUE:**&nbsp;School<br>
+**TEACHERS I/C:**&nbsp;Mdm Li Li\* &amp; Mdm Tan Lee Kin
 
 ### SYNOPSIS:
 
@@ -34,11 +32,11 @@ By the end of the course, students will be able to develop basic ball handling i
 
   
 
-**Level:** P3 to P6<br>
-**DAY:** Tuesday and Friday<br>
-**TIME:** 2.00 pm - 4.00 pm (Tuesday), 2.00 pm - 3.30 pm (Friday)<br>
-**VENUE:** School<br>
-**TEACHERSI/C:** Miss Daisy Ng\*, Miss Sherlyn Yeo, Ms Pamela Tan
+**Level:**&nbsp;P3 to P6<br>
+**DAY:**&nbsp;Tuesday and Friday<br>
+**TIME:**&nbsp;2.00 pm - 4.00 pm<br>
+**VENUE:**&nbsp;School<br>
+**TEACHERSI/C:**&nbsp;Miss Daisy Ng\*, Miss Sherlyn Yeo, Ms Pamela Tan
 
 ### SYNOPSIS:
 
