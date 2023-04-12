@@ -12,13 +12,11 @@ third_nav_title: Visual &amp; Performing Arts
 
 **LEVEL:**&nbsp;P3 to P6<br>
 **DAY:**&nbsp;Tuesday<br>
-**DAY:**&nbsp;2.30 pm – 4.30 pm^<br>
+**DAY:**&nbsp;2.30 pm – 4.30 pm<br>
 **VENUE:**&nbsp;School<br>
 **TEACHERS I/C:**&nbsp;Ms Poon Mun Ye\* &amp; Ms Angeline Grace
 
-  
-
-^Subject to changes according to SMM in the current pandemic situation
+ 
 
 ### SYNOPSIS:
 
