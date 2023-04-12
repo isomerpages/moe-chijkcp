@@ -1,22 +1,20 @@
 ---
 title: Handbell Ensemble
-permalink: /our-ij-experience/co-curricular/visual-n-performing-arts/handbell-ensemble
+permalink: /our-ij-experience/co-curricular/visual-n-performing-arts/handbell-ensemble/
 description: ""
-third_nav_title: Visual & Performing Arts
+third_nav_title: Visual &amp; Performing Arts
 ---
-![](/images/subpage.jpg)
-
 ## Handbell Ensemble
 
 **(Non-Modular CCA)**
 
   
 
-**LEVEL:** P3 to P6<br>
-**DAY:** Tuesday<br>
-**DAY:** 2.30 pm – 4.30 pm^<br>
-**VENUE:** School<br>
-**TEACHERS I/C:** Ms Poon Mun Ye\* & Mrs Audrey Ortega
+**LEVEL:**&nbsp;P3 to P6<br>
+**DAY:**&nbsp;Tuesday<br>
+**DAY:**&nbsp;2.30 pm – 4.30 pm^<br>
+**VENUE:**&nbsp;School<br>
+**TEACHERS I/C:**&nbsp;Ms Poon Mun Ye\* &amp; Ms Angeline Grace
 
   
 
