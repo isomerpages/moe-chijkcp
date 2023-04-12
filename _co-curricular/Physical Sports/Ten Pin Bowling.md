@@ -4,34 +4,29 @@ permalink: /our-ij-experience/co-curricular/physical-sports/ten-pin-bowling/
 description: ""
 third_nav_title: Physical Sports
 ---
-
-
-## Ten-Pin Bowling
+## Bowling
 
 **(Non-Modular CCA)**
 
   
 
-**Level:** P3 to P6<br>
-**DAY:**<br>
-<u>P3 / Beginners</u><br>
-Tuesday: 2.00 - 4.00 pm (training duration)
+**Level:**&nbsp;P3 to P6 (All Members)<br>
+**DAY:** Tuesday: 2.15 - 4.15 pm (training duration)
 
   
 
-<u>P4-6</u> (TWICE WEEKLY)<br>
-Tuesday: 2.00 - 4.00 pm (training duration)<br>
+<u>School Team</u><br>
 Friday: 2.00 - 3.30 pm (training duration)
 
   
 
-**VENUE:** Chinese Swimming Club<br>
-**TEACHERS I/C:** \*Mdm Toh Chiew Yen, Miss Siti Nabilah, Ms Ng Huimin & Mdm Zhai Yuan
+**VENUE:**&nbsp;Chinese Swimming Club<br>
+**TEACHERS I/C:**&nbsp;\*Mdm Toh Chiew Yen, Miss Siti Nabilah, Ms Ng Huimin &amp; Mdm Zhai Yuan
 
 ### SYNOPSIS:
 
 
-Ten-pin bowling at CHIJ (Katong) Primary aims to cultivate & build fundamental skills in bowling. It provides students from P3 to P6 with the opportunity to understand and apply basic bowling skills, bowling terminology and game rules respectively. Through participation in the CCA, the students not only master the necessary skills required but have a sense of appreciation and passion for the game. Assessments will be conducted by the coaches every semester to monitor the progress of the students.
+Ten-pin bowling at CHIJ (Katong) Primary aims to cultivate &amp; build fundamental skills in bowling. It provides students from P3 to P6 with the opportunity to understand and apply basic bowling skills, bowling terminology and game rules respectively. Through participation in the CCA, the students not only master the necessary skills required but have a sense of appreciation and passion for the game. Assessments will be conducted by the coaches every semester to monitor the progress of the students.
 
 ### Pre-requisite:
 
@@ -44,5 +39,4 @@ Ten-pin bowling at CHIJ (Katong) Primary aims to cultivate & build fundamental s
 
 The senior bowlers had the opportunity to participate at the recent National School Games Tenpin Bowling Championship this year. They did the school proud when they emerged 4th in the competition.
 
-<img src="/images/Co%20Curricular/Bowling.jpg"  
-     style="width:75%">
+<img src="/images/Co%20Curricular/Bowling.jpg" style="width:75%">
