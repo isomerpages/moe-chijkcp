@@ -43,9 +43,9 @@ Students will be required to attend extra practices prior to performances.
 
 **Level:**&nbsp;P3 to P6<br>
 **DAY:**&nbsp;Friday<br>
-**TIME:**&nbsp;2.00 pm – 4.00 pm (tentatively)<br>
+**TIME:**&nbsp;2.00 pm – 4.00 pm<br>
 **VENUE:**&nbsp;School<br>
-**TEACHERS I/C:**&nbsp;\*Ms Er Li Li &amp; Mdm Joy Tay
+**TEACHERS I/C:**&nbsp;\*Ms Er Li Li 
 
 ### SYNOPSIS:
 
