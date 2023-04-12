@@ -4,19 +4,17 @@ permalink: /our-ij-experience/co-curricular/physical-sports/sailing/
 description: ""
 third_nav_title: Physical Sports
 ---
-
-
 ## Sailing
 
 **(Non-Modular CCA)**
 
   
 
-**LEVEL:** P3 to P6<br>
-**DAY:** Tuesday and Friday (School Team); Friday (Beginners)<br>
-**TIME:** 2.00 pm – 5.00 pm<br>
+**LEVEL:**&nbsp;P3 to P6<br>
+**DAY:**&nbsp;Tuesday<br>
+**TIME:**&nbsp;2.00 pm – 5.00 pm<br>
 **VENUE**: External Venue<br>
-**TEACHERS I/C:** \*Mr Farhan, Mdm Zhang Xuyang & Mdm Vanitha
+**TEACHERS I/C:**&nbsp;\*Mr Farhan &amp; Mdm Vanitha
 
 ### SYNOPSIS:
 
