@@ -19,24 +19,6 @@ third_nav_title: Physical Sports
 
 Track &amp; Field is a sport that includes athletic contests established on the skills of running, jumping and throwing. In Track &amp;  Field, consistency is key to performing in the Track &amp; Field event(s), while developing values and attributes such as grit, determination, resilience and teamwork that will prepare students for a rapidly changing world. Taking part in competitions and the National School Games has also exposed the athletes to varied experiences.
 	
-	
-### Pre-requisite:
-
-
-*   Must be able to commit from P3 to P6.
-
-<img src="/images/Co%20Curricular/Track%20%20Field_1.jpg" style="width:70%">
-
-<img src="/images/Co%20Curricular/Track%20%20Field_2.jpg" style="width:60%">
-
-
-<img src="/images/Co%20Curricular/Track%20%20Field_3.jpg" style="width:60%">
-
-
-
-
-
-
 
 ### From our past students:
 
