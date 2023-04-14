@@ -12,7 +12,7 @@ third_nav_title: Physical Sports
 
 **LEVEL:**&nbsp;P3 to P6<br>
 **DAY:**&nbsp;Tuesday<br>
-**TIME:**&nbsp;2.00 pm – 5.00 pm<br>
+**TIME:**&nbsp;2.00 pm – 5.00 pm (Training duration)<br>
 **VENUE**: External Venue<br>
 **TEACHERS I/C:**&nbsp;\*Mr Farhan &amp; Mdm Vanitha
 
