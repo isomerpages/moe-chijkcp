@@ -1,21 +1,20 @@
 ---
-title: Science
-permalink: /our-ij-experience/co-curricular/clubs-n-societies/science/
+title: Science and Math Club
+permalink: /our-ij-experience/co-curricular/clubs-n-societies/scienceandmathclub/
 description: ""
-third_nav_title: Clubs & Societies
+third_nav_title: Clubs &amp; Societies
 ---
-
-## Science
+## Science / Math Club
 
 **(Modular CCA)**
 
   
 
-**LEVEL:** P3 – P6<br>
-**DAY:** Friday<br>
-**TIME:** 2.00 - 4.00 pm (tentatively)<br>
-**VENUE:** Science Room<br>
-**TEACHER I/C:** Mr Yip Chuen Yen\* & Miss Lim Meixuan
+**LEVEL:**&nbsp;P3 – P6<br>
+**DAY:**&nbsp;Friday<br>
+**TIME:**&nbsp;2.00 - 4.00 pm<br>
+**VENUE:**&nbsp;Science Room<br>
+**TEACHER I/C:**&nbsp;Mr Yip Chuen Yen\*, Mrs Heeran Soloman &amp; Mrs Jaclyn Guo
 
 ### Synopsis:
 

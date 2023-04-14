@@ -1,21 +1,19 @@
 ---
-title: Track & Field
+title: Track &amp; Field
 permalink: /our-ij-experience/co-curricular/physical-sports/track-n-field/
 description: ""
 third_nav_title: Physical Sports
 ---
+## Track &amp; Field
 
-
-## Track & Field
-
-**(Non-Modular CCA)**
+**(P3 - Modular CCA; P4 to P6 - Non-Modular CCA)**
 
   
 
-**DAY**: Tuesday & Thursday<br>
-**VENUE:** School / Kallang Practice Track<br>
-**TIME:** 2.00 pm - 4.00 pm (School) or 2.00 pm - 4.50 pm (Kallang Practice Track)<br>
-**TEACHERS I/C:** \*Mdm Hazel Han, Miss Jasmine Lai, Miss Li Meina & Ms Charlene Lee
+**DAY**: Tuesday &amp; Friday<br>
+**VENUE:**&nbsp;School / Kallang Practice Track<br>
+**TIME:**&nbsp;2.00 pm - 4.00 pm (School) or 2.00 pm - 4.10 pm (Kallang Practice Track)<br>
+**TEACHERS I/C:**&nbsp;\*Mdm Hazel Han, Miss Jasmine Lai, Miss Li Meina &amp; Miss Ng Xin Rong
 
 ### SYNOPSIS:
 
@@ -27,15 +25,12 @@ The Track and Field team trains conscientiously twice a week. Under the leadersh
 
 *   Must be able to commit from P3 to P6.
 
-<img src="/images/Co%20Curricular/Track%20%20Field_1.jpg"  
-     style="width:70%">
+<img src="/images/Co%20Curricular/Track%20%20Field_1.jpg" style="width:70%">
 
-<img src="/images/Co%20Curricular/Track%20%20Field_2.jpg"  
-     style="width:60%">
+<img src="/images/Co%20Curricular/Track%20%20Field_2.jpg" style="width:60%">
 
 
-<img src="/images/Co%20Curricular/Track%20%20Field_3.jpg"  
-     style="width:60%">
+<img src="/images/Co%20Curricular/Track%20%20Field_3.jpg" style="width:60%">
 
 
 
@@ -48,19 +43,19 @@ The Track and Field team trains conscientiously twice a week. Under the leadersh
 
 I have learnt a lot through every training session, the tips and advice on how to improve myself as an athlete and enjoying the times spent together with the team.
 
-\- **_Gwyneth, Vice-Captain_**
+\-&nbsp;**_Gwyneth, Vice-Captain_**
 
   
 
 Sometimes the road towards my goals might be a little rocky but with the support of my teammates who are like family to me, we overcame the hurdles and emerge stronger together.
 
-\- **_Joey, Vice-Captain_**
+\-&nbsp;**_Joey, Vice-Captain_**
 
   
 
 Many friendships were forged throughout the years. It was fun getting to go to Nationals and many other competitions together.
 
-\- **_Enya, Vice-Captain_**
+\-&nbsp;**_Enya, Vice-Captain_**
 
   
 

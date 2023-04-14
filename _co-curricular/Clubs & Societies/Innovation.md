@@ -2,25 +2,23 @@
 title: Innovation
 permalink: /our-ij-experience/co-curricular/clubs-n-societies/innovation/
 description: ""
-third_nav_title: Clubs & Societies
+third_nav_title: Clubs &amp; Societies
 ---
-
-
 ## Innovation
 
 **(Modular CCA)**
 
   
 
-**LEVEL:** P3 – P6<br>
-**DAY:** Friday<br>
-**TIME:** 2.00 - 4.00 pm (tentatively)<br>
-**VENUE:** CyberLab1<br>
-**TEACHERS I/C:** Ms Angelia Zhang\*, Ms Sri Nur'Aliaa
+**LEVEL:**&nbsp;P3 – P6<br>
+**DAY:**&nbsp;Friday<br>
+**TIME:**&nbsp;2.00 - 4.00 pm<br>
+**VENUE:**&nbsp;CyberLab<br>
+**TEACHERS I/C:**&nbsp;Ms Angelia Zhang\*, Ms Ng Huimin
 
 ### SYNOPSIS:
 
-The Innovation Club is part of our Girls Like Tech (GLT) programme and it aims to develop creative and innovative thinking in our students. The STEM (Science, Technology, Engineering & Math) and Makers activities will provide opportunities for them to be adventurous problem-solvers, beyond their comfort zone and at the same time develop perseverance and resilience.
+The Innovation Club is part of our Girls Like Tech (GLT) programme and it aims to develop creative and innovative thinking in our students. The STEM (Science, Technology, Engineering &amp; Math) and Makers activities will provide opportunities for them to be adventurous problem-solvers, beyond their comfort zone and at the same time develop perseverance and resilience.
 
 Through collaborative projects, students learn to celebrate success and embrace failures.
 

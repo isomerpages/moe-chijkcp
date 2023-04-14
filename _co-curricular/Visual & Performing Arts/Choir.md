@@ -1,22 +1,20 @@
 ---
 title: Choir
-permalink: /our-ij-experience/co-curricular/visual-n-performing-arts/choir
+permalink: /our-ij-experience/co-curricular/visual-n-performing-arts/choir/
 description: ""
-third_nav_title: Visual & Performing Arts
+third_nav_title: Visual &amp; Performing Arts
 ---
-![](/images/subpage.jpg)
-
 ## Choir
 
 **(Non-Modular CCA)**
 
   
 
-**LEVEL:** P3 to P6<br>
-**DAY:** Tuesday & Thursday<br>
-**TIME:** 2.00 pm – 4.00 pm<br>
-**VENUE:** School<br>
-**TEACHERS I/C:** \*Mrs Carian Ye, Ms Angeline Grace & Mrs Jacinta Lee
+**LEVEL:**&nbsp;P3 to P6<br>
+**DAY:**&nbsp;Tuesday &amp; Friday<br>
+**TIME:**&nbsp;2.00 pm – 4.00 pm<br>
+**VENUE:**&nbsp;School<br>
+**TEACHERS I/C:**&nbsp;\*Mrs Carian Ye, Mrs Jacinta Lee &amp; Mdm Barathi Rajan
 
 ### SYNOPSIS:
 
