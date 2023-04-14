@@ -6,20 +6,20 @@ third_nav_title: Physical Sports
 ---
 ## Track &amp; Field
 
-**(P3 - Modular CCA; P4 to P6 - Non-Modular CCA)**
-
   
 
 **DAY**: Tuesday &amp; Friday<br>
 **VENUE:**&nbsp;School / Kallang Practice Track<br>
-**TIME:**&nbsp;2.00 pm - 4.00 pm (School) or 2.00 pm - 4.10 pm (Kallang Practice Track)<br>
+																																																														**TIME:**&nbsp;2.00 pm - 4.00 pm (School) or 2.00 pm - 4.40 pm (Kallang Practice Track)<br>
 **TEACHERS I/C:**&nbsp;\*Mdm Hazel Han, Miss Jasmine Lai, Miss Li Meina &amp; Miss Ng Xin Rong
 
 ### SYNOPSIS:
 
+*Modular CCA for P3 only
 
-The Track and Field team trains conscientiously twice a week. Under the leadership of Ms Joy Kuan and Mr Fuad, the team is very much inspired and motivated. The athletes train hard and play hard. They also understand the importance of balance between academic work and training sessions. Taking part in national competitions has also exposed the athletes to varied experiences.
-
+Track &amp; Field is a sport that includes athletic contests established on the skills of running, jumping and throwing. In Track &amp;  Field, consistency is key to performing in the Track &amp; Field event(s), while developing values and attributes 
+	
+	
 ### Pre-requisite:
 
 
