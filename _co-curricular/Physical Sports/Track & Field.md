@@ -6,7 +6,7 @@ third_nav_title: Physical Sports
 ---
 ## Track &amp; Field
 
-  
+(Non-Modular CCA* )
 
 **DAY**: Tuesday &amp; Friday<br>
 **VENUE:**&nbsp;School / Kallang Practice Track<br>
@@ -17,7 +17,7 @@ third_nav_title: Physical Sports
 
 *Modular CCA for P3 only
 
-Track &amp; Field is a sport that includes athletic contests established on the skills of running, jumping and throwing. In Track &amp;  Field, consistency is key to performing in the Track &amp; Field event(s), while developing values and attributes 
+Track &amp; Field is a sport that includes athletic contests established on the skills of running, jumping and throwing. In Track &amp;  Field, consistency is key to performing in the Track &amp; Field event(s), while developing values and attributes such as grit, determination, resilience and teamwork that will prepare students for a rapidly changing world. Taking part in competitions and the National School Games has also exposed the athletes to varied experiences.
 	
 	
 ### Pre-requisite:
@@ -38,22 +38,22 @@ Track &amp; Field is a sport that includes athletic contests established on the 
 
 
 
-### What our graduating students say...
+### From our past students:
 
 
-I have learnt a lot through every training session, the tips and advice on how to improve myself as an athlete and enjoying the times spent together with the team.
+Training sessions were really fun and enjoyable. I always look forward to participating in competitions with my teammates. I also learnt many valuable lessons in these past 4 years. I am glad I chose Track &amp; Field as my CCA. 
 
-\-&nbsp;**_Gwyneth, Vice-Captain_**
-
-  
-
-Sometimes the road towards my goals might be a little rocky but with the support of my teammates who are like family to me, we overcame the hurdles and emerge stronger together.
-
-\-&nbsp;**_Joey, Vice-Captain_**
+\-&nbsp;**_Angela Tan, AM6 of 2021_**
 
   
 
-Many friendships were forged throughout the years. It was fun getting to go to Nationals and many other competitions together.
+When I first joined Track &amp; Field, I felt that I didn't fit in and wasn't fast enough. But the friends that I have made, coaches and teachers, helped and encouraged me a lot. The sessions might be tiring but they are really fun. I've learnt a lot of things too! I'll miss Track &amp; Field in this school.
+
+\-&nbsp;**_Vera Koh, CE6 of 2021_**
+
+  
+
+Throughout the years in the Track &amp; Field team, I have formed valuable friendships and we went through
 
 \-&nbsp;**_Enya, Vice-Captain_**
 
