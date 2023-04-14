@@ -10,7 +10,7 @@ third_nav_title: Physical Sports
 
 **DAY**: Tuesday &amp; Friday<br>
 **VENUE:**&nbsp;School / Kallang Practice Track<br>
-																																																														**TIME:**&nbsp;2.00 pm - 4.00 pm (School) or 2.00 pm - 4.40 pm (Kallang Practice Track)<br>
+																																																														**TIME:**&nbsp;2.00 pm - 4.00 pm (School) or Depart from school: 2.00 pm - Arrive back in school: 4.40 pm (Kallang Practice Track)<br>
 **TEACHERS I/C:**&nbsp;\*Mdm Hazel Han, Miss Jasmine Lai, Miss Li Meina &amp; Miss Ng Xin Rong
 
 ### SYNOPSIS:
