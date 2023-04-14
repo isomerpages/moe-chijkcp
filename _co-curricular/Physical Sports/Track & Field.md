@@ -53,10 +53,12 @@ When I first joined Track &amp; Field, I felt that I didn't fit in and wasn't fa
 
   
 
-Throughout the years in the Track &amp; Field team, I have formed valuable friendships and we went through
+Throughout the years in the Track &amp; Field team, I have formed valuable friendships and we went through thick and thin together. Despite the covid-19 pandemic, the coaches and teachers have found ways to help us train and hone our skills and talent in our respective events.
 
-\-&nbsp;**_Enya, Vice-Captain_**
+\-&nbsp;**_Chloe Chan, JO6 of 2021_**
 
   
 
-When I first joined the team I thought I was lousy and wasn't good at any of the events. Soon, I learnt it was not about being the best but how much effort and hard work you put in to improve yourself/ I became more self-disciplined and learnt how to manage my time wisely. I will always remember the time we went out for competitions - the excitement and thrill I experienced would be so overwhelming that it would overcome my nervousness. I hope others too get to en
+Having track and field as my CCA was probably one of the best decisions I’ve made. As a slow little clueless Primary 3, I slowly came to learn about one very important value- sportsmanship. I will never forget how the coaches and teachers valued this more than if you were “talented” in track and field. It doesn’t matter if you are fast or slow. Commitment and a ready state of mind to do your best will help overcome all challenges. I will never regret my decision to join track and field.
+
+\-&nbsp;**_Wong Xin Yun, AM6 of 2021_**
