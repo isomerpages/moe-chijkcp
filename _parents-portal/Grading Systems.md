@@ -12,7 +12,7 @@ Grading Systems
 <img src="/images/Grading%20System/GS2.jpg" style="width:60%" align="left"><br><br><br>
 <br><br><br><br><br><br><br><br>
 
-<br>**GRADING SYSTEM FOR P5 &amp; P6 (FOUNDATIONAL LEVEL)** <br><br><br>
+<br><br><br>**GRADING SYSTEM FOR P5 &amp; P6 (FOUNDATIONAL LEVEL)** <br><br>
 <img src="/images/Grading%20System/GS3.jpg" style="width:85%" align="left"><br><br>
 		
 <br><br><br><br><br>
