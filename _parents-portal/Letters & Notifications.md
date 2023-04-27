@@ -7,7 +7,7 @@ description: ""
 
 ##### **P6 Parents' PSLE Briefing (with MOE updates)**
 	
-[P6 Parents' Briefing on 25 April 2023 (with MOE updates)](/files/chijkcp%20p6%20parents%20briefing%2025%20april%202023%20(with%20moe%20updates).pdf)
+[P6 Parents' PSLE Briefing on 25 April 2023 (with MOE updates)](/files/chijkcp%20p6%20parents%20briefing%2025%20april%202023%20(with%20moe%20updates).pdf)
 
 ##### **Group Personal Accident (GPA) for Students**
 
