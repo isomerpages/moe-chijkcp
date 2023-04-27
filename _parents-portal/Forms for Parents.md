@@ -5,19 +5,14 @@ description: ""
 ---
 ### Forms for Parents<br>
 
-#### Interbank Giro Forms
+#### Apply for eGIRO
+
+[Apply for your child's school and miscellaneous fees to be paid through GIRO](https://www.moe.gov.sg/financial-matters/fees/egiro)
+
+#### Application to Drop Higher Mother Tongue (HMT)
 
 
-[GIRO Application Form](/files/Parents%20Portal/GIRO_Application_Form_Oct%2021.pdf)  
-
-  
-
-[Termination of Interbank GIRO](/files/Parents%20Portal/Termination%20of%20Interbank%20GIRO.pdf)
-
-### Application to Drop Higher Mother Tongue (HMT)
-
-
-Please complete the form and email to [chijktps@moe.edu.sg](mailto:chijktps@moe.edu.sg). You may attention the email to Mdm Venus Tan, Head of Department (Mother Tongue Language). Thank you.  
+Please complete the form and email to&nbsp;[chijktps@moe.edu.sg](mailto:chijktps@moe.edu.sg). You may attention the email to Mdm Venus Tan, Head of Department (Mother Tongue Language). Thank you.  
 
   
 

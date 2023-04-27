@@ -3,9 +3,12 @@ title: Letters & Notifications
 permalink: /parents-portal/letters-nofications/
 description: ""
 ---
+### Letters &amp; Notifications
 
+##### **Group Personal Accident (GPA) for Students**
 
-### Letters & Notifications
+[GPA Insurance for Students](/files/group%20personal%20accident%20insurance%20for%20students%20-%20fact%20sheet%202023.pdf)
+
 
 ##### **Growth Mindset Matters** 
 
