@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Management of High Temperature Conditions in School.md
       - Announcements.md
       - Principal's Letter to Parents.md
       - Safety Briefing (Parents Webinar).md
