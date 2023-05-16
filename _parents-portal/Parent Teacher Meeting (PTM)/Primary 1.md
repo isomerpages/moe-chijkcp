@@ -10,4 +10,8 @@ third_nav_title: Parent Teacher Meeting (PTM)
 
 [English Language Department](/files/Parents%20Portal/PTM/p1%20english.pdf)
 
-[Mother Tongue Department](/files/mtl%20department%20-%20boy%20ptm%202023-%20p1.pdf)
+[Mother Tongue Deparment](/files/Parents%20Portal/PTM/mtl%20department%20-%20boy%20ptm%202023-%20p1.pdf)
+
+[Citizenship & Character Education](/files/Parents%20Portal/PTM/cce%20department%20ptm%20lower%20p1.pdf)
+
+[Physical Education & Aesthetics](/files/Parents%20Portal/PTM/pe%20and%20aesthetics%20dept%20'23-%20ptm%20(latest).pdf)
