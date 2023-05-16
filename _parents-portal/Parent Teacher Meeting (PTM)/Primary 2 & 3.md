@@ -6,17 +6,6 @@ third_nav_title: Parent Teacher Meeting (PTM)
 ---
 #### Beginning of Year (BOY)
 
+[Sharing by Year Head](/files/Parents%20Portal/PTM/opening%20slide%20(yh).pdf)
 
-
-Webinar Presentations
----------------------
-
-[2022 BOY PTM - Sharing by Principal](/files/Parents%20Portal/2022%20P2%20BOY%20MRS%20SIMON%20for%20website.pdf)
-
-  
-
-[2022 BOY PTM - Sharing by Year Head](/files/Parents%20Portal/2022_P2%20BOY_PTM_YH%2028%20Jan_for%20Website.pdf)
-
-  
-
-[2022 BOY PTM - Sharing by School Counsellor](/files/Parents%20Portal/2022%20P2%20PTM%20SLIDES_SCH%20COUNSELLOR_Forwebsite.pdf)
+[Mathematics Department](/files/Parents%20Portal/PTM/maths%202023%20ptm%20(p2,3)%20-%20for%20present.pdf)
