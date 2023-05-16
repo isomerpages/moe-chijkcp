@@ -18,5 +18,6 @@ third_nav_title: Parent Teacher Meeting (PTM)
 
 [Mother Tongue Department](/files/Parents%20Portal/PTM/p2%20&%20p3%20mother%20tongue%20languages.pdf)
 
-[Physical Education & Character Development](/files/Parents%20Portal/PTM/p2%20&%20p3%20pe%20&%20cca.pdf)
+[Character & Citizenship Education](/files/Parents%20Portal/PTM/p2%20&%20p3%20cce.pdf)
 
+[Physical Education & Character Development](/files/Parents%20Portal/PTM/p2%20&%20p3%20pe%20&%20cca.pdf)
