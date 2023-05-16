@@ -4,7 +4,7 @@ permalink: /our-ij-partners/parents-portal/parent-teacher-meeting-ptm/primary-45
 description: ""
 third_nav_title: Parent Teacher Meeting (PTM)
 ---
-																		### Beginning of Year (BOY)
+### Beginning of Year (BOY)
 
 [Sharing by Principal](/files/Parents%20Portal/PTM/p4%20-%20p6%20principal.pdf)
 
@@ -18,7 +18,4 @@ third_nav_title: Parent Teacher Meeting (PTM)
 
 [Citizenship & Character Education](/files/Parents%20Portal/PTM/p4%20-%20p6%20cce.pdf)
 
-[Physical Education & ](/files/Parents%20Portal/PTM/p4%20-%20p6%20pe%20&%20cca.pdf)
-
-
-						
+[Physical Education & Co-Currirular Activities ](/files/Parents%20Portal/PTM/p4%20-%20p6%20pe%20&%20cca.pdf)
