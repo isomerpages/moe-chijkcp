@@ -10,4 +10,4 @@ third_nav_title: Parent Teacher Meeting (PTM)
 
 [English Language Department](/files/Parents%20Portal/PTM/p1%20english.pdf)
 
-[Mother Tongue Language Department](/files/mtl%20department%20-%20boy%20ptm%202023-%20p1.pdf)
+[Mother Tongue Department](/files/mtl%20department%20-%20boy%20ptm%202023-%20p1.pdf)
