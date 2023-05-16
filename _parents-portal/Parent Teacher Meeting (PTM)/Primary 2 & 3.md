@@ -14,3 +14,6 @@ third_nav_title: Parent Teacher Meeting (PTM)
 
 [Mathematics Department](/files/Parents%20Portal/PTM/maths%202023%20ptm%20(p2,3)%20-%20for%20present.pdf)
 
+[Science Department](/files/Parents%20Portal/PTM/p3%20science.pdf)
+
+																																																																																																																																																																																																																																																																																																																																																																																	
