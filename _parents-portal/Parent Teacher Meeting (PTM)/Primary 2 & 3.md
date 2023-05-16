@@ -20,4 +20,6 @@ third_nav_title: Parent Teacher Meeting (PTM)
 
 [Character & Citizenship Education](/files/Parents%20Portal/PTM/p2%20&%20p3%20cce.pdf)
 
+[Aesthetics Department](/files/Parents%20Portal/PTM/aesthetics%202023.pdf)
+
 [Physical Education & Co-Currirular Activities](/files/Parents%20Portal/PTM/p2%20&%20p3%20pe%20&%20cca.pdf)
