@@ -16,6 +16,9 @@ sections:
           description: ""
           url: /chijkps/socialmedia
   - infobar:
-      description: <iframe allow="autoplay" height="480" width="640"
-        src="https://drive.google.com/file/d/18A7Y1GljhdqniaOTqq-FLkjT9as86ZvQ/preview"></iframe>
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="Happenings@CHIJ (Katong) Primary"
+        src="https://www.youtube.com/embed/U2AvkPHFoUE" height="664"
+        width="1180"></iframe>
 ---
