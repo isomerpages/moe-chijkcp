@@ -15,4 +15,7 @@ sections:
         - title: SOCIAL MEDIA
           description: ""
           url: /chijkps/socialmedia
+  - infobar:
+      description: <iframe allow="autoplay" height="480" width="640"
+        src="https://drive.google.com/file/d/18A7Y1GljhdqniaOTqq-FLkjT9as86ZvQ/preview"></iframe>
 ---
