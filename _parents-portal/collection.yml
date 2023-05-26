@@ -2,6 +2,7 @@ collections:
   parents-portal:
     output: true
     order:
+      - Term 2.md
       - Parents' Portal.md
       - Parents' Newsletter.md
       - Letters & Notifications.md
