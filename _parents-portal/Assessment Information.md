@@ -3,11 +3,16 @@ title: Assessment Information
 permalink: /our-ij-partners/parents-portal/assessment-information/
 description: ""
 ---
-
-
 ### ASSESSMENT INFORMATION
 
 #### Examination Matters (2023)<br>
+
+#### **Term 3** <br>
+[Primary 5 Weighted Assessment Letter](/files/Parents%20Portal/Assessment%20Information/p5%20weighted%20assessment%20letter.pdf)
+<br>
+[Primary 4 Weighted Assessment Letter](/files/Parents%20Portal/Assessment%20Information/p4%20weighted%20assessment%20letter.pdf)
+<br>
+[Primary 3 Weighted Assessment Letter](/files/Parents%20Portal/Assessment%20Information/p3%20weighted%20assessment%20letter.pdf)
 
 #### **Term 2** <br>
 [Primary 5 Weighted Assessment Letter](/files/22%20Mar%202023_P5%20T2%20WA%20Letter_HA_PMY_036_2023.pdf)<br>
