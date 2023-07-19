@@ -10,7 +10,7 @@ third_nav_title: Visual & Performing Arts
 
 **LEVEL:**&nbsp;P3 to P6<br>
 **DAY:**&nbsp; Selected Friday<br>
-**TIME:**&nbsp;2.15 pm - 3.55 pm (tentatively)<br>
+**TIME:**&nbsp;2.15 pm - 3.55 pm<br>
 **VENUE:**&nbsp;School<br>
 **TEACHERS I/C:**&nbsp;\*Mr E. Choo &amp; Mdm S. Yong
 
