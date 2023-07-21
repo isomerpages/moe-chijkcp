@@ -32,5 +32,7 @@ The following documents to be submitted via&nbsp;[chijktps@moe.edu.sg](mailto:ch
 3. List of proposed menu and pricing for all items
 4. Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 
-Shortlisted applicants will be notified for an interview and food sampling by the School Canteen Selection Committee at the applicant's own expense.<br>
+Shortlisted applicants will be notified for an interview and food sampling by the School Canteen Selection Committee at the applicant's own expense.
+<br>
+
 [Application Form](/files/application%20for%20canteen%20stall%20in%20existing%20school.pdf)
