@@ -2,8 +2,8 @@ collections:
   announcements:
     output: true
     order:
-      - School Canteen Advertisement.md
       - Announcements.md
+      - School Canteen Advertisement.md
       - Management of High Temperature Conditions in School.md
       - Safety Briefing (Parents Webinar).md
       - Centralized Platforms for Communication between Teachers and Parents.md
