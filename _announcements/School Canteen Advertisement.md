@@ -34,3 +34,4 @@ The following documents to be submitted via&nbsp;[chijktps@moe.edu.sg](mailto:ch
 
 Shortlisted applicants will be notified for an interview and food sampling by the School Canteen Selection Committee at the applicant's own expense.
 
+[Application Form]()
