@@ -4,9 +4,7 @@ permalink: /our-ij-experience/co-curricular/character-n-citizenship-education-cc
 description: ""
 third_nav_title: CCE
 ---
-
-
-### Character & Citizenship Education
+### Character &amp; Citizenship Education
 
 #### Vision
 
@@ -71,7 +69,7 @@ No student is denied the opportunity to learn due to financial constraints. Stud
 
   
 
- *   **GRACE & LOVE PROGRAMME**
+ *   **GRACE &amp; LOVE PROGRAMME**
 
 For our Catholic students from Primary 1 to Primary 6, Catechism classes are conducted by our Catholic teachers and Parent Volunteers. The lessons, from the Walking with Jesus series, are aimed at helping students to understand their faith and live the gospel values in their daily lives. Apart from the lessons, school activities such as visiting of churches, retreats, Praise and Worship sessions and Rosary devotions are conducted for the Catholic students to help them deepen their faith. The Catholic students also attend termly Family Masses and all students attend the School Masses.
 
@@ -89,15 +87,7 @@ Under the domain of Citizenship Education are the three sub-domains of Cross Cul
 
   
 
-In addition, our school’s NE programmes, Social Studies (SS) and Character and Citizenship Education lessons such as NE Time and SS learning journeys serve to instill in students a sense of belonging and commitment to the school, community and the country.
-
-  
-
-_To watch the video on what your child is learning in Social Studies, please click [here](https://www.youtube.com/watch?v=SDCkCj7sm8s)._
-
-  
-
   
 
 **Ms Jasmine Tan**<br>
-**Head of Department (Character & Citizenship Education)**
+**Head of Department (Character &amp; Citizenship Education)**
