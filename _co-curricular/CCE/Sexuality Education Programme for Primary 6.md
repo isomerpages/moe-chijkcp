@@ -13,11 +13,11 @@ third_nav_title: CCE
 
 2\.  The **Goals** of Sexuality Education are:
 
- i.  To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate <u>knowledge</u> on human sexuality and the consequences of sexual activity;
+ i.  To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate&nbsp;<u>knowledge</u>&nbsp;on human sexuality and the consequences of sexual activity;
 
-ii.  To help students know themselves and build healthy and rewarding relationships through the acquisition of <u>social and emotional skills</u> of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
+ii.  To help students know themselves and build healthy and rewarding relationships through the acquisition of&nbsp;<u>social and emotional skills</u>&nbsp;of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
 
-iii.  To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of <u>positive mainstream values and attitudes</u> about sexuality.
+iii.  To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of&nbsp;<u>positive mainstream values and attitudes</u>&nbsp;about sexuality.
 
   
 
@@ -30,13 +30,13 @@ iv.  Abstinence before marriage is the best protection against STIs/HIV and unin
 
   
 
-You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education) for more information on MOE Sexuality Education.
+You may click&nbsp;[here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education)&nbsp;for more information on MOE Sexuality Education.
 
 **<u>Overview of CHIJ (Katong) Primary Sexuality Education Programme for 2023</u>**
 
   
 
-4\. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/page%20not%20found?item=%2fprogrammes%2fsexuality-education%2fscope-and-teaching-approach&user=extranet%5cAnonymous&site=moe-website) for more information on the scope of Sexuality Education in the school curriculum.
+4\. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://www.moe.gov.sg/page%20not%20found?item=%2fprogrammes%2fsexuality-education%2fscope-and-teaching-approach&amp;user=extranet%5cAnonymous&amp;site=moe-website)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 
   
 
@@ -55,11 +55,11 @@ b)  Character and Citizenship Education (CCE)
 
   
 
-7\. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. .
+7\. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.&nbsp;.
 
   
 
-**At CHIJ (Katong) Primary, the following lessons from the Growing Years Programme will be taught in 2023:**
+**At CHIJ (Katong) Primary, the following lessons from the Growing Years Programme will be taught in&nbsp;2023:**
 
 ![](/images/P6.jpg)
 
@@ -67,16 +67,9 @@ b)  Character and Citizenship Education (CCE)
 
   
 
-8.  Parents may opt their children out of the Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
+1. Parents may opt their children out of the Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers. <br>
+2. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is downloadable&nbsp;[here](https://form.gov.sg/#!/error/404). _(BROKEN LINK)_ The completed opt-out form is to be submitted by 31 January 2023. <br>
+3. Parents can contact the school at 6344 3072 for discussion or to seek clarification about the school’s sexuality education programme.
 
   
 
-9.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is downloadable [here](https://form.gov.sg/#!/error/404). _(BROKEN LINK)_ The completed opt-out form is to be submitted by 31 January 2023.
-
-  
-
-10.  Parents can contact the school at 6344 3072 for discussion or to seek clarification about the school’s sexuality education programme.
-
-  
-
-11.  Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements.
