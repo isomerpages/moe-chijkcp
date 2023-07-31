@@ -6,6 +6,16 @@ description: ""
 ### ASSESSMENT INFORMATION
 
 #### Examination Matters (2023)<br>
+#### **Term 4**
+
+[Primary 5 Examination Schedule &amp; Scope](/files/Parents%20Portal/Assessment%20Information/p5%20eoy%20schedule.pdf)
+<br>
+[Primary 5 Examination Topics](/files/Parents%20Portal/Assessment%20Information/p5%20eoy%20scope.pdf) <br>
+[Primary 4 Examination Schedule &amp; Scope](/files/Parents%20Portal/Assessment%20Information/p4%20eoy%20schedule.pdf) <br>
+[Primary 4 Examination Topics](/files/Parents%20Portal/Assessment%20Information/p4%20eoy%20scope.pdf)<br>
+[Primary 3 Examination Schedule &amp; Scope](/files/Parents%20Portal/Assessment%20Information/p3%20eoy%20schedule.pdf)<br>
+[Primary 3 Examination Topics](/files/Parents%20Portal/Assessment%20Information/p3%20eoy%20scope.pdf)
+
 
 #### **Term 3** <br>
 [Primary 5 Weighted Assessment Letter](/files/Parents%20Portal/Assessment%20Information/p5%20weighted%20assessment%20letter.pdf)
