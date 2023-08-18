@@ -87,7 +87,7 @@ Afternoon: 2.00pm to 5.00pm <br>
 If your child requires urgent dental treatment and the clinic is closed, please call the following Dental Clinic: <br>
 		
 1. Tao Nan School <br>
-		20 Siglap View S449149 <br>
+		49 Marine Cresent S449761 <br>
 		Tel: 9113 0636  <br>
 		
 2. Ngee Ann Primary School <br>
