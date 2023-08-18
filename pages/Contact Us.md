@@ -27,12 +27,12 @@ Bus Services at Gate 2 (along Marine Parade Road): 13, 15, 16, 31, 36, 43, 47, 4
 Tel: 6346 2095<br>
 Operating Hours: Monday to Friday (8.30 am – 4 pm)<br>
 *Students are able to purchase the PE attire from the School Bookshop:*<br>
-* 8.30 a.m. to 4.00 p.m. (Monday, Tuesday, Thursday & Friday)
+* 8.30 a.m. to 4.00 p.m. (Monday, Tuesday, Thursday &amp; Friday)
 * 8.30 a.m. to 3.00 p.m. (Wednesday)
 * 12.30 p.m. to 1.30 p.m. (Closed for Lunch)
 
 *Parents are allowed to visit the Bookshop only at the following times:*
-* 2.00 p.m. to 4.00 p.m. (Monday, Tuesday, Thursday & Friday)
+* 2.00 p.m. to 4.00 p.m. (Monday, Tuesday, Thursday &amp; Friday)
 * 2.00 p.m. to 3.00 p.m. (Wednesday)
   
 #### School Bus Service
@@ -52,7 +52,7 @@ Point-of-Contact:<br>
 Tel: 8630499 (WhatsApp only) / 6293 5840<br>
 Operating Hours: Monday to Friday (9.00 a.m. – 4.00 p.m.)<br>
 The school uniform is being sold at the School Bookshop as follow: <br>
-* 2.00 p.m. to 4.00 p.m. (Monday, Tuesday, Thursday & Friday)
+* 2.00 p.m. to 4.00 p.m. (Monday, Tuesday, Thursday &amp; Friday)
 * 2.00 p.m. to 3.00 p.m. (Wednesday)<br>
 
 *Please note that parents are only allowed to be in the school premises to assist their children in purchasing school uniforms **after 2.00 p.m.** <br>
@@ -75,18 +75,25 @@ Dental Therapist: Ms Judy Tee<br>
 Tel: 8940 1058<br>
 Emergency Tel (Health Promotion Board): 6435 3782
 
-  
+**<u>Operating Hours on Alternate Week</u>**<br>
+* **Monday to Wednesday**<br> 
+Morning: 8.00am to 1.00pm <br>
+Afternoon: 2.00pm to 5.30pm <br>
 
-**<u>Operating Hours only on 1st &amp; 3rd week of the month</u>**<br>
-* Monday to Thursday: 8.00 a.m. – 5.30 pm (Lunch from 1.00 p.m. – 2.00 p.m.)<br>
-* Friday: 8.00 a.m. – 5.00 p.m. (Lunch from 1.00 p.m. – 2.00 p.m.)
+* **Thursday to Friday**<br> 
+Morning: 8.00am to 1.00pm <br>
+Afternoon: 2.00pm to 5.00pm <br>
 
-  
+If your child requires urgent dental treatment and the clinic is closed, please call the following Dental Clinic: <br>
+		
+1. Tao Nan School <br>
+		49 Marine Cresent S449761 <br>
+		Tel: 9113 0636  <br>
+		
+2. Ngee Ann Primary School <br>
+		344 Marine Terrace S449149 <br>
+		Tel: 8940 5130 <br>
 
-If your child requires urgent dental treatment and the clinic is closed, please call the following:
-
-1) Tanjong Katong Primary School – 6719 6021
-
-2) Haig Girls' School – 6344 5585
-
-3) MDC 11 – 9237 9145
+3. St Stephen's School <br>
+		20 Siglap View S455789 <br>
+		Tel: 9112 2045
