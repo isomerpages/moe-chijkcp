@@ -4,6 +4,14 @@ permalink: /parents-portal/letters-nofications/
 description: ""
 ---
 ### Letters &amp; Notifications
+##### **P3 End of Year Examination Parents' Briefing**
+
+[P3 End of Year Examination Parents' Briefing (Mrs Mischa Simon)](/files/Parents%20Portal/p3%20end%20of%20year%20examination%20parents'%20briefing%20(mrs%20mischa%20simon).pdf)
+
+[P3 End of Year Examination Parents' Briefing (Mrs Tracey Hoa)](/files/Parents%20Portal/p3%20end%20of%20year%20examination%20parents'%20briefing%20(mrs%20tracey%20hoa).pdf)
+
+[Stress Not! Manage Well! (Mdm Hana)](/files/Parents%20Portal/stress%20not!%20manage%20well!%20(mdm%20hana).pdf)
+
 
 ##### **P6 Parents' PSLE Briefing (with MOE updates)**
 	
