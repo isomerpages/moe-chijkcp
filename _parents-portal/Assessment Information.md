@@ -11,16 +11,39 @@ description: ""
 [Primary 5 Examination Schedule &amp; Scope](/files/Parents%20Portal/Assessment%20Information/p5%20eoy%20schedule.pdf)
 <br>
 [Primary 5 Examination Topics](/files/Parents%20Portal/Assessment%20Information/p5%20eoy%20scope.pdf) <br>
-[P5 &amp; P6 Exam Format - English Language, Mathematics and Science](/files/Parents%20Portal/Assessment%20Information/EYE_2023_Format/p5&amp;p6_eoy%20exam%20format_el,%20math%20&amp;%20sc.pdf)
+[Primary 5 &amp; Primary 6 Exam Format - English Language, Mathematics and Science](/files/Parents%20Portal/Assessment%20Information/EYE_2023_Format/p5&amp;p6_eoy%20exam%20format_el,%20math%20&amp;%20sc.pdf)
 <br>
-[P5 &amp; P6 Exam Format - Chinese Language](/files/Parents%20Portal/Assessment%20Information/EYE_2023_Format/p5&amp;p6_eoy%20exam%20format_cl.pdf)
+[Primary 5 &amp; Primary 6 Exam Format - Chinese Language](/files/Parents%20Portal/Assessment%20Information/EYE_2023_Format/p5&amp;p6_eoy%20exam%20format_cl.pdf)
+<br>
+[Primary 5 &amp; Primary 6 Exam Format - Malay Language](/files/Parents%20Portal/Assessment%20Information/EYE_2023_Format/p5&amp;p6_eoy%20exam%20format_ml.pdf)
+<br>
+[Primary 5 &amp; Primary 6 Exam Format - Tamil Language](/files/Parents%20Portal/Assessment%20Information/EYE_2023_Format/p5&amp;p6_eoy%20exam%20format_tl.pdf)
+<br>
+[Primary 5 &amp; Primary 6 Exam Format - Higher Chinese Language](/files/Parents%20Portal/Assessment%20Information/EYE_2023_Format/p5&amp;p6_eoy%20exam%20format_hcl.pdf)
+<br>
+[Primary 5 &amp; Primary 6 Exam Format - Foundation Chinese Language](/files/Parents%20Portal/Assessment%20Information/EYE_2023_Format/p5&amp;p6_eoy%20exam%20format_fcl.pdf)
 <br>
 
 [Primary 4 Examination Schedule &amp; Scope](/files/Parents%20Portal/Assessment%20Information/p4%20eoy%20schedule.pdf) <br>
 [Primary 4 Examination Topics](/files/Parents%20Portal/Assessment%20Information/p4%20eoy%20scope.pdf)<br>
+[Primary 4 Exam Format - English Language, Mathematics and Science](/files/Parents%20Portal/Assessment%20Information/EYE_2023_Format/p4%20eoy%20exam%20format_el,%20math%20&amp;%20sc.pdf)
+<br>
+[Primary 4 Exam Format - Chinese Language](/files/Parents%20Portal/Assessment%20Information/EYE_2023_Format/p4%20eoy%20exam%20format_cl.pdf)
+<br>
+[Primary 4 Exam Format - Malay Language](/files/Parents%20Portal/Assessment%20Information/EYE_2023_Format/p4%20eoy%20exam%20format_ml.pdf)
+<br>
+[Primary 4 Exam Format - Tamil Language](/files/Parents%20Portal/Assessment%20Information/EYE_2023_Format/p4%20eoy%20exam%20format_tl.pdf)
 [Primary 3 Examination Schedule &amp; Scope](/files/Parents%20Portal/Assessment%20Information/p3%20eoy%20schedule.pdf)<br>
+<br>
 [Primary 3 Examination Topics](/files/Parents%20Portal/Assessment%20Information/p3%20eoy%20scope.pdf)
-
+<br>
+[Primary 3 Exam Format - English Language, Mathematics and Science](/files/Parents%20Portal/Assessment%20Information/EYE_2023_Format/p3%20eoy%20exam%20format_el,%20math%20&amp;%20sc.pdf)
+<br> 
+[Primary 3 Exam Format - Chinese Language](/files/Parents%20Portal/Assessment%20Information/EYE_2023_Format/p3%20eoy%20exam%20format_cl.pdf)
+<br>
+[Primary 3 Exam Format - Malay Language](/files/Parents%20Portal/Assessment%20Information/EYE_2023_Format/p3%20eoy%20exam%20format_ml.pdf)
+<br>
+[Primary 3 Exam Format - Tamil Language](/files/Parents%20Portal/Assessment%20Information/EYE_2023_Format/p3%20eoy%20exam%20format_tl.pdf)
 
 #### **Term 3** <br>
 [Primary 5 Weighted Assessment Letter](/files/Parents%20Portal/Assessment%20Information/p5%20weighted%20assessment%20letter.pdf)
