@@ -19,11 +19,10 @@ sections:
           description: ""
           url: /chijkps/socialmedia
   - infobar:
-      title: Infobar
-      subtitle: Add informational text
+      title: School Calendar
       id: infobar
-      description: Infobar description
       button: Button Text
+      url: /news-and-events/schoolcalendar/
   - infopic:
       title: CHIJ (Katong) Primary Facebook
       id: infopic
