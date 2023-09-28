@@ -14,7 +14,7 @@ sections:
           url: /chijkps/announcements
         - title: SCHOOL CALENDAR
           description: School Events & Activities
-          url: ""
+          url: https://www.chijkcp.moe.edu.sg/news-and-events/schoolcalendar/
         - title: SOCIAL MEDIA
           description: ""
           url: /chijkps/socialmedia
