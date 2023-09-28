@@ -15,14 +15,6 @@ sections:
         - title: SCHOOL CALENDAR
           description: School Events & Activities
           url: https://www.chijkcp.moe.edu.sg/news-and-events/schoolcalendar/
-        - title: SOCIAL MEDIA
-          description: ""
-          url: /chijkps/socialmedia
-  - infobar:
-      title: School Calendar
-      id: infobar
-      button: Click to Access
-      url: news-and-events/schoolcalendar/
   - infopic:
       title: CHIJ (Katong) Primary Facebook
       id: infopic
