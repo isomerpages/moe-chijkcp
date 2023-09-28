@@ -21,6 +21,8 @@ sections:
   - infopic:
       title: CHIJ (Katong) Primary Facebook
       id: infopic
-      button: Button Text
+      button: CONNECT WITH US
       alt: Image alt text
+      url: https://www.facebook.com/p/CHIJ-Katong-Primary-100064368781577/
+      image: /images/chij facebook.jpg
 ---
