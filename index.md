@@ -29,10 +29,4 @@ sections:
       alt: Image alt text
       url: https://www.instagram.com/chij_katong_primary/
       image: /images/chij instav2.jpg
-  - infobar:
-      title: Infobar
-      subtitle: Add informational text
-      id: infobar
-      description: Infobar description
-      url: https://www.chijkcp.moe.edu.sg/news-and-events/schoolcalendar/
 ---
