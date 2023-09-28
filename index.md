@@ -25,4 +25,10 @@ sections:
       alt: Image alt text
       url: https://www.facebook.com/p/CHIJ-Katong-Primary-100064368781577/
       image: /images/chij facebook.jpg
+  - infopic:
+      title: CHIJ (Katong) Primary Instagram
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
