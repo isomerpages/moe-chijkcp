@@ -12,6 +12,9 @@ sections:
         - title: ANNOUNCEMENTS
           description: ""
           url: /chijkps/announcements
+        - title: SCHOOL CALENDAR
+          description: School Events & Activities
+          url: ""
         - title: SOCIAL MEDIA
           description: ""
           url: /chijkps/socialmedia
