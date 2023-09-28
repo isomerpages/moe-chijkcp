@@ -10,7 +10,7 @@ sections:
       background: /images/CHIJ Katong Pri Homepage GIF.gif
       key_highlights:
         - title: ANNOUNCEMENTS
-          description: ""
+          description: Click for more information
           url: /chijkps/announcements
         - title: SCHOOL CALENDAR
           description: School Events & Activities
