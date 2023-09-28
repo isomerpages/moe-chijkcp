@@ -22,7 +22,9 @@ sections:
       title: School Calendar
       id: infobar
       button: Button Text
-      url: /news-and-events/schoolcalendar/
+      url: '<iframe scrolling="yes" frameborder="0" height="600" width="800"
+        style="border: 0"
+        src="https://calendar.google.com/calendar/embed?src=c_2c909b007968ca9841913c5960480250c823a405c3565aa5d24730763f21275b%40group.calendar.google.com&ctz=Asia%2FSingapore"></iframe>'
   - infopic:
       title: CHIJ (Katong) Primary Facebook
       id: infopic
