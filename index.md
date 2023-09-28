@@ -28,7 +28,7 @@ sections:
   - infopic:
       title: CHIJ (Katong) Primary Instagram
       id: infopic
-      description: Infopic description
-      button: Button Text
+      button: JOIN US
       alt: Image alt text
+      url: https://www.instagram.com/chij_katong_primary/
 ---
