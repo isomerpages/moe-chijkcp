@@ -18,4 +18,9 @@ sections:
         - title: SOCIAL MEDIA
           description: ""
           url: /chijkps/socialmedia
+  - infopic:
+      title: CHIJ (Katong) Primary Facebook
+      id: infopic
+      button: Button Text
+      alt: Image alt text
 ---
