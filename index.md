@@ -18,6 +18,12 @@ sections:
         - title: SOCIAL MEDIA
           description: ""
           url: /chijkps/socialmedia
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: Button Text
   - infopic:
       title: CHIJ (Katong) Primary Facebook
       id: infopic
