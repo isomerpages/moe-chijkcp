@@ -7,12 +7,26 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/School_BackgroundV5.jpg
+      background: /images/CHIJ Katong Pri Homepage GIF.gif
       key_highlights:
         - title: ANNOUNCEMENTS
-          description: ""
+          description: Click for more information
           url: /chijkps/announcements
-        - title: SOCIAL MEDIA
-          description: ""
-          url: /chijkps/socialmedia
+        - title: SCHOOL CALENDAR
+          description: School Events & Activities
+          url: https://www.chijkcp.moe.edu.sg/news-and-events/schoolcalendar/
+  - infopic:
+      title: CHIJ (Katong) Primary Facebook
+      id: infopic
+      button: CONNECT WITH US
+      alt: Image alt text
+      url: https://www.facebook.com/p/CHIJ-Katong-Primary-100064368781577/
+      image: /images/chij facebook.jpg
+  - infopic:
+      title: CHIJ (Katong) Primary Instagram
+      id: infopic
+      button: JOIN US
+      alt: Image alt text
+      url: https://www.instagram.com/chij_katong_primary/
+      image: /images/chij instav2.jpg
 ---
