@@ -2,7 +2,6 @@ collections:
   parents-portal:
     output: true
     order:
-      - Important Links.md
       - Parents' Newsletter/.keep
       - Parents' Newsletter/Term 1.md
       - Parents' Newsletter/Term 2.md
@@ -13,5 +12,6 @@ collections:
       - Parent Teacher Meeting (PTM)/Primary 1.md
       - Parent Teacher Meeting (PTM)/Primary 2 & 3.md
       - Parent Teacher Meeting (PTM)/Primary 4, 5 & 6.md
+      - Important Links.md
       - Forms for Parents.md
       - CCA Online Registration.md
