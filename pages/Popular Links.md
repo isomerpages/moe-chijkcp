@@ -3,7 +3,7 @@ title: Popular Links
 permalink: /our-ij-partners/popular-links/
 description: ""
 ---
-### Popular Links
+### Important Links
 
 Please click on the following links to visit the website for more information:
 
