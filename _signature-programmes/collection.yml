@@ -2,7 +2,6 @@ collections:
   signature-programmes:
     output: true
     order:
-      - Signature Programs.md
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
       - Religious Education.md
