@@ -3,8 +3,6 @@ title: Popular Links
 permalink: /our-ij-partners/popular-links/
 description: ""
 ---
-
-
 ### Popular Links
 
 Please click on the following links to visit the website for more information:
@@ -15,10 +13,10 @@ Please click on the following links to visit the website for more information:
 *   [Subject-based Banding](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html)
 *   [Primary One (P1) Registration](https://www.moe.gov.sg/primary/p1-registration)
 
-*   Click [here](https://www.moe.gov.sg/exam-related-services) regarding misplaced of Original Certificates
+*   Click&nbsp;[here](https://www.moe.gov.sg/exam-related-services)&nbsp;regarding misplaced of Original Certificates
 
 *   [Financial Assistance Scheme](https://www.moe.gov.sg/financial-matters/financial-assistance)
-*   [Mother Tongue Language Digital Resources](https://www.mtl.moe.edu.sg/) **(BROKEN LINK)**
+*   [Mother Tongue Language Digital Resources](https://www.moe.gov.sg/primary/curriculum/mother-tongue-languages/learning-in-school)
 *   [Mother Tongue as Second Language](https://www.moe.gov.sg/primary/curriculum/mother-tongue-languages/learning-in-school)
 *   [Mother Tongue Exemption](https://www.moe.gov.sg/primary/curriculum/mother-tongue-languages/exemption)
 *   [Parenting With You](https://www.instagram.com/parentingwith.moesg/?hl=en)
@@ -32,19 +30,6 @@ Please click on the following links to visit the website for more information:
   
 
 3\. [Student Learning Space](https://vle.learning.moe.edu.sg/login)
-
-
-4\. [NEU PC Plus Programme](https://www.imda.gov.sg/neupc)
-
-
-5\. [Schoolbag.sg](https://www.schoolbag.edu.sg/)
-
-
-6\. [NEA Haze Website](https://www.haze.gov.sg/)
-
-  
-
-  
 
 You may find some of the essential counselling helplines below:
 
@@ -70,4 +55,4 @@ Friday: 2.30pm to 5.00pm
 
   
 
-Alternatively, you can email them at [tinklefriend@childrensociety.org.sg](mailto:tinklefriend@childrensociety.org.sg).
+Alternatively, you can email them at&nbsp;[tinklefriend@childrensociety.org.sg](mailto:tinklefriend@childrensociety.org.sg).
