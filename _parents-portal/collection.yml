@@ -2,6 +2,7 @@ collections:
   parents-portal:
     output: true
     order:
+      - Important Links.md
       - Parents' Newsletter/.keep
       - Parents' Newsletter/Term 1.md
       - Parents' Newsletter/Term 2.md
