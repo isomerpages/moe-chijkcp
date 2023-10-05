@@ -3,4 +3,9 @@ title: Parents Portal
 permalink: /our-ij-partners/parents-portal/
 description: ""
 ---
-[Primary 1 Admin Day Information](/files/primary%201%20-%20admin%20day%20information.pdf)
+
+
+
+Please click the link below for more information on P1 (2024) Admin Day
+
+[Primary 1 Admin Day](/files/primary%201%20-%20admin%20day%20information.pdf)
