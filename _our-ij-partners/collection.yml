@@ -2,6 +2,7 @@ collections:
   our-ij-partners:
     output: true
     order:
+      - Parents Portal.md
       - Letters & Notifications.md
       - Parents' Newsletter/.keep
       - Parents' Newsletter/Term 1.md
