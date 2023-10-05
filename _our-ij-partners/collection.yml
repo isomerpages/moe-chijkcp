@@ -1,5 +1,5 @@
 collections:
-  parents-portal:
+  our-ij-partners:
     output: true
     order:
       - Letters & Notifications.md
