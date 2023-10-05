@@ -13,22 +13,9 @@ links:
         url: /our-ij-experience/co-curricular
       - title: Signature Programs
         url: /our-ij-experience/signature-programs
-  - title: Our IJ Partners
-    url: /letters-nofications/
-    sublinks:
-      - title: IJ Parent Volunteers (PV)
-        url: /our-ij-partners/ij-parent-volunteers-pv
-      - title: Home-Based Learning (HBL)
-        url: /our-ij-partners/home-based-learning-hbl
-      - title: Important Links
-        url: /our-ij-partners/important-links
-      - title: Feedback
-        url: /our-ij-partners/feedback
-      - title: FAQs
-        url: /our-ij-partners/faqs
+  - title: OUR IJ Partners
+    collection: our-ij-partners
   - title: News And Events
     collection: news-and-events
   - title: Contact Us
     url: /contact-chij
-  - title: OUR IJ Partners
-    collection: our-ij-partners
