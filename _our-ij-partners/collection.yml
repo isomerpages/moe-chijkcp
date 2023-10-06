@@ -1,12 +1,12 @@
 collections:
-  parents-portal:
+  our-ij-partners:
     output: true
     order:
-      - Parents' Portal.md
+      - Parents Portal.md
+      - Letters & Notifications.md
       - Parents' Newsletter/.keep
       - Parents' Newsletter/Term 1.md
       - Parents' Newsletter/Term 2.md
-      - Letters & Notifications.md
       - Assessment Information.md
       - Grading Systems.md
       - Parent Teacher Meeting (PTM)/.keep
