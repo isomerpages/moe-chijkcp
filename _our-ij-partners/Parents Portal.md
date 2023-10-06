@@ -3,9 +3,8 @@ title: Parents Portal
 permalink: /our-ij-partners/parents-portal/
 description: ""
 ---
-Please click the link below for more information on P1 (2024) Admin Day
+![p12024](/images/2024%20p1%20admin%20day_annex%20a_page_1.png)![p22024](/images/2024%20p1%20admin%20day_annex%20a_page_2.png)![p32024](/images/Our%20IJ%20Partners/2024%20p1%20admin%20day_annex%20a_page_3.png)![p42024](/images/2024%20p1%20admin%20day_annex%20a_page_4.png)
+<br>
 
-[Primary 1 Admin Day (Microsoft Word Version)](https://file.go.gov.sg/p1adminday2024.docx)
-
-
-[Primary 1 Admin Day](/files/primary%201%20-%20admin%20day%20information.pdf)
+Scan the QR code to download the Primary 1 (2024) Admin Day document. <br>
+![](/images/p1adminday2024.png)
