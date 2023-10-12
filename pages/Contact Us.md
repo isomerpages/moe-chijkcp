@@ -73,16 +73,15 @@ Website:&nbsp;[https://www.nascans.com/](https://www.nascans.com/)
 
 Dental Therapist: Ms Judy Tee<br>
 Tel: 8940 1058<br>
-Emergency Tel (Health Promotion Board): 6435 3782
 
 **<u>Operating Hours on Alternate Week</u>**<br>
-* **Monday to Wednesday**<br> 
-Morning: 8.00am to 1.00pm <br>
-Afternoon: 2.00pm to 5.30pm <br>
-
-* **Thursday to Friday**<br> 
+* **Monday, Wednesday and Friday**<br> 
 Morning: 8.00am to 1.00pm <br>
 Afternoon: 2.00pm to 5.00pm <br>
+
+* **Tuesday and Thursday**<br> 
+Morning: 8.00am to 1.00pm <br>
+Afternoon: 2.00pm to 5.30pm <br>
 
 If your child requires urgent dental treatment and the clinic is closed, please call the following Dental Clinic: <br>
 		
