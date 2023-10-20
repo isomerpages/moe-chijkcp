@@ -8,7 +8,7 @@ description: ""
 
 All Primary 3 students will undergo swimming lessons as part of the PE Programme which will be held during curriculum time during PE periods. This is in line with MOE's latest directive regarding water safety and survival.
 
-[Read more about it here.](https://www.moe.gov.sg/news/parliamentary-replies/20210405-swimsafer-2-programme)
+[Read more about it here.](https://www.activesgcircle.gov.sg/academies-clubs/initiatives/swimsafer)
 
 The objectives of the Swimming Programme, aligned to the learning outcomes of the PE Syllabus are:
 
