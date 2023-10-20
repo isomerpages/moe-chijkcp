@@ -5,10 +5,10 @@ description: ""
 third_nav_title: Physical Sports
 ---
 ## Sailing
+*Not recruiting new members <br>
 
 **(Non-Modular CCA)**
 
-  
 
 **LEVEL:**&nbsp;P3 to P6<br>
 **DAY:**&nbsp;Tuesday<br>

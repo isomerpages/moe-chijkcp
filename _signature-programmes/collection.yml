@@ -2,10 +2,10 @@ collections:
   signature-programmes:
     output: true
     order:
+      - Girls Like Tech.md
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
       - Religious Education.md
       - Joy for Learning.md
-      - Girls Like Tech.md
       - Save the Earth.md
       - Art in Claynation.md

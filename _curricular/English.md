@@ -28,7 +28,7 @@ To build a strong foundation and rich language, we use a variety of print and no
 
   
 
-P1: Speech & Drama<br>
+P1: Speech &amp; Drama<br>
 P2: Readers' Theatre<br>
 P3: Story Telling<br>
 P4: Public Speaking<br>
@@ -41,7 +41,7 @@ Students are encouraged to read widely and given various platforms to apply the 
 
   
 
-Students who are good in verbal and writing skills are identified, nurtured and given showcase opportunities though competitions such as the PESA, Creative Writing Competitions, HAIKU Poetry Writing Competitions, National Spelling Championship, National Lit Quiz, Junior Orators and Wits & Words.
+Students who are good in verbal and writing skills are identified, nurtured and given showcase opportunities though competitions such as the PESA, Creative Writing Competitions, HAIKU Poetry Writing Competitions, National Spelling Championship, National Lit Quiz, Junior Orators and Wits &amp; Words.
 
 
 ![](/images/Curricular/English_1.jpg)

@@ -25,7 +25,7 @@ third_nav_title: Physical Sports
 
 By the end of the course, students will be able to develop basic ball handling in catching and passing, movement and manipulative skills.
 
-### Netball – Developmental / School Team
+### Netball – Developmental Team
 
 
 **(Non-Modular CCA)**

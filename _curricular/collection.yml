@@ -2,7 +2,6 @@ collections:
   curricular:
     output: true
     order:
-      - Curricular.md
       - English.md
       - Mother Tongue.md
       - Mathematics.md
