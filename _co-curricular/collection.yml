@@ -2,7 +2,7 @@ collections:
   co-curricular:
     output: true
     order:
-      - Co Curricular.md
+      - Co Curricular Activities.md
       - Information Communications Technology (ICT).md
       - The School Library.md
       - CCE/.keep
