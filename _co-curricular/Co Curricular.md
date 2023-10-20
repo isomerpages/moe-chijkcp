@@ -3,7 +3,7 @@ title: Co Curricular
 permalink: /our-ij-experience/co-curricular/
 description: ""
 ---
-### Co-Curricular
+### Co-Curricular Activities
 
 As part of the school’s effort to provide a holistic education for our students, all P3 to P6 students are strongly encouraged to join a CCA. Through active participation in the CCAs, they will learn life skills such as confidence, perseverance and resilience.
 
