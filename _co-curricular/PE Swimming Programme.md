@@ -3,16 +3,12 @@ title: PE Swimming Programme
 permalink: /our-ij-experience/co-curricular/pe-swimming-programme/
 description: ""
 ---
-
-
 ## PE-Swimming Programme
 
 
 All Primary 3 students will undergo swimming lessons as part of the PE Programme which will be held during curriculum time during PE periods. This is in line with MOE's latest directive regarding water safety and survival.
 
-[Read more about it here.](https://www.channelnewsasia.com/news/singapore/swimsafer-programme-revamp-needed-survival-expert-10089340) (BROKEN LINK)
-
-  
+[Read more about it here.](https://www.activesgcircle.gov.sg/academies-clubs/initiatives/swimsafer)  
 
 The objectives of the Swimming Programme, aligned to the learning outcomes of the PE Syllabus are:
 
@@ -21,11 +17,11 @@ The objectives of the Swimming Programme, aligned to the learning outcomes of th
 
   
 
-The criteria to be awarded a SwimSafer Award consists of **<u>passing both</u>** an online theory test (results are valid for 1 year), as well as a physical swimming test which will be conducted during the last lesson.
+The criteria to be awarded a SwimSafer Award consists of&nbsp;**<u>passing both</u>**&nbsp;an online theory test (results are valid for 1 year), as well as a physical swimming test which will be conducted during the last lesson.
 
   
 
-This programme is **<u>compulsory</u>** for all P3 students unless certified medically unfit and a Doctor's letter is provided.
+This programme is&nbsp;**<u>compulsory</u>**&nbsp;for all P3 students unless certified medically unfit and a Doctor's letter is provided.
 
   
 
@@ -33,9 +29,9 @@ For students who have already attained a SwimSafer 2.0 Gold Award (also referred
 
   
 
-For more information regarding the SwimSafer Programme, you may [click here](https://swimsafer.com.sg/)
+For more information regarding the SwimSafer Programme, you may&nbsp;[click here](https://swimsafer.com.sg/)
 
-For more information regarding the SSPA Programme, you may [click here](http://www.swimming.org.sg/SSA/SWIMMING/Singapore-Swimming-Proficiency-Awards/Objectives.aspx)
+For more information regarding the SSPA Programme, you may&nbsp;[click here](http://www.swimming.org.sg/SSA/SWIMMING/Singapore-Swimming-Proficiency-Awards/Objectives.aspx)
 
   
 
