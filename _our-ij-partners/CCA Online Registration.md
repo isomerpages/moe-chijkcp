@@ -3,25 +3,21 @@ title: CCA Online Registration
 permalink: /parents-portal/permalink/
 description: ""
 ---
-CCA Online Registration for 2023
+CCA Online Registration for 2024
 ====
 
-Online registration will start on 16 Nov at 5 p.m. and end on 23 Nov at 5 p.m.
+Online registration will start on 1 Nov 2023 and end on 17 Nov 2023. More details will be given via Parents Gateway.
 
-Students may indicate up to 3 choices in order of their preference, 1 being the most preferred choice.&nbsp;**If the number of applicants is more than the available slots, balloting will be carried out**. The outcome of the registration will be made known in January 2023.
+**If the number of applicants is more than the available slots, balloting will be carried out**.
 
-Students will register online via the registration link below. The link will only be published from 16 Nov at 5 p.m. to 23 Nov at 5 p.m.
+The outcome of the registration will be made known on 5 January 2024.
 
-  
+For enquiry, please contact HOD PE/CCA, Mdm Rozana via email ([rozana\_kamsari@moe.edu.sg](mailto:rozana_kamsari@moe.edu.sg)).
 
-Registration link:&nbsp;[https://forms.moe.edu.sg/forms/vNlDAo](https://forms.moe.edu.sg/forms/vNlDAo)
+**Important notes:**
 
-Please make sure you select "STUDENTS" to proceed with the registration.
+* Students are required to commit to the CCA of their choice for one semester (Modular CCA) or at least one year (Non-Modular CCA).
 
-<img src="/images/CCARegistration2023.jpg" style="width:50%" align="left">
-		
+* No change is allowed after the commencement of the CCA, unless for medical reason.
 
-<br><br><br><br><br><br><br><br><br><br>
-<br>
-
-For enquiry, please contact Miss Rina Oon via email ([oon\_ai\_lin\_rina@moe.edu.sg](mailto:oon_ai_lin_rina@moe.edu.sg)).
+* Students who missed the registration can register for a CCA from 2 Jan 2024 to 5 Jan 2024. They can only choose from what is available, first come first serve. Please submit your request to HOD PE/CCA
