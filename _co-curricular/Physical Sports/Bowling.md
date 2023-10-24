@@ -6,7 +6,7 @@ third_nav_title: Physical Sports
 ---
 ## Bowling
 
-**(Non-Modular CCA)**
+**(Modular CCA)**
 
   
 

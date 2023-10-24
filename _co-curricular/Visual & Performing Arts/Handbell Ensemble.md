@@ -11,10 +11,11 @@ third_nav_title: Visual & Performing Arts
   
 
 **LEVEL:**&nbsp;P3 to P6<br>
-**DAY:**&nbsp;Tuesday<br>
+**DAY:**&nbsp;Tuesday*<br>
 **DAY:**&nbsp;2.30 pm – 4.30 pm<br>
 **VENUE:**&nbsp;School<br>
-**TEACHERS I/C:**&nbsp;Ms Poon Mun Ye\* &amp; Ms Angeline Grace
+**TEACHERS I/C:**&nbsp;Ms Poon Mun Ye\* &amp; Ms Angeline Grace<br>
+*Note: For SYF year, additional session on Friday from beginning of the year to SYF 
 
  
 

@@ -25,23 +25,23 @@ Bus Services at Gate 2 (along Marine Parade Road): 13, 15, 16, 31, 36, 43, 47, 4
 
 **Pacific Bookstores Pte Ltd**<br>
 Tel: 6346 2095<br>
-Operating Hours: Monday to Friday (8.30 am – 4 pm)<br>
+Operating Hours: Monday to Friday (8.30 a.m. – 4 p.m.)<br>
 *Students are able to purchase the PE attire from the School Bookshop:*<br>
 * 8.30 a.m. to 4.00 p.m. (Monday, Tuesday, Thursday &amp; Friday)
 * 8.30 a.m. to 3.00 p.m. (Wednesday)
 * 12.30 p.m. to 1.30 p.m. (Closed for Lunch)
 
 *Parents are allowed to visit the Bookshop only at the following times:*
-* 2.00 p.m. to 4.00 p.m. (Monday, Tuesday, Thursday &amp; Friday)
-* 2.00 p.m. to 3.00 p.m. (Wednesday)
+* Monday, Tuesday, Thursday &amp; Friday: 2.00p.m. - 3.45 p.m.
+
   
-#### School Bus Service
+#### School Bus
 
 
 **Darren Lim Transport**<br>
 Point-of-Contact:<br>
 * Mr Darren Lim: 9028 5548<br>
-* Mr Shawn Teo: 8189 6168<br>
+* Ms Mary Mak: 9450 0580<br>
   
 
 #### School Uniform &amp; PE Attire
@@ -49,7 +49,7 @@ Point-of-Contact:<br>
 
 **Magdalene Sewing Centre Pte Ltd**<br>
 5000, Ang Mo Kio Avenue 5, Techplace 2 #05-09, Singapore 569870<br>
-Tel: 8630499 (WhatsApp only) / 6293 5840<br>
+Tel: 8638 0499 (WhatsApp only) / 6293 5840<br>
 Operating Hours: Monday to Friday (9.00 a.m. – 4.00 p.m.)<br>
 The school uniform is being sold at the School Bookshop as follow: <br>
 * 2.00 p.m. to 4.00 p.m. (Monday, Tuesday, Thursday &amp; Friday)
@@ -76,12 +76,12 @@ Tel: 8940 1058<br>
 
 **<u>Operating Hours on Alternate Week</u>**<br>
 * **Monday, Wednesday and Friday**<br> 
-Morning: 8.00am to 1.00pm <br>
-Afternoon: 2.00pm to 5.00pm <br>
+Morning: 8.00 a.m. to 1.00 p.m. <br>
+Afternoon: 2.00 p.m. to 5.00 p.m. <br>
 
 * **Tuesday and Thursday**<br> 
-Morning: 8.00am to 1.00pm <br>
-Afternoon: 2.00pm to 5.30pm <br>
+Morning: 8.00 a.m. to 1.00 p.m. <br>
+Afternoon: 2.00 p.m. to 5.30 p.m. <br>
 
 If your child requires urgent dental treatment and the clinic is closed, please call the following Dental Clinic: <br>
 		

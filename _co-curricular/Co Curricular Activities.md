@@ -102,7 +102,7 @@ Parents are to make their own transport arrangement after CCAs.
       <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td>
     </tr>
     <tr>
-      <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Dance X'posure<br>
+      <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Dance Modular<br>
       (Modular)<br></td>
       <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td>
       <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Football *NEW<br>
@@ -122,7 +122,8 @@ Parents are to make their own transport arrangement after CCAs.
       (Non-Modular)<br></td>
       <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td>
       <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">*Sailing<br>
-      (Non-Modular)<br></td>
+      (Non-Modular)<br>
+			*Not recruiting new members</td>
       <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td>
     </tr>
     <tr>
@@ -140,7 +141,7 @@ Parents are to make their own transport arrangement after CCAs.
       <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Track &amp; Field<br>
       (Non-Modular for P4 - P6,<br>
       Modular for P3)<br>
-      *Not recruiting new members</td>
+      </td>
       <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td>
     </tr>
   </tbody>

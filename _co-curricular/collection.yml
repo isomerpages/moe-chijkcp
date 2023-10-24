@@ -3,26 +3,18 @@ collections:
     output: true
     order:
       - Co Curricular Activities.md
-      - Information Communications Technology (ICT).md
-      - The School Library.md
-      - CCE/.keep
-      - CCE/Character & Citizenship Education.md
-      - CCE/Character Development.md
-      - CCE/Citizenship Education.md
-      - CCE/Sexuality Education Programme for Primary 5.md
-      - CCE/Sexuality Education Programme for Primary 6.md
       - Physical Sports/.keep
       - Physical Sports/Artistic Gymnastics.md
       - Physical Sports/Badminton.md
       - Physical Sports/Bowling.md
+      - Physical Sports/Football.md
       - Physical Sports/Netball.md
       - Physical Sports/Sailing.md
       - Physical Sports/Track and Field.md
       - Physical Sports/Sports Club.md
       - Clubs & Societies/.keep
-      - Clubs & Societies/Science and Math Club.md
-      - Clubs & Societies/Home Crafts.md
       - Clubs & Societies/Innovation.md
+      - Clubs & Societies/Science and Math Club.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Brownies.md
       - Visual & Performing Arts/.keep
@@ -31,8 +23,15 @@ collections:
       - Visual & Performing Arts/Drama.md
       - Visual & Performing Arts/Dance.md
       - Visual & Performing Arts/Handbell Ensemble.md
+      - CCE/.keep
+      - CCE/Character & Citizenship Education.md
+      - CCE/Character Development.md
+      - CCE/Citizenship Education.md
+      - CCE/Sexuality Education Programme for Primary 5.md
+      - CCE/Sexuality Education Programme for Primary 6.md
+      - Information Communications Technology (ICT).md
+      - The School Library.md
       - Sports Safety.md
       - CCA Achievements.md
       - House System.md
       - PAL @ CHIJ (Katong) Primary.md
-      - PE Swimming Programme.md
