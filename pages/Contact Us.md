@@ -49,7 +49,7 @@ Point-of-Contact:<br>
 
 **Magdalene Sewing Centre Pte Ltd**<br>
 5000, Ang Mo Kio Avenue 5, Techplace 2 #05-09, Singapore 569870<br>
-Tel: 8630499 (WhatsApp only) / 6293 5840<br>
+Tel: 8638 0499 (WhatsApp only) / 6293 5840<br>
 Operating Hours: Monday to Friday (9.00 a.m. – 4.00 p.m.)<br>
 The school uniform is being sold at the School Bookshop as follow: <br>
 * 2.00 p.m. to 4.00 p.m. (Monday, Tuesday, Thursday &amp; Friday)
