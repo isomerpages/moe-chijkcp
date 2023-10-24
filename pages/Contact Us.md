@@ -76,12 +76,12 @@ Tel: 8940 1058<br>
 
 **<u>Operating Hours on Alternate Week</u>**<br>
 * **Monday, Wednesday and Friday**<br> 
-Morning: 8.00am to 1.00pm <br>
-Afternoon: 2.00pm to 5.00pm <br>
+Morning: 8.00 a.m. to 1.00 p.m. <br>
+Afternoon: 2.00 p.m. to 5.00 p.m. <br>
 
 * **Tuesday and Thursday**<br> 
-Morning: 8.00am to 1.00pm <br>
-Afternoon: 2.00pm to 5.30pm <br>
+Morning: 8.00 a.m. to 1.00 p.m. <br>
+Afternoon: 2.00 p.m. to 5.30 p.m. <br>
 
 If your child requires urgent dental treatment and the clinic is closed, please call the following Dental Clinic: <br>
 		
