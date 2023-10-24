@@ -10,12 +10,16 @@ third_nav_title: Physical Sports
 
 **DAY**: Tuesday &amp; Friday<br>
 **VENUE:**&nbsp;School / Kallang Practice Track<br>
-																																																														**TIME:**&nbsp;2.00 pm - 4.00 pm (School) or Depart from school: 2.00 pm - Arrive back in school: 4.40 pm (Kallang Practice Track)<br>
+																																																														**TIME:**&nbsp;2.00 pm - 4.00 pm (School) or<br> Depart from school: 2.00 pm - Arrive back in school: 4.40 pm (Kallang Practice Track)<br>
 **TEACHERS I/C:**&nbsp;\*Mdm Hazel Han, Miss Jasmine Lai, Miss Li Meina &amp; Miss Ng Xin Rong
 
 ### SYNOPSIS:
 
 *Modular CCA for P3 only
+
+**DAY**: Friday<br>
+**VENUE:**&nbsp;School / Kallang Practice Track<br>
+																																																														**TIME:**&nbsp;2.00 pm - 4.00 pm (School) or <br>Depart from school: 2.00 pm - Arrive back in school: 4.40 pm (Kallang Practice Track)<br>
 
 Track &amp; Field is a sport that includes athletic contests established on the skills of running, jumping and throwing. In Track &amp;  Field, consistency is key to performing in the Track &amp; Field event(s), while developing values and attributes such as grit, determination, resilience and teamwork that will prepare students for a rapidly changing world. Taking part in competitions and the National School Games has also exposed the athletes to varied experiences.
 	
