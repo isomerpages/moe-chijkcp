@@ -15,7 +15,8 @@ third_nav_title: Visual & Performing Arts
 **DAY:**&nbsp;Tuesday<br>
 **TIME:**&nbsp;2.00 pm – 4.00 pm<br>
 **VENUE:**&nbsp;School<br>
-**TEACHERS I/C:**&nbsp;\*Mrs Josephine Kua &amp; Ms Faith Tan
+**TEACHERS I/C:**&nbsp;\*Mrs Josephine Kua &amp; Ms Faith Tan <br>
+*Note: For SYF year, additional session on Thursday from beginning of the year to SYF
 
 ### SYNOPSIS:
 
