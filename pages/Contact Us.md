@@ -25,15 +25,15 @@ Bus Services at Gate 2 (along Marine Parade Road): 13, 15, 16, 31, 36, 43, 47, 4
 
 **Pacific Bookstores Pte Ltd**<br>
 Tel: 6346 2095<br>
-Operating Hours: Monday to Friday (8.30 am – 4 pm)<br>
+Operating Hours: Monday to Friday (8.30 a.m. – 4 p.m.)<br>
 *Students are able to purchase the PE attire from the School Bookshop:*<br>
 * 8.30 a.m. to 4.00 p.m. (Monday, Tuesday, Thursday &amp; Friday)
 * 8.30 a.m. to 3.00 p.m. (Wednesday)
 * 12.30 p.m. to 1.30 p.m. (Closed for Lunch)
 
 *Parents are allowed to visit the Bookshop only at the following times:*
-* 2.00 p.m. to 3.45 p.m. (Monday, Tuesday, Thursday &amp; Friday)
-* 2.00 p.m. to 2.45 p.m. (Wednesday)
+* Monday, Tuesday, Thursday &amp; Friday: 2.00p.m. - 3.45 p.m.
+
   
 #### School Bus
 
