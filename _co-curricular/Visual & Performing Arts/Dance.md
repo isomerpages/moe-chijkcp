@@ -12,7 +12,7 @@ third_nav_title: Visual & Performing Arts
   
 
 **LEVEL:**&nbsp;P3 to P6<br>
-**DAY:**&nbsp;Tuesday<br>
+**DAY:**&nbsp;Tuesday*<br>
 **TIME:**&nbsp;2.00 pm – 4.00 pm<br>
 **VENUE:**&nbsp;School<br>
 **TEACHERS I/C:**&nbsp;\*Mrs Josephine Kua &amp; Ms Faith Tan <br>
