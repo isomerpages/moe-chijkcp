@@ -3,7 +3,7 @@ title: Contact Us
 permalink: /contact-chij/
 description: ""
 ---
-																																																										#### Locate Us
+#### Locate Us
 
 <iframe loading="lazy" allowfullscreen="" style="border:0;" height="600" width="800" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7812177215555!2d103.90646516579453!3d1.3064155590330229!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1874dca6e5db%3A0x1eaa79a189114d82!2sCHIJ%20Katong%20(Primary)!5e0!3m2!1sen!2ssg!4v1654502411410!5m2!1sen!2ssg"></iframe>
 
@@ -49,7 +49,7 @@ Point-of-Contact:<br>
 
 **Magdalene Sewing Centre Pte Ltd**<br>
 5000, Ang Mo Kio Avenue 5, Techplace 2 #05-09, Singapore 569870<br>
-Tel: 8630499 (WhatsApp only) / 6293 5840<br>
+Tel: 8638 0499 (WhatsApp only) / 6293 5840<br>
 Operating Hours: Monday to Friday (9.00 a.m. – 4.00 p.m.)<br>
 The school uniform is being sold at the School Bookshop as follow: <br>
 * 2.00 p.m. to 4.00 p.m. (Monday, Tuesday, Thursday &amp; Friday)
