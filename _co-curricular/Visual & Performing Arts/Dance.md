@@ -35,7 +35,7 @@ Students will be required to attend extra practices prior to performances.
 ![](/images/Co%20Curricular/Dance%20SYF.jpg)
 
 
-## Dance Xposure
+## Dance Modular
 
 
 **(Modular CCA)**
