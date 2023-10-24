@@ -3,14 +3,6 @@ collections:
     output: true
     order:
       - Co Curricular Activities.md
-      - Information Communications Technology (ICT).md
-      - The School Library.md
-      - CCE/.keep
-      - CCE/Character & Citizenship Education.md
-      - CCE/Character Development.md
-      - CCE/Citizenship Education.md
-      - CCE/Sexuality Education Programme for Primary 5.md
-      - CCE/Sexuality Education Programme for Primary 6.md
       - Physical Sports/.keep
       - Physical Sports/Artistic Gymnastics.md
       - Physical Sports/Badminton.md
@@ -31,6 +23,14 @@ collections:
       - Visual & Performing Arts/Drama.md
       - Visual & Performing Arts/Dance.md
       - Visual & Performing Arts/Handbell Ensemble.md
+      - CCE/.keep
+      - CCE/Character & Citizenship Education.md
+      - CCE/Character Development.md
+      - CCE/Citizenship Education.md
+      - CCE/Sexuality Education Programme for Primary 5.md
+      - CCE/Sexuality Education Programme for Primary 6.md
+      - Information Communications Technology (ICT).md
+      - The School Library.md
       - Sports Safety.md
       - CCA Achievements.md
       - House System.md
