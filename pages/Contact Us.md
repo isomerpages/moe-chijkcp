@@ -32,16 +32,16 @@ Operating Hours: Monday to Friday (8.30 am – 4 pm)<br>
 * 12.30 p.m. to 1.30 p.m. (Closed for Lunch)
 
 *Parents are allowed to visit the Bookshop only at the following times:*
-* 2.00 p.m. to 4.00 p.m. (Monday, Tuesday, Thursday &amp; Friday)
-* 2.00 p.m. to 3.00 p.m. (Wednesday)
+* 2.00 p.m. to 3.45 p.m. (Monday, Tuesday, Thursday &amp; Friday)
+* 2.00 p.m. to 2.45 p.m. (Wednesday)
   
-#### School Bus Service
+#### School Bus
 
 
 **Darren Lim Transport**<br>
 Point-of-Contact:<br>
 * Mr Darren Lim: 9028 5548<br>
-* Mr Shawn Teo: 8189 6168<br>
+* Ms Mary Mak: 9450 0580<br>
   
 
 #### School Uniform &amp; PE Attire
@@ -49,7 +49,7 @@ Point-of-Contact:<br>
 
 **Magdalene Sewing Centre Pte Ltd**<br>
 5000, Ang Mo Kio Avenue 5, Techplace 2 #05-09, Singapore 569870<br>
-Tel: 8638499 (WhatsApp only) / 6293 5840<br>
+Tel: 8630499 (WhatsApp only) / 6293 5840<br>
 Operating Hours: Monday to Friday (9.00 a.m. – 4.00 p.m.)<br>
 The school uniform is being sold at the School Bookshop as follow: <br>
 * 2.00 p.m. to 4.00 p.m. (Monday, Tuesday, Thursday &amp; Friday)
