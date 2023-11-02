@@ -25,7 +25,7 @@ Interested applicants must fulfil the following criteria:
 
 * Successful applicant and stall assistant must possess the WSQ Food Hygiene Certificate.
 
-The following documents to be submitted via&nbsp;[chijktps@moe.edu.sg](mailto:chijktps@moe.edu.sg) or hand delivered to the school’s General Office by **31 Aug 2023**.
+The following documents to be submitted via&nbsp;[chijktps@moe.edu.sg](mailto:chijktps@moe.edu.sg) or hand delivered to the school’s General Office by **31 January 2024**.
 
 1. Complete the Application Form
 2. Photocopy of NRIC (front and back)
