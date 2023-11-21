@@ -16,7 +16,7 @@ sections:
           description: School Events & Activities
           url: https://www.chijkcp.moe.edu.sg/news-and-events/schoolcalendar/
   - infobar:
-      title: Chairperson / CHIJ Board of Management
+      title: Chairperson / IJ Board of Management
       subtitle: 2023 year end message from
       id: infobar
       button: Click to read
