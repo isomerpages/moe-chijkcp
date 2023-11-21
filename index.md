@@ -15,6 +15,13 @@ sections:
         - title: SCHOOL CALENDAR
           description: School Events & Activities
           url: https://www.chijkcp.moe.edu.sg/news-and-events/schoolcalendar/
+  - infobar:
+      title: Ms Vivienne Lim Chairperson/IJBOM
+      subtitle: 2023 year end message
+      id: infobar
+      description: " "
+      button: Click to read
+      url: https://www.chijkcp.moe.edu.sg/announcements/ijbom/
   - infopic:
       title: CHIJ (Katong) Primary Facebook
       id: infopic
