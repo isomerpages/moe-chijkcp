@@ -2,6 +2,6 @@
 title: 2022 Year End Message from IJBOM Chairperson
 permalink: /announcements/IJBOM/
 description: ""
+variant: markdown
 ---
-
-![](/images/Mrs%20Simon/2022%20Year%20End%20Message%20from%20IJBOM%20Chairperson%20(17Oct22).jpg)
+![](/images/2_KCP___2023_Year_End_Message_from_IJBOM_Chairperson.png)
