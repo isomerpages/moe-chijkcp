@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Safety and Security Briefing.md
       - Announcements.md
       - 2023 Year End Message from IJBOM Chairperson.md
       - School Canteen Advertisement.md
