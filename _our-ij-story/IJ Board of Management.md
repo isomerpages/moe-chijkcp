@@ -2,8 +2,8 @@
 title: IJ Board of Management
 permalink: /our-ij-story/ij-board-of-management/
 description: ""
+variant: markdown
 ---
 ## IJ Board of Management
 
-
-![](/images/ij%20bom%20members%20photo%20chart%2020230822%20(final).jpg)
+![](/images/Our%20IJ%20Story/IJ_BOM_Members_Photo_Chart_20240102.jpg)
