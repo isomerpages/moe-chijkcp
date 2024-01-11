@@ -3,6 +3,7 @@ title: Sports Club
 permalink: /our-ij-experience/co-curricular/physical-sports/sports-club/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
 ## Sports Club
 
@@ -15,7 +16,7 @@ third_nav_title: Physical Sports
 **TIME**: 2.00 pm - 4.00 pm<br>
 _\*Students will be informed should there be a later dismissal time, depending on activity. For such cases, please make your own transport arrangement._ <br>
 **VENUE:**&nbsp;School / External Venue<br>
-**TEACHERS I/C:**&nbsp;\*Mrs Heng May May &amp; Miss Syazana
+**TEACHERS I/C:**&nbsp;\*Mdm Ng May May &amp; Ms Lim Meixuan
 
 ### SYNOPSIS:
 
