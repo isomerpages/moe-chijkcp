@@ -2,7 +2,8 @@
 title: Science and Math Club
 permalink: /our-ij-experience/co-curricular/clubs-n-societies/scienceandmathclub/
 description: ""
-third_nav_title: Clubs &amp; Societies
+third_nav_title: Clubs & Societies
+variant: markdown
 ---
 ## Science / Math Club
 
@@ -14,7 +15,7 @@ third_nav_title: Clubs &amp; Societies
 **DAY:**&nbsp;Friday<br>
 **TIME:**&nbsp;2.00 - 4.00 pm<br>
 **VENUE:**&nbsp;Science Room<br>
-**TEACHER I/C:**&nbsp;Mr Yip Chuen Yen\*, Mrs Heeran Soloman &amp; Mrs Jaclyn Guo
+**TEACHER I/C:**&nbsp;Mr Yip Chuen Yen &amp; Mr Chin Lip Nyen
 
 ### Synopsis:
 
