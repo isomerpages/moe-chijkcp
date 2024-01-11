@@ -3,6 +3,7 @@ title: Drama
 permalink: /our-ij-experience/co-curricular/visual-n-performing-arts/drama/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
 ## Drama
 
@@ -12,7 +13,7 @@ third_nav_title: Visual & Performing Arts
 **DAY:**&nbsp; Selected Friday<br>
 **TIME:**&nbsp;2.15 pm - 3.55 pm<br>
 **VENUE:**&nbsp;School<br>
-**TEACHERS I/C:**&nbsp;\*Mr E. Choo &amp; Mdm S. Yong
+**TEACHERS I/C:**&nbsp;Mdm Sharon Yong &amp; Mrs Heeran Soloman
 
 ### SYNOPSIS:
 
