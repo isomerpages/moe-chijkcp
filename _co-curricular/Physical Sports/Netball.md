@@ -26,7 +26,7 @@ variant: markdown
 
 By the end of the course, students will be able to develop basic ball handling in catching and passing, movement and manipulative skills.
 
-### Netball – Developmental Team
+### Netball – Development Team
 
 
 **(Non-Modular CCA)**
@@ -37,7 +37,7 @@ By the end of the course, students will be able to develop basic ball handling i
 **DAY:**&nbsp;Tuesday and Friday<br>
 **TIME:**&nbsp;2.00 pm - 4.00 pm<br>
 **VENUE:**&nbsp;School<br>
-**TEACHERSI/C:**&nbsp;Miss Daisy Ng\*, Miss Sherlyn Yeo, Ms Pamela Tan
+**TEACHERSI/C:**&nbsp;Miss Daisy Ng\*, Miss Sherlyn Yeo, Ms Charlene Lee &amp; Mdm Zur Amira
 
 ### SYNOPSIS:
 
