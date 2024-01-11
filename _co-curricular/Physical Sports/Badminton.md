@@ -3,6 +3,7 @@ title: Badminton
 permalink: /our-ij-experience/co-curricular/physical-sports/badminton/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
 ## Badminton
 
@@ -14,7 +15,7 @@ third_nav_title: Physical Sports
 **DAY:**&nbsp;Friday<br>
 **TIME:**&nbsp;2.00 pm - 4.00 pm<br>
 **VENUE:**&nbsp;School<br>
-**TEACHERS I/C:**&nbsp;\*Mr Chin Lip Nyen &amp; Miss Lim Mei Xuan
+**TEACHERS I/C:**&nbsp;\*Mdm Tan Lee Kin &amp; Mrs Jaclyn Guo
 
 ### SYNOPSIS:
 
