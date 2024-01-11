@@ -3,6 +3,7 @@ title: Football
 permalink: /co-curricular/physical-sports/permalink/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
 ## Football
 
@@ -14,7 +15,7 @@ third_nav_title: Physical Sports
 **DAY:**&nbsp;Tuesday<br>
 **TIME:**&nbsp;2.00 pm - 4.00 pm<br>
 **VENUE:**&nbsp;School (to be confirmed)<br>
-**TEACHERS I/C:**&nbsp;(to be confirmed)
+**TEACHERS I/C:**&nbsp;Mr Farhan &amp; Mdm Shida
 
 ### SYNOPSIS:
 
