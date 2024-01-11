@@ -3,6 +3,7 @@ title: Handbell Ensemble
 permalink: /our-ij-experience/co-curricular/visual-n-performing-arts/handbell-ensemble/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
 ## Handbell Ensemble
 
@@ -14,7 +15,7 @@ third_nav_title: Visual & Performing Arts
 **DAY:**&nbsp;Tuesday*<br>
 **DAY:**&nbsp;2.30 pm – 4.30 pm<br>
 **VENUE:**&nbsp;School<br>
-**TEACHERS I/C:**&nbsp;Ms Poon Mun Ye\* &amp; Ms Angeline Grace<br>
+**TEACHERS I/C:**&nbsp;Ms Angeline Grace, Mrs Magdalene Tan &amp; Ms Poon Mun Ye<br>
 *Note: For SYF year, additional session on Friday from beginning of the year to SYF 
 
  
