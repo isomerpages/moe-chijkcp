@@ -3,6 +3,7 @@ title: Bowling
 permalink: /our-ij-experience/co-curricular/physical-sports/bowling/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
 ## Bowling
 
@@ -21,7 +22,7 @@ Friday: 2.00 - 3.45 pm (training duration)
   
 
 **VENUE:**&nbsp;Chinese Swimming Club<br>
-**TEACHERS I/C:**&nbsp;\*Mdm Toh Chiew Yen, Miss Siti Nabilah, Ms Ng Huimin &amp; Mdm Zhai Yuan
+**TEACHERS I/C:**&nbsp;\*Mdm Toh Chiew Yen, Miss Siti Nabilah, Mdm Zhai Yuan &amp; Mdm Rahat
 
 ### SYNOPSIS:
 
