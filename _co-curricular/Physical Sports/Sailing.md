@@ -3,6 +3,7 @@ title: Sailing
 permalink: /our-ij-experience/co-curricular/physical-sports/sailing/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
 ## Sailing
 *Not recruiting new members <br>
@@ -14,7 +15,7 @@ third_nav_title: Physical Sports
 **DAY:**&nbsp;Tuesday<br>
 **TIME:**&nbsp;2.00 pm – 5.00 pm (Training duration)<br>
 **VENUE**: External Venue<br>
-**TEACHERS I/C:**&nbsp;\*Mr Farhan &amp; Mdm Vanitha
+**TEACHERS I/C:**&nbsp;\ Mdm Vanitha &amp; Mrs Marjorie Seek
 
 ### SYNOPSIS:
 
