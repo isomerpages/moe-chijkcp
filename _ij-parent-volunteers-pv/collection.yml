@@ -2,5 +2,4 @@ collections:
   ij-parent-volunteers-pv:
     output: true
     order:
-      - Central Parent Council (CPC).md
       - Guidelines for Parent Volunteers (PV).md
