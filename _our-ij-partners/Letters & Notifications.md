@@ -15,6 +15,8 @@ variant: markdown
 
 [BOY PTM Upper Primary](/files/Parents'%20Webinar/2024_BOY_PTM__UPYH_PRESENTATION.pdf)
 
+[Curriculum Matters P1](/files/Parents'%20Webinar/Curriculum_Matters__P1_Day_1_2024.pdf)
+
 ##### **Parent Child Teacher Conference (PCTC)**
 
 [PCTC Parents' Briefing](/files/2023%20chij%20pctc%20briefing_p1&amp;p2.pdf)
