@@ -15,7 +15,7 @@ variant: markdown
 **DAY:**&nbsp;Friday<br>
 **TIME:**&nbsp;2.00 pm - 4.00 pm<br>
 **VENUE:**&nbsp;School<br>
-**TEACHERS I/C:**&nbsp;Mrs Macrina Fernandez &amp; Mdm Nazeerah
+**TEACHERS I/C:**&nbsp;Mrs Macrina Fernandez &amp; Mdm Nazeerah Alla'udin
 
 ### SYNOPSIS:
 
