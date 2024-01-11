@@ -3,6 +3,7 @@ title: Netball
 permalink: /our-ij-experience/co-curricular/physical-sports/netball/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
 ## Netball
 
@@ -18,7 +19,7 @@ third_nav_title: Physical Sports
 **DAY:**&nbsp;Friday<br>
 **TIME:**&nbsp;2.00 pm - 4.00 pm<br>
 **VENUE:**&nbsp;School<br>
-**TEACHERS I/C:**&nbsp;Mdm Li Li\* &amp; Mdm Tan Lee Kin
+**TEACHERS I/C:**&nbsp;Mdm Li Li\* &amp; Miss Syazana
 
 ### SYNOPSIS:
 
