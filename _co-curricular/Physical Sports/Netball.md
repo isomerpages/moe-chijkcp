@@ -3,6 +3,7 @@ title: Netball
 permalink: /our-ij-experience/co-curricular/physical-sports/netball/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
 ## Netball
 
@@ -18,14 +19,14 @@ third_nav_title: Physical Sports
 **DAY:**&nbsp;Friday<br>
 **TIME:**&nbsp;2.00 pm - 4.00 pm<br>
 **VENUE:**&nbsp;School<br>
-**TEACHERS I/C:**&nbsp;Mdm Li Li\* &amp; Mdm Tan Lee Kin
+**TEACHERS I/C:**&nbsp;Mdm Li Li\* &amp; Miss Syazana
 
 ### SYNOPSIS:
 
 
 By the end of the course, students will be able to develop basic ball handling in catching and passing, movement and manipulative skills.
 
-### Netball – Developmental Team
+### Netball – Development Team
 
 
 **(Non-Modular CCA)**
@@ -36,7 +37,7 @@ By the end of the course, students will be able to develop basic ball handling i
 **DAY:**&nbsp;Tuesday and Friday<br>
 **TIME:**&nbsp;2.00 pm - 4.00 pm<br>
 **VENUE:**&nbsp;School<br>
-**TEACHERSI/C:**&nbsp;Miss Daisy Ng\*, Miss Sherlyn Yeo, Ms Pamela Tan
+**TEACHERSI/C:**&nbsp;Miss Daisy Ng\*, Miss Sherlyn Yeo, Ms Charlene Lee &amp; Mdm Zur Amira
 
 ### SYNOPSIS:
 

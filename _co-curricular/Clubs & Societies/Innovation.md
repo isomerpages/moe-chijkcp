@@ -2,7 +2,8 @@
 title: Innovation
 permalink: /our-ij-experience/co-curricular/clubs-n-societies/innovation/
 description: ""
-third_nav_title: Clubs &amp; Societies
+third_nav_title: Clubs & Societies
+variant: markdown
 ---
 ## Innovation
 
@@ -14,7 +15,7 @@ third_nav_title: Clubs &amp; Societies
 **DAY:**&nbsp;Friday<br>
 **TIME:**&nbsp;2.00 - 4.00 pm<br>
 **VENUE:**&nbsp;CyberLab<br>
-**TEACHERS I/C:**&nbsp;Ms Angelia Zhang\*, Ms Ng Huimin
+**TEACHERS I/C:**&nbsp;Ms Angelia Zhang &amp; Ms Ng Huimin
 
 ### SYNOPSIS:
 

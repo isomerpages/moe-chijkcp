@@ -8,7 +8,7 @@ description: ""
 #### OUR MISSION STATEMENT
 
 
-Cultivating an environment of commitment and service where families, teachers & the community bond, learn, grow and achieve.
+Cultivating an environment of commitment and service where families, teachers &amp; the community bond, learn, grow and achieve.
 
 #### OUR VISION
 
@@ -26,7 +26,6 @@ Please note that to join as an IJ Katong Parent Volunteer, your child must be su
 
   
 
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSeFtPXnqCMpyYMqQ4lz9pjbJp5F1fBMXDNjO8mqPedoSYN1pQ/viewform) or scan the QR code to sign up!
+[Click here](https://docs.google.com/forms/d/e/1FAIpQLSeFtPXnqCMpyYMqQ4lz9pjbJp5F1fBMXDNjO8mqPedoSYN1pQ/viewform)&nbsp;or scan the QR code to sign up!
 
-<img src="/images/Our%20IJ%20Partners/download.png"  
-     style="width:25%">
+<img src="/images/Our%20IJ%20Partners/download.png" style="width:25%">

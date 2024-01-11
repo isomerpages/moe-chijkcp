@@ -2,9 +2,20 @@
 title: Letters & Notifications
 permalink: /parents-portal/letters-nofications/
 description: ""
+variant: markdown
 ---
 ### Letters &amp; Notifications
 
+##### **Beginning of Year Parents' Webinar**
+[P2 - P6 Parents' Briefing by Mrs Simon](/files/Parents'%20Webinar/CHIJ_KCP_P2___P6_Parents__Briefing_2024__Mrs__Simon_.pdf)
+
+[BOY PTM Lower Primary](/files/Parents'%20Webinar/2024_BOY_PTM_LPYH_PRESENTATION_P2.pdf)
+
+[BOY PTM Middle Primary](/files/Parents'%20Webinar/2024_BOY_PTM_MPYH_PRESENTATION.pdf)
+
+[BOY PTM Upper Primary](/files/Parents'%20Webinar/2024_BOY_PTM__UPYH_PRESENTATION.pdf)
+
+[Curriculum Matters P1](/files/Parents'%20Webinar/Curriculum_Matters__P1_Day_1_2024.pdf)
 
 ##### **Parent Child Teacher Conference (PCTC)**
 
