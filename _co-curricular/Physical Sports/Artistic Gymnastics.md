@@ -16,7 +16,7 @@ variant: markdown
 **Day**: Tuesday<br>
 **Session 1**: 2.00 pm - 3.30 pm<br>
 **Session 2**: 3.30 pm - 5.00pm<br>
-**TEACHERS I/C:**&nbsp;\*Mdm Ang Bee Bee &amp; Ms Jenny Koh<br>
+**TEACHERS I/C:**&nbsp;\*Mdm Ang Bee Bee &amp; Mrs Doreen Yeo<br>
 **VENUE:**&nbsp;School
 
 ### SYNOPSIS:
