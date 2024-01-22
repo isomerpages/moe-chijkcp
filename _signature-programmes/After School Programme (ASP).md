@@ -1,6 +1,6 @@
 ---
 title: After School Programme (ASP)
-permalink: /news-and-events/after-school-programme/
+permalink: /our-ij-experience/signature-programs/after-school-programme-asp/
 variant: tiptap
 description: ""
 ---
