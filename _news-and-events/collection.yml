@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - After School Programme (ASP).md
       - School Calendar.md
       - Useful Links.md
       - Prize Giving Ceremony 2023.md
