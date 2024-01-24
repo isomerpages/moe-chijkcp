@@ -1,8 +1,0 @@
----
-title: Science
-permalink: /our-ij-experience/curricular/science/
-description: ""
-variant: tiptap
----
-
-<h1>Science</h1><h3>Our Vision</h3><p>Students to become independent, active and creative learners through the processes of inquiry and investigation, incorporating technology and thinking skills.</p><h3>Our Approach</h3><p>The Primary Science Syllabus comprises of Core Ideas, which are organized as themes, Practices and Values, Ethics and Attitudes.</p><p>At CHIJ (Katong) Primary, we aim to make the learning of science concepts fun and engaging through authentic learning experiences. Activities are aligned to MOE’s Science Curriculum, seeking to develop students as inquirers. With varied learning experiences both in and out of the classroom, students are engaged in the Practices of Science such as posing questions, designing and conducting investigations, analysing, interpreting and communicating data, making informed decisions, and constructing and designing solutions.</p><p>The RESCUE approach is a strategy to guide the pupils to answer Process-Skills Questions.</p><p></p><p>We hope to nurture in our students positive attitudes such as curiosity, resilience, open-mindedness and responsibility.</p><h3>Our Activities</h3><ol data-tight="true" class="tight"><li><p>Create a Toy @ IJ Competition</p><p>Create a Toy @ IJ Competition is organised annually with the aim of nurturing creativity and curiosity in students. Through brainstorming for ideas for a toy, students discover that Science is all around us. The process of creating the requires students to think out of the box, as they compare and evaluate different materials to use to make the toy, while applying science knowledge and concepts.</p></li></ol><p></p><p></p><p></p><p></p>
