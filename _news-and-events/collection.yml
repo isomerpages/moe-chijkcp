@@ -1,0 +1,12 @@
+collections:
+  news-and-events:
+    output: true
+    order:
+      - School Calendar.md
+      - Useful Links.md
+      - Prize Giving Ceremony 2023.md
+      - E Open House.md
+      - Enhanced OPAC and SERR.md
+      - Celebration of the 400th Anniversary of the birth of our founder,
+        Blessed Nicolas Barré.md
+      - Girls Like Tech featured on ETD to go YouTube channel.md

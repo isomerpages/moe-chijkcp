@@ -1,0 +1,12 @@
+collections:
+  signature-programmes:
+    output: true
+    order:
+      - After School Programme (ASP).md
+      - Girls Like Tech.md
+      - Applied Learning Programme (ALP).md
+      - Learning for Life Programme (LLP).md
+      - Religious Education.md
+      - Joy for Learning.md
+      - Save the Earth.md
+      - Art in Claynation.md
