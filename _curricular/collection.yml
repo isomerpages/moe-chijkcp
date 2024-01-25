@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - ENGLISH.md
-      - Mathematics.md
+      - MATHEMATICS.md
       - Science.md
       - Mother Tongue.md
       - Physical Education.md
