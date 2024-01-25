@@ -2,7 +2,80 @@
 title: Subject Heads
 permalink: /our-ij-family/subject-heads-sh-n-level-heads-lh/
 description: ""
+variant: tiptap
 ---
-### Subject Heads (SH)
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">SH (Aesthetics)<br><span style="font-weight:400;color:#000">Mrs Alice Ng</span><br><span style="font-weight:400;color:#000"><a href="mailto:alice_yong_kong_cheng@moe.edu.sg">alice_yong_kong_cheng@moe.edu.sg</a></span></th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">SH (Student Well-Being)<br><span style="font-weight:400;color:#000">Mr Edward Toh</span><br><span style="font-weight:400;color:#000"><a href="mailto:toh_boon_how@moe.edu.sg">toh_boon_how@moe.edu.sg</a></span></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">SH (English Language)<br><span style="font-weight:400;color:#000">Mrs Faith Heng</span><br><span style="font-weight:400;color:#000"><a href="mailto:seah_lai_hiang@moe.edu.sg">seah_lai_hiang@moe.edu.sg</a></span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">SH (Malay &amp; Tamil Language)<br><span style="font-weight:400;color:#000">Mdm Normah Nordin</span><br><span style="font-weight:400;color:#000"><a href="mailto:normah_nordin@moe.edu.sg">normah_nordin@moe.edu.sg</a></span></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">SH (Chinese Language)<br><span style="font-weight:400;color:#000">Mr Yong Kwon Seng</span><br><span style="font-weight:400;color:#000"><a href="mailto:yong_kwon_seng@moe.edu.sg">yong_kwon_seng@moe.edu.sg</a></span></td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr></tbody></table>
+<h3>Subject Heads (SH)</h3>
+<table>
+    <tbody>
+        <tr>
+            <th rowspan="1" colspan="1">
+                <p>Name</p>
+            </th>
+            <th rowspan="1" colspan="1">
+                <p>Email</p>
+            </th>
+            <th rowspan="1" colspan="1">
+                <p>Designation</p>
+            </th>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">
+                <p><strong>Mrs Alice Ng</strong>
+                </p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p><strong><br><a href="mailto:alice_yong_kong_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alice_yong_kong_cheng@moe.edu.sg</a></strong>
+                </p>
+            </td>
+            <th rowspan="1" colspan="1">
+                <p><strong>SH (Aesthetics)<br></strong>
+                </p>
+            </th>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">
+                <p></p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p></p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p></p>
+<table>
+    <tbody>
+        <tr>
+            <th rowspan="1" colspan="1">
+                <p></p>
+            </th>
+            <th rowspan="1" colspan="1">
+                <p><strong>SH (Student Well-Being)<br>Mr Edward Toh<br><a href="mailto:toh_boon_how@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_boon_how@moe.edu.sg</a></strong>
+                </p>
+            </th>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">
+                <p><strong>SH (English Language)<br>Mrs Faith Heng<br><a href="mailto:seah_lai_hiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seah_lai_hiang@moe.edu.sg</a></strong>
+                </p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p><strong>SH (Malay &amp; Tamil Language)<br>Mdm Normah Nordin<br><a href="mailto:normah_nordin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">normah_nordin@moe.edu.sg</a></strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">
+                <p><strong>SH (Chinese Language)<br>Mr Yong Kwon Seng<br><a href="mailto:yong_kwon_seng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yong_kwon_seng@moe.edu.sg</a></strong>
+                </p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p></p>
