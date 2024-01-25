@@ -2,6 +2,7 @@
 title: Executive and Administrative Staff
 permalink: /our-ij-family/non-teaching-staff/
 description: ""
+variant: markdown
 ---
 ### Executive and Administrative Staff (EAS)
 
@@ -24,23 +25,29 @@ description: ""
       <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Corporate Support Officer</span><br>
       Miss Joanne Lim</td>
     </tr>
-    <tr>
+		<tr>
+      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Corporate Support Officer</span><br>
+      Mrs Chng Lay Ngoh</td>
       <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Receptionist/Admin Assistant</span><br>
       Mrs Sukeala Kumar</td>
-      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Science Laboratory Technician</span><br>
-      Ms Kum Eng Hong</td>
     </tr>
     <tr>
       <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Librarian</span><br>
       Mdm Hamidah Abdul Ali</td>
+      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Science Laboratory Technician</span><br>
+      Mdm Alizah Ismail</td>
+    </tr>
+    <tr>
       <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">ICT Manager</span><br>
       Mr Izwan Jamal</td>
+      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Desktop Engineer</span><br>
+      Mr Bobby Lim</td>
     </tr>
     <tr>
       <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Desktop Engineer</span><br>
-      Mr Bobby Lim</td>
-      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Desktop Engineer</span><br>
       Mrs Gayathri Sudhagar</td>
+      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold"></span><br>
+      </td>
     </tr>
   </tbody>
 </table>
