@@ -23,7 +23,7 @@ variant: tiptap
                 <p>Mrs Angelia Chan</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><a href="mailto:chan_chee_khiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_chee_khiang@moe.edu.sg</a>
+                <p><a href="chan_chee_khiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_chee_khiang@moe.edu.sg</a>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
@@ -35,7 +35,7 @@ variant: tiptap
                 <p>Mrs Desiree Ang</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><a href="mailto:long_yin_yin_desiree@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">long_yin_yin_desiree@moe.edu.sg</a>
+                <p><a href="long_yin_yin_desiree@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">long_yin_yin_desiree@moe.edu.sg</a>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
