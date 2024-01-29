@@ -29,8 +29,25 @@ learning.</p>
 writing and comprehension skills to prepare students for more complex linguistic
 skills in the upper primary. In upper primary, focus will be on enhancing
 all language skills taught to prepare them for PSLE.</p>
-<p><u>Events &amp; Programmes</u>
+<h4><u>Events &amp; Programmes</u></h4>
+<p><u>Mother Tongue Fortnight Activities</u>
 </p>
+<p>An annual platform for all students to learn and appreciate their cultures
+through various cultural activities and to instill in the learning of Mother
+Tongue Languages. Students learn in a fun way and at the same time allow
+for authentic usage of their Mother Tongue Language. These activities include
+Chinese Bean Art, Chinese Hand Puppet Making, Calligraphy, Culture Appreciation,
+Speech &amp; Drama, Dikir Barat, Taridra, Bangsawan, Indian Classical Dance,
+Debate and Drama.</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSQocAP7jiuMXguzUipP-UDac22jndAcYSW2pNyr_vfwlJqpFzIbs1brw9zlSxO6-v80lV634StGW_2/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
+<p><u>Cultural Exposure</u>
+</p>
+<p>Our MTL teachers plan and provide opportunities for students to learn
+MTL in an immersive manner. The activities provide authentic opportunities
+for students to use MTL and to gain a deeper understanding and appreciation
+of our cultures.</p>
 <p></p>
 <p></p>
 <p></p>
