@@ -2,13 +2,13 @@ collections:
   curricular:
     output: true
     order:
-      - English.md
-      - Mathematics.md
-      - Science.md
-      - Mother Tongue.md
-      - Physical Education.md
-      - Aesthetics/.keep
-      - Aesthetics/Aesthetics.md
-      - Aesthetics/Art.md
-      - Aesthetics/Music.md
-      - Social Studies.md
+      - ENGLISH.md
+      - MATHEMATICS.md
+      - SCIENCE.md
+      - MOTHER TONGUE.md
+      - PHYSICAL EDUCATION.md
+      - AESTHETICS/.keep
+      - AESTHETICS/Aesthetics.md
+      - AESTHETICS/Art.md
+      - AESTHETICS/Music.md
+      - SOCIAL STUDIES.md

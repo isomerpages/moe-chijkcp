@@ -1,5 +1,5 @@
 ---
-title: Science
+title: SCIENCE
 permalink: /curricular/science/
 variant: tiptap
 description: ""

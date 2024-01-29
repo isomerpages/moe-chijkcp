@@ -2,7 +2,7 @@
 title: Art
 permalink: /our-ij-experience/curricular/aesthetics/art/
 description: ""
-third_nav_title: Aesthetics
+third_nav_title: AESTHETICS
 ---
 ### Art
 
@@ -21,7 +21,7 @@ The learning content outlines the knowledge, skills and values that pupils will 
 
 **<u>Knowledge</u>**
 
-1.  Art Forms e.g. 2D & 3D Fine Art, 2D & 3D Design and Digital Media
+1.  Art Forms e.g. 2D &amp; 3D Fine Art, 2D &amp; 3D Design and Digital Media
 2.  Elements of Art and Principles of Design
 
   
@@ -30,17 +30,17 @@ The learning content outlines the knowledge, skills and values that pupils will 
 
 1.  Art Techniques
 2.  Visual Inquiry Skills
-3.  Research & Processing Skill
+3.  Research &amp; Processing Skill
 4.  Communication Skills
 
   
 
 **<u>Values/Themes</u>**
 
-1.  Art captures imagination (P1 & P2)
-2.  Art expresses human emotions (P1 & P2)
-3.  Art communicates ideas (P3 & P4)
-4.  Art has purposes and functions (P5 & P6)
+1.  Art captures imagination (P1 &amp; P2)
+2.  Art expresses human emotions (P1 &amp; P2)
+3.  Art communicates ideas (P3 &amp; P4)
+4.  Art has purposes and functions (P5 &amp; P6)
 
 #### Students’ Art Assignments
 

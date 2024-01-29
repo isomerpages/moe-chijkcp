@@ -1,7 +1,8 @@
 ---
-title: Social Studies
+title: SOCIAL STUDIES
 permalink: /our-ij-experience/curricular/social-studies/
 description: ""
+variant: tiptap
 ---
 ### Social Studies
 

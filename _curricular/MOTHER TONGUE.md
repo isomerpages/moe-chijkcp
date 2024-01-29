@@ -1,7 +1,8 @@
 ---
-title: Mother Tongue
+title: MOTHER TONGUE
 permalink: /our-ij-experience/curricular/mother-tongue/
 description: ""
+variant: tiptap
 ---
 ### Mother Tongue
 
@@ -42,7 +43,7 @@ Out MTL teachers conduct a series of interesting story-telling session for every
 
   
 
-An annual platform for all students to learn and appreciate their cultures through various cultural activities and to instill in the learning of Mother Tongue Languages. Students learn in a fun way and at the same time allow for authentic usage of their Mother Tongue Language. These activities include Chinese Bean Art, Chinese Hand Puppet Making, Calligraphy, Culture Appreciation, Speech & Drama, Dikir Barat, Taridra, Bangsawan, Indian Classical Dance, Debate and Drama.
+An annual platform for all students to learn and appreciate their cultures through various cultural activities and to instill in the learning of Mother Tongue Languages. Students learn in a fun way and at the same time allow for authentic usage of their Mother Tongue Language. These activities include Chinese Bean Art, Chinese Hand Puppet Making, Calligraphy, Culture Appreciation, Speech &amp; Drama, Dikir Barat, Taridra, Bangsawan, Indian Classical Dance, Debate and Drama.
 
 
 ![](/images/Curricular/MTL_1.jpg)

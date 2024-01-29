@@ -2,7 +2,7 @@
 title: Music
 permalink: /our-ij-experience/curricular/aesthetics/music/
 description: ""
-third_nav_title: Aesthetics
+third_nav_title: AESTHETICS
 ---
 ### Music
 
@@ -93,7 +93,7 @@ Students are given the opportunity to learn the different instruments for a term
 
 Students are also given special attention in singing, dancing and Hand chimes playing in P1 and P2, so that the talented students can be chosen for choir, dance and Handbell Ensemble \[CCA\] when they reach P3.
 
-#### Activities & Events
+#### Activities &amp; Events
 
 
 1.  P1 and P2 Concert
