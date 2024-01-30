@@ -87,5 +87,8 @@ to richer literature such as poetries, mini novels, children’s plays and
 many more through the Higher Mother Tongue programme offered in the upper
 primary years.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mother Tongue Dept/MT_7.jpg">
+</div>
 <p></p>
 <p></p>
