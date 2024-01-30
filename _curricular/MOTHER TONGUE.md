@@ -51,7 +51,12 @@ of our cultures.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRCLYMpMr50JoFheaTUnf1oToFeNSpVPdFayUWpmdWoMqwOcNDor76P2hctbVfVza7zeABmeLZSW2Us/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
-<p></p>
+<p><u>Speech and Drama</u>
+</p>
+<p>Speech and Drama provides students with the opportunity to learn Mother
+Tongue Languages (MTL) authentically. Guided by trained teachers and instructors,
+students, in a group setting, will learn to present short stories confidently
+and articulately.</p>
 <p></p>
 <p></p>
 <p></p>
