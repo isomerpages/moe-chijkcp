@@ -10,12 +10,12 @@ variant: tiptap
 different cultures and thrive in a vibrant learning environment.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT_1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MT_1.jpg">
 </div>
 <h4><u>Approach to learning MTL in CHIJ (Katong) Primary</u></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT_2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MT_2.jpg">
 </div>
 <p>A safe, happy and harmonious environment invites children to take risks,
 make mistakes and learn. In CHIJ (Katong) Primary, the Mother Tongue Language
@@ -48,6 +48,10 @@ Debate and Drama.</p>
 MTL in an immersive manner. The activities provide authentic opportunities
 for students to use MTL and to gain a deeper understanding and appreciation
 of our cultures.</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRCLYMpMr50JoFheaTUnf1oToFeNSpVPdFayUWpmdWoMqwOcNDor76P2hctbVfVza7zeABmeLZSW2Us/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
