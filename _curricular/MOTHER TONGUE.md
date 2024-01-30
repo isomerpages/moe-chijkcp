@@ -58,5 +58,34 @@ Tongue Languages (MTL) authentically. Guided by trained teachers and instructors
 students, in a group setting, will learn to present short stories confidently
 and articulately.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mother Tongue Dept/MT_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mother Tongue Dept/MT_4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mother Tongue Dept/MT_5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mother Tongue Dept/MT_6.jpg">
+</div>
+<p><u>Mother Tongue Support (MTSP)</u>
+</p>
+<p>MTSP incorporates a systematic approach and pedagogy to teach P3 and P4
+students who need additional support in the learning of Mother Tongue Languages
+(MTL), using a set of customised resources. MTSP aims to build their confidence
+in learning MTL and to strengthen their oracy and literacy foundation so
+that deeper learning in MTL can take place in their later years.</p>
+<p><u>Higher Mother Tongue</u>
+</p>
+<p>Students who show an aptitude for Mother Tongue Languages will be exposed
+to richer literature such as poetries, mini novels, children’s plays and
+many more through the Higher Mother Tongue programme offered in the upper
+primary years.</p>
+<p></p>
 <p></p>
 <p></p>
