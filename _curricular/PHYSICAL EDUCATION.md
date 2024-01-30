@@ -43,9 +43,19 @@ Risk Management, Personal Hygiene Self-Care)</p>
 <p>Level sports activities</p>
 </li>
 </ul>
-<p>The students had so much fun competing with other classes during the Games
-Day and Sports Carnival!</p>
+<p><strong>The students had so much fun competing with other classes during the Games Day and Sports Carnival!</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRC4Wq4-CTYdmQ9zyowenJEXicfC3f4EGf65PF_qPm3eMyqCeMcba8vHXmMX_pTWn8Gayw9BXFxoArG/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
+<p><strong>Our P5 and some of the P6 students experienced Virtual Reality (VR) during PE lessons.</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQXHWsJtnHcTFUK4m0NavA8yk-wp94YHCvPsrSO05ZcXIvsw8nlbA-_j_Wlp9hZMaf4KYpdvtcPJ1vc/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
+<p><strong>The P5 students participated in a 3Day 2Night Cohort Camp at the MOE Labrador Adventure Outdoor Adventure Centre.</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTLTuVQNFLG8KFe8rj4SgfG5_q0XHM2KV1ZmovuiC4Rwhh45BbbFuuZv_wH_Nv6yZD1tLz8fLDeFaRv/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p></p>
