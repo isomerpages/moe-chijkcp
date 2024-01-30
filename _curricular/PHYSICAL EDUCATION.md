@@ -45,5 +45,7 @@ Risk Management, Personal Hygiene Self-Care)</p>
 </ul>
 <p>The students had so much fun competing with other classes during the Games
 Day and Sports Carnival!</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRC4Wq4-CTYdmQ9zyowenJEXicfC3f4EGf65PF_qPm3eMyqCeMcba8vHXmMX_pTWn8Gayw9BXFxoArG/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
 <p></p>
