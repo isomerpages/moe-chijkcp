@@ -27,8 +27,10 @@ to build up their competency and given speaking opportunities to build
 up their confidence in facing an audience. Students are also taught to
 communicate in a respectful manner.</p>
 <p>The following programmes are conducted:</p>
-<p>P1: Speech and Drama; ALP Lessons; Talent Showcase</p>
-<p>P2: Speech and Drama; ALP Lessons; Talent Showcase</p>
-<p>P3 &amp; P4: ALP Lessons</p>
-<p>P5: ALP Lessons / Content Creation (Canva)\</p>
+<p>P1: Choral Recitation; Picture Talk; Talent Showcase</p>
+<p>P2: Readers' Theatre; Pick-and-Tell; Talent Showcase</p>
+<p>P3: Story-telling</p>
+<p>P4: Public Speaking</p>
+<p>P5: Sales Pitch; Debate</p>
+<p></p>
 <p></p>
