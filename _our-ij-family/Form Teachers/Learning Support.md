@@ -3,7 +3,85 @@ title: Learning Support
 permalink: /our-ij-family/form-teachers/learning-support/
 description: ""
 third_nav_title: Form Teachers
+variant: tiptap
 ---
-## Learning Support
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Learning Support Programme</span><br>Mrs Doreen Yeo<br><a href="mailto:doreen_yeo@moe.edu.sg">doreen_yeo@moe.edu.sg</a></th><th style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Learning Support Programme</span><br>Mrs Faith Heng<br><a href="mailto:seah_lai_hiang@moe.edu.sg">seah_lai_hiang@moe.edu.sg</a><br></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Learning Support Mathematics</span><br>Mrs Heng May May<br><a href="mailto:ng_may_may_a@moe.edu.sg">ng_may_may_a@moe.edu.sg</a><br></td><th style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Learning Support Mathematics</span><br>Miss Siti Aishah Binte Mohamed Kasmani<br><a href="mailto:siti_aishah_mohamed_kasmani@moe.edu.sg">siti_aishah_mohamed_kasmani@moe.edu.sg</a><br></th></tr></tbody></table>
+<h2>Learning Support</h2>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Learning Support Programme</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:doreen_yeo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Doreen Yeo</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:seah_lai_hiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Faith Heng</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Learning Support Mathematics</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:heng_may_may_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Heng May May</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siti_aishah_mohamed_kasmani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Siti Aishah Binte Mohamed Kasmani</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
