@@ -105,50 +105,66 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="2">
 <p><strong>Operations Manager</strong> 
-<br>Mr Lee Tuck Hin</p>
+<br><a href="mailto:lee_tuck_hin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Tuck Hin</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Operations Support Officer</strong> 
-<br>Mdm Patmah Binte Wahnan</p>
+<br><a href="mailto:patmah_wahnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Patmah Binte Wahnan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Operations Support Officer</strong> 
-<br>Miss Masdania Mohd Sani</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Operations Support Officer</strong> 
-<br>Mdm Harison Binte Raisuli</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Operations Support Officer</strong> 
-<br>Mdm Fareetha Begum Binte Kachi</p>
+<br><a href="mailto:masdania_mohamed_sani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Masdania Mohd Sani</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Operations Support Officer</strong> 
-<br>Mr Abdol Bin Siron</p>
+<br><a href="mailto:harison_raisuli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Harison Binte Raisuli</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Operations Support Officer</strong> 
-<br>Mr Puah Lai Teck</p>
+<br><a href="mailto:fareetha_begum_kachi_ibrahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fareetha Begum Binte Kachi</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Support Officer</strong> 
+<br><a href="mailto:abdol_siron@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Abdol Bin Siron</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Support Officer</strong> 
+<br><a href="mailto:puah_lai_teck@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Puah Lai Teck</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Security Officer</strong> 
-<br>Ms Lily</p>
+<br><a href="mailto:chijktps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lily</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Security Officer</strong> 
-<br>Ms Romy</p>
+<br><a href="mailto:chijktps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Romy</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><a href="mailto:goh_kai-ling_desiree@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Desiree Goh</a>
-</p>
+<p></p>
