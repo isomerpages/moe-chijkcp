@@ -9,70 +9,88 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><strong>School Administration Team<br></strong>
-</p>
+<p>SCHOOL ADMINISTRATION TEAM</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Administrative Manager</strong>
-<br><a href="mailto:Lim_Li_Sze@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joanne Lim</a>
+<p><strong>Administrative Manager</strong> 
+<br><a href="mailto:Lim_Li_Sze@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joanne Lim</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Administrative Manager</strong>
-<br>Mdm Desiree Goh</p>
+<p><strong>Administrative Manager</strong> 
+<br><a href="mailto:goh_kai-ling_desiree@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Desiree Goh</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Administration Executive</strong>
-<br>Miss Rina Oon</p>
+<p><strong>Administration Executive</strong> 
+<br><a href="mailto:oon_ai_lin_rina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Rina Oon</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Corporate Support Officer</strong>
-<br>Miss Joanne Lim</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Corporate Support Officer</strong>
-<br>Mrs Chng Lay Ngoh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Receptionist/Admin Assistant</strong>
-<br>Mrs Sukeala Kumar</p>
+<p><strong>Corporate Support Officer</strong> 
+<br><a href="mailto:lim_gek_suan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Joanne Lim</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Librarian</strong>
-<br>Mdm Hamidah Abdul Ali</p>
+<p><strong>Corporate Support Officer</strong> 
+<br><a href="mailto:Chng_Lay_Ngoh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Chng Lay Ngoh</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Science Laboratory Technician</strong>
-<br>Mdm Alizah Ismail</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>ICT Manager</strong>
-<br>Mr Izwan Jamal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Desktop Engineer</strong>
-<br>Mr Bobby Lim</p>
+<p><strong>Receptionist/Admin Assistant</strong> 
+<br><a href="mailto:suleaka@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Sukeala Kumar</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Desktop Engineer</strong>
-<br>Mrs Gayathri Sudhagar</p>
+<p><strong>Librarian</strong> 
+<br><a href="mailto:Hamidah_Abdul_Ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Hamidah Abdul Ali</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Science Laboratory Technician</strong> 
+<br><a href="mailto:Alizah_Ismail_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Alizah Ismail</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ICT Manager</strong> 
+<br><a href="mailto:mohamad_izwan_jamal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Izwan Jamal</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Desktop Engineer</strong> 
+<br><a href="mailto:de-ncs5637pde@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Bobby Lim</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Desktop Engineer</strong> 
+<br><a href="mailto:de-ncs5637pde@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Gayathri Sudhagar</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
 <br>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -81,56 +99,56 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><strong>School Operations Team<br></strong>
-</p>
+<p>SCHOOL OPERATIONS TEAM</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Operations Manager</strong>
+<p><strong>Operations Manager</strong> 
 <br>Mr Lee Tuck Hin</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Operations Support Officer</strong>
+<p><strong>Operations Support Officer</strong> 
 <br>Mdm Patmah Binte Wahnan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Operations Support Officer</strong>
+<p><strong>Operations Support Officer</strong> 
 <br>Miss Masdania Mohd Sani</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Operations Support Officer</strong>
+<p><strong>Operations Support Officer</strong> 
 <br>Mdm Harison Binte Raisuli</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Operations Support Officer</strong>
+<p><strong>Operations Support Officer</strong> 
 <br>Mdm Fareetha Begum Binte Kachi</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Operations Support Officer</strong>
+<p><strong>Operations Support Officer</strong> 
 <br>Mr Abdol Bin Siron</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Operations Support Officer</strong>
+<p><strong>Operations Support Officer</strong> 
 <br>Mr Puah Lai Teck</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Security Officer</strong>
+<p><strong>Security Officer</strong> 
 <br>Ms Lily</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Security Officer</strong>
+<p><strong>Security Officer</strong> 
 <br>Ms Romy</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><a href="mailto:goh_kai-ling_desiree@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Desiree Goh</a>
+</p>
