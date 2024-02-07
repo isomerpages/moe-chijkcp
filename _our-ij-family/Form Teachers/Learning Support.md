@@ -70,7 +70,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_aishah_mohamed_kasmani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Siti Aishah Binte Mohamed Kasmani</a>
+<p><a href="mailto:siti_aishah_mohamed_kasmani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Siti Aishah</a>
 </p>
 </td>
 </tr>
