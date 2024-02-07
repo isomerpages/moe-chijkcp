@@ -2,89 +2,135 @@
 title: Executive and Administrative Staff
 permalink: /our-ij-family/non-teaching-staff/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### Executive and Administrative Staff (EAS)
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg">
-  <thead>
-    <tr>
-      <th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="2">School Administration Team<br></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Administrative Manager</span><br>
-      Ms Joanne Lim</td>
-      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Administrative Manager</span><br>
-      Mdm Desiree Goh</td>
-    </tr>
-    <tr>
-      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Administration Executive</span><br>
-      Miss Rina Oon</td>
-      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Corporate Support Officer</span><br>
-      Miss Joanne Lim</td>
-    </tr>
-		<tr>
-      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Corporate Support Officer</span><br>
-      Mrs Chng Lay Ngoh</td>
-      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Receptionist/Admin Assistant</span><br>
-      Mrs Sukeala Kumar</td>
-    </tr>
-    <tr>
-      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Librarian</span><br>
-      Mdm Hamidah Abdul Ali</td>
-      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Science Laboratory Technician</span><br>
-      Mdm Alizah Ismail</td>
-    </tr>
-    <tr>
-      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">ICT Manager</span><br>
-      Mr Izwan Jamal</td>
-      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Desktop Engineer</span><br>
-      Mr Bobby Lim</td>
-    </tr>
-    <tr>
-      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Desktop Engineer</span><br>
-      Mrs Gayathri Sudhagar</td>
-      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold"></span><br>
-      </td>
-    </tr>
-  </tbody>
+<h3>Executive and Administrative Staff (EAS)</h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p><strong>School Administration Team<br></strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Administrative Manager</strong>
+<br><a href="mailto:Lim_Li_Sze@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joanne Lim</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Administrative Manager</strong>
+<br>Mdm Desiree Goh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Administration Executive</strong>
+<br>Miss Rina Oon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Corporate Support Officer</strong>
+<br>Miss Joanne Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Corporate Support Officer</strong>
+<br>Mrs Chng Lay Ngoh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Receptionist/Admin Assistant</strong>
+<br>Mrs Sukeala Kumar</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Librarian</strong>
+<br>Mdm Hamidah Abdul Ali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Science Laboratory Technician</strong>
+<br>Mdm Alizah Ismail</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ICT Manager</strong>
+<br>Mr Izwan Jamal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Desktop Engineer</strong>
+<br>Mr Bobby Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Desktop Engineer</strong>
+<br>Mrs Gayathri Sudhagar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+</td>
+</tr>
+</tbody>
 </table>
-<table style="border-collapse:collapse;border-spacing:0" class="tg">
-  <thead>
-    <tr>
-      <th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="2">School Operations Team<br></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="2"><span style="font-weight:bold">Operations Manager</span><br>
-      Mr Lee Tuck Hin</td>
-    </tr>
-    <tr>
-      <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Operations Support Officer</span><br>
-      Mdm Patmah Binte Wahnan</td>
-      <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Operations Support Officer</span><br>
-      Miss Masdania Mohd Sani</td>
-    </tr>
-    <tr>
-      <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Operations Support Officer</span><br>
-      Mdm Harison Binte Raisuli</td>
-      <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Operations Support Officer</span><br>
-      Mdm Fareetha Begum Binte Kachi</td>
-    </tr>
-    <tr>
-      <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Operations Support Officer</span><br>
-      Mr Abdol Bin Siron</td>
-      <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Operations Support Officer</span><br>
-      Mr Puah Lai Teck</td>
-    </tr>
-    <tr>
-      <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Security Officer</span><br>
-      Ms Lily</td>
-      <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Security Officer</span><br>
-      Ms Romy</td>
-    </tr>
-  </tbody>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p><strong>School Operations Team<br></strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Operations Manager</strong>
+<br>Mr Lee Tuck Hin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Support Officer</strong>
+<br>Mdm Patmah Binte Wahnan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Support Officer</strong>
+<br>Miss Masdania Mohd Sani</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Support Officer</strong>
+<br>Mdm Harison Binte Raisuli</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Support Officer</strong>
+<br>Mdm Fareetha Begum Binte Kachi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Support Officer</strong>
+<br>Mr Abdol Bin Siron</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Support Officer</strong>
+<br>Mr Puah Lai Teck</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Security Officer</strong>
+<br>Ms Lily</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Security Officer</strong>
+<br>Ms Romy</p>
+</td>
+</tr>
+</tbody>
 </table>
+<p></p>
