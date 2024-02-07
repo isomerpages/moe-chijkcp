@@ -93,7 +93,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="GanToh_Hui_Bok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Gan-Toh Hui Bok</a>
+<p><a href="mailto:GanToh_Hui_Bok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Gan-Toh Hui Bok</a>
 </p>
 </td>
 </tr>
