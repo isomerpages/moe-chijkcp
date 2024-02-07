@@ -120,67 +120,67 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Miss Jasmine Lai</strong>
+<p><strong>Miss Jasmine Lai</strong> 
 <br><a href="mailto:tay_lin_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jasmine_lai_ying_loo@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Li Li</strong>
+<p><strong>Mdm Li Li</strong> 
 <br><a href="mailto:li_li_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_li_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Miss Li Meina</strong>
+<p><strong>Miss Li Meina</strong> 
 <br><a href="mailto:li_meina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_meina@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Ng Huimin</strong>
+<p><strong>Ms Ng Huimin</strong> 
 <br><a href="mailto:ng_huimin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_huimin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Sharon Yong</strong>
+<p><strong>Mdm Sharon Yong</strong> 
 <br><a href="mailto:yong_siew_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yong_siew_yu@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Tan Lee Kin</strong>
+<p><strong>Mdm Tan Lee Kin</strong> 
 <br><a href="mailto:tan_lee_kin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lee_kin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Toh Chiew Yen</strong>
+<p><strong>Mdm Toh Chiew Yen</strong> 
 <br><a href="mailto:toh_chiew_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_chiew_yen@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Venus Tan</strong>
+<p><strong>Mdm Venus Tan</strong> 
 <br><a href="mailto:tan_wan_ing_venus@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wan_ing_venus@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Yong Kwon Seng</strong>
+<p><strong>Mr Yong Kwon Seng</strong> 
 <br><a href="mailto:yong_kwon_seng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yong_kwon_seng@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Zhai Yuan</strong>
+<p><strong>Mdm Zhai Yuan</strong> 
 <br><a href="mailto:zhai_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhai_yuan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Zhang Xuyang</strong>
+<p><strong>Mdm Zhang Xuyang</strong> 
 <br><a href="mailto:zhang_xuyang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_xuyang@moe.edu.sg</a>
 </p>
 </td>
