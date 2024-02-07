@@ -2,89 +2,169 @@
 title: Executive and Administrative Staff
 permalink: /our-ij-family/non-teaching-staff/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### Executive and Administrative Staff (EAS)
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg">
-  <thead>
-    <tr>
-      <th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="2">School Administration Team<br></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Administrative Manager</span><br>
-      Ms Joanne Lim</td>
-      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Administrative Manager</span><br>
-      Mdm Desiree Goh</td>
-    </tr>
-    <tr>
-      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Administration Executive</span><br>
-      Miss Rina Oon</td>
-      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Corporate Support Officer</span><br>
-      Miss Joanne Lim</td>
-    </tr>
-		<tr>
-      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Corporate Support Officer</span><br>
-      Mrs Chng Lay Ngoh</td>
-      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Receptionist/Admin Assistant</span><br>
-      Mrs Sukeala Kumar</td>
-    </tr>
-    <tr>
-      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Librarian</span><br>
-      Mdm Hamidah Abdul Ali</td>
-      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Science Laboratory Technician</span><br>
-      Mdm Alizah Ismail</td>
-    </tr>
-    <tr>
-      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">ICT Manager</span><br>
-      Mr Izwan Jamal</td>
-      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Desktop Engineer</span><br>
-      Mr Bobby Lim</td>
-    </tr>
-    <tr>
-      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Desktop Engineer</span><br>
-      Mrs Gayathri Sudhagar</td>
-      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold"></span><br>
-      </td>
-    </tr>
-  </tbody>
+<h3>Executive and Administrative Staff (EAS)</h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>SCHOOL ADMINISTRATION TEAM</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Administrative Manager</strong> 
+<br><a href="mailto:Lim_Li_Sze@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joanne Lim</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Administrative Manager</strong> 
+<br><a href="mailto:goh_kai-ling_desiree@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Desiree Goh</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Administration Executive</strong> 
+<br><a href="mailto:oon_ai_lin_rina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Rina Oon</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Corporate Support Officer</strong> 
+<br><a href="mailto:lim_gek_suan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Joanne Lim</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Corporate Support Officer</strong> 
+<br><a href="mailto:Chng_Lay_Ngoh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Chng Lay Ngoh</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Receptionist/Admin Assistant</strong> 
+<br><a href="mailto:suleaka@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Sukeala Kumar</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Librarian</strong> 
+<br><a href="mailto:Hamidah_Abdul_Ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Hamidah Abdul Ali</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Science Laboratory Technician</strong> 
+<br><a href="mailto:Alizah_Ismail_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Alizah Ismail</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ICT Manager</strong> 
+<br><a href="mailto:mohamad_izwan_jamal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Izwan Jamal</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Desktop Engineer</strong> 
+<br><a href="mailto:de-ncs5637pde@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Bobby Lim</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Desktop Engineer</strong> 
+<br><a href="mailto:de-ncs5637pde@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Gayathri Sudhagar</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+</td>
+</tr>
+</tbody>
 </table>
-<table style="border-collapse:collapse;border-spacing:0" class="tg">
-  <thead>
-    <tr>
-      <th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="2">School Operations Team<br></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="2"><span style="font-weight:bold">Operations Manager</span><br>
-      Mr Lee Tuck Hin</td>
-    </tr>
-    <tr>
-      <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Operations Support Officer</span><br>
-      Mdm Patmah Binte Wahnan</td>
-      <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Operations Support Officer</span><br>
-      Miss Masdania Mohd Sani</td>
-    </tr>
-    <tr>
-      <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Operations Support Officer</span><br>
-      Mdm Harison Binte Raisuli</td>
-      <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Operations Support Officer</span><br>
-      Mdm Fareetha Begum Binte Kachi</td>
-    </tr>
-    <tr>
-      <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Operations Support Officer</span><br>
-      Mr Abdol Bin Siron</td>
-      <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Operations Support Officer</span><br>
-      Mr Puah Lai Teck</td>
-    </tr>
-    <tr>
-      <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Security Officer</span><br>
-      Ms Lily</td>
-      <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Security Officer</span><br>
-      Ms Romy</td>
-    </tr>
-  </tbody>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>SCHOOL OPERATIONS TEAM</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Operations Manager</strong> 
+<br><a href="mailto:lee_tuck_hin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Tuck Hin</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Support Officer</strong> 
+<br><a href="mailto:patmah_wahnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Patmah Binte Wahnan</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Support Officer</strong> 
+<br><a href="mailto:masdania_mohamed_sani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Masdania Mohd Sani</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Support Officer</strong> 
+<br><a href="mailto:harison_raisuli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Harison Binte Raisuli</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Support Officer</strong> 
+<br><a href="mailto:fareetha_begum_kachi_ibrahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fareetha Begum Binte Kachi</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Support Officer</strong> 
+<br><a href="mailto:abdol_siron@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Abdol Bin Siron</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Support Officer</strong> 
+<br><a href="mailto:puah_lai_teck@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Puah Lai Teck</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Security Officer</strong> 
+<br><a href="mailto:chijktps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lily</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Security Officer</strong> 
+<br><a href="mailto:chijktps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Romy</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
 </table>
+<p></p>
