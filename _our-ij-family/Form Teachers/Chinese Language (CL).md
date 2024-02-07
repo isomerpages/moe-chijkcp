@@ -117,3 +117,76 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Malay Language</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:normah_nordin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Normah Nordin</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="nazeerah_allaudin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nazeerah Binte Alla'udin</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="siti_nabilah_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Siti Nabilah Abdul Aziz</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Tamil Language</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="barathi_rajan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Barathi Rajan</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="vanitha_vasudevan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Vanitha Kalai</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
