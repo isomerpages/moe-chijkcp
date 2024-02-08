@@ -82,13 +82,13 @@ third_nav_title: Form Teachers
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rasyidah_abdul_rasid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rasyidah Binte Abdul Rasid</a>
+<p><a href="mailto:rahat_bano_mohd_ashraf@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rahat Bano</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rahat_bano_mohd_ashraf@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rahat Bano</a>
+<p><a href="mailto:rasyidah_abdul_rasid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rasyidah Abdul Rasid</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
