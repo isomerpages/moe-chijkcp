@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Form Teachers
 variant: tiptap
 ---
-<h2>MOTHER TONGUE</h2>
+<h2>Mother Tongue</h2>
 <table>
 <tbody>
 <tr>
