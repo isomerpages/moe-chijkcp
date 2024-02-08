@@ -1,6 +1,6 @@
 ---
-title: SENO
-permalink: /our-ij-family/form-teachers/seno/
+title: SEN Officers
+permalink: /our-ij-family/form-teachers/sen-officers/
 description: ""
 third_nav_title: Form Teachers
 variant: tiptap
