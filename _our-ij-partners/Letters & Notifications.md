@@ -5,6 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h3>Letters &amp; Notifications</h3>
+<h5><strong>Group Personal Accident (GPA) for Students</strong></h5>
+<p><a href="/files/Product_Fact_Sheet_Year_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">GPA Insurance for Students</a>
+</p>
 <h5><strong>Beginning of Year Parents' Webinar</strong></h5>
 <p><a href="/files/Parents'%20Webinar/CHIJ_KCP_P2___P6_Parents__Briefing_2024__Mrs__Simon_.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 - P6 Parents' Briefing by Mrs Simon</a>
 </p>
@@ -31,14 +34,11 @@ variant: tiptap
 <h5><strong>P6 Parents' PSLE Briefing (with MOE updates)</strong></h5>
 <p><a href="/files/chijkcp%20p6%20parents%20briefing%2025%20april%202023%20(with%20moe%20updates).pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Parents' PSLE Briefing on 25 April 2023 (with MOE updates)</a>
 </p>
-<h5><strong>Group Personal Accident (GPA) for Students</strong></h5>
-<p><a href="/files/Product_Fact_Sheet_Year_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">GPA Insurance for Students</a>
-</p>
 <h5><strong>Growth Mindset Matters</strong></h5>
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Embracing the Growth Mindset</a>
-<br><a href="" rel="noopener noreferrer nofollow" target="_blank">CHIJ (Katong) Primary Growth Mindset Parents Bulletin</a>
-<br><a href="" rel="noopener noreferrer nofollow" target="_blank">Smart Goal Setting Worksheet</a>
-<br><a href="" rel="noopener noreferrer nofollow" target="_blank">WOOP (Planning for Obstacles) Worksheet</a>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Embracing the Growth Mindset</a> 
+<br><a href="" rel="noopener noreferrer nofollow" target="_blank">CHIJ (Katong) Primary Growth Mindset Parents Bulletin</a> 
+<br><a href="" rel="noopener noreferrer nofollow" target="_blank">Smart Goal Setting Worksheet</a> 
+<br><a href="" rel="noopener noreferrer nofollow" target="_blank">WOOP (Planning for Obstacles) Worksheet</a> 
 <br>
 </p>
 <h5><strong>Gifted Education Programme (GEP) Identification Exercise</strong></h5>
