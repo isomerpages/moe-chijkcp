@@ -20,7 +20,7 @@ we will come together to honour our unique IJ identity and legacy, offering
 our heartfelt gratitude to God for His enduring mercy and blessings. We
 are delighted to share that His Eminence, William Cardinal Goh, will grace
 us with his presence and will also be the main celebrant at the celebration.</p>
-<p>CHIJ KC alumni, past students and former staff who wish to join in the
+<p>CHIJ KCP alumni, past students and former staff who wish to join in the
 celebration may put in your request via the <a href="https://form.gov.sg/65f90d43ff96e4057a667704" rel="noopener noreferrer nofollow" target="_blank">FormSG</a> .</p>
 <p>Please submit your request by 08 April 2024. As there are limited number
 of tickets, the school reserves the rights to do the necessary allocation.
