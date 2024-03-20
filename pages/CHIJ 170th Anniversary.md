@@ -1,6 +1,6 @@
 ---
 title: CHIJ 170th Anniversary
-permalink: /announcements/chij170anniversary/
+permalink: /chij170anniversary/
 variant: tiptap
 description: ""
 ---
