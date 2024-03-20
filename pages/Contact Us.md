@@ -2,6 +2,7 @@
 title: Contact Us
 permalink: /contact-chij/
 description: ""
+variant: markdown
 ---
 #### Locate Us
 
@@ -24,7 +25,7 @@ Bus Services at Gate 2 (along Marine Parade Road): 13, 15, 16, 31, 36, 43, 47, 4
 
 
 **Pacific Bookstores Pte Ltd**<br>
-Tel: 6346 2095<br>
+Tel: 94792394<br>
 Operating Hours: Monday to Friday (8.30 a.m. – 4 p.m.)<br>
 *Students are able to purchase the PE attire from the School Bookshop:*<br>
 * 8.30 a.m. to 4.00 p.m. (Monday, Tuesday, Thursday &amp; Friday)
