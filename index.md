@@ -35,4 +35,11 @@ sections:
       alt: Image alt text
       url: https://www.instagram.com/chij_katong_primary/
       image: /images/chij instav2.jpg
+  - infopic:
+      title: CHIJ 170th Anniversary
+      id: infopic
+      button: Click for more information
+      url: https://www.chijkcp.moe.edu.sg/chij170anniversary/
+      image: /images/170CHIJ.jpg
+      alt: Image alt text
 ---
