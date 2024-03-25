@@ -90,10 +90,10 @@ variant: tiptap
 <br>Bus Services at Gate 2 (along Marine Parade Road): 13, 15, 16, 31, 36,
 43, 47, 48, 55, 134, 135, 196 &amp; 197</p>
 <h4>School Bookshop</h4>
-<p><strong>Pacific Bookstores Pte Ltd</strong>
+<p><strong>Pacific Bookstores Pte Ltd</strong> 
 <br>Tel: 94792394
 <br>Operating Hours: Monday to Friday (8.30 a.m. – 4 p.m.)
-<br><em>Students are able to purchase the PE attire from the School Bookshop:</em>
+<br><em>Students are able to purchase the PE attire from the School Bookshop:</em> 
 <br>
 </p>
 <ul data-tight="true" class="tight">
@@ -115,7 +115,7 @@ variant: tiptap
 </li>
 </ul>
 <h4>School Bus</h4>
-<p><strong>Darren Lim Transport</strong>
+<p><strong>Darren Lim Transport</strong> 
 <br>Point-of-Contact:
 <br>
 </p>
@@ -132,7 +132,7 @@ variant: tiptap
 </li>
 </ul>
 <h4>School Uniform &amp; PE Attire</h4>
-<p><strong>Magdalene Sewing Centre Pte Ltd</strong>
+<p><strong>Magdalene Sewing Centre Pte Ltd</strong> 
 <br>5000, Ang Mo Kio Avenue 5, Techplace 2 #05-09, Singapore 569870
 <br>Tel: 8638 0499 (WhatsApp only) / 6293 5840
 <br>Operating Hours: Monday to Friday (9.00 a.m. – 4.00 p.m.)
@@ -154,7 +154,7 @@ to assist their children in purchasing school uniforms <strong>after 2.00 p.m.</
 <br>
 </p>
 <h4>School-Based Student Care Centre</h4>
-<p><strong>NASCANS Pte Ltd</strong>
+<p><strong>NASCANS Pte Ltd</strong> 
 <br>Centre Supervisor: Ms Nur Fathiah Pathi
 <br>Tel: 8198 9721
 <br>
@@ -174,19 +174,19 @@ p.m.)
 <br>Tel: 8940 1058
 <br>
 </p>
-<p><strong><u>Operating Hours on Alternate Week</u></strong>
+<p><strong><u>Operating Hours on Alternate Week</u></strong> 
 <br>
 </p>
 <ul>
 <li>
-<p><strong>Monday, Wednesday and Friday</strong>
+<p><strong>Monday, Wednesday and Friday</strong> 
 <br>Morning: 8.00 a.m. to 1.00 p.m.
 <br>Afternoon: 2.00 p.m. to 5.00 p.m.
 <br>
 </p>
 </li>
 <li>
-<p><strong>Tuesday and Thursday</strong>
+<p><strong>Tuesday and Thursday</strong> 
 <br>Morning: 8.00 a.m. to 1.00 p.m.
 <br>Afternoon: 2.00 p.m. to 5.30 p.m.
 <br>
