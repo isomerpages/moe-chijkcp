@@ -80,8 +80,3 @@ In conclusion, the future @ IJ is an exciting adventure where we are working tow
   
 
 In the words of Prime Minister Lee Hsien Loong’s 2006 National Day Rally Speech, “We are preparing our young for this new age (Digital Age). We have made IT an integral part of our school life. With IT, we make the most of our talents. Singapore is changing and we must change.”
-
-  
-
-  
-
