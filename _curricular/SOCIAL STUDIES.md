@@ -24,8 +24,7 @@ Our Heritage Kampong, Our Heritage Classroom and Our Heritage @CHIJ (Katong).
 The Heritage Corners will allow students to contextualise their learning
 experiences in an authentic real world setting and to deepen their understanding
 as they discover more about Singapore and their community.</p>
-<p></p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTjFn3vYjw5XvBuiq8LP1XyfC1q_OGANsLQ229TS_zOmGEt-xx1QRQxVjmsTP6Jryx6QQMQMF0Wnxei/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTlPrdmrrJjBSDg7gMMb3zuLuIG-7HCI-SOdj7j-hN3mrpGNMIfgjuTzI89udHLxvzraEtKTmN5WVd_/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
