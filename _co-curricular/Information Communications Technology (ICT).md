@@ -2,9 +2,8 @@
 title: Information Communications Technology (ICT)
 permalink: /our-ij-experience/co-curricular/information-communications-technology-ict/
 description: ""
+variant: markdown
 ---
-
-
 ### Information Communications Technology (ICT)
 
 
@@ -66,7 +65,7 @@ Here the pupils have an extension of the ACE-iT! skills that have been taught. I
 
   
 
-3\. **e-Learning @ IJ (iLearn & Project CLICK)**
+3\. **e-Learning @ IJ (iLearn &amp; Project CLICK)**
 
 It is commonly thought that new technologies can make a big difference in education. One such technology initiative implemented by CHIJ (Katong) Primary since 2004 is e-Learning. Each pupil subscribes to a McOnline portal account where a rich variety of curriculum resources are available for both the teachers and the pupils. Every month, there is a day that has been set aside for the pupils to not have any written work. This day is known as iLearn @ IJ. Instead they do their homework online. Once a semester, pupils will undergo Project CLICK @ IJ – an independent e-learning day where the objectives are for pupils to experience independent learning, be exposed to a different learning environment and be operationally ready in a national emergency.
 
@@ -81,10 +80,3 @@ In conclusion, the future @ IJ is an exciting adventure where we are working tow
   
 
 In the words of Prime Minister Lee Hsien Loong’s 2006 National Day Rally Speech, “We are preparing our young for this new age (Digital Age). We have made IT an integral part of our school life. With IT, we make the most of our talents. Singapore is changing and we must change.”
-
-  
-
-  
-
-**Miss Yang Yanqi**<br>
-**Head of Department (Information & Communications Technology & Data Management)**

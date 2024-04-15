@@ -2,9 +2,8 @@
 title: History
 permalink: /our-ij-story/history/
 description: ""
+variant: markdown
 ---
-
-
 ## History
 
 
@@ -37,5 +36,4 @@ The ceremony of the blessing of the school took place on 16 November 1990.
 ### OUR HERITAGE
 
 
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQQLRwG7kjSbL8fYGTPPSW2r2VXH-vO6R3n6aF4f4BKf7Rfjmxo9KCnKc9ds_s_kNoPTsPUHh7ZGVU_/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ2BvM9Og10yn8_-PgZ0CX0Y_2ksqRIaQNWYa84USIqFKEH_A0inq658fDQu0uW9uhhv6jOOFIRpehz/embed?start=true&amp;loop=true&amp;delayms=4000"></iframe>
