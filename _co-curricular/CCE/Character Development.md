@@ -73,6 +73,6 @@ are discerning
 and Cyber world.
 <br>- women of Grace and Substance navigating the technology era - 21st Century</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT96sih29AcRjC0uogxIoy7WYIwjNKXAxwC-0n1wPtZPPurZCX-iTlKs0lP-UwJarSkd95VKaLCA5bg/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSNRkx_Jp4puKiocBcdsrRjMjKv7GiZdkDWdhCSaxts9okP3lsZSq4CIEnABwD_qTUsx5TtC-tXPDX8/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
