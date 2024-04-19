@@ -19,5 +19,5 @@ description: ""
 </li>
 </ul>
 <p>*Please note that parents are only allowed to be in the school premises
-to assist their children in purchasing school uniforms <strong>after 2:00 pm</strong> 
+to assist their children in purchasing school uniforms <strong>after 2:00 pm</strong>
 </p>
