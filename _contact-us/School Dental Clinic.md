@@ -87,5 +87,3 @@ please contact the following Dental Clinic:</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
-<p></p>
