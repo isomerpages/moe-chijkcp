@@ -37,7 +37,7 @@ variant: tiptap
 <p>Mon - Fri</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6.30am to 5.30pm</p>
+<p>6:30 am to 5:30 pm</p>
 </td>
 </tr>
 <tr>
@@ -49,7 +49,7 @@ variant: tiptap
 <p>Mon - Fri</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6.30am to 5.00pm (closed 11.00am - 1.00pm for lunch break)</p>
+<p>6:30 am to 5:00 pm (closed 11:00 am - 1:00 pm for lunch break)</p>
 </td>
 </tr>
 <tr>
@@ -61,9 +61,9 @@ variant: tiptap
 <p>Mon - Fri</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6.40am to 7.30am (Arrival)</p>
-<p>1.30pm to 2.00pm (Dismissal)</p>
-<p>Mon, Wed, Fri (After-School Programme): 3.30pm to 4.10pm</p>
+<p>6:40 am to 7:30 am (Arrival)</p>
+<p>1:30 pm to 2:00 pm (Dismissal)</p>
+<p>Mon, Wed, Fri (After-School Programme): 3:30 pm to 4:10 pm</p>
 </td>
 </tr>
 <tr>
@@ -89,85 +89,5 @@ variant: tiptap
 <br>Bus Services at Gate 1 (along East Coast Road): 10, 12, 14, 32 &amp; 40
 <br>Bus Services at Gate 2 (along Marine Parade Road): 13, 15, 16, 31, 36,
 43, 47, 48, 55, 134, 135, 196 &amp; 197</p>
-<h4>School Bookshop</h4>
-<p><strong>Pacific Bookstores Pte Ltd</strong> 
-<br>Tel: 94792394
-<br>Operating Hours: Monday to Friday (8.30 a.m. – 4 p.m.)
-<br><em>Students are able to purchase the PE attire from the School Bookshop:</em> 
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>8.30 a.m. to 4.00 p.m. (Monday, Tuesday, Thursday &amp; Friday)</p>
-</li>
-<li>
-<p>8.30 a.m. to 3.00 p.m. (Wednesday)</p>
-</li>
-<li>
-<p>12.30 p.m. to 1.30 p.m. (Closed for Lunch)</p>
-</li>
-</ul>
-<p><em>Parents are allowed to visit the Bookshop only at the following times:</em>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Monday, Tuesday, Thursday &amp; Friday: 2.00p.m. - 3.45 p.m.</p>
-</li>
-</ul>
-<h4>School Bus</h4>
-<p><strong>Darren Lim Transport</strong> 
-<br>Point-of-Contact:
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mr Darren Lim: 9028 5548
-<br>
-</p>
-</li>
-<li>
-<p>Ms Mary Mak: 9450 0580
-<br>
-</p>
-</li>
-</ul>
-<h4>School Uniform &amp; PE Attire</h4>
-<p><strong>Magdalene Sewing Centre Pte Ltd</strong> 
-<br>5000, Ang Mo Kio Avenue 5, Techplace 2 #05-09, Singapore 569870
-<br>Tel: 8638 0499 (WhatsApp only) / 6293 5840
-<br>Operating Hours: Monday to Friday (9.00 a.m. – 4.00 p.m.)
-<br>The school uniform is being sold at the School Bookshop as follow:
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>2.00 p.m. to 4.00 p.m. (Monday, Tuesday, Thursday &amp; Friday)</p>
-</li>
-<li>
-<p>2.00 p.m. to 3.00 p.m. (Wednesday)
-<br>
-</p>
-</li>
-</ul>
-<p>*Please note that parents are only allowed to be in the school premises
-to assist their children in purchasing school uniforms <strong>after 2.00 p.m.</strong> 
-<br>
-</p>
-<h4>School-Based Student Care Centre</h4>
-<p><strong>NASCANS Pte Ltd</strong> 
-<br>Centre Supervisor: Ms Nur Fathiah Pathi
-<br>Tel: 8198 9721
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Operating Hours during School Term: Monday to Friday (10.00 a.m. – 7.00
-p.m.)
-<br>Operating Hours during School Holidays: Monday to Friday (7.30 a.m. –
-7.00 p.m.)
-<br>Website:&nbsp;<a href="https://www.nascans.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.nascans.com/</a>
-</p>
-</li>
-</ul>
 <h4></h4>
 <p></p>
