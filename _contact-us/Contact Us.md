@@ -169,53 +169,5 @@ p.m.)
 </p>
 </li>
 </ul>
-<h4>School Dental Clinic</h4>
-<p>Dental Therapist: Ms Judy Tee
-<br>Tel: 8940 1058
-<br>
-</p>
-<p><strong><u>Operating Hours on Alternate Week</u></strong> 
-<br>
-</p>
-<ul>
-<li>
-<p><strong>Monday, Wednesday and Friday</strong> 
-<br>Morning: 8.00 a.m. to 1.00 p.m.
-<br>Afternoon: 2.00 p.m. to 5.00 p.m.
-<br>
-</p>
-</li>
-<li>
-<p><strong>Tuesday and Thursday</strong> 
-<br>Morning: 8.00 a.m. to 1.00 p.m.
-<br>Afternoon: 2.00 p.m. to 5.30 p.m.
-<br>
-</p>
-</li>
-</ul>
-<p>If your child requires urgent dental treatment and the clinic is closed,
-please call the following Dental Clinic:
-<br>
-</p>
-<ol>
-<li>
-<p>Tao Nan School
-<br>49 Marine Cresent S449761
-<br>Tel: 9113 0636
-<br>
-</p>
-</li>
-<li>
-<p>Ngee Ann Primary School
-<br>344 Marine Terrace S449149
-<br>Tel: 8940 5130
-<br>
-</p>
-</li>
-<li>
-<p>St Stephen's School
-<br>20 Siglap View S455789
-<br>Tel: 9112 2045</p>
-</li>
-</ol>
+<h4></h4>
 <p></p>
