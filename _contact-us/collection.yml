@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Contact Us.md
-      - School Hours.md
       - School Bookshop.md
       - School Bus.md
       - School Uniform & PE Attire.md
