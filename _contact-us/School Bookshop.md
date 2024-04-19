@@ -8,7 +8,7 @@ description: ""
 <p><strong>Pacific Bookstores Pte Ltd</strong> 
 <br>Tel: 94792394
 <br>Operating Hours: Monday to Friday (8:30 am – 4:00 pm)
-<br><em>Students are able to purchase the PE attire from the School Bookshop:</em> 
+<br><em>Students are able to purchase the PE attire from the School Bookshop:</em>
 </p>
 <ul data-tight="true" class="tight">
 <li>
