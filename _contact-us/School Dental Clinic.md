@@ -13,15 +13,15 @@ description: ""
 <li>
 <p><strong>Monday, Wednesday and Friday</strong>
 </p>
-<p>Morning: 8:00am to 1:00pm</p>
-<p>Afternoon: 2:00pm to 5:00pm</p>
+<p>Morning: 8:00 am to 1:00 pm</p>
+<p>Afternoon: 2:00 pm to 5:00 pm</p>
 <p></p>
 </li>
 <li>
 <p><strong>Tuesday and Thursday</strong>
 </p>
-<p>Morning: 8:00am to 1:00pm</p>
-<p>Afternoon: 2:00pm to 5.30pm</p>
+<p>Morning: 8:00 am to 1:00 pm</p>
+<p>Afternoon: 2:00 pm to 5.30 pm</p>
 </li>
 </ul>
 <p>If your child requires urgent dental treatment and the clinic is closed,
