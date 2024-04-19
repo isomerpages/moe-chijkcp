@@ -17,7 +17,6 @@ description: ""
 </ul>
 <p><strong><em>Rates from 1 May 2024</em></strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bus_Pricing.jpg">
 </div>
