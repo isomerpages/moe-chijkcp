@@ -2,5 +2,6 @@ collections:
   contact-us:
     output: true
     order:
+      - School Bookshop.md
       - Contact Us.md
       - School Hours.md
