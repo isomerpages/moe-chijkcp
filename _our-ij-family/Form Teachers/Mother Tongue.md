@@ -134,13 +134,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="nazeerah_allaudin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nazeerah Binte Alla'udin</a>
+<p><a href="mailto:nazeerah_allaudin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nazeerah Binte Alla'udin</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="siti_nabilah_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Siti Nabilah Abdul Aziz</a>
+<p><a href="mailto:siti_nabilah_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Siti Nabilah Abdul Aziz</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -171,11 +171,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="barathi_rajan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Barathi Rajan</a>
+<p><a href="mailto:barathi_rajan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Barathi Rajan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="vanitha_vasudevan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Vanitha Kalai</a>
+<p><a href="mailto:vanitha_vasudevan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Vanitha Kalai</a>
 </p>
 </td>
 </tr>
