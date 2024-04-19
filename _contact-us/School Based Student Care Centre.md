@@ -4,7 +4,7 @@ permalink: /school-based-student-care-centre/
 variant: tiptap
 description: ""
 ---
-<h4>School-Based Student Care Centre</h4>
+<h4>School Based Student Care Centre</h4>
 <p><strong>NASCANS Pte Ltd</strong> 
 <br>Centre Supervisor: Ms Nur Fathiah Pathi
 <br>Tel: 8198 9721</p>
