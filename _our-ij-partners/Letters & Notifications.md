@@ -5,6 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h3>Letters &amp; Notifications</h3>
+<h5><strong>P6 Parents' PSLE Briefing</strong></h5>
+<p><a href="/files/CHIJKCP_P6_Parents_Briefing_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Parents' PSLE Briefing (2024)</a>
+</p>
 <h5><strong>Group Personal Accident (GPA) for Students</strong></h5>
 <p><a href="/files/Product_Fact_Sheet_Year_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">GPA Insurance for Students</a>
 </p>
@@ -30,9 +33,6 @@ variant: tiptap
 <p><a href="/files/Parents%20Portal/p3%20end%20of%20year%20examination%20parents'%20briefing%20(mrs%20tracey%20hoa).pdf" rel="noopener noreferrer nofollow" target="_blank">P3 End of Year Examination Parents' Briefing (Mrs Tracey Hoa)</a>
 </p>
 <p><a href="/files/Parents%20Portal/stress%20not!%20manage%20well!%20(mdm%20hana).pdf" rel="noopener noreferrer nofollow" target="_blank">Stress Not! Manage Well! (Mdm Hana)</a>
-</p>
-<h5><strong>P6 Parents' PSLE Briefing (with MOE updates)</strong></h5>
-<p><a href="/files/chijkcp%20p6%20parents%20briefing%2025%20april%202023%20(with%20moe%20updates).pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Parents' PSLE Briefing on 25 April 2023 (with MOE updates)</a>
 </p>
 <h5><strong>Growth Mindset Matters</strong></h5>
 <p><a href="" rel="noopener noreferrer nofollow" target="_blank">Embracing the Growth Mindset</a> 
