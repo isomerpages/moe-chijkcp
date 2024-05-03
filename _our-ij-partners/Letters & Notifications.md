@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>Letters &amp; Notifications</h3>
-<h5><strong>P6 Parents' PSLE Briefing </strong></h5>
+<h5><strong>P6 Parents' PSLE Briefing</strong></h5>
 <p><a href="/files/CHIJKCP_P6_Parents_Briefing_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Parents' PSLE Briefing (2024)</a>
 </p>
 <h5><strong>Group Personal Accident (GPA) for Students</strong></h5>
