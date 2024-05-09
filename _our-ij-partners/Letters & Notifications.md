@@ -9,7 +9,7 @@ variant: tiptap
 <p><a href="/files/CHIJKCP_P6_Parents_Briefing_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Parents' PSLE Briefing (2024)</a>
 </p>
 <h5><strong>Group Personal Accident (GPA) for Students</strong></h5>
-<p><a href="/files/Product_Fact_Sheet_Year_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">GPA Insurance for Students</a>
+<p><a href="/files/Product_Fact_Sheet__Year_2024_May__Revised.pdf" rel="noopener noreferrer nofollow" target="_blank">GPA Insurance for Students</a>
 </p>
 <h5><strong>Beginning of Year Parents' Webinar</strong></h5>
 <p><a href="/files/Parents'%20Webinar/CHIJ_KCP_P2___P6_Parents__Briefing_2024__Mrs__Simon_.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 - P6 Parents' Briefing by Mrs Simon</a>
