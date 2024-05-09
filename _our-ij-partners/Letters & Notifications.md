@@ -9,7 +9,7 @@ variant: tiptap
 <p><a href="/files/CHIJKCP_P6_Parents_Briefing_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Parents' PSLE Briefing (2024)</a>
 </p>
 <h5><strong>Group Personal Accident (GPA) for Students</strong></h5>
-<p><a href="/files/Product_Fact_Sheet_Year_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">GPA Insurance for Students</a>
+<p><a href="/files/Product_Fact_Sheet__Year_2024_May__Revised.pdf" rel="noopener noreferrer nofollow" target="_blank">GPA Insurance for Students</a>
 </p>
 <h5><strong>Beginning of Year Parents' Webinar</strong></h5>
 <p><a href="/files/Parents'%20Webinar/CHIJ_KCP_P2___P6_Parents__Briefing_2024__Mrs__Simon_.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 - P6 Parents' Briefing by Mrs Simon</a>
@@ -26,13 +26,6 @@ variant: tiptap
 <p><a href="/files/2023%20chij%20pctc%20briefing_p1&amp;p2.pdf" rel="noopener noreferrer nofollow" target="_blank">PCTC Parents' Briefing</a>
 </p>
 <p><a href="/files/cca%20briefing_20%20oct%202023_website.pdf" rel="noopener noreferrer nofollow" target="_blank">Co-Curricular Activity (CCA) Briefing</a>
-</p>
-<h5><strong>P3 End of Year Examination Parents' Briefing</strong></h5>
-<p><a href="/files/Parents%20Portal/p3%20end%20of%20year%20examination%20parents'%20briefing%20(mrs%20mischa%20simon).pdf" rel="noopener noreferrer nofollow" target="_blank">P3 End of Year Examination Parents' Briefing (Mrs Mischa Simon)</a>
-</p>
-<p><a href="/files/Parents%20Portal/p3%20end%20of%20year%20examination%20parents'%20briefing%20(mrs%20tracey%20hoa).pdf" rel="noopener noreferrer nofollow" target="_blank">P3 End of Year Examination Parents' Briefing (Mrs Tracey Hoa)</a>
-</p>
-<p><a href="/files/Parents%20Portal/stress%20not!%20manage%20well!%20(mdm%20hana).pdf" rel="noopener noreferrer nofollow" target="_blank">Stress Not! Manage Well! (Mdm Hana)</a>
 </p>
 <h5><strong>Growth Mindset Matters</strong></h5>
 <p><a href="" rel="noopener noreferrer nofollow" target="_blank">Embracing the Growth Mindset</a> 
