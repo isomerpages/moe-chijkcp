@@ -27,13 +27,6 @@ variant: tiptap
 </p>
 <p><a href="/files/cca%20briefing_20%20oct%202023_website.pdf" rel="noopener noreferrer nofollow" target="_blank">Co-Curricular Activity (CCA) Briefing</a>
 </p>
-<h5><strong>P3 End of Year Examination Parents' Briefing</strong></h5>
-<p><a href="/files/Parents%20Portal/p3%20end%20of%20year%20examination%20parents'%20briefing%20(mrs%20mischa%20simon).pdf" rel="noopener noreferrer nofollow" target="_blank">P3 End of Year Examination Parents' Briefing (Mrs Mischa Simon)</a>
-</p>
-<p><a href="/files/Parents%20Portal/p3%20end%20of%20year%20examination%20parents'%20briefing%20(mrs%20tracey%20hoa).pdf" rel="noopener noreferrer nofollow" target="_blank">P3 End of Year Examination Parents' Briefing (Mrs Tracey Hoa)</a>
-</p>
-<p><a href="/files/Parents%20Portal/stress%20not!%20manage%20well!%20(mdm%20hana).pdf" rel="noopener noreferrer nofollow" target="_blank">Stress Not! Manage Well! (Mdm Hana)</a>
-</p>
 <h5><strong>Growth Mindset Matters</strong></h5>
 <p><a href="" rel="noopener noreferrer nofollow" target="_blank">Embracing the Growth Mindset</a> 
 <br><a href="" rel="noopener noreferrer nofollow" target="_blank">CHIJ (Katong) Primary Growth Mindset Parents Bulletin</a> 
