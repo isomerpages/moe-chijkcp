@@ -3,11 +3,37 @@ title: Term 1
 permalink: /parents-portal/parents-newsletter/term1/
 description: ""
 third_nav_title: Parents' Newsletter
+variant: tiptap
 ---
-![](/images/CHIJKCP%20Parents'%20Newsletter%20Issue%201%202023_Page_1.png)
-
-![](/images/CHIJKCP%20Parents'%20Newsletter%20Issue%201%202023_Page_2.png)
-
-![](/images/CHIJKCP%20Parents'%20Newsletter%20Issue%201%202023_Page_3.png)
-
-![](/images/CHIJKCP%20Parents'%20Newsletter%20Issue%201%202023_Page_4.png)
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHIJ_Scoop_Parents__Newsletter_Term_1_2024__1__Page_01.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHIJ_Scoop_Parents__Newsletter_Term_1_2024__1__Page_02.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHIJ_Scoop_Parents__Newsletter_Term_1_2024__1__Page_03.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHIJ_Scoop_Parents__Newsletter_Term_1_2024__1__Page_04.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHIJ_Scoop_Parents__Newsletter_Term_1_2024__1__Page_05.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHIJ_Scoop_Parents__Newsletter_Term_1_2024__1__Page_06.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHIJ_Scoop_Parents__Newsletter_Term_1_2024__1__Page_07.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHIJ_Scoop_Parents__Newsletter_Term_1_2024__1__Page_08.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHIJ_Scoop_Parents__Newsletter_Term_1_2024__1__Page_09.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHIJ_Scoop_Parents__Newsletter_Term_1_2024__1__Page_10.png">
+</div>
+<p></p>
