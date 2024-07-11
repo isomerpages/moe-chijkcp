@@ -1,81 +1,107 @@
 ---
 title: Terms of Use
 permalink: /terms-of-use/
+variant: tiptap
 ---
-### Terms of Use
-
-**1\. Terms of Agreement**
-
-Thank you for visiting CHIJ (Katong) Primary website. By accessing and using this website, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this website.
-
-  
-
-**2\. Variation**
-
-These Terms of Use may be modified and it will constitute your agreement to the modified and updated Terms of Use agreement.
-
-  
-
-**3\. Website Accessibility**
-
-The accessibility and operation of this website relies on technologies outside our control. We do not guarantee continuous accessibility or uninterrupted operation when using this website.
-
-  
-
-**4\. Information Reliability**
-
-This website serves as a general information source only. It may not cover all information available on a particular issue. Before relying on the information found on this website, please do checks or obtain professional advice relevant to your particular circumstances.
-
-  
-
-**5\. Security**
-
-Where appropriate, we use available technology to protect the security of communications made through this website. CHIJ (Katong) Primary does not, however, accept liability for the security, authenticity, integrity or confidentiality of any transactions and other communications made through this website.
-
-  
-
-Internet communications may be susceptible to interference or interception by third parties. Despite our best efforts, we make no warranties that this website is free of infection by computer viruses or other unauthorised software.
-
-  
-
-**6\. General Disclaimer And Limitation Of Liability**
-
-We will not be liable for any loss or damage in
-
-(i) any incur on account of using, visiting or relying on any statements, opinion, representation or information provided via this website, and
-
-(ii) any delay in operation or transmission, communications failure, Internet access difficulties or malfunctions in equipment or software.
-
-  
-
-**7\. Privacy Policy**
-
-Please view our Privacy Policy page by clicking this [link](https://staging.dv22qe1j6nsk1.amplifyapp.com/privacy/).
-
-  
-
-**8\. Restrictions on Use of Materials**
-
-Except as otherwise provided, the content of this website shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of CHIJ (Katong) Primary.
-
-  
-
-To use any parts of the contents of this website, the user must seek permission in writing, stating the contents for use; intent of use; manner of use; time frame of use and identity of the user. MOE reserves the right to refuse permission without declaring reason(s); and/or if information submitted by user is deemed insufficient.
-
-  
-
-**9\. Right of Access**
-
-CHIJ (Katong) Primary reserves all rights to deny or restrict access to this website to any particular person, or to block access from a particular external address to this website, at any time, without ascribing any reasons whatsoever.
-
-  
-
-**10\. Hyperlinks**
-
-CHIJ (Katong) Primary is not responsible for the contents of hyperlinked websites and shall not be liable for any damages or loss arising from access to those web sites. Use of the hyperlinks and access to such websites are entirely at your own risk. In no circumstances are we considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on web sites that link to this website.
-
-  
-
-**11\. Applicable Laws**
-
-These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
+<p>Thank you for visiting CHIJ (Katong) Primary website.</p>
+<p>By accessing and using this Web Site, you shall be deemed to have accepted
+to be legally bound by these Terms of Use. If you do not agree to these
+Terms of Use, please do not use this Web Site.</p>
+<p><strong>General</strong>
+</p>
+<p>These Terms of Use may be changed from time to time. Changes will be posted
+on this page and your use of this Web Site after such changes have been
+posted will constitute your agreement to the modified Terms of Use and
+all of the changes.</p>
+<p><strong>Proprietary Rights</strong>
+</p>
+<p>This Web Site is maintained by CHIJ (Katong) Primary. It is owned by CHIJ
+(Katong) Primary</p>
+<p>The materials located on this Web Site including the information and software
+programs (the Contents), are protected by copyright, trademark and other
+forms of proprietary rights. All rights, title and interest in the Contents
+are owned by, licensed to or controlled by CHIJ (Katong) Primary.</p>
+<p><strong>Privacy Policy</strong>
+</p>
+<p>Click <a href="https://www.chijkcp.moe.edu.sg/privacy/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+review this Web Site Privacy Statement.</p>
+<p><strong>Restrictions on Use of Materials</strong>
+</p>
+<p>Except as otherwise provided, the Contents of this Web Site shall not
+be reproduced, republished, uploaded, posted, transmitted or otherwise
+distributed in any way, without the prior written permission of CHIJ (Katong)
+Primary.&nbsp; To use any parts of the contents of this Site, the user
+must seek permission in writing, stating the contents for use; intent of
+use; manner of use; time frame of use and identity of the user. MOE reserves
+the right to refuse permission without declaring reason(s); and/or if information
+submitted by user is deemed insufficient.</p>
+<p>Modification of any of the Contents or use of the Contents for any other
+purpose will be a violation of CHIJ (Katong) Primary’s copyright and other
+intellectual property rights. Graphics and images on this Web Site are
+protected by copyright and may not be reproduced or appropriated in any
+manner without written permission of CHIJ (Katong) Primary.</p>
+<p><strong>Right of Access</strong>
+</p>
+<p>CHIJ (Katong) Primary reserves all rights to deny or restrict access to
+this Web Site to any particular person, or to block access from a particular
+external address to this Web Site, at any time, without ascribing any reasons
+whatsoever.</p>
+<p><strong>Disclaimer of Warranties and Liability</strong>
+</p>
+<p>The Contents of this Web Site are provided on an "as is" basis without
+warranties of any kind. To the fullest extent permitted by law, CHIJ (Katong)
+Primary does not warrant and hereby disclaims any warranty:</p>
+<p>(a) as to the accuracy, correctness, reliability, timeliness, non-infringement,
+title, merchantability or fitness for any particular purpose of the Contents
+of this Web Site;</p>
+<p>(b) that the Contents available through this Web Site or any functions
+associated therewith will be uninterrupted or error-free, or that defects
+will be corrected or that this Web Site and the server is and will be free
+of all viruses and/or other harmful elements.</p>
+<p>CHIJ (Katong) Primary shall also not be liable for any damage or loss
+of any kind caused as a result (direct or indirect) of the use of the Web
+Site, including but not limited to any damage or loss suffered as a result
+of reliance on the Contents contained in or available from the Web Site.</p>
+<p><strong>Links from This Web Site to Other Web Sites</strong>
+</p>
+<p>This Web Site contains hyperlinks to web sites which are not maintained
+CHIJ (Katong) Primary. CHIJ (Katong) Primary is not responsible for the
+contents of those web sites and shall not be liable for any damages or
+loss arising from access to those web sites. Use of the hyperlinks and
+access to such web sites are entirely at your own risk.</p>
+<p>Hyperlinks to other web sites are provided as a convenience. In no circumstances
+shall CHIJ (Katong) Primary be considered to be associated or affiliated
+with any trade or service marks, logos, insignia or other devices used
+or appearing on web sites to which this Web Site is linked.</p>
+<p><strong>Links to This Web Site from Other Web Sites</strong>
+</p>
+<p>Except as set forth below, caching and links to, and the framing of this
+Web Site or any of the Contents are prohibited.</p>
+<p>You must secure permission from CHIJ (Katong) Primary prior to hyperlinking
+to, or framing, this Web Site or any of the Contents, or engaging in similar
+activities. CHIJ (Katong) Primary reserves the right to impose conditions
+when permitting any hyperlinking to, or framing of this Web Site or any
+of the Contents.</p>
+<p>Your linking to, or framing any part of this Web Site or its Contents
+constitute acceptance of these Terms of Use. This is deemed to be the case
+even after the posting of any changes or modifications to these Terms of
+Use. If you do not accept these Terms of Use, you must discontinue linking
+to, or framing of this Web Site or any of the Contents.</p>
+<p>In no circumstances shall CHIJ (Katong) Primary be considered to be associated
+or affiliated in whatever manner with any trade or service marks, logos,
+insignia or other devices used or appearing on web sites that link to this
+Web Site or any of the Contents.</p>
+<p>CHIJ (Katong) Primary reserves all rights to disable any links to, or
+frames of any site containing inappropriate, profane, defamatory, infringing,
+obscene, indecent or unlawful topics, names, material or information, or
+material or information that violates any written law, any applicable intellectual
+property, proprietary, privacy or publicity rights.</p>
+<p>CHIJ (Katong) Primary reserves the right to disable any unauthorised links
+or frames and disclaims any responsibility for the content available on
+any other site reached by links to or from this Web Site or any of the
+Contents.</p>
+<p><strong>Governing Law</strong>
+</p>
+<p>These Terms of Use shall be governed and construed in accordance with
+laws of the Republic of Singapore.</p>
+<p>&nbsp;</p>
