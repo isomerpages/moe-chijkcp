@@ -19,9 +19,11 @@ variant: tiptap
 <p><a href="/files/Assessment Information /P4_End_of_Year__EOY__Examination_SCHEDULE_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4 EOY Examination Schedule 2024</a>
 <br><a href="/files/Assessment Information /P4_End_of_Year__EOY__Examination_SCOPE_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4 EOY Examination Scope 2024</a>
 <br><a href="/files/Assessment Information/P4_EOY_EXAM_FORMAT_EL__MATH___SC.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4 EOY Examination Format (English, Mathematics &amp; Science)</a>
+<br><a href="/files/Assessment Information/P4_EOY_EXAM_FORMAT_CL.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4 EOY Examination Format (Chinese Language)</a>
+<br><a href="/files/Assessment Information/P4_EOY_EXAM_FORMAT_ML.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4 EOY Examination Format (Malay Language)</a>
 <br>
-<br><a href="https://cms.isomer.gov.sg/files/3_July_2024_P3_T3_WA_Letter_HA_PMY_051_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Primary 3 Weighted Assessment Letter</u></a>
 </p>
+<p></p>
 <h4><strong>Term 3</strong></h4>
 <p><a href="/files/3_July_2024_P5_T3_WA_Letter_HA_PMY_053_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 Weighted Assessment Letter</a>
 <br><a href="/files/3_July_2024_P4_T3_WA_Letter_HA_PMY_052_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4 Weighted Assessment Letter</a>
