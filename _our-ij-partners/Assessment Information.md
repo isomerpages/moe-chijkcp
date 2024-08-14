@@ -14,14 +14,12 @@ variant: tiptap
 <br><a href="/files/Assessment Information/P5_P6_EOY_EXAM_FORMAT_FCL.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 EOY Examination Format (Foundation Chinese Language)</a>
 <br><a href="/files/Assessment Information/P5_P6_EOY_EXAM_FORMAT_ML.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 EOY Examination Format (Malay Language)</a>
 <br><a href="/files/Assessment Information/P5_P6_EOY_EXAM_FORMAT_TL.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 EOY Examination Format (Tamil Language)</a>
-<br>
 </p>
 <p><a href="/files/Assessment Information /P4_End_of_Year__EOY__Examination_SCHEDULE_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4 EOY Examination Schedule 2024</a>
 <br><a href="/files/Assessment Information /P4_End_of_Year__EOY__Examination_SCOPE_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4 EOY Examination Scope 2024</a>
 <br><a href="/files/Assessment Information/P4_EOY_EXAM_FORMAT_EL__MATH___SC.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4 EOY Examination Format (English, Mathematics &amp; Science)</a>
 <br><a href="/files/Assessment Information/P4_EOY_EXAM_FORMAT_CL.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4 EOY Examination Format (Chinese Language)</a>
 <br><a href="/files/Assessment Information/P4_EOY_EXAM_FORMAT_ML.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4 EOY Examination Format (Malay Language)</a>
-<br>
 </p>
 <p></p>
 <h4><strong>Term 3</strong></h4>
