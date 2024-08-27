@@ -28,4 +28,7 @@ a pencil holder and tile/coaster respectively using the hand-building techniques
 Primary Four students will be making small plates using hand-building (pinching
 technique). Primary 5 and 6 students will be using hand-building (slab
 construction technique) to create their ceramics.</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1vjG_R2k_VVPJ1swWdWgNrfv55xBXO7kUXj63ZAX9_yc/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p></p>
