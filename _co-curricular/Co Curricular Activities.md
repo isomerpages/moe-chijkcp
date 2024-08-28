@@ -78,7 +78,7 @@ Parents are to make their own transport arrangement after CCAs.
       <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Art Club<br>
       (Modular)<br></td>
       <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Innovation Club<br>
-      (Modular)<br></td>
+      (Non-Modular)<br></td>
       <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Artistic Gymnastics<br>
       (Modular)<br></td>
       <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Brownies<br>
