@@ -2,6 +2,7 @@
 title: Co Curricular Activities
 permalink: /our-ij-experience/co-curricular/co-curricular-activities/
 description: ""
+variant: markdown
 ---
 ### Co-Curricular Activities
 
@@ -58,7 +59,7 @@ Parents are to write in to the Principal to seek approval for exemption.
 
 Parents are to make their own transport arrangement after CCAs.
 
-#### Co-curricular Activities (2024)
+#### Co-curricular Activities (2025)
 <br>
 
 
