@@ -2,6 +2,7 @@
 title: Co Curricular Activities
 permalink: /our-ij-experience/co-curricular/co-curricular-activities/
 description: ""
+variant: tiptap
 ---
 ### Co-Curricular Activities
 
@@ -58,7 +59,7 @@ Parents are to write in to the Principal to seek approval for exemption.
 
 Parents are to make their own transport arrangement after CCAs.
 
-#### Co-curricular Activities (2024)
+#### Co-curricular Activities (2025)
 <br>
 
 
@@ -77,7 +78,7 @@ Parents are to make their own transport arrangement after CCAs.
       <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Art Club<br>
       (Modular)<br></td>
       <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Innovation Club<br>
-      (Modular)<br></td>
+      (Non-Modular)<br></td>
       <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Artistic Gymnastics<br>
       (Modular)<br></td>
       <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Brownies<br>
@@ -105,8 +106,8 @@ Parents are to make their own transport arrangement after CCAs.
       <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Dance Modular<br>
       (Modular)<br></td>
       <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td>
-      <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Football *NEW<br>
-      (Modular)<br></td>
+      <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Football<br>
+      (Non-Modular)<br></td>
       <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td>
     </tr>
     <tr>
