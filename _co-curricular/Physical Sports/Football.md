@@ -7,7 +7,7 @@ variant: markdown
 ---
 ## Football
 
-**(Modular CCA)**
+**(Non-Modular CCA)**
 
   
 
