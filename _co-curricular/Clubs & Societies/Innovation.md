@@ -7,7 +7,7 @@ variant: markdown
 ---
 ## Innovation
 
-**(Modular CCA)**
+**(Non-Modular CCA)**
 
   
 
