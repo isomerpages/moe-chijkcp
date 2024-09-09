@@ -4,6 +4,8 @@ permalink: /our-ij-partners/parents-portal/
 description: ""
 variant: tiptap
 ---
+<h4>2024 P3 End of Year Examination Parents Briefing</h4>
+<p></p>
 <h4>GEP Identification Exercise 2024</h4>
 <p><a href="/files/2024_P3_GEP_Notification.pdf" rel="noopener noreferrer nofollow" target="_blank">GEP Identification Exercise 2024</a>
 </p>
