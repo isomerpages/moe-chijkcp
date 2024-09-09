@@ -4,7 +4,7 @@ permalink: /our-ij-partners/parents-portal/
 description: ""
 variant: tiptap
 ---
-<h4>2024 P3 End of Year Examination Parents Briefing</h4>
+<h4>Primary 3 (2024) End of Year Examination Parents Briefing</h4>
 <p><a href="/files/P3_ASSESSMENT_BRIEFING.pdf" rel="noopener nofollow" target="_blank">P3 Assessment Briefing</a>
 </p>
 <p><a href="/files/OVERVIEW_OF_ASSESSMENT.pdf" rel="noopener nofollow" target="_blank">Overview of Assessment</a>
