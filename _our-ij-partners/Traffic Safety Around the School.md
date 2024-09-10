@@ -62,10 +62,12 @@ should be used. Overhead bridge (outside Gate 2) should also be used when
 crossing to the bus stop opposite.</p>
 <p>10. Students can enter the school via all 3 school gates within the respective
 gate operating hours.</p>
-<p>Students taking Public Transport to School</p>
+<p><strong><u>Students taking Public Transport to School</u></strong>
+</p>
 <p>11. Wait for the bus to stop completely before boarding or alighting.</p>
 <p>12. Never play or stand in the bus bay.</p>
-<p>Students Cycling to School</p>
+<p><strong><u>Students Cycling to School</u></strong>
+</p>
 <p>13. Do not to use your mobile phone, even with an in-ear attachment, or
 listen to music through earphones while cycling.</p>
 <p>14. Dismount and push the bicycle when using the pedestrian crossing.</p>
