@@ -2,7 +2,6 @@ collections:
   our-ij-partners:
     output: true
     order:
-      - Advisory Note for Cycling to School.md
       - Parents Portal.md
       - Letters & Notifications.md
       - Parents' Newsletter/.keep
@@ -20,3 +19,4 @@ collections:
       - IJ Parent Volunteers (PV).md
       - CCA Online Registration.md
       - Traffic Safety Around the School.md
+      - Advisory Note for Cycling to School.md
