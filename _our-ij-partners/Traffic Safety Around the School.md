@@ -21,7 +21,7 @@ description: ""
 </p>
 <p>1. Please note that Martia Road leading into the school is an enhanced
 school zone - no parking and waiting during the morning period from 6.45
-am to 8 am and afternoon dismissal from 12.45 pm to 4 pm. In particular,
+am to 8.00 am and afternoon dismissal from 12.45 pm to 4.00 pm. In particular,
 parents should not park in front of the gates of the row of terrace houses
 opposite the school at Gate 1, as this will be an inconvenience to the
 residents who are driving their cars in / out of their houses.</p>
@@ -30,7 +30,7 @@ Martia Road shall not stop / park their cars along St Patrick’s Road and
 walk to the school to wait for their daughters.&nbsp; This will create
 obstruction to traffic along St Patrick’s Road and cause inconvenience
 to the residents living there.</p>
-<p>3.&nbsp;&nbsp;&nbsp; Do arrive at Gate 1 <strong>15 minutes after dismissal time</strong> to
+<p>3.&nbsp;&nbsp;&nbsp; Do arrive at Gate 1, <strong>15 minutes after dismissal time</strong> to
 allow the school buses to leave the school premises first for the safety
 of our girls.</p>
 <p>4.&nbsp;&nbsp;&nbsp; Parents who fetch their daughters at Gate 3 along
