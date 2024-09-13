@@ -13,9 +13,19 @@ variant: tiptap
 </p>
 <h4>E3 Approach:</h4>
 <p><strong>"Experience, Enrich and Excel" Approach</strong>
+<br><strong>All aesthetics department programmes are aligned to this approach.</strong>
 </p>
-<p></p>
-<p></p>
+<p><strong>Experience:</strong>
+</p>
+<p>All students are given the opportunity to be exposed to the Arts through
+various schoolwide activities.</p>
+<p><strong>Enrich:</strong>
+</p>
+<p>Programmes are planned to further enhance their Arts experience.</p>
+<p><strong>Excel:</strong>
+</p>
+<p>Opportunities are given to those who have the aptitude to further develop
+their talent.</p>
 <p></p>
 <p></p>
 <p></p>
