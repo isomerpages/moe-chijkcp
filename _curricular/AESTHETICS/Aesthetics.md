@@ -15,7 +15,7 @@ variant: tiptap
 <p><strong>"Experience, Enrich and Excel" Approach</strong>
 <br><strong>All aesthetics department programmes are aligned to this approach.</strong>
 </p>
-<p><strong>Experience:</strong>
+<p><strong>Experience: </strong>
 </p>
 <p>All students are given the opportunity to be exposed to the Arts through
 various schoolwide activities.</p>
@@ -39,128 +39,88 @@ their talent.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Group<br></strong>
-</p>
+<p>Group</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Experience<br></strong>
-</p>
+<p>Experience</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Enrich<br></strong>
-</p>
+<p>Enrich</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Excel<br></strong>
-</p>
+<p>Excel</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ALL<br></strong>
-</p>
+<p>ALL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assembly Programme
-<br>
-<br>Recess
-<br>Programme
-<br>
-<br>P1/P2 Showcase (Concert and Art Exhibition)
-<br>
-<br>Concerts</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Art and Music Curriculum</p>
+</li>
+<li>
+<p>Assembly Programme</p>
+</li>
+<li>
+<p>Recess Programme</p>
+</li>
+<li>
+<p>Concerts</p>
+</li>
+<li>
+<p>Arts Fortnight</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Learning Journeys for all levels
-<br>
-<br>Arts Monitor Workshop/Training
-<br>
-<br>Platforms for performance in school for students not in the Performing
-Arts CCAs</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Arts Excustions/Learning Journeys</p>
+</li>
+<li>
+<p>Training for Arts Representatives</p>
+</li>
+<li>
+<p>Opt-In Enrichment Programmes</p>
+</li>
+<li>
+<p>Platforms for performance in and out of school</p>
+</li>
+<li>
+<p>Project Heart &amp; Soul</p>
+</li>
+<li>
+<p>Exhibitions</p>
+</li>
+</ul>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Arts Monitors represent school in cluster, IJ, national or international
-events, exhibitions and concerts.
-<br>
-<br>Talented students to be recommended for the SOTA Junior Academy</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Art<br></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Art Curriculum
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Art Club
-<br>
-<br>Art Exhibition
-<br>
-<br>Art Workshops (Art Appreciation)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Art Competitions
-<br>
-<br>International Art Competitions
-<br>
-<br>SYF Art Exhibition</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Music<br></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Music Curriculum
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Enrichment Lessons (Hand Chimes, Ukelele, Guitar, and Garage Band)
-<br>
-<br>Platforms for performance in school: Showcase of students taking music
-lessons outside school</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Platforms for performance locally and overseas
-<br>
-<br>Zonal, National and International Competitions Examinations</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students represent the school in cluster, IJ, national and international
+events, exhibitions, competitions and concerts</p>
+</li>
+<li>
+<p>IJ's Got Talent</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Performing Arts CCAs<br></strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CCA training sessions
-<br>
-<br>Watch local and overseas performances
-<br>
-<br>School platforms</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Exchanges with local schools /workshops
-<br>
-<br>External (local/overseas) platforms
-<br>
-<br>Exchanges with overseas schools</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SYF Arts Presentation
-<br>
-<br>Competitions (Non-SYF Year)
-<br>
-<br>Examinations (Certification)
-<br>
-<br>Direct School Admission Exercise
-<br>
-<br>Talented students to be recommended for the SOTA Junior Academy</p>
+<p></p>
 </td>
 </tr>
 </tbody>
