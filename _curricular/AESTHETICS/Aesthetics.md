@@ -15,7 +15,7 @@ variant: tiptap
 <p><strong>"Experience, Enrich and Excel" Approach</strong>
 <br><strong>All aesthetics department programmes are aligned to this approach.</strong>
 </p>
-<p><strong>Experience: </strong>
+<p><strong>Experience:</strong>
 </p>
 <p>All students are given the opportunity to be exposed to the Arts through
 various schoolwide activities.</p>
