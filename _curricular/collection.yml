@@ -2,6 +2,7 @@ collections:
   curricular:
     output: true
     order:
+      - AESTHETICS.md
       - ENGLISH.md
       - MATHEMATICS.md
       - SCIENCE.md
