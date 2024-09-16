@@ -125,6 +125,11 @@ events, exhibitions, competitions and concerts</p>
 </tr>
 </tbody>
 </table>
+<div class="iframe-wrapper">
+<iframe height="749" width="1280" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1NWmP2IEys36hCoZPa6AMi47lnPO6h6st2OwPXOL4kvM/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
+<p></p>
+<p></p>
 <p><strong>Ms Christina Lie</strong>
 <br><strong>Head of Department (Aesthetics)</strong>
 </p>
