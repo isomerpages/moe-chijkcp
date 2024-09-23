@@ -26,7 +26,7 @@ but also on moral and spiritual growth, in line with Catholic values.</p>
 Primary where students, staff and parents come together to celebrate the
 institution's contributions to education and society over the years.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1evFhWKhF35IS313rW9V8UKCAu64jYor-7nDTDjekCeA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1evFhWKhF35IS313rW9V8UKCAu64jYor-7nDTDjekCeA/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
