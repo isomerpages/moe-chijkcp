@@ -22,7 +22,7 @@ that CHIJ schools were established by the Infant Jesus Sisters in 1854
 in Singapore and have since played an important role in the education of
 girls across the nation. The schools focus not only on academic excellence
 but also on moral and spiritual growth, in line with Catholic values.</p>
-<p>This 170th anniversary was indeed a momentous occasion for CHIJ Katong
+<p>This 170th anniversary was indeed a momentous occasion for CHIJ (Katong)
 Primary where students, staff and parents come together to celebrate the
 institution's contributions to education and society over the years.</p>
 <div class="iframe-wrapper">
