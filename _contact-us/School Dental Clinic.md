@@ -15,7 +15,8 @@ description: ""
 </p>
 <p>Morning: 8:00 am to 1:00 pm</p>
 <p>Afternoon: 2:00 pm to 5:00 pm</p>
-<p></p>
+<p>(*Dental Clinic will be closed on Fridays from 25<sup>th</sup> October
+to 31<sup>st </sup>December 2024)</p>
 </li>
 <li>
 <p><strong>Tuesday and Thursday</strong>
@@ -27,7 +28,12 @@ description: ""
 <p>If your child requires urgent dental treatment and the clinic is closed,
 please contact the following Dental Clinic:</p>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
