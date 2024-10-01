@@ -3,6 +3,7 @@ title: Applied Learning Programme (ALP)
 permalink: /our-ij-experience/signature-programs/applied-learning-programme-alp/
 description: ""
 variant: tiptap
+third_nav_title: Signature Programs
 ---
 <h3>Applied Learning Programme (ALP)</h3>
 <h4><strong>Our Vision</strong></h4>

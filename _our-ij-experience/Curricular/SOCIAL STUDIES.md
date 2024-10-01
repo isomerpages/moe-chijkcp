@@ -3,6 +3,7 @@ title: SOCIAL STUDIES
 permalink: /our-ij-experience/curricular/social-studies/
 description: ""
 variant: tiptap
+third_nav_title: Curricular
 ---
 <h3>Social Studies</h3>
 <p>The school’s Social Studies (SS) and Character and Citizenship Education

@@ -3,6 +3,7 @@ title: PHYSICAL EDUCATION
 permalink: /our-ij-experience/curricular/physical-education/
 description: ""
 variant: tiptap
+third_nav_title: Curricular
 ---
 <h2>PHYSICAL EDUCATION</h2>
 <h4>Vision</h4>

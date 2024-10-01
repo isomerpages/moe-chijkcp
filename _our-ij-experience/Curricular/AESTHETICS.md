@@ -3,6 +3,7 @@ title: AESTHETICS
 permalink: /aesthetics/
 variant: tiptap
 description: ""
+third_nav_title: Curricular
 ---
 <h4>Our Vision:</h4>
 <p><strong>Passion for the Arts</strong>

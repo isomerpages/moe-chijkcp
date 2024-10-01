@@ -2,7 +2,7 @@
 title: Football
 permalink: /co-curricular/physical-sports/permalink/
 description: ""
-third_nav_title: Physical Sports
+third_nav_title: Co Curricular
 variant: markdown
 ---
 ## Football

@@ -5,14 +5,7 @@ links:
   - title: Our IJ Family
     collection: our-ij-family
   - title: Our IJ Experience
-    url: /our-ij-experience/curricular
-    sublinks:
-      - title: Curricular
-        url: /our-ij-experience/curricular/english/
-      - title: Co-Curricular
-        url: /our-ij-experience/co-curricular/co-curricular-activities/
-      - title: Signature Programs
-        url: /our-ij-experience/signature-programs/after-school-programme-asp/
+    collection: our-ij-experience
   - title: OUR IJ Partners
     collection: our-ij-partners
   - title: News And Events

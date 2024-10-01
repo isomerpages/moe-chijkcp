@@ -3,6 +3,7 @@ title: PAL @ CHIJ (Katong) Primary
 permalink: /our-ij-experience/co-curricular/pal-at-chij-katong-primary/
 description: ""
 variant: tiptap
+third_nav_title: Co Curricular
 ---
 <h2>PAL @ CHIJ (Katong) Primary</h2>
 <p>PAL (Programme for Active Learning) was introduced to strengthen the emphasis

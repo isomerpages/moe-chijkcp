@@ -3,6 +3,7 @@ title: MOTHER TONGUE
 permalink: /our-ij-experience/curricular/mother-tongue/
 description: ""
 variant: tiptap
+third_nav_title: Curricular
 ---
 <h2>MOTHER TONGUE</h2>
 <h4><u>Vision</u></h4>

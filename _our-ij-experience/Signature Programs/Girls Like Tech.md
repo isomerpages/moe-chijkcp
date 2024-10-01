@@ -2,6 +2,7 @@
 title: Girls Like Tech
 permalink: /our-ij-experience/signature-programs/girls-like-tech/
 description: ""
+third_nav_title: Signature Programs
 ---
 ### Girls Like Tech
 

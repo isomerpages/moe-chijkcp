@@ -3,6 +3,7 @@ title: Chaplaincy Religious Education
 permalink: /our-ij-experience/signature-programs/chaplaincy-religious-education/
 description: ""
 variant: tiptap
+third_nav_title: Signature Programs
 ---
 <h4>Religious Education in School</h4>
 <p>In our school, the Catholic Identity is evident in the practice and knowledge

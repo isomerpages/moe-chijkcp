@@ -2,9 +2,8 @@
 title: House System
 permalink: /our-ij-experience/co-curricular/house-system/
 description: ""
+third_nav_title: Co Curricular
 ---
-
-
 ## House System
 
 CHIJ (Katong) Primary uses the House System to boost team spirit in Sports and National Education.

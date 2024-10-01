@@ -3,6 +3,7 @@ title: Art in Claynation
 permalink: /our-ij-experience/signature-programs/art-in-claynation/
 description: ""
 variant: tiptap
+third_nav_title: Signature Programs
 ---
 <p><strong><u>Art InCLAYnation</u></strong>
 </p>

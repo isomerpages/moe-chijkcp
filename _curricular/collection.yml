@@ -1,11 +1,4 @@
 collections:
   curricular:
     output: true
-    order:
-      - ENGLISH.md
-      - MATHEMATICS.md
-      - SCIENCE.md
-      - MOTHER TONGUE.md
-      - PHYSICAL EDUCATION.md
-      - AESTHETICS.md
-      - SOCIAL STUDIES.md
+    order: []
