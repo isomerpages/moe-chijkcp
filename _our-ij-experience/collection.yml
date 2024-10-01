@@ -2,14 +2,14 @@ collections:
   our-ij-experience:
     output: true
     order:
-      - Curricular/SOCIAL STUDIES.md
-      - Curricular/AESTHETICS.md
-      - Curricular/PHYSICAL EDUCATION.md
-      - Curricular/MOTHER TONGUE.md
-      - Curricular/SCIENCE.md
-      - Curricular/MATHEMATICS.md
-      - Curricular/ENGLISH.md
       - Curricular/.keep
+      - Curricular/ENGLISH.md
+      - Curricular/MATHEMATICS.md
+      - Curricular/SCIENCE.md
+      - Curricular/MOTHER TONGUE.md
+      - Curricular/PHYSICAL EDUCATION.md
+      - Curricular/AESTHETICS.md
+      - Curricular/SOCIAL STUDIES.md
       - Our IJ Experience.md
       - Co Curricular.md
       - Signature Programs.md
