@@ -2,5 +2,4 @@ collections:
   curricular:
     output: true
     order:
-      - AESTHETICS.md
       - SOCIAL STUDIES.md
