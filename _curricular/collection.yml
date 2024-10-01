@@ -2,6 +2,5 @@ collections:
   curricular:
     output: true
     order:
-      - PHYSICAL EDUCATION.md
       - AESTHETICS.md
       - SOCIAL STUDIES.md
