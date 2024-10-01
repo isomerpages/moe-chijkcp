@@ -146,7 +146,7 @@ knowledge, skills and values needed to navigate the current and future
 world. Most importantly, as a CHIJ school, leadership development is values
 – driven and aims to create girls who have a strong sense of service and
 who are able to show care and compassion to those who are in need.&nbsp;&nbsp;&nbsp;</p>
-<p><strong>SI 5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CHIJ (KCP) Girls who have a sense of pride for school and nation.</strong>
+<p><strong>SI 5 CHIJ (KCP) Girls who have a sense of pride for school and nation.</strong>
 </p>
 <p>The identity of a CHIJ KCP girl is a strategic area needed to develop
 women of grace and substance. The CHIJ KCP girl embodies the mission of
@@ -156,14 +156,14 @@ a CHIJ KCP girl her sense of pride not just as a CHIJ girl but as a citizen
 of Singapore. This deep sense of pride will ensure that our girls have
 a strong sense of belonging to school and country and will eventually motivate
 them to play a contributory role to their school and community.</p>
-<p><strong>SI 6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A CHRIST – centered community that embraces all.&nbsp;</strong>
+<p><strong>SI 6 A CHRIST – centered community that embraces all.&nbsp;</strong>
 </p>
-<p>A Christ – centred Community believes in the worth and dignity of each
-person. This inclusive community pays special reference to the needs of
-persons who are disadvantaged in anyway and where the last, the least,
-and the lost are welcomed and embraced. Every member of the community feels
-safe, supported and loved, regardless of their differences, unique contexts
-and backgrounds. It is a collaborative, integrated and interdependent community
+<p>A Christ–centred Community believes in the worth and dignity of each person.
+This inclusive community pays special reference to the needs of persons
+who are disadvantaged in anyway and where the last, the least, and the
+lost are welcomed and embraced. Every member of the community feels safe,
+supported and loved, regardless of their differences, unique contexts and
+backgrounds. It is a collaborative, integrated and interdependent community
 where all give generously of themselves and receive likewise and where
 the learning and well – being of all become a shared responsibility for
 each member.</p>
