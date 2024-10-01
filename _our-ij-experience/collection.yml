@@ -2,5 +2,6 @@ collections:
   our-ij-experience:
     output: true
     order:
+      - Co Curricular.md
       - Our IJ Experience.md
       - Curricular.md
