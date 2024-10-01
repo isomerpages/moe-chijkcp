@@ -2,6 +2,7 @@ collections:
   our-ij-experience:
     output: true
     order:
+      - Co Curricular/Football.md
       - Co Curricular/Netball.md
       - Co Curricular/Sailing.md
       - Co Curricular/Track and Field.md
