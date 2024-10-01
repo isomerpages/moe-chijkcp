@@ -43,3 +43,7 @@ third_nav_title: Parents' Newsletter
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent's Newsletter/CHIJ_KCP_Scoop_Term_3_2024__2__Page_09.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent's Newsletter/CHIJ_KCP_Scoop_Term_3_2024__2__Page_10.jpg">
+</div>
+<p></p>
