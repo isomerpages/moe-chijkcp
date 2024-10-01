@@ -2,6 +2,7 @@ collections:
   our-ij-experience:
     output: true
     order:
+      - Co Curricular/Sports Safety.md
       - Co Curricular/House System.md
       - Co Curricular/PAL @ CHIJ (Katong) Primary.md
       - Co Curricular/.keep
