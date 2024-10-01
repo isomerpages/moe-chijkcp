@@ -2,6 +2,7 @@ collections:
   our-ij-experience:
     output: true
     order:
+      - Curricular/MATHEMATICS.md
       - Curricular/ENGLISH.md
       - Curricular/.keep
       - Our IJ Experience.md
