@@ -2,6 +2,7 @@ collections:
   our-ij-experience:
     output: true
     order:
+      - Signature Programs/.keep
       - Our IJ Experience.md
       - Curricular/.keep
       - Curricular/ENGLISH.md
