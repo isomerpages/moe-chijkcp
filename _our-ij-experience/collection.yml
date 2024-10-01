@@ -2,7 +2,7 @@ collections:
   our-ij-experience:
     output: true
     order:
-      - Signature Programs.md
-      - Co Curricular.md
       - Our IJ Experience.md
       - Curricular.md
+      - Co Curricular.md
+      - Signature Programs.md
