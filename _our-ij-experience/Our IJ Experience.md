@@ -21,7 +21,7 @@ about the Joy Of Learning.</p>
 learners and future – ready learners.</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A vibrant learning environment that enhances
 teaching and learning.</p>
-<p><strong>SI1 Authentic Learning Experiences that bring about the Joy Of Learning.</strong>
+<p><strong>SI 1 Authentic Learning Experiences that bring about the Joy Of Learning.</strong>
 </p>
 <p>The Joy of Learning is about having a Purpose of Learning based on intrinsic
 motivation. This builds in our students Passion for Learning driven by
@@ -53,7 +53,6 @@ self – directed and collaborative. In addition, the use of ICT in the classroo
 will engage and motivate digital learners who have spent most of their
 lives surrounded by digital communication technology and who prefer to
 be engaged through learning that is relevant, active, and instantly useful.</p>
-<p></p>
 <p><strong>The Joy of Assessment</strong>
 </p>
 <p>To encourage deep engagement and intrinsic motivation for life – long
@@ -67,7 +66,7 @@ to learn about themselves as learners and become aware of how they learn.
 Students reflect on their work on a regular basis, usually through self
 and peer assessment and decide what their next learning step will be. Assessment
 helps students to take more responsibility for their own learning. &nbsp;</p>
-<p><strong>SI2 An Empowering Curriculum to develop resilient and future – ready learners</strong>
+<p><strong>SI 2 An Empowering Curriculum to develop resilient and future – ready learners</strong>
 </p>
 <p>Creating an empowering curriculum first begins with re – defining what
 success means at CHIJ KCP. In our school, success is visible when our girls
@@ -93,7 +92,7 @@ actions of a child. A resilient student is adaptable, flexible and resourceful,
 has good mutual social support, is able to cope with stressors positively,
 is able to navigate change and ambiguity, has a “can do” attitude and a
 sense of hope and purpose, and is confident to face challenges.</p>
-<p><strong>SI3 A Vibrant Learning Environment that enhances teaching and learning.</strong>
+<p><strong>SI 3 A Vibrant Learning Environment that enhances teaching and learning.</strong>
 </p>
 <p><strong>A Vibrant Learning Environment is created through the fostering of a stimulating school environment and a vibrant classroom environment.</strong>
 </p>
@@ -129,13 +128,6 @@ in each person and strive to include the disadvantaged, the last, lost
 and least.</p>
 <p>The following Strategic Initiatives enable the school to foster a CHRIST
 – centered community where the mission of CHIJ can be achieved.&nbsp;</p>
-<p><strong>SI4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Community Student Leaders who actively contribute.</strong>
-</p>
-<p><strong>SI5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CHIJ (KCP) Girls who have a sense of pride for school and nation.</strong>
-</p>
-<p><strong>SI6 A CHRISH-centered community that embraces all.</strong>
-</p>
-<p></p>
 <p><strong>S1 4 Community Student Leaders who actively contribute</strong>
 </p>
 <p>The focus of Student Leadership development in the school is based on
@@ -154,7 +146,7 @@ knowledge, skills and values needed to navigate the current and future
 world. Most importantly, as a CHIJ school, leadership development is values
 – driven and aims to create girls who have a strong sense of service and
 who are able to show care and compassion to those who are in need.&nbsp;&nbsp;&nbsp;</p>
-<p><strong>SI5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CHIJ (KCP) Girls who have a sense of pride for school and nation.</strong>
+<p><strong>SI 5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CHIJ (KCP) Girls who have a sense of pride for school and nation.</strong>
 </p>
 <p>The identity of a CHIJ KCP girl is a strategic area needed to develop
 women of grace and substance. The CHIJ KCP girl embodies the mission of
@@ -164,7 +156,7 @@ a CHIJ KCP girl her sense of pride not just as a CHIJ girl but as a citizen
 of Singapore. This deep sense of pride will ensure that our girls have
 a strong sense of belonging to school and country and will eventually motivate
 them to play a contributory role to their school and community.</p>
-<p><strong>SI6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A CHRIST – centered community that embraces all.&nbsp;</strong>
+<p><strong>SI 6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A CHRIST – centered community that embraces all.&nbsp;</strong>
 </p>
 <p>A Christ – centred Community believes in the worth and dignity of each
 person. This inclusive community pays special reference to the needs of
