@@ -2,7 +2,6 @@ collections:
   curricular:
     output: true
     order:
-      - ENGLISH.md
       - MATHEMATICS.md
       - SCIENCE.md
       - MOTHER TONGUE.md
