@@ -1,5 +1,4 @@
 collections:
   curricular:
     output: true
-    order:
-      - SOCIAL STUDIES.md
+    order: []
