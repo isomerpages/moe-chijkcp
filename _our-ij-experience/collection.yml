@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Curricular/.keep
-      - ENGLISH.md
       - Our IJ Experience.md
       - Curricular.md
       - Co Curricular.md
