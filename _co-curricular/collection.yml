@@ -2,24 +2,8 @@ collections:
   co-curricular:
     output: true
     order:
-      - Co Curricular Activities.md
       - Physical Sports/.keep
       - Clubs & Societies/.keep
-      - Clubs & Societies/Innovation.md
-      - Clubs & Societies/Science and Math Club.md
       - Uniformed Groups/.keep
-      - Uniformed Groups/Brownies.md
       - Visual & Performing Arts/.keep
-      - Visual & Performing Arts/Art.md
-      - Visual & Performing Arts/Choir.md
-      - Visual & Performing Arts/Drama.md
-      - Visual & Performing Arts/Dance.md
-      - Visual & Performing Arts/Handbell Ensemble.md
       - CCE/.keep
-      - CCE/Character & Citizenship Education.md
-      - CCE/Character Development.md
-      - CCE/Citizenship Education.md
-      - CCE/Sexuality Education Programme for Primary 5.md
-      - CCE/Sexuality Education Programme for Primary 6.md
-      - Information Communications Technology (ICT).md
-      - The School Library.md

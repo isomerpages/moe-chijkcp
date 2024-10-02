@@ -4,25 +4,42 @@ collections:
     order:
       - Our IJ Experience.md
       - Curricular/.keep
-      - Curricular/ENGLISH.md
-      - Curricular/MATHEMATICS.md
-      - Curricular/SCIENCE.md
-      - Curricular/MOTHER TONGUE.md
-      - Curricular/PHYSICAL EDUCATION.md
-      - Curricular/AESTHETICS.md
-      - Curricular/SOCIAL STUDIES.md
+      - Curricular/English.md
+      - Curricular/Mathematics.md
+      - Curricular/Science.md
+      - Curricular/Mother Tongue.md
+      - Curricular/Physical Education.md
+      - Curricular/Aesthetics.md
+      - Curricular/Social Studies.md
       - Co Curricular/.keep
-      - Co Curricular/Artistic Gymnastics.md
-      - Co Curricular/Badminton.md
-      - Co Curricular/Bowling.md
-      - Co Curricular/Football.md
-      - Co Curricular/Netball.md
-      - Co Curricular/Sailing.md
-      - Co Curricular/Track and Field.md
-      - Co Curricular/Sports Club.md
-      - Co Curricular/Sports Safety.md
+      - Co Curricular/The School Library.md
+      - Co Curricular/Information Communications Technology (ICT).md
+      - Co Curricular/Sexuality Education Programme for Primary 6.md
+      - Co Curricular/Sexuality Education Programme for Primary 5.md
+      - Co Curricular/Citizenship Education.md
+      - Co Curricular/Character Development.md
+      - Co Curricular/Character & Citizenship Education.md
       - Co Curricular/House System.md
       - Co Curricular/PAL @ CHIJ (Katong) Primary.md
+      - CCA/CCA Policy.md
+      - CCA/Art Club.md
+      - CCA/Badminton.md
+      - CCA/Bowling.md
+      - CCA/Brownies.md
+      - CCA/Choir.md
+      - CCA/Dance.md
+      - CCA/Drama Club.md
+      - CCA/Football.md
+      - CCA/Artistic Gymnastics.md
+      - CCA/.keep
+      - CCA/Handbells Ensemble.md
+      - CCA/Innovation Club.md
+      - CCA/Math Science Club.md
+      - CCA/Netball.md
+      - CCA/Sailing.md
+      - CCA/Sports Club.md
+      - CCA/Track and Field.md
+      - Signature Programs/.keep
       - Signature Programs/After School Programme (ASP).md
       - Signature Programs/Girls Like Tech.md
       - Signature Programs/Applied Learning Programme (ALP).md
@@ -30,4 +47,3 @@ collections:
       - Signature Programs/Chaplaincy Religious Education.md
       - Signature Programs/Save the Earth.md
       - Signature Programs/Art in Claynation.md
-      - Signature Programs/.keep
