@@ -2,7 +2,6 @@ collections:
   our-ij-experience:
     output: true
     order:
-      - CCA/.keep
       - Our IJ Experience.md
       - Curricular/.keep
       - Curricular/ENGLISH.md
@@ -12,6 +11,7 @@ collections:
       - Curricular/PHYSICAL EDUCATION.md
       - Curricular/AESTHETICS.md
       - Curricular/SOCIAL STUDIES.md
+      - Co Curricular/.keep
       - Co Curricular/Drama.md
       - Co Curricular/The School Library.md
       - Co Curricular/Information Communications Technology (ICT).md
@@ -26,7 +26,6 @@ collections:
       - Co Curricular/Art.md
       - Co Curricular/Brownies.md
       - Co Curricular/Science and Math Club.md
-      - Co Curricular/.keep
       - Co Curricular/Co Curricular Activities.md
       - Co Curricular/Artistic Gymnastics.md
       - Co Curricular/Badminton.md
@@ -40,6 +39,8 @@ collections:
       - Co Curricular/House System.md
       - Co Curricular/PAL @ CHIJ (Katong) Primary.md
       - Co Curricular/Innovation.md
+      - CCA/.keep
+      - Signature Programs/.keep
       - Signature Programs/After School Programme (ASP).md
       - Signature Programs/Girls Like Tech.md
       - Signature Programs/Applied Learning Programme (ALP).md
@@ -47,4 +48,3 @@ collections:
       - Signature Programs/Chaplaincy Religious Education.md
       - Signature Programs/Save the Earth.md
       - Signature Programs/Art in Claynation.md
-      - Signature Programs/.keep
