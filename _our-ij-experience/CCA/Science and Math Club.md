@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CCA
 variant: markdown
 ---
-## Science / Math Club
+## Math Science Club
 
 **(Modular CCA)**
 
