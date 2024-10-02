@@ -119,7 +119,8 @@ fails to attend a session.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bowling
-<br>(Modular)</p>
+<br>(Non-Modular for P4 - P6,
+<br>Modular for P3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
