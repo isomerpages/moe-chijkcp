@@ -2,7 +2,6 @@ collections:
   our-ij-experience:
     output: true
     order:
-      - Drama.md
       - Our IJ Experience.md
       - Curricular/.keep
       - Curricular/ENGLISH.md
