@@ -3,6 +3,7 @@ title: Dance
 permalink: /our-ij-experience/co-curricular/visual-n-performing-arts/dance/
 description: ""
 third_nav_title: CCA
+variant: markdown
 ---
 ## Dance SYF
 
@@ -35,7 +36,7 @@ Students will be required to attend extra practices prior to performances.
 ![](/images/Co%20Curricular/Dance%20SYF.jpg)
 
 
-## Dance Modular
+## Dance Exposure
 
 
 **(Modular CCA)**
