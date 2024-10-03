@@ -128,7 +128,7 @@ fails to attend a session.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dance Modular
+<p>Dance Exposure
 <br>(Modular)</p>
 </td>
 <td rowspan="1" colspan="1">
