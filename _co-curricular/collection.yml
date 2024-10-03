@@ -2,7 +2,6 @@ collections:
   co-curricular:
     output: true
     order:
-      - Clubs & Societies/.keep
       - Uniformed Groups/.keep
       - Visual & Performing Arts/.keep
       - CCE/.keep
