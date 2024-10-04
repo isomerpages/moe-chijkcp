@@ -5,13 +5,14 @@ variant: tiptap
 description: ""
 third_nav_title: Curricular
 ---
-<h4>Our Vision:</h4>
+<h3>Aesthetics</h3>
+<h4>Our Vision</h4>
 <p><strong>Passion for the Arts</strong>
 </p>
-<h4>Our Mission:</h4>
+<h4>Our Mission</h4>
 <p><strong>To develop the Arts through the mastery of techniques, aesthetic appreciation and creativity.</strong>
 </p>
-<h4>E3 Approach:</h4>
+<h4>E3 Approach</h4>
 <p><strong>"Experience, Enrich and Excel" Approach</strong>
 <br><strong>All aesthetics department programmes are aligned to this approach.</strong>
 </p>
