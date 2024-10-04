@@ -6,16 +6,14 @@ third_nav_title: CCA
 variant: tiptap
 ---
 <h2>Artistic Gymnastics <strong>(Modular)</strong></h2>
-<p><strong>Level</strong>: P3 to P6
-<br><strong>Day</strong>: Tuesday
-<br><strong>Session 1</strong>: 2.00 pm - 3.30 pm
-<br><strong>Session 2</strong>: 3.30 pm - 5.00pm
-<br><strong>TEACHERS I/C:</strong>&nbsp;*Mdm Ang Bee Bee &amp; Mrs Doreen
-Yeo
-<br><strong>VENUE:</strong>&nbsp;School</p>
-<h3>SYNOPSIS:</h3>
+<p><strong>Level:</strong>&nbsp;P3 to P6
+<br><strong>DAY:</strong>&nbsp;Tuesday
+<br><strong>TIME:</strong>&nbsp;To Be Confirmed
+<br><strong>VENUE:</strong>&nbsp;School
+<br><strong>TEACHERS I/C:</strong>&nbsp;Mdm Ang Bee Bee &amp; Mrs Doreen Yeo</p>
+<h4>SYNOPSIS:</h4>
 <p>Starting gymnastics is a great way to improve physically, mentally and
-socially. Gymnastics training can build students' physical strength, stamina,
+socially. Gymnastics training can build students’ physical strength, stamina,
 flexibility, agility, coordination and balance. It provides them the platform
 to discover and learn various body movements with control as well as develop
 confidence in what thier body can perform safely.</p>
@@ -24,3 +22,5 @@ gymnastic skills. These skills enable them to apply the fundamentals learnt
 in other sport too.</p>
 <p>Besides requiring basic gymnastics skills, our girls also develop teamwork
 and friendships with their peers.</p>
+<p></p>
+<p></p>
