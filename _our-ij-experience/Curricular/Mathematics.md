@@ -6,8 +6,8 @@ variant: tiptap
 third_nav_title: Curricular
 ---
 <h2>Mathematics</h2>
-<h3><strong><em>Vision</em></strong></h3>
-<h4><strong><em>Towards a FUN Mathematics learning experience for our students</em></strong></h4>
+<h4><strong><em>Our Vision</em></strong></h4>
+<h4><strong>Towards a FUN Mathematics learning experience for our students</strong></h4>
 <p></p>
 <p><strong>F</strong>oster the development of problem-solving skills</p>
 <p><strong>U</strong>nderstand the connections between the world of Maths
