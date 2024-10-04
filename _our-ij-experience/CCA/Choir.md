@@ -6,11 +6,12 @@ third_nav_title: CCA
 variant: tiptap
 ---
 <h2>Choir (Non-Modular)</h2>
-<p>Level: P3 to P6</p>
-<p>Day: Tuesday and Friday</p>
-<p>Time: To be confirmed</p>
-<p>Venue: School</p>
-<p>Teachers I/C: Mrs Carian Ye, Mrs Jacinta Lee &amp; Mdm Barathi Rajan</p>
+<p><strong>Level:</strong>&nbsp;P3 to P6
+<br><strong>DAY:</strong>&nbsp;Tuesday &amp; Friday
+<br><strong>TIME:</strong>&nbsp;To Be Confirmed
+<br><strong>VENUE:</strong>&nbsp;School
+<br><strong>TEACHERS I/C:</strong>&nbsp;Mrs Carian Ye, Mrs Jacinta Lee &amp;
+Mrs Barathi Rajan</p>
 <h4><strong>Synopsis:</strong></h4>
 <p>The CHIJ (Katong) Primary Choir was formed in 2001. The choir sings music
 from all genres including jazz and songs in different languages. The students
