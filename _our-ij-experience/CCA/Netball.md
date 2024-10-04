@@ -8,13 +8,17 @@ variant: tiptap
 <h2>Netball Junior (Modular)</h2>
 <p><strong>Level:</strong>&nbsp;P3 to P6
 <br><strong>DAY:</strong>&nbsp;Friday
-<br><strong>TIME:</strong>&nbsp;2.00 pm - 4.00 pm
+<br><strong>TIME:</strong>&nbsp;2:15pm - 4:00pm
 <br><strong>VENUE:</strong>&nbsp;School
-<br><strong>TEACHERS I/C:</strong>&nbsp;Mdm Li Li* &amp; Miss Syazana</p>
-<h3>SYNOPSIS:</h3>
-<p>By the end of the course, students will be able to develop basic ball
-handling in catching and passing, movement and manipulative skills.</p>
-<h3>Netball – Development Team</h3>
+<br><strong>TEACHERS I/C:</strong>&nbsp;Mdm Li Li &amp; Miss Syazana</p>
+<h4>SYNOPSIS:</h4>
+<p>To learn the fundamental movements of netball (eg. running, jumping) and
+develop the skills of catching and throwing netball through fun and modified
+games.</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRdek9LF3KfcFtSTXN6wqeWOSu4hdkiO58dn1dI9QB6jY2rE1mr3tBLDOhcbrTOqg-27q6MEEu0OW2g/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+</div>
+<h2>Netball – Development Team</h2>
 <p><strong>(Non-Modular CCA)</strong>
 </p>
 <p><strong>Level:</strong>&nbsp;P3 to P6
