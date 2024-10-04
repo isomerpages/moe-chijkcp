@@ -3,25 +3,23 @@ title: Badminton
 permalink: /our-ij-experience/co-curricular/physical-sports/badminton/
 description: ""
 third_nav_title: CCA
-variant: markdown
+variant: tiptap
 ---
-## Badminton
-
-**(Modular CCA)**
-
-  
-
-**LEVEL:**&nbsp;P3 to P6<br>
-**DAY:**&nbsp;Friday<br>
-**TIME:**&nbsp;2.00 pm - 4.00 pm<br>
-**VENUE:**&nbsp;School<br>
-**TEACHERS I/C:**&nbsp;\*Mdm Tan Lee Kin &amp; Mrs Jaclyn Guo
-
-### SYNOPSIS:
-
-
-The objective of the CCA is to provide students with the opportunities to acquire knowledge and experience necessary to cultivate a love for badminton. Students will develop a better understanding of the skills and etiquette needed to play badminton at a recreational level.
-
-<img src="/images/Co%20Curricular/Badminton_1.jpg" style="width:75%">
-
-<img src="/images/Co%20Curricular/Badminton_2.png" style="width:75%">
+<h2>Badminton (Modular)</h2>
+<p><strong>Level:</strong>&nbsp;P3 to P6
+<br><strong>DAY:</strong>&nbsp;Friday
+<br><strong>TIME:</strong>&nbsp;To Be Confirmed
+<br><strong>VENUE:</strong>&nbsp;School
+<br><strong>TEACHERS I/C:</strong>&nbsp;Mdm Tan Lee Kin &amp; Mrs Jaclyn Guo</p>
+<h3>SYNOPSIS:</h3>
+<p>The objective of the CCA is to provide students with the opportunities
+to acquire knowledge and experience necessary to cultivate a love for badminton.
+Students will develop a better understanding of the skills and etiquette
+needed to play badminton at a recreational level.</p>
+<div class="isomer-image-wrapper">
+<img style="width:75%" height="auto" width="100%" src="/images/Co%20Curricular/Badminton_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:75%" height="auto" width="100%" src="/images/Co%20Curricular/Badminton_2.png">
+</div>
+<p></p>
