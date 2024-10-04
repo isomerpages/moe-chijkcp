@@ -22,5 +22,7 @@ gymnastic skills. These skills enable them to apply the fundamentals learnt
 in other sport too.</p>
 <p>Besides requiring basic gymnastics skills, our girls also develop teamwork
 and friendships with their peers.</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSBr4KvDNAsVQvlXFlzekwXVRYokNIv6o8ROjp1H0bDgY8l2LdrEyMR_3yQWHEm_4_zqcVHAB_-zeG4/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+</div>
 <p></p>
