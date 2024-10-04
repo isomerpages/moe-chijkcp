@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: CCA
 ---
-<h3>Drama Club (Non-Modular)</h3>
+<h2>Drama Club (Non-Modular)</h2>
 <p>Level: P3 to P6</p>
 <p>Day: Friday</p>
 <p>Time: 2.15 p.m. – 4.00 p.m.</p>
@@ -43,4 +43,7 @@ the Black Box Theatre</p>
 <p>Thanksgiving Concert, ‘Keeping the Dream Alive’ (Drama CCA Students)</p>
 </li>
 </ul>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ0IZJvogQhTPQP7bNwl5KJeeKEJZrc2rsR4l5vY5Cc-ZToM7SwE4DDPBLFCsBUyzVwEAaeUCbyI3uq/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+</div>
 <p></p>
