@@ -18,6 +18,6 @@ passion for the sport. The students will experience the joy of learning
 through theory &amp; practical sessions. Most importantly, they will enjoy
 (a round or two of) badminton rallies with their peers!</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSBr4KvDNAsVQvlXFlzekwXVRYokNIv6o8ROjp1H0bDgY8l2LdrEyMR_3yQWHEm_4_zqcVHAB_-zeG4/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRI6d3G-qK8b0DfFUPpil5T-OD-bL9tRqKXAKrPFMx2Rlei2sS9J14pMEwWnhlb3V-PpMak1q1LPICa/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
 </div>
 <p></p>
