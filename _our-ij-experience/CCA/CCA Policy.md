@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCA
 ---
-<h3>Co-Curricular Activities</h3>
+<h2>Co-Curricular Activities</h2>
 <p>As part of the school’s effort to provide a holistic education for our
 students, all P3 to P6 students are strongly encouraged to join a CCA.
 Through active participation in the CCAs, they will learn life skills such
@@ -128,7 +128,7 @@ fails to attend a session.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dance Modular
+<p>Dance Exposure
 <br>(Modular)</p>
 </td>
 <td rowspan="1" colspan="1">

@@ -3,49 +3,242 @@ title: Track and Field
 permalink: /our-ij-experience/co-curricular/physical-sports/track-n-field/
 description: ""
 third_nav_title: CCA
-variant: markdown
+variant: tiptap
 ---
-## Track &amp; Field
-
-(Non-Modular CCA* )
-
-**DAY**: Tuesday &amp; Friday<br>
-**VENUE:**&nbsp;School / Kallang Practice Track<br>
-																																																														**TIME:**&nbsp;2.00 pm - 4.00 pm (School) or<br> Depart from school: 2.00 pm - Arrive back in school: 4.40 pm (Kallang Practice Track)<br>
-**TEACHERS I/C:**&nbsp;\*Ms Jasmine Lai, Ms Li Meina, Mdm Nazurah, Mdm Zhang Xuyang &amp; Mdm Hazel Han (Adviser)
-
-### SYNOPSIS:
-
-*Modular CCA for P3 only
-
-**DAY**: Friday<br>
-**VENUE:**&nbsp;School / Kallang Practice Track<br>
-																																																														**TIME:**&nbsp;2.00 pm - 4.00 pm (School) or <br>Depart from school: 2.00 pm - Arrive back in school: 4.40 pm (Kallang Practice Track)<br>
-
-Track &amp; Field is a sport that includes athletic contests established on the skills of running, jumping and throwing. In Track &amp;  Field, consistency is key to performing in the Track &amp; Field event(s), while developing values and attributes such as grit, determination, resilience and teamwork that will prepare students for a rapidly changing world. Taking part in competitions and the National School Games has also exposed the athletes to varied experiences.
-	
-
-### From our past students:
-
-
-Training sessions were really fun and enjoyable. I always look forward to participating in competitions with my teammates. I also learnt many valuable lessons in these past 4 years. I am glad I chose Track &amp; Field as my CCA. 
-
-\-&nbsp;**_Angela Tan, AM6 of 2021_**
-
-  
-
-When I first joined Track &amp; Field, I felt that I didn't fit in and wasn't fast enough. But the friends that I have made, coaches and teachers, helped and encouraged me a lot. The sessions might be tiring but they are really fun. I've learnt a lot of things too! I'll miss Track &amp; Field in this school.
-
-\-&nbsp;**_Vera Koh, CE6 of 2021_**
-
-  
-
-Throughout the years in the Track &amp; Field team, I have formed valuable friendships and we went through thick and thin together. Despite the covid-19 pandemic, the coaches and teachers have found ways to help us train and hone our skills and talent in our respective events.
-
-\-&nbsp;**_Chloe Chan, JO6 of 2021_**
-
-  
-
-Having track and field as my CCA was probably one of the best decisions I’ve made. As a slow little clueless Primary 3, I slowly came to learn about one very important value- sportsmanship. I will never forget how the coaches and teachers valued this more than if you were “talented” in track and field. It doesn’t matter if you are fast or slow. Commitment and a ready state of mind to do your best will help overcome all challenges. I will never regret my decision to join track and field.
-
-\-&nbsp;**_Wong Xin Yun, AM6 of 2021_**
+<h2>Track &amp; Field</h2>
+<h2>(Non Modular)</h2>
+<p><strong>Level:</strong>&nbsp;P4 to P6
+<br><strong>DAY:</strong>&nbsp;Tuesday &amp; Friday</p>
+<h2>(Modular)</h2>
+<p><strong>Level:</strong>&nbsp;P3 (Semester 2)
+<br><strong>DAY:</strong>&nbsp;Friday</p>
+<p>
+<br><strong>TIME:</strong>&nbsp;2:00pm (Depart from school) &amp; 4:40pm (Arrive
+back in school)
+<br><strong>VENUE:</strong>&nbsp;School/External (Transport is provided)
+<br><strong>TEACHERS I/C:</strong>&nbsp;Ms Jasmine Lai, Ms Li Meina, Mdm Nazurah,
+Mdm Zhang Xuyang &amp; Mdm Hazel Han (Adviser)</p>
+<h4>SYNOPSIS:</h4>
+<p>During Track &amp; Field CCA sessions, students can look forward to learning
+a range of skills like running, jumping and throwing. Through drills and
+trainings, we seek to develop values and attributes such as grit, determination,
+resilience and teamwork. Students are given opportunities to participate
+in competitions based on their performance during training. More importantly,
+they develop all-round physical fitness which contributes to an active
+and healthy lifestyle.</p>
+<h4><strong><u>Achievement / Participation</u></strong></h4>
+<p><strong><u>2024</u></strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Event</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Achievement</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Junior 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Multi-Skill Event</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Achievement Pin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Junior 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Standing Long Jump</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th </sup>Position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Junior 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shot Put (2kg)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7<sup>th </sup>Position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Junior 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Medicine Ball Throw (2kg)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st </sup>Position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Modified Discus</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7<sup>th</sup> Position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Long Jump with 50 cm T/O Zone</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd</sup> Position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Junior 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>60m</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8<sup>th </sup>Position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1600m</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th </sup>Position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>120m</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st </sup>Position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 x 200m relay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6<sup>th</sup> Position</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong><u>2023</u></strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Event</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Achievement</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Modified Discus</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5<sup>th </sup>Position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior 1 &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>120m</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5<sup>th </sup>Position</p>
+<p>8<sup>th </sup>Position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1600m</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6<sup>th</sup> Position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 x 80m relay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8<sup>th</sup> Position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 x 200m relay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7<sup>th</sup> Position</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSOIgyU5nVBbi6HTjzp2LsxQSAspozHkCCnvaa35kTpcwaF1Txgztx2BKqGDoGnJYoVwhxjCNsQIUqY/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+</div>
+<p></p>

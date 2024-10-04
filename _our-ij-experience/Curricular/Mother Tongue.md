@@ -5,15 +5,15 @@ description: ""
 variant: tiptap
 third_nav_title: Curricular
 ---
-<h2>MOTHER TONGUE</h2>
-<h4><u>Vision</u></h4>
+<h2>Mother Tongue</h2>
+<h4>Vision</h4>
 <p>To develop our students into confident, effective communicators who appreciate
 different cultures and thrive in a vibrant learning environment.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MT_1.jpg">
 </div>
-<h4><u>Approach to learning MTL in CHIJ (Katong) Primary</u></h4>
+<h4>Approach to learning MTL in CHIJ (Katong) Primary</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MT_2.jpg">
@@ -30,8 +30,8 @@ learning.</p>
 writing and comprehension skills to prepare students for more complex linguistic
 skills in the upper primary. In upper primary, focus will be on enhancing
 all language skills taught to prepare them for PSLE.</p>
-<h4><u>Events &amp; Programmes</u></h4>
-<p><u>Mother Tongue Fortnight Activities</u>
+<h4>Events &amp; Programmes</h4>
+<p><strong>Mother Tongue Fortnight Activities</strong>
 </p>
 <p>An annual platform for all students to learn and appreciate their cultures
 through various cultural activities and to instill in the learning of Mother
@@ -43,7 +43,7 @@ Debate and Drama.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSQocAP7jiuMXguzUipP-UDac22jndAcYSW2pNyr_vfwlJqpFzIbs1brw9zlSxO6-v80lV634StGW_2/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
-<p><u>Cultural Exposure</u>
+<p><strong>Cultural Exposure</strong>
 </p>
 <p>Our MTL teachers plan and provide opportunities for students to learn
 MTL in an immersive manner. The activities provide authentic opportunities
@@ -52,7 +52,7 @@ of our cultures.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRCLYMpMr50JoFheaTUnf1oToFeNSpVPdFayUWpmdWoMqwOcNDor76P2hctbVfVza7zeABmeLZSW2Us/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
-<p><u>Speech and Drama</u>
+<p><strong>Speech and Drama</strong>
 </p>
 <p>Speech and Drama provides students with the opportunity to learn Mother
 Tongue Languages (MTL) authentically. Guided by trained teachers and instructors,
@@ -74,14 +74,14 @@ and articulately.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mother Tongue Dept/MT_6.jpg">
 </div>
-<p><u>Mother Tongue Support (MTSP)</u>
+<p><strong>Mother Tongue Support (MTSP)</strong>
 </p>
 <p>MTSP incorporates a systematic approach and pedagogy to teach P3 and P4
 students who need additional support in the learning of Mother Tongue Languages
 (MTL), using a set of customised resources. MTSP aims to build their confidence
 in learning MTL and to strengthen their oracy and literacy foundation so
 that deeper learning in MTL can take place in their later years.</p>
-<p><u>Higher Mother Tongue</u>
+<p><strong>Higher Mother Tongue</strong>
 </p>
 <p>Students who show an aptitude for Mother Tongue Languages will be exposed
 to richer literature such as poetries, mini novels, children’s plays and

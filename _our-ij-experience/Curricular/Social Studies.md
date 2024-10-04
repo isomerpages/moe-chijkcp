@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Curricular
 ---
-<h3>Social Studies</h3>
+<h2>Social Studies</h2>
 <p>The school’s Social Studies (SS) and Character and Citizenship Education
 lessons such as Place-based Learning (Heritage Centre) and SS learning
 journeys serve to instill in students a sense of belonging and commitment

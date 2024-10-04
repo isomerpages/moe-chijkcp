@@ -3,25 +3,21 @@ title: Badminton
 permalink: /our-ij-experience/co-curricular/physical-sports/badminton/
 description: ""
 third_nav_title: CCA
-variant: markdown
+variant: tiptap
 ---
-## Badminton
-
-**(Modular CCA)**
-
-  
-
-**LEVEL:**&nbsp;P3 to P6<br>
-**DAY:**&nbsp;Friday<br>
-**TIME:**&nbsp;2.00 pm - 4.00 pm<br>
-**VENUE:**&nbsp;School<br>
-**TEACHERS I/C:**&nbsp;\*Mdm Tan Lee Kin &amp; Mrs Jaclyn Guo
-
-### SYNOPSIS:
-
-
-The objective of the CCA is to provide students with the opportunities to acquire knowledge and experience necessary to cultivate a love for badminton. Students will develop a better understanding of the skills and etiquette needed to play badminton at a recreational level.
-
-<img src="/images/Co%20Curricular/Badminton_1.jpg" style="width:75%">
-
-<img src="/images/Co%20Curricular/Badminton_2.png" style="width:75%">
+<h2>Badminton (Modular)</h2>
+<p><strong>Level:</strong>&nbsp;P3 to P6
+<br><strong>DAY:</strong>&nbsp;Friday
+<br><strong>TIME:</strong>&nbsp;To Be Confirmed
+<br><strong>VENUE:</strong>&nbsp;School
+<br><strong>TEACHERS I/C:</strong>&nbsp;Mdm Tan Lee Kin &amp; Mrs Jaclyn Guo</p>
+<h4>SYNOPSIS:</h4>
+<p>After the completion of the CCA, students will acquire a fundamental understanding
+of the basic requirements and techniques in badminton, enhancing their
+passion for the sport. The students will experience the joy of learning
+through theory &amp; practical sessions. Most importantly, they will enjoy
+(a round or two of) badminton rallies with their peers!</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRI6d3G-qK8b0DfFUPpil5T-OD-bL9tRqKXAKrPFMx2Rlei2sS9J14pMEwWnhlb3V-PpMak1q1LPICa/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+</div>
+<p></p>
