@@ -20,5 +20,7 @@ beyond their comfort zone and at the same time develop perseverance and
 resilience.</p>
 <p>Through collaborative projects, students learn to celebrate success and
 embrace failures.</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTb6Hq2MzohyWrVnN7iLe21j1R6MVRh27lKab9um2FsTjMZvB9FkvqzYnXtjufp8Hw59F99Asw0g1g7/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+</div>
 <p></p>
