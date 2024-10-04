@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Curricular
 ---
-<h2>PHYSICAL EDUCATION</h2>
+<h2>Physical Education</h2>
 <h4>Vision</h4>
 <p><strong>Healthy Body &amp; Healthy Mind</strong>
 </p>
