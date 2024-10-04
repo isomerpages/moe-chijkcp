@@ -11,15 +11,13 @@ variant: tiptap
 <br><strong>TIME:</strong>&nbsp;To Be Confirmed
 <br><strong>VENUE:</strong>&nbsp;School
 <br><strong>TEACHERS I/C:</strong>&nbsp;Mdm Tan Lee Kin &amp; Mrs Jaclyn Guo</p>
-<h3>SYNOPSIS:</h3>
-<p>The objective of the CCA is to provide students with the opportunities
-to acquire knowledge and experience necessary to cultivate a love for badminton.
-Students will develop a better understanding of the skills and etiquette
-needed to play badminton at a recreational level.</p>
-<div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/Co%20Curricular/Badminton_1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/Co%20Curricular/Badminton_2.png">
+<h4>SYNOPSIS:</h4>
+<p>After the completion of the CCA, students will acquire a fundamental understanding
+of the basic requirements and techniques in badminton, enhancing their
+passion for the sport. The students will experience the joy of learning
+through theory &amp; practical sessions. Most importantly, they will enjoy
+(a round or two of) badminton rallies with their peers!</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSBr4KvDNAsVQvlXFlzekwXVRYokNIv6o8ROjp1H0bDgY8l2LdrEyMR_3yQWHEm_4_zqcVHAB_-zeG4/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
 </div>
 <p></p>
