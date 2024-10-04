@@ -25,4 +25,7 @@ a blend of skill, strategy, and connection to nature.</p>
 </p>
 <p>NSG Optimist Junior Girls (Green Fleet)&nbsp;&nbsp;&nbsp; – 5th</p>
 <p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS_DrA_cSv12LK07XBs716TbZggRR1Zcs31nlX333AEwecfKqjOdohy6EKH1W3OQhZqLh_gA98y1tzB/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+</div>
 <p></p>
