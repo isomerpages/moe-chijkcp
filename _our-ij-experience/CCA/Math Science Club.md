@@ -3,28 +3,22 @@ title: Math Science Club
 permalink: /our-ij-experience/co-curricular/clubs-n-societies/math-science-club/
 description: ""
 third_nav_title: CCA
-variant: markdown
+variant: tiptap
 ---
-## Math Science Club
-
-**(Modular CCA)**
-
-  
-
-**LEVEL:**&nbsp;P3 – P6<br>
-**DAY:**&nbsp;Friday<br>
-**TIME:**&nbsp;2.00 - 4.00 pm<br>
-**VENUE:**&nbsp;Science Room<br>
-**TEACHER I/C:**&nbsp;Mr Yip Chuen Yen &amp; Mr Chin Lip Nyen
-
-### Synopsis:
-
-
-Step into the fascinating world of Science when you join the Science Club. There are plenty of incredible experiments waiting for you to unravel. Creating the blood mixture in our body; finding out how food colouring works; exploring the harmful effects of pollution; planting using hydroponics technology; using virtual reality QR code to know more about the different plants in our school garden and many more. You will surely be intrigue by the new found Science knowledge. Endless fun and joy to match your curiosity!
-
-
-![](/images/Co%20Curricular/Science_1.jpg)
-
-![](/images/Co%20Curricular/Science_2.jpg)
-
-![](/images/Co%20Curricular/Science_3.jpg)
+<h2>Math Science Club(Modular)</h2>
+<p><strong>Level:</strong>&nbsp;P3 to P6
+<br><strong>DAY:</strong>&nbsp;Friday
+<br><strong>TIME:</strong>&nbsp;2:00pm - 4:00pm
+<br><strong>VENUE:</strong>&nbsp;School (Science Room)
+<br><strong>TEACHERS I/C:</strong>&nbsp;Mr Yip Chuen Yen &amp; Mr Chin Lip
+Nyen</p>
+<h4>Synopsis:</h4>
+<p>The CCA aims to ignite students’ mind and imagination with a plethora
+of fun and creative S.T.E.M. activities that will spur their creative thinking,
+problem solving skills, teamwork and leadership skills while fostering
+their interest in Maths and Science.&nbsp; Let’s step beyond our imaginations,
+into the fascinating world of Math and Science Club.</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT-s4E7M3pGY0UuBV3iHweVIw0DIO4f-OUneRtjkIo4nUv5hoOoiq8hw6xrcZe37APBJ9VszyMfCHcp/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+</div>
+<p></p>
