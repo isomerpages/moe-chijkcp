@@ -14,6 +14,9 @@ variant: tiptap
 <p>To learn the fundamental movements of netball (eg. running, jumping) and
 develop the skills of catching and throwing netball through fun and modified
 games.</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRdek9LF3KfcFtSTXN6wqeWOSu4hdkiO58dn1dI9QB6jY2rE1mr3tBLDOhcbrTOqg-27q6MEEu0OW2g/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+</div>
 <h2>Netball – Development Team</h2>
 <p><strong>(Non-Modular CCA)</strong>
 </p>
