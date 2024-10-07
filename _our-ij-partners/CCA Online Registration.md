@@ -12,9 +12,8 @@ details will be given via Parents Gateway.</p>
 <p>&nbsp;The outcome of the registration will be made known by end of Week
 1, 2025.</p>
 <p>&nbsp;For enquiry, please contact:</p>
-<p>HOD Aesthetics, Ms Christina Lie via email (<a rel="noopener noreferrer nofollow" target="_blank">christina_lie@moe.edu.sg</a>),
-or</p>
-<p>HOD PE/CCA, Mdm Rozana via email (<a rel="noopener noreferrer nofollow" target="_blank">rozana_kamsari@moe.edu.sg</a>).</p>
+<p>HOD Aesthetics, Ms Christina Lie via email (<a href="mailto:christina_lie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">christina_lie@moe.edu.sg</a>), or</p>
+<p>HOD PE/CCA, Mdm Rozana via email (<a href="mailto:rozana_kamsari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rozana_kamsari@moe.edu.sg</a>).</p>
 <p>&nbsp;<strong>Important notes:</strong>
 </p>
 <ul data-tight="true" class="tight">
