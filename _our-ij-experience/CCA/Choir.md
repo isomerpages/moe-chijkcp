@@ -27,41 +27,6 @@ as a group at internal and external choral events in 2 or 3 parts. They
 will have opportunities to sing songs in other languages (apart from English
 and MTL commonly used in Singapore) and develop to be disciplined and confident
 singers.</p>
-<h4><strong>Achievement / Participation</strong></h4>
-<p><strong><u>2024:</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Singapore Youth Festival (SYF) Arts Presentation 2024 -&nbsp; Accomplishment
-Award</p>
-</li>
-<li>
-<p>Singapore Lyric Opera Kaleidoscope: SLO Youth and Children's Chorus Concert</p>
-</li>
-</ul>
-<p><strong><u>2023:</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Choral Exchange with Katong Convent</p>
-</li>
-<li>
-<p>Singapore Lyric Opera Kaleidoscope: SLO Youth and Children's Chorus Concert</p>
-</li>
-</ul>
-<p><strong><u>2022:</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Singapore Youth Festival Arts Presentation</p>
-</li>
-<li>
-<p>Virtual Choir Exchange Programme - Las&nbsp;Piñas&nbsp;Boys Choir of&nbsp;Las&nbsp;Piñas&nbsp;Philippines</p>
-</li>
-<li>
-<p>Virtual Choir Project ’22- The Journey</p>
-</li>
-</ul>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ0e-bAmY0dmMa5ZaL7k_2V59TqblbhCziI_G63j-bMwcXjKWZZS9naii2FNWgvW0sQxW1iiz0Kzw6D/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
 </div>
