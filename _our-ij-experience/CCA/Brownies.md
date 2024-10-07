@@ -24,24 +24,6 @@ or Girl Guide units for joint learning adventures! Brownies are guided
 by a comprehensive 5-Point Programme, which develops them in 5 areas. Brownies
 enjoy working for interest badges and awards that will help them develop
 new skills.</p>
-<h4><strong>Achievement / Participation</strong></h4>
-<p><strong><u>2024:</u></strong>
-</p>
-<p>Chief Commissioner Award – 3 Brownies</p>
-<p>East Division Day 2024: 3rd (Patch Design) and Merit Award (Advocacy Booth
-Best Presentation)</p>
-<p><strong><u>2023:</u></strong>
-</p>
-<p>Chief Commissioner Award – 2 Brownies</p>
-<p>Puan Noor Aishah Award – GOLD</p>
-<p>East Division Day 2023: 1st (Toy Making Competition), 3rd (Recycled Fashion
-Competition) and Merit Award (Skit Competition)</p>
-<p><strong><u>2022:</u></strong>
-</p>
-<p>Chief Commissioner Award – 3 Brownies</p>
-<p>Puan Noor Aishah Award – GOLD</p>
-<p>East Division Day 2022: 1st (Recycled Fashion Competition), 2nd (Comic
-Strip Competition) and Merit Award (Toy-making competition)</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSbHfJ-GborIUSoLzyKXBowxbpwmxmI75f9czf6hNZNph0xQVkeH8ItpFlNCFdhxXpFRKyYZ-IGV8Ey/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
 </div>
