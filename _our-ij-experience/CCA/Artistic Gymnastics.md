@@ -23,6 +23,6 @@ in other sport too.</p>
 <p>Besides requiring basic gymnastics skills, our girls also develop teamwork
 and friendships with their peers.</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRIZO74RMwSA4lwliJg549786GWU7_dElN2qpCjZIORFITYpcQFOFNk0oajIk-q3aLAO9gJCPWUdTAb/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRIZO74RMwSA4lwliJg549786GWU7_dElN2qpCjZIORFITYpcQFOFNk0oajIk-q3aLAO9gJCPWUdTAb/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
 </div>
 <p></p>
