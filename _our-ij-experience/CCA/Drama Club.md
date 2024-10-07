@@ -27,21 +27,6 @@ who have potential in Theatre for Direct School Admission (DSA) are nominated
 for the annual SOTA’s DSA platform: Talent Academy (Theatre). After participating
 in the various activities at the Talent Academy, successful nominees will
 be shortlisted for DSA.</p>
-<h4><strong>Achievement / Participation</strong></h4>
-<p><strong><u>2024:</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Watched a Play, ‘Smartypants &amp; the Swordfish’, a play directed by
-the Black Box Theatre</p>
-</li>
-<li>
-<p>Teacher’s Day Mime Performance (P5 Drama CCA students)</p>
-</li>
-<li>
-<p>Thanksgiving Concert, ‘Keeping the Dream Alive’ (Drama CCA Students)</p>
-</li>
-</ul>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ0IZJvogQhTPQP7bNwl5KJeeKEJZrc2rsR4l5vY5Cc-ZToM7SwE4DDPBLFCsBUyzVwEAaeUCbyI3uq/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
 </div>
