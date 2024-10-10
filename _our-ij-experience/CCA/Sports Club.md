@@ -9,7 +9,7 @@ variant: tiptap
 <p><strong>Level:</strong>&nbsp;P3 to P6
 <br><strong>DAY:</strong>&nbsp;Friday
 <br><strong>TIME:</strong>&nbsp;2:00pm - 4:00pm
-<br><strong>VENUE:</strong>&nbsp;School/External
+<br><strong>VENUE:</strong>&nbsp;School &amp; External Venues (TBC)
 <br><strong>TEACHERS I/C:</strong>&nbsp;Mrs Heng-Ng May May &amp; Ms Lim Meixuan</p>
 <h4>SYNOPSIS:</h4>
 <p>The CCA Sports Club provides students with the opportunity to engage in

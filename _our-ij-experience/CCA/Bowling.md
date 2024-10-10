@@ -7,9 +7,9 @@ variant: tiptap
 ---
 <h2>Bowling (Modular - P3 &amp; Non Modular - P4 to P6)</h2>
 <p><strong>Level:</strong>&nbsp;P3 to P6
-<br><strong>DAY:</strong>&nbsp;Tuesday (All members) &amp; Friday (Developmental
+<br><strong>DAY:</strong>&nbsp;Tuesday (All members) &amp; Friday (Development
 Team)
-<br><strong>TIME:</strong>&nbsp;To Be Confirmed
+<br><strong>TIME:</strong>&nbsp;2:15pm - 5:00pm (TBC)
 <br><strong>VENUE:</strong>&nbsp;To Be Confirmed
 <br><strong>TEACHERS I/C:</strong>&nbsp;Mdm Toh Chiew Yen, Mdm Zhai Yuan,
 Ms Nabilah &amp; Mdm Rahat</p>

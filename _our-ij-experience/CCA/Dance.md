@@ -5,15 +5,15 @@ description: ""
 third_nav_title: CCA
 variant: tiptap
 ---
-<h2>Dance SYF (Non-Modular)</h2>
+<h2>Dance SYF (Non Modular)</h2>
 <p><strong>LEVEL:</strong>&nbsp;P3 to P6
 <br><strong>DAY:</strong>&nbsp;Tuesday*
 <br><strong>TIME:</strong>&nbsp;2.00 pm – 4.00 pm
-<br><strong>VENUE:</strong>&nbsp;School
+<br><strong>VENUE:</strong>&nbsp;School (MPH)
 <br><strong>TEACHERS I/C:</strong>&nbsp;*Mrs Josephine Kua &amp; Ms Faith
 Tan
 <br>*Note: For SYF year, additional session on Thursday from beginning of
-the year to SYF</p>
+the year to SYF event.</p>
 <h4>SYNOPSIS:</h4>
 <p>This is a platform for students who possess the competencies in dance
 to work together in a choreography.

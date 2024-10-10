@@ -5,6 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h3>Letters &amp; Notifications</h3>
+<h5><strong>Parent Child Teacher Conference (PCTC)</strong></h5>
+<p><a href="/files/PCTC/2024_CHIJ_KCP_Parent_Teacher_Meetings_PCTC__for_parents_.pdf" rel="noopener nofollow" target="_blank">PCTC Parents' Briefing</a>
+</p>
+<h5><strong>CCA Briefing Slides</strong></h5>
+<p><a href="/files/PCTC/2024_CHIJ_KCP_CCA_Briefing__for_parents_.pdf" rel="noopener nofollow" target="_blank">Co-Curricular Activity (CCA) Briefing</a>
+</p>
 <h5><strong>P6 Parents' PSLE Briefing</strong></h5>
 <p><a href="/files/CHIJKCP_P6_Parents_Briefing_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Parents' PSLE Briefing (2024)</a>
 </p>
@@ -21,11 +27,6 @@ variant: tiptap
 <p><a href="/files/Parents'%20Webinar/2024_BOY_PTM__UPYH_PRESENTATION.pdf" rel="noopener noreferrer nofollow" target="_blank">BOY PTM Upper Primary</a>
 </p>
 <p><a href="/files/Parents'%20Webinar/Curriculum_Matters__P1_Day_1_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Curriculum Matters P1</a>
-</p>
-<h5><strong>Parent Child Teacher Conference (PCTC)</strong></h5>
-<p><a href="/files/2023%20chij%20pctc%20briefing_p1&amp;p2.pdf" rel="noopener noreferrer nofollow" target="_blank">PCTC Parents' Briefing</a>
-</p>
-<p><a href="/files/cca%20briefing_20%20oct%202023_website.pdf" rel="noopener noreferrer nofollow" target="_blank">Co-Curricular Activity (CCA) Briefing</a>
 </p>
 <h5><strong>Growth Mindset Matters</strong></h5>
 <p><a href="" rel="noopener noreferrer nofollow" target="_blank">Embracing the Growth Mindset</a> 

@@ -27,7 +27,7 @@ reason.</p>
 </li>
 <li>
 <p>Students who missed the registration can register for a CCA from 3 Jan
-2024 to 8 Jan 2025. They can only choose from what is available, first
+2025 to 8 Jan 2025. They can only choose from what is available, first
 come first serve. Please submit your request to Ms Christina Lie or Mdm
 Rozana, via email.</p>
 </li>
