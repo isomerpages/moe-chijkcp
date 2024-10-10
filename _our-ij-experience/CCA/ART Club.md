@@ -17,7 +17,7 @@ Abdul Rasid</p>
 foster a passion for the arts and provide a supportive space where young
 artists have opportunities to explore, express and celebrate their unique
 talents.</p>
-<h4>APPROACH / FRAMEWORK:</h4>
+<h4>SYNOPSIS:</h4>
 <p>The ART Club aims to nurture a community of budding artists who embrace
 diversity and find joy in creating art.&nbsp; Through engaging activities,
 we aspire to empower each young artist to discover their artistic voice,
