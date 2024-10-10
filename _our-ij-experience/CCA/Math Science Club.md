@@ -8,11 +8,11 @@ variant: tiptap
 <h2>Math Science Club(Modular)</h2>
 <p><strong>Level:</strong>&nbsp;P3 to P6
 <br><strong>DAY:</strong>&nbsp;Friday
-<br><strong>TIME:</strong>&nbsp;2:00pm - 4:00pm
+<br><strong>TIME:</strong>&nbsp;2:15pm - 4:00pm
 <br><strong>VENUE:</strong>&nbsp;School (Science Room)
 <br><strong>TEACHERS I/C:</strong>&nbsp;Mr Yip Chuen Yen &amp; Mr Chin Lip
 Nyen</p>
-<h4>Synopsis:</h4>
+<h4>SYNOPSIS:</h4>
 <p>The CCA aims to ignite students’ mind and imagination with a plethora
 of fun and creative S.T.E.M. activities that will spur their creative thinking,
 problem solving skills, teamwork and leadership skills while fostering
