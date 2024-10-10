@@ -9,7 +9,7 @@ variant: tiptap
 <p><strong>Level:</strong>&nbsp;P3 to P6
 <br><strong>DAY:</strong>&nbsp;Friday
 <br><strong>TIME:</strong>&nbsp;2:15pm - 4:00pm
-<br><strong>VENUE:</strong>&nbsp;Art Rooms 1 &amp; 2
+<br><strong>VENUE:</strong>&nbsp;School (Art Rooms 1 &amp; 2)
 <br><strong>TEACHERS I/C:</strong>&nbsp;Mrs Irene Lim &amp; Mdm Rasyidah Binte
 Abdul Rasid</p>
 <h4>VISION:</h4>
