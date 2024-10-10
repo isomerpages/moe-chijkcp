@@ -26,8 +26,11 @@ games.</p>
 <br><strong>TEACHERSI/C:</strong>&nbsp;Miss Daisy Ng, Miss Sherlyn Yeo, Ms
 Charlene Lee &amp; Mdm Zur Amira</p>
 <h4>SYNOPSIS:</h4>
-<p>Students will be able to play Netball confidently, understanding and following
-the rules of the game.</p>
+<p>Netball CCA aims to foster physical fitness, self-discipline, teamwork
+and sportsmanship in students. It provides a platform for students to be
+physically active, develop communication skills and social connections
+while promoting values like determination, respect and fair play. Students
+are developed holistically as they thrive in a fun and supportive environment.</p>
 <h4>Pre-requisite:</h4>
 <ul data-tight="true" class="tight">
 <li>
