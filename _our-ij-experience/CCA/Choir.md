@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CCA
 variant: tiptap
 ---
-<h2>Choir (Non-Modular)</h2>
+<h2>Choir (Non Modular)</h2>
 <p><strong>Level:</strong>&nbsp;P3 to P6
 <br><strong>DAY:</strong>&nbsp;Tuesday &amp; Friday
 <br><strong>TIME:</strong>&nbsp;To Be Confirmed
