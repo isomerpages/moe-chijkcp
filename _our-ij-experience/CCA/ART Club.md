@@ -12,7 +12,7 @@ variant: tiptap
 <br><strong>VENUE:</strong>&nbsp;Art Rooms 1 &amp; 2
 <br><strong>TEACHERS I/C:</strong>&nbsp;Mrs Irene Lim &amp; Mdm Rasyidah Binte
 Abdul Rasid</p>
-<h4>SYNOPSIS:</h4>
+<h4>VISION:</h4>
 <p>The ART Club at CHIJ (Katong) Primary aims to inspire artistic growth,
 foster a passion for the arts and provide a supportive space where young
 artists have opportunities to explore, express and celebrate their unique
