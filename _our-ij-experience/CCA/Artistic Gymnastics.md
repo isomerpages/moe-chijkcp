@@ -9,7 +9,7 @@ variant: tiptap
 <p><strong>Level:</strong>&nbsp;P3 to P6
 <br><strong>DAY:</strong>&nbsp;Tuesday
 <br><strong>TIME:</strong>&nbsp;2:15pm - 5:15pm (TBC)
-<br><strong>VENUE:</strong>&nbsp;School
+<br><strong>VENUE:</strong>&nbsp;School (ISH)
 <br><strong>TEACHERS I/C:</strong>&nbsp;Mdm Ang Bee Bee &amp; Mrs Doreen Yeo</p>
 <h4>SYNOPSIS:</h4>
 <p>Starting gymnastics is a great way to improve physically, mentally and
