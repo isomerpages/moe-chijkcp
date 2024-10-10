@@ -12,7 +12,7 @@ variant: tiptap
 <br><strong>VENUE:</strong>&nbsp;School (Classroom)
 <br><strong>TEACHERS I/C:</strong>&nbsp;Mrs Macrina Fernandez &amp; Mrs Nazeerah
 Faizal</p>
-<h4>Synopsis:</h4>
+<h4>SYNOPSIS:</h4>
 <p>Brownies enjoy learning and having amazing adventures together! Brownies
 are encouraged to explore and discover the world around them and to become
 more independent. They are constantly learning new skills and challenged
