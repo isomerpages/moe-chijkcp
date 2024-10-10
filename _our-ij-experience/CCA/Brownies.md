@@ -9,7 +9,7 @@ variant: tiptap
 <p><strong>Level:</strong>&nbsp;P3 to P6
 <br><strong>DAY:</strong>&nbsp;Friday
 <br><strong>TIME:</strong>&nbsp;2:15pm - 4:00pm
-<br><strong>VENUE:</strong>&nbsp;School
+<br><strong>VENUE:</strong>&nbsp;School (Classroom)
 <br><strong>TEACHERS I/C:</strong>&nbsp;Mrs Macrina Fernandez &amp; Mrs Nazeerah
 Faizal</p>
 <h4>Synopsis:</h4>
