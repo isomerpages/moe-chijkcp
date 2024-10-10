@@ -9,7 +9,7 @@ variant: tiptap
 <p><strong>LEVEL:</strong>&nbsp;P3 to P6
 <br><strong>DAY:</strong>&nbsp;Tuesday*
 <br><strong>TIME:</strong>&nbsp;2.00 pm – 4.00 pm
-<br><strong>VENUE:</strong>&nbsp;School
+<br><strong>VENUE:</strong>&nbsp;School (MPH)
 <br><strong>TEACHERS I/C:</strong>&nbsp;*Mrs Josephine Kua &amp; Ms Faith
 Tan
 <br>*Note: For SYF year, additional session on Thursday from beginning of
