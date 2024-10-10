@@ -5,11 +5,10 @@ description: ""
 third_nav_title: CCA
 variant: tiptap
 ---
-<h2>Track &amp; Field</h2>
-<h2>(Non Modular)</h2>
+<h2>Track &amp; Field (Modular)</h2>
 <p><strong>Level:</strong>&nbsp;P4 to P6
 <br><strong>DAY:</strong>&nbsp;Tuesday &amp; Friday</p>
-<h2>(Modular)</h2>
+<h2>Track &amp; Field (Development Team)</h2>
 <p><strong>Level:</strong>&nbsp;P3 (Semester 2)
 <br><strong>DAY:</strong>&nbsp;Friday</p>
 <p>
