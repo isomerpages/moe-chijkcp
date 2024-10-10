@@ -13,7 +13,7 @@ variant: tiptap
 <br><strong>TEACHERS I/C:</strong>&nbsp;*Mrs Josephine Kua &amp; Ms Faith
 Tan
 <br>*Note: For SYF year, additional session on Thursday from beginning of
-the year to SYF</p>
+the year to SYF event.</p>
 <h4>SYNOPSIS:</h4>
 <p>This is a platform for students who possess the competencies in dance
 to work together in a choreography.
