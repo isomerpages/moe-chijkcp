@@ -31,7 +31,11 @@ for all who play them.</p>
 and confidence to perform in school-based or public events, thereby nurturing
 and surfacing young talents in music and the performing arts.</p>
 <h4>Pre-requisite:</h4>
+<ul data-tight="true" class="tight">
+<li>
 <p>Must be able to commit from P3 – P6</p>
+</li>
+</ul>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRAa3Ho-mafQQdn9fNRoz0P9PQZu1Q9S9slCFkzxBEwjVEZg2SRnB0_iqAaZ6FsNN77TiN3zkZ2qCkY/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
 </div>
