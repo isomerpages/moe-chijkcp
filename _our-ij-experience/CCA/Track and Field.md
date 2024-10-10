@@ -16,7 +16,7 @@ variant: tiptap
 back in school)
 <br><strong>VENUE:</strong>&nbsp;School/External Venues (Transport is provided)
 <br><strong>TEACHERS I/C:</strong>&nbsp;Ms Jasmine Lai, Ms Li Meina, Mdm Nazurah,
-Mdm Zhang Xuyang &amp; Mdm Hazel Han (Adviser)</p>
+Mdm Zhang Xuyang</p>
 <h4>SYNOPSIS:</h4>
 <p>During Track &amp; Field CCA sessions, students can look forward to learning
 a range of skills like running, jumping and throwing. Through drills and
