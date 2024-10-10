@@ -11,7 +11,7 @@ third_nav_title: CCA
 <br><strong>TIME:</strong>&nbsp;2:15pm - 4:00pm
 <br><strong>VENUE:</strong>&nbsp;School
 <br><strong>TEACHERS I/C:</strong>&nbsp;Mdm Sharon Yong &amp; Mrs Heeran Soloman</p>
-<h4><strong>Synopsis:</strong></h4>
+<h4>SYNOPSIS:</h4>
 <p>At CHIJ (Katong) Primary, the Drama Club CCA seeks to develop members’
 passion and interest in the performing arts.</p>
 <p>In line with the framework for 21st century competencies, the CCA aims
