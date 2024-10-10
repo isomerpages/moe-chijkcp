@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CCA
 variant: tiptap
 ---
-<h2>ART Club (Modular)</h2>
+<h2>Art Club (Modular)</h2>
 <p><strong>Level:</strong>&nbsp;P3 to P6
 <br><strong>DAY:</strong>&nbsp;Friday
 <br><strong>TIME:</strong>&nbsp;2:15pm - 4:00pm
@@ -13,7 +13,7 @@ variant: tiptap
 <br><strong>TEACHERS I/C:</strong>&nbsp;Mrs Irene Lim &amp; Mdm Rasyidah Binte
 Abdul Rasid</p>
 <h4>SYNOPSIS:</h4>
-<p>The ART Club at CHIJ (Katong) Primary aims to inspire artistic growth,
+<p>The Art Club at CHIJ (Katong) Primary aims to inspire artistic growth,
 foster a passion for the arts and provide a supportive space where young
 artists have opportunities to explore, express and celebrate their unique
 talents. It also aims to nurture a community of budding artists who embrace
