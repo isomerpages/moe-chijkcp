@@ -8,8 +8,8 @@ variant: tiptap
 <h2>Choir (Non Modular)</h2>
 <p><strong>Level:</strong>&nbsp;P3 to P6
 <br><strong>DAY:</strong>&nbsp;Tuesday &amp; Friday
-<br><strong>TIME:</strong>&nbsp;To Be Confirmed
-<br><strong>VENUE:</strong>&nbsp;School
+<br><strong>TIME:</strong>&nbsp;2:00pm - 4:00pm
+<br><strong>VENUE:</strong>&nbsp;School (Dance Studio)
 <br><strong>TEACHERS I/C:</strong>&nbsp;Mrs Carian Ye, Mrs Jacinta Lee &amp;
 Mrs Barathi Rajan</p>
 <h4><strong>Synopsis:</strong></h4>
