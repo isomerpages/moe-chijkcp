@@ -9,7 +9,7 @@ variant: tiptap
 <p><strong>Level:</strong>&nbsp;P3 to P6
 <br><strong>DAY:</strong>&nbsp;Friday
 <br><strong>TIME:</strong>&nbsp;2:15pm - 4:00pm
-<br><strong>VENUE:</strong>&nbsp;School
+<br><strong>VENUE:</strong>&nbsp;School (MPH)
 <br><strong>TEACHERS I/C:</strong>&nbsp;Mdm Tan Lee Kin &amp; Mrs Jaclyn Guo</p>
 <h4>SYNOPSIS:</h4>
 <p>After the completion of the CCA, students will acquire a fundamental understanding
