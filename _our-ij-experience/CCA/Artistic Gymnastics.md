@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CCA
 variant: tiptap
 ---
-<h2>Artistic Gymnastics <strong>(Modular)</strong></h2>
+<h2>Artistic Gymnastics (Modular)</h2>
 <p><strong>Level:</strong>&nbsp;P3 to P6
 <br><strong>DAY:</strong>&nbsp;Tuesday
 <br><strong>TIME:</strong>&nbsp;To Be Confirmed
