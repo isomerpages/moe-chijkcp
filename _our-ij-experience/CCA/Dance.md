@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CCA
 variant: tiptap
 ---
-<h2>Dance SYF (Non-Modular)</h2>
+<h2>Dance SYF (Non Modular)</h2>
 <p><strong>LEVEL:</strong>&nbsp;P3 to P6
 <br><strong>DAY:</strong>&nbsp;Tuesday*
 <br><strong>TIME:</strong>&nbsp;2.00 pm – 4.00 pm
