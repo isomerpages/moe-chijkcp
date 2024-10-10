@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: CCA
 ---
-<h2>Drama Club (Non-Modular)</h2>
+<h2>Drama Club (Non Modular)</h2>
 <p><strong>Level:</strong>&nbsp;P3 to P6
 <br><strong>DAY:</strong>&nbsp;Friday
 <br><strong>TIME:</strong>&nbsp;2:15pm - 4:00pm
