@@ -4,6 +4,9 @@ permalink: /our-ij-partners/parents-portal/
 description: ""
 variant: tiptap
 ---
+<h4>Primary 1 (2025) Administration Day</h4>
+<p><a href="/files/P1 Admin Day 2025/2025_P1_Admin_Day_Annex_A.pdf" rel="noopener nofollow" target="_blank">Primary 1 (2025) Administration Day</a>
+</p>
 <h4>Primary 3 (2024) End of Year Examination Parents Briefing</h4>
 <p><a href="/files/P3_ASSESSMENT_BRIEFING.pdf" rel="noopener nofollow" target="_blank">P3 Assessment Briefing</a>
 <br><a href="/files/OVERVIEW_OF_ASSESSMENT.pdf" rel="noopener nofollow" target="_blank">Overview of Assessment</a>
