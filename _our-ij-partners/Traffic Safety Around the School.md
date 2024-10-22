@@ -70,8 +70,8 @@ gate operating hours.</p>
 <p>12. Never play or stand in the bus bay.</p>
 <p><strong><u>Students Cycling to School</u></strong>
 </p>
-<p>13. Do not to use your mobile phone, even with an in-ear attachment, or
-listen to music through earphones while cycling.</p>
+<p>13. Do not use your mobile phone, even with an in-ear attachment, or listen
+to music through earphones while cycling.</p>
 <p>14. Dismount and push the bicycle when using the pedestrian crossing.</p>
 <p>15. Do not cycle within the school compound. Push your bicycle in and
 out of the school.</p>
