@@ -51,7 +51,7 @@ to the school’s General Office by <strong>31 Jan 2025</strong>.</p>
 <p>2. Photocopy of the NRIC (front and back)</p>
 <p>3. List of proposed menu and pricing for all items</p>
 <p>4. Photocopy of relevant certificates such as Basic Food Hygiene Course,
-etc</p>
+etc.</p>
 <p>Shortlisted applicants will be notified for an interview and food sampling
 by the School Canteen Selection Committee at the applicant's own expense.</p>
 <p><a href="/files/Application_for_Canteen_Stall_in_Existing_School.pdf" rel="noopener nofollow" target="_blank">Canteen Stall Application Form</a>
