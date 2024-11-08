@@ -35,3 +35,22 @@ bulletins and anecdotes, videos and reflections in our SLS packages.</p>
 <p></p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Growth Mindset/GM3.png">
+</div>
+<p><strong>Garden of Dreams Journal</strong>
+</p>
+<p>The Garden of Dreams Journal is an inhouse-project designed to promote
+the Growth Mindset in our students so that they may grow to be positive,
+resilient, and confident girls. By engaging in the various activities and
+prompts in the journal, students will have opportunity to explore their
+dreams, set goals and track their progress. Through this process, we hope
+to empower them to recognise their abilities and strengths, overcome obstacles
+and cultivate resilience. Presently, the journal is available for our Primary
+2 and 3 students and will eventually be rolled out to the whole school
+in time to come.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Growth Mindset/GM4.png">
+</div>
+<p></p>
