@@ -16,4 +16,18 @@ serve as powerful affirmations and reminders that inspires a culture of
 positive reinforcement and encouragement to help our girls focus on perseverance
 and overcoming challenges.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Growth Mindset/GM1.png">
+</div>
+<p>Creating a culture of growth mindset in a classroom involves intentional
+efforts to foster a positive and resilient attitude towards learning and
+challenges. The Growth Mindset concepts are infused in our curriculum through
+the setting of personal goals, self-assessments and reflections. Our teachers
+consciously acknowledge students for their progress and efforts and recognize
+achievements, both big and small.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Growth Mindset/GM2.png">
+</div>
+<p></p>
 <p></p>
