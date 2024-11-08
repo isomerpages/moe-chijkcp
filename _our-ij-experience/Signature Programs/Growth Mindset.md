@@ -29,5 +29,9 @@ achievements, both big and small.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Growth Mindset/GM2.png">
 </div>
+<p>We encourage parents and caregivers to foster a Growth Mindset at home
+by sharing information about the concepts with them through our termly
+bulletins and anecdotes, videos and reflections in our SLS packages.</p>
+<p></p>
 <p></p>
 <p></p>
