@@ -54,7 +54,7 @@ hand delivered to the school’s General Office by <strong>31 Jan 2025</strong>.
 etc</p>
 <p>Shortlisted applicants will be notified for an interview and food sampling
 by the School Canteen Selection Committee at the applicant's own expense.</p>
-<p><a href="/files/Application_for_Canteen_Stall_in_Existing_School.pdf" rel="noopener nofollow" target="_blank">Application for canteen stall in existing school</a>
+<p><a href="/files/Application_for_Canteen_Stall_in_Existing_School.pdf" rel="noopener nofollow" target="_blank">Canteen stall application form</a>
 </p>
 <p></p>
 <p></p>
