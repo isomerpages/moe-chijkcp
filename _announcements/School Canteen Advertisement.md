@@ -44,8 +44,8 @@ Singapore Food Agency (SFA)</p>
 Certificate.</p>
 </li>
 </ul>
-<p>The following documents to be submitted via <a rel="noopener noreferrer nofollow" target="_blank">chijktps@moe.edu.sg</a> or
-hand delivered to the school’s General Office by <strong>31 Jan 2025</strong>.</p>
+<p>The following documents to be submitted via <a href="mailto:chijktps@moe.edu.sg" rel="noopener nofollow" target="_blank">chijktps@moe.edu.sg</a> or hand delivered
+to the school’s General Office by <strong>31 Jan 2025</strong>.</p>
 <p></p>
 <p>1. Complete the attached Application Form</p>
 <p>2. Photocopy of the NRIC (front and back)</p>
