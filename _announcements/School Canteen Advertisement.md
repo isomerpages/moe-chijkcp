@@ -47,14 +47,14 @@ Certificate.</p>
 <p>The following documents to be submitted via <a href="mailto:chijktps@moe.edu.sg" rel="noopener nofollow" target="_blank">chijktps@moe.edu.sg</a> or hand delivered
 to the school’s General Office by <strong>31 Jan 2025</strong>.</p>
 <p></p>
-<p>1. Complete the attached Application Form</p>
+<p>1. Complete the Canteen Stall Application Form</p>
 <p>2. Photocopy of the NRIC (front and back)</p>
 <p>3. List of proposed menu and pricing for all items</p>
 <p>4. Photocopy of relevant certificates such as Basic Food Hygiene Course,
 etc</p>
 <p>Shortlisted applicants will be notified for an interview and food sampling
 by the School Canteen Selection Committee at the applicant's own expense.</p>
-<p><a href="/files/Application_for_Canteen_Stall_in_Existing_School.pdf" rel="noopener nofollow" target="_blank">Canteen stall application form</a>
+<p><a href="/files/Application_for_Canteen_Stall_in_Existing_School.pdf" rel="noopener nofollow" target="_blank">Canteen Stall Application Form</a>
 </p>
 <p></p>
 <p></p>
