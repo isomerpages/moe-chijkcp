@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - School Canteen Advertisement.md
       - Announcements.md
       - CHIJ 170th Anniversary.md
       - 2023 Year End Message from IJBOM Chairperson.md
