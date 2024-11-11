@@ -66,7 +66,11 @@ reading. More details will be updated soon, so keep an eye out for the
 upcoming events that promise to inspire and entertain our students!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Library/L6.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Library/Children_watching_the_launch_and_skit_in_their_character_dress_up.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Library/WhatsApp_Image_2024_11_08_at_10_35_00_AM.jpg">
 </div>
 <p><strong>3) Storytelling @ Recesses</strong>
 </p>
@@ -96,7 +100,7 @@ discover the stories for themselves. Don’t miss out on the excitement!
 submit BBT video)</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Library/L7.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Library/Book_Buzz.jpg">
 </div>
 <p><strong>7) Read and be Rewarded Programme</strong>
 </p>
@@ -111,7 +115,7 @@ our termly awards and recognition programme.</p>
 fostering a deeper appreciation for literature among our students.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Library/L8.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Library/Getting_Autographs_from_author_Melanie_Lee.jpg">
 </div>
 <p><strong>9) Books Exchange Day</strong>
 </p>
