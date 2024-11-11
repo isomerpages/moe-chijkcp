@@ -58,7 +58,7 @@ a video recording of their performance. It’s a wonderful way to instill
 a love for reading!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Library/L5.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Library/Watching_Book_A_Date_With_Parent_videos_submitted_this_year.jpg">
 </div>
 <p>We are excited to partner with the National Library Board (NLB) to offer
 fun and engaging experiences that enhance learning and foster a love for
