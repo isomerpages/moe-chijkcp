@@ -30,6 +30,14 @@ performing stage is your platform.</p>
 hub for learning and discovery. We can’t wait for our students to revisit
 and explore all the exciting offerings we have in store!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Library/L1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Library/L2.png">
+</div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
