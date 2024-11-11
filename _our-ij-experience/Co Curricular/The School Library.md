@@ -103,4 +103,4 @@ short story videos featuring colorful animations and recommendations from
 students and teachers. Watch our reading ambassadors and fellow students
 share their favorite books, sparking curiosity and inspiring everyone to
 discover the stories for themselves. Don’t miss out on the excitement!
-(Click</p>
+(Click here to submit BBT video)</p>
