@@ -76,6 +76,15 @@ fun and engaging experiences that enhance learning and foster a love for
 reading. More details will be updated soon, so keep an eye out for the
 upcoming events that promise to inspire and entertain our students!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Library/L6.png">
+</div>
+<p><strong>3) Storytelling @ Recesses</strong>
+</p>
+<p>During recess on some days, students get to enjoy storytelling sessions
+conducted by parent volunteers. The aim of the session is to promote joy
+of reading and to encourage students to explore books of different genres.</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
