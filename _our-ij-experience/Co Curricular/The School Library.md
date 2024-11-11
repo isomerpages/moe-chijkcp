@@ -105,3 +105,32 @@ share their favorite books, sparking curiosity and inspiring everyone to
 discover the stories for themselves. Don’t miss out on the excitement!
 (Click <a href="mailto:faith_tan_yi_chin@moe.edu.sg" rel="noopener nofollow" target="_blank">here</a> to
 submit BBT video)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Library/L7.png">
+</div>
+<p><strong>7) Read and be Rewarded Programme</strong>
+</p>
+<p>Borrow and read books to exchange for attractive gifts! The loyalty card
+programme rewards students for borrowing and reading books available in
+our library. Students will submit a book review to complete the card and
+collect their gifts. Super readers and Master readers are recognized during
+our termly awards and recognition programme.</p>
+<p><strong>8) Assembly Programmes</strong>
+</p>
+<p>Book authors are also invited to share their experiences and insights,
+fostering a deeper appreciation for literature among our students.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Library/L8.png">
+</div>
+<p><strong>9) Books Exchange Day</strong>
+</p>
+<p>Let’s save our Earth! Books Exchange Day allows our students to exchange
+their already read books with ‘new’ books that will allow them to carry
+on reading while saving our earth.</p>
+<p>These initiatives are designed to make our library a vibrant hub for learning
+and creativity, where every student can find joy in reading. We can’t wait
+to see our students embrace these exciting new programs!</p>
+<p></p>
+<p></p>
