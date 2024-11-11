@@ -196,6 +196,6 @@ fun activities for young explorers.</p>
 </p>
 <p>Enjoy videos of children’s books read aloud alongside creatively produced
 illustrations at Storyline Online.</p>
-<p><strong>10) Unite for Literacy: </strong>  <a href="https://www.uniteforliteracy.com/" rel="noopener nofollow" target="_blank">https://www.uniteforliteracy.com/</a>
+<p><strong>10) Unite for Literacy: </strong><a href="https://www.uniteforliteracy.com/" rel="noopener nofollow" target="_blank">https://www.uniteforliteracy.com/</a>
 </p>
 <p>Enjoy simple books at Unite for Literacy</p>
