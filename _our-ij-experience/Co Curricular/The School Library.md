@@ -34,7 +34,6 @@ and explore all the exciting offerings we have in store!</p>
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSYlDgEGWrCpas3DVSsfaOtriBfUwv7lbYOx4LRDmDQ3OEFxqsei-MfXdoH3sCR6GEm_j7MndNwkkvs/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p></p>
-<p></p>
 <p>To promote the love for reading in our school, our students are invited
 to participate in the following programmes:</p>
 <p><strong>1) Library Orientation</strong>
