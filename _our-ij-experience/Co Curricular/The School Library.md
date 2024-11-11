@@ -137,4 +137,24 @@ to see our students embrace these exciting new programs!</p>
 </p>
 <p><a href="https://schoolibrary.moe.edu.sg/chijkatongpri" rel="noopener nofollow" target="_blank">https://schoolibrary.moe.edu.sg/chijkatongpri</a>
 </p>
-<p></p>
+<p><strong>Online Public Access Catalogue (OPAC) </strong>allows you to search
+through the existing school library resources and find the specific item
+you are looking for.<strong> </strong>Students and Staff are able to perform
+a search of books and resources available in the school library, check
+for the availability of book titles, check their accounts for borrow/overdue
+titles and reserve book titles by login&nbsp;with their BC number or FIN
+number as the user ID.</p>
+<p><strong>2) School eResources Repository (SERR)</strong>
+</p>
+<p>The School eResource Repository (SERR) is a virtual school library and
+aims to promote recreational reading as well as support learning for students
+across various subjects areas. The repository also provided easy access
+to online resources such as eBooks, audiobooks, videos and web resources.
+To access SERR for CHIJ (Katong) Primary, please click <a href="https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener nofollow" target="_blank">here</a>
+</p>
+<p><strong>3) NLB Overdrive: </strong><a href="https://nlb.overdrive.com/" rel="noopener nofollow" target="_blank">https://nlb.overdrive.com/</a>
+</p>
+<p>You can also browse, borrow and enjoy titles from the&nbsp;<a href="https://nlb.overdrive.com/collection/21779" rel="noopener nofollow" target="_blank">National Library Board</a> digital
+collection.</p>
+<p><strong>4) NLB discoverReads (Children &amp; Teens Services): </strong>
+</p>
