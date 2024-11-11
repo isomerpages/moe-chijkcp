@@ -43,8 +43,3 @@ and explore all the exciting offerings we have in store!</p>
 </div>
 <p></p>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Library/L4.png">
-</div>
-<p></p>
