@@ -186,4 +186,16 @@ app, workshops for teachers and parents.</p>
 <p>c) <strong>Balar Murasu: </strong><a href="https://www.tamilmurasu.com.sg" rel="noopener nofollow" target="_blank">https://www.tamilmurasu.com.sg</a>
 </p>
 <p>Monthly periodical in Tamil Language</p>
-<p></p>
+<p><strong>7) National Geographic Kids</strong>:&nbsp;<a href="https://kids.nationalgeographic.com/" rel="noopener nofollow" target="_blank">https://kids.nationalgeographic.com/</a>
+</p>
+<p>Discover wildlife, cultures, and geography with engaging articles and
+fun activities for young explorers.</p>
+<p><strong>8) Science News for Students: </strong><a href="https://www.sciencenewsforstudents.org/" rel="noopener nofollow" target="_blank">https://www.sciencenewsforstudents.org/</a>
+</p>
+<p><strong>9) Storyline Online: </strong><a href="https://www.storylineonline.net/" rel="noopener nofollow" target="_blank">https://www.storylineonline.net/</a>
+</p>
+<p>Enjoy videos of children’s books read aloud alongside creatively produced
+illustrations at Storyline Online.</p>
+<p><strong>10) Unite for Literacy: </strong>  <a href="https://www.uniteforliteracy.com/" rel="noopener nofollow" target="_blank">https://www.uniteforliteracy.com/</a>
+</p>
+<p>Enjoy simple books at Unite for Literacy</p>
