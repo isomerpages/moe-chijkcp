@@ -40,4 +40,3 @@ and explore all the exciting offerings we have in store!</p>
 <p></p>
 <p></p>
 <p></p>
-<p></p>
