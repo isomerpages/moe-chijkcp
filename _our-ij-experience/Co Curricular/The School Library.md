@@ -156,5 +156,34 @@ To access SERR for CHIJ (Katong) Primary, please click <a href="https://schoolib
 </p>
 <p>You can also browse, borrow and enjoy titles from the&nbsp;<a href="https://nlb.overdrive.com/collection/21779" rel="noopener nofollow" target="_blank">National Library Board</a> digital
 collection.</p>
-<p><strong>4) NLB discoverReads (Children &amp; Teens Services): </strong>
+<p><strong>4) NLB discoverReads (Children &amp; Teens Services):</strong>
 </p>
+<p><a href="https://www.nlb.gov.sg/main/site/discovereads" rel="noopener nofollow" target="_blank">https://www.nlb.gov.sg/main/site/discovereads</a>
+</p>
+<p>Access storytelling videos, e-books, book recommendations and other reading-related
+resources at NLB discoveReads. You will need an account to borrow e-books.
+Students may sign up for an account, with their parent's Singpass, <a href="https://account.nlb.gov.sg/" rel="noopener nofollow" target="_blank">here</a>
+</p>
+<p><strong>5) NLB eBooks Recommendations (by Levels and Languages)</strong> To
+access, please click <a href="https://eresources.nlb.gov.sg/ereads/DiscoveReads/All?level=p" rel="noopener nofollow" target="_blank">here.</a>
+</p>
+<p>a) <a href="https://www.nlb.gov.sg/main/site/discovereads/MTL/Chinese" rel="noopener nofollow" target="_blank">Chinese Service 中文服务 (nlb.gov.sg)</a>
+</p>
+<p>b) <a href="https://www.nlb.gov.sg/main/site/discovereads/MTL/Malay" rel="noopener nofollow" target="_blank">Malay Library Services (nlb.gov.sg)</a>
+</p>
+<p>c) <a href="https://www.nlb.gov.sg/main/site/discovereads/MTL/Tamil" rel="noopener nofollow" target="_blank">Tamil Language Services (nlb.gov.sg)</a>
+</p>
+<p><strong>6) Periodicals</strong>
+</p>
+<p>a) <strong>ZB Schools: </strong><a href="https://www.zbschools.sg" rel="noopener nofollow" target="_blank">https://www.zbschools.sg</a>
+</p>
+<p>《早报校园》 - 《大拇指》Thumbs Up，《小拇指》Thumbs Up Junior</p>
+<p>Fortnightly periodical that comes with online learning guide, a mobile
+app, workshops for teachers and parents.</p>
+<p>b) <strong>Smart Kids Magazine (Cilik Cerdik): </strong><a href="https://www.smartkidsukr.com" rel="noopener nofollow" target="_blank">https://www.smartkidsukr.com</a>
+</p>
+<p>Bilingual monthly periodical in Malay and English language.</p>
+<p>c) <strong>Balar Murasu: </strong><a href="https://www.tamilmurasu.com.sg" rel="noopener nofollow" target="_blank">https://www.tamilmurasu.com.sg</a>
+</p>
+<p>Monthly periodical in Tamil Language</p>
+<p></p>
