@@ -66,11 +66,11 @@ reading. More details will be updated soon, so keep an eye out for the
 upcoming events that promise to inspire and entertain our students!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Library/Children_watching_the_launch_and_skit_in_their_character_dress_up.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Library/Children_watching_the_launch_and_skit_in_their_character_dress_up.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Library/WhatsApp_Image_2024_11_08_at_10_35_00_AM.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Library/WhatsApp_Image_2024_11_08_at_10_35_00_AM.jpg">
 </div>
 <p><strong>3) Storytelling @ Recesses</strong>
 </p>
@@ -115,7 +115,7 @@ our termly awards and recognition programme.</p>
 fostering a deeper appreciation for literature among our students.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Library/Getting_Autographs_from_author_Melanie_Lee.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Library/Getting_Autographs_from_author_Melanie_Lee.jpg">
 </div>
 <p><strong>9) Books Exchange Day</strong>
 </p>
@@ -127,6 +127,14 @@ and creativity, where every student can find joy in reading. We can’t wait
 to see our students embrace these exciting new programs!</p>
 <p>Library Opening Video: <a href="https://drive.google.com/file/d/13xs7NIakkZ2yYQ-0K9EiRcRkSAWBpcYW/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/file/d/13xs7NIakkZ2yYQ-0K9EiRcRkSAWBpcYW/view?usp=sharing</a>
 </p>
-<p></p>
-<h4></h4>
+<h4>Library Reflections</h4>
+<div class="iframe-wrapper">
+<iframe height="1109" width="1080" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTTa8L6MqTuB925FCw_zQdTLEh9yc13hF5G1ZSF_Mf1uv1xtR6cnb8g6ww5UeM61Q/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
+<p><strong><u>Useful Links</u></strong>
+</p>
+<p><strong>1) CHIJ (Katong) Primary School Library OPAC:</strong>
+</p>
+<p><a href="https://schoolibrary.moe.edu.sg/chijkatongpri" rel="noopener nofollow" target="_blank">https://schoolibrary.moe.edu.sg/chijkatongpri</a>
+</p>
 <p></p>
