@@ -125,6 +125,8 @@ on reading while saving our earth.</p>
 <p>These initiatives are designed to make our library a vibrant hub for learning
 and creativity, where every student can find joy in reading. We can’t wait
 to see our students embrace these exciting new programs!</p>
+<p>Library Opening Video: <a href="https://drive.google.com/file/d/13xs7NIakkZ2yYQ-0K9EiRcRkSAWBpcYW/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/file/d/13xs7NIakkZ2yYQ-0K9EiRcRkSAWBpcYW/view?usp=sharing</a>
+</p>
 <p></p>
 <h4></h4>
 <p></p>
