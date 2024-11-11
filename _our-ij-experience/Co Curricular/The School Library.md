@@ -47,7 +47,7 @@ and explore all the exciting offerings we have in store!</p>
 </div>
 <p>To promote the love for reading in our school, our students are invited
 to participate in the following programmes:</p>
-<p><strong>1) Library Orientation </strong>
+<p><strong>1) Library Orientation</strong>
 </p>
 <p>To promote the love for reading in our school, our students are invited
 to participate in the following programmes:</p>
@@ -60,9 +60,6 @@ are highlighted during morning assemblies. Our library also promotes books
 written by authors such as Roald Dahl, Hans Christian Andersen and Louis
 Sachar. Students can also participate in the various activities (quizzes,
 games etc) that are tied to the thematic book collections.</p>
-<ol data-tight="true" class="tight">
-<li>
-<p></p>
 <p>Stay tuned for a lineup of thrilling activities designed for each grade
 level!&nbsp; e.g. <strong>For P1: BOOK-a-Date with Parent: </strong>This
 programme encourages parents to read with their daughters, fostering a
@@ -70,8 +67,6 @@ special bonding session through literature. After selecting a book, students
 can dress up and use props for a dramatisation, followed by submitting
 a video recording of their performance. It’s a wonderful way to instill
 a love for reading!</p>
-</li>
-</ol>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Library/L5.png">
