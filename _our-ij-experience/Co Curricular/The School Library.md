@@ -30,7 +30,9 @@ performing stage is your platform.</p>
 hub for learning and discovery. We can’t wait for our students to revisit
 and explore all the exciting offerings we have in store!</p>
 <p></p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSYlDgEGWrCpas3DVSsfaOtriBfUwv7lbYOx4LRDmDQ3OEFxqsei-MfXdoH3sCR6GEm_j7MndNwkkvs/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
 <p></p>
 <p></p>
 <p>To promote the love for reading in our school, our students are invited
