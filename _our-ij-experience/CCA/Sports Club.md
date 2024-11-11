@@ -18,6 +18,6 @@ of key skills like teamwork. The program encourages students to adopt a
 lifelong commitment to an active and healthy lifestyle, offering fun and
 inclusive experiences for all levels of ability.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSg2InALqRvYYWw5-cl8sgd5mwCASXQ_KzgBrbyj7xBmOCyOrsWgcPEwmYUcKCmDd7wj1T5mkkYvfRT/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSg2InALqRvYYWw5-cl8sgd5mwCASXQ_KzgBrbyj7xBmOCyOrsWgcPEwmYUcKCmDd7wj1T5mkkYvfRT/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p></p>
