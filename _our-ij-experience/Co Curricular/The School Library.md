@@ -133,4 +133,154 @@ on reading while saving our earth.</p>
 and creativity, where every student can find joy in reading. We can’t wait
 to see our students embrace these exciting new programs!</p>
 <p></p>
+<p><strong><em>Library Reflections</em></strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.Taiomi (EM2)</p>
+<p></p>
+<p>2.Anaira (CE2)</p>
+<p></p>
+<p></p>
+<p>3.Hong Qian Han (AM2)</p>
+<p></p>
+<p>4.Inaaya(EM2)</p>
+<p></p>
+<p></p>
+<p></p>
+<p>5.Eva Sim(MO2)</p>
+<p></p>
+<p></p>
+<p></p>
+<p>6.Rayna(CE3)</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>7.Annabella(EM4)</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>8.Emma Lau (CE3)</p>
+<p></p>
+<p></p>
+<p>9.Khan Zara &amp; Yue Hen (AM4)</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>10.Andrea and Celine(CE5)</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>11.Soon Shi-Rui(AM5)</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>12. Celine Zodak(EM5)</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>13.Olivia Tan(CE5)</p>
+<p></p>
+<p></p>
+<p></p>
+<p>14.Bethany Ng(J05)</p>
+<p></p>
+<p></p>
+<p>15.Azeezah Usman(J05)</p>
+<p></p>
+<p></p>
+<p></p>
+<p>16.Erin Burlison(AM6)</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>17.Alison Kuay(BU6)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1. My favorite part of the new library is the Tree of Knowledge. I enjoy
+reading books there.</p>
+<p>2. I like the new bean bags and am most excited to read animal stories.
+I would love to have a portal that lets you enter the story.</p>
+<p>3. My favorite part of the library is the study corner.</p>
+<p>4. I appreciate the addition of bean bags. I also enjoy borrowing books
+with my friends. I can inspire them to enjoy reading in our new library
+by adding encouraging notes on the wall.</p>
+<p>5. My favorite part of the new library is the cozy bean bags. I am excited
+to read books. If I could, I would create a special room for students to
+study and read.</p>
+<p>6. I love that there are many places to sit and enjoy a book. I enjoy
+reading with my friends and borrowing books to read at home. I can inspire
+my friends by telling them about the interesting books available in the
+library.</p>
+<p>7. The library is very cozy and has a variety of new books. I also love
+how colorful it is and how much space there is. When I discovered all the
+new books, I was delighted and appreciated the new arrangements, as they
+made it easier to find what I was looking for.</p>
+<p>8. I love the bean bags and the iPads the most. I enjoy reading books
+and gaining knowledge. I can encourage my friends to learn more.</p>
+<p>9. We love the bean bags and private tables the most. There are more candy
+jam books and Chinese books. I can inspire my friends to enjoy reading
+in our new library by telling them about the cozy spots and the many interesting
+new books.</p>
+<p>10. Our favorite parts are the cozy bean bags and the study corner. We
+are excited to play board games and read the new collection of books. If
+we could add something new to our library, we would like to add more motivational
+and research books focusing on study methods and positive words of encouragement.</p>
+<p>11. My favorite part of the library is the new selection of books, the
+new seating, and the Chinese books. I’m excited to read both Chinese and
+English books, as well as comics about mythical topics or life lessons.
+I love to read any books, even Tamil and Malay ones. Perhaps we could add
+more comic books that teach skills, such as art or music.</p>
+<p>12. I love the colorful, cozy bean bags in the reading corner of our new
+library. My favorite moment is going to the library with my friends and
+reading together while enjoying the air conditioning on a hot day. I can
+inspire my friends to enjoy the cozy reading area with a book and a private
+space for studying.</p>
+<p>13. My favorite part is the cozy bean bags. I am excited to use 3D pens.
+I would love to have more space with additional bean bags and some plushies
+for decoration.</p>
+<p>14. I like the furniture, and the books are easy to access. I love reading
+every single Percy Jackson book.</p>
+<p>15. The books are very interesting, and the bean bags are very comfortable.
+I enjoy going to the library with my friends to read and telling them about
+the air conditioning.</p>
+<p>16. I love the cozy space where we can enjoy our interesting books and
+the soft, comfortable bean bags. My friends and I discovered a new book
+when the library opened. It was so interesting that I read it to my friends.
+I can tell them about the amazing library environment and the variety of
+books that are not only interesting but also breathtaking.</p>
+<p>17. The colors and layout of the library are very aesthetically pleasing.
+I feel quite calm when I am in the library. I would love to have more study
+tables for the P6 students.</p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
