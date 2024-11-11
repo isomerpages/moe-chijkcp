@@ -42,4 +42,29 @@ and explore all the exciting offerings we have in store!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Library/L3.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Library/L4.png">
+</div>
+<p>To promote the love for reading in our school, our students are invited
+to participate in the following programmes:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Library Orientation</strong>
+</p>
+<p>To promote the love for reading in our school, our students are invited
+to participate in the following programmes:</p>
+</li>
+<li>
+<p><strong>Thematic Displays &amp; Activities</strong>
+</p>
+<p>To encourage reading in the school, our library features monthly book
+collections according to themes. Some of the themes featured are ‘Book
+Character Day’, ‘Cyber Wellness’ and ‘Earth Day’. Themes and book collections
+are highlighted during morning assemblies. Our library also promotes books
+written by authors such as Roald Dahl, Hans Christian Andersen and Louis
+Sachar. Students can also participate in the various activities (quizzes,
+games etc) that are tied to the thematic book collections.</p>
+</li>
+</ol>
+<p></p>
 <p></p>
