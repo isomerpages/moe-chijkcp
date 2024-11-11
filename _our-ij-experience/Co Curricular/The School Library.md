@@ -84,7 +84,23 @@ upcoming events that promise to inspire and entertain our students!</p>
 <p>During recess on some days, students get to enjoy storytelling sessions
 conducted by parent volunteers. The aim of the session is to promote joy
 of reading and to encourage students to explore books of different genres.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<p><strong>4) Uninterrupted Sustained Silent Reading (USSR)</strong>
+</p>
+<p>All students are required to read an English book every Thursday and a
+Mother Tongue book every Friday at their assembly areas in the morning.
+Through this programme, we hope to cultivate a routine of self-directed
+and independent reading.</p>
+<p><strong>5) Library Period</strong>
+</p>
+<p>Getting students to experience the joy of reading is a regular part of
+the school’s curriculum. Two periods (one for English, one for Mother Tongue)
+are set aside every week for our reading programme. On alternative weeks,
+students are taken to the library to borrow books.</p>
+<p><strong>6) Book Buzz Tuesday (BBT)</strong>
+</p>
+<p>Join us every Tuesday for BBT! Before morning assembly, we screen captivating
+short story videos featuring colorful animations and recommendations from
+students and teachers. Watch our reading ambassadors and fellow students
+share their favorite books, sparking curiosity and inspiring everyone to
+discover the stories for themselves. Don’t miss out on the excitement!
+(Click</p>
