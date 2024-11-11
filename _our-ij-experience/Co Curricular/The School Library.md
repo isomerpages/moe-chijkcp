@@ -103,4 +103,5 @@ short story videos featuring colorful animations and recommendations from
 students and teachers. Watch our reading ambassadors and fellow students
 share their favorite books, sparking curiosity and inspiring everyone to
 discover the stories for themselves. Don’t miss out on the excitement!
-(Click here to submit BBT video)</p>
+(Click <a href="mailto:faith_tan_yi_chin@moe.edu.sg" rel="noopener nofollow" target="_blank">here</a> to
+submit BBT video)</p>
