@@ -5,213 +5,197 @@ description: ""
 third_nav_title: Co Curricular
 variant: tiptap
 ---
-<h2>The School Library</h2>
-<h4>Our Vision</h4>
-<p><strong><em>To promote interest in reading among pupils and equip them with basic library skills</em></strong>
-</p>
-<h4>Enhanced OPAC and SERR</h4>
-<p>To access OPAC for CHIJ (Katong) Primary, please click&nbsp;<a href="https://schoolibrary.moe.edu.sg/chijkatongpri" rel="noopener noreferrer nofollow" target="_blank">here</a>
-</p>
-<p>Students and Staff are able to perform a search of books and resources
-available in the school library.</p>
-<p>To access SERR for CHIJ (Katong) Primary, please click&nbsp;<a href="https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener noreferrer nofollow" target="_blank">here</a>
-</p>
-<p>The School eResource Repository is a virtual school library and aims to
-promote recreational reading as well as support learning for students accross
-various subjects areas. The repository also provided easy access to online
-resources such as eBooks, audiobooks, videos and web resources.</p>
-<p>You can also browse, borrow and enjoy titles from the&nbsp;<a href="https://nlb.overdrive.com/collection/21779" rel="noopener noreferrer nofollow" target="_blank">National Library Board</a>&nbsp;digital
-collection</p>
-<p>The School Library @ CHIJ (Katong) Primary is a vibrant and colourful
-haunt for our pupils.
-<br>They relish reading the wide range of books and magazines and playing
-the exciting computer games available in the library. Each girl is allowed
-to borrow 4 books (at least 2 MTL books) fortnightly, including CD-ROMs
-from the library.</p>
-<p>From 2019, Ms Sharon Lim is the Library Coordinator, with Mrs Faith Heng
-(Subject Head/English Language) as the Overall In-Charge. Other members
-include Mrs Macrina Fernandez and Mdm Hamidah, the librarian. We work together
-to organise programmes that will instill good reading habits in our girls.</p>
-<p>The following are the various&nbsp;<strong>NEW</strong>&nbsp;initiatives
-planned for the pupils:</p>
-<ul>
-<li>
-<p>Silent Reading (USSR) to be conducted before school starts.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>From Monday to Wednesday, students are to bring English story books to
-read before flag-raising ceremony.</p>
-</li>
-<li>
-<p>From Thursday to Friday, they have to bring a MTL book to read. NTIL students
-will bring an English book instead.</p>
-</li>
-</ul>
-</li>
-<li>
-<p>More regular Mobile Library @ Canteen (EL and MT): To make it more convenient
-for the pupils to borrow books, a book kiosk will be set up in the canteen
-during recess.</p>
-</li>
-<li>
-<p>Storytelling@Recesses: Parent-Volunteers read to girls in the Library
-to enthuse them to read interesting books of different genres during their
-recesses (P1 &amp; P2; P3 &amp; P4)&nbsp; &nbsp; &nbsp;&nbsp;</p>
-</li>
-<li>
-<p>Fortnightly schedules for Library periods (P1&amp; P2): EL teachers will
-lead their classes to the library fortnightly to borrow books.</p>
-</li>
-<li>
-<p>Books In Bag for P1 &amp; P2 (BIB): Each child will use a bag with her
-register number and leave it for Mdm Hamidah to scan the books. She will
-deliver to the classroom when it is done and collect the bags from the
-class on a later date.</p>
-</li>
-<li>
-<p>Display of Class Readership Chart / Super Reader Awards per term at Assembly
-&amp; on the library door</p>
-</li>
-<li>
-<p>Long Recess activities like Origami, Treasure Hunt etc.</p>
-</li>
-<li>
-<p>Assembly Book Talks by authors</p>
-</li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/Co%20Curricular/The%20School%20Library_1.jpg">
+<h3>The School Library</h3>
+<p>We’re absolutely delighted to announce that our school library has undergone
+a magnificent transformation. The revamped library, completed in Mid-July
+2024, resulted in a brighter space, with multiple collaborative, reading
+and studying areas to meet the diverse learning needs of the students.
+More than just a library, our space is now a vibrant sanctuary for exploration,
+creativity, and adventure.</p>
+<p>Step inside to discover an inviting ambiance filled with cozy reading
+corners and comfortable furniture that beckons you to unwind and delve
+into a good book. Equipped with modern digital devices, our library has
+been thoughtfully designed to create an inspiring environment for both
+students and staff to read, learn, and explore.</p>
+<p>Explore our carefully curated collection, featuring nearly 400 new books!
+From timeless classics and gripping fiction to insightful non-fiction and
+captivating audiobooks, you’ll find something to spark your imagination.
+Plus, we’ve added a special focus on Singaporean literature to celebrate
+our rich cultural heritage.</p>
+<p>For those with a flair for performance, our newly added stage invites
+you to bring stories to life! Whether you want to dramatise your favorite
+book characters or share your latest literary discovery with peers, our
+performing stage is your platform.</p>
+<p>Our newly-renovated library is not just a space; it's a vibrant community
+hub for learning and discovery. We can’t wait for our students to revisit
+and explore all the exciting offerings we have in store!</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSYlDgEGWrCpas3DVSsfaOtriBfUwv7lbYOx4LRDmDQ3OEFxqsei-MfXdoH3sCR6GEm_j7MndNwkkvs/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
-<p><strong>Post-exam activities for each level:</strong>
+<p></p>
+<p>To promote the love for reading in our school, our students are invited
+to participate in the following programmes:</p>
+<p><strong>1) Library Orientation</strong>
 </p>
-<p><strong>P3</strong>: Librarian’s Challenge (Term 4)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Learn about the library through a fun scavenger hunt at Marine Parade
-Library.</p>
-</li>
-</ul>
-<p><strong>P4</strong>: Read, Reap, Write (Term 2 and 4)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Pupils explore how stories are related to the world around them through
-engaging series of discussions and activities.</p>
-</li>
-</ul>
-<p><strong>P5</strong>: 'Dare to Read' (May to July)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>An independent experiential reading journey over 3 months.</p>
-</li>
-<li>
-<p>An incredibly exciting, fun and challenging reading activity when pupils
-find out answers through books, other resources found in the public and
-school libraries and the internet.</p>
-</li>
-<li>
-<p>Pupils go on a thrilling adventure as they go on a quest to solve mission
-every week.</p>
-</li>
-<li>
-<p>Pupils redeem tokens with each successfully completed mission.</p>
-</li>
-</ul>
-<p><strong>For P1: BOOK-a-Date with Daddy</strong>
+<p>To promote the love for reading in our school, our students are invited
+to participate in the following programmes:</p>
+<p><strong>2) Thematic Displays &amp; Activities</strong>
 </p>
-<p>A bonding session between father and daughter through reading at a ‘picnic’
-in our school hall, with a simple reflection activity at the end of the
-programme.</p>
+<p>To encourage reading in the school, our library features monthly book
+collections according to themes. Some of the themes featured are ‘Book
+Character Day’, ‘Cyber Wellness’ and ‘Earth Day’. Themes and book collections
+are highlighted during morning assemblies. Our library also promotes books
+written by authors such as Roald Dahl, Hans Christian Andersen and Louis
+Sachar. Students can also participate in the various activities (quizzes,
+games etc) that are tied to the thematic book collections.</p>
+<p>Stay tuned for a lineup of thrilling activities designed for each grade
+level!&nbsp; e.g. <strong>For P1: BOOK-a-Date with Parent: </strong>This
+programme encourages parents to read with their daughters, fostering a
+special bonding session through literature. After selecting a book, students
+can dress up and use props for a dramatisation, followed by submitting
+a video recording of their performance. It’s a wonderful way to instill
+a love for reading!</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/Co%20Curricular/The%20School%20Library_2.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Library/Watching_Book_A_Date_With_Parent_videos_submitted_this_year.jpg">
 </div>
+<p>We are excited to partner with the National Library Board (NLB) to offer
+fun and engaging experiences that enhance learning and foster a love for
+reading. More details will be updated soon, so keep an eye out for the
+upcoming events that promise to inspire and entertain our students!</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/Co%20Curricular/The%20School%20Library_3.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Library/Children_watching_the_launch_and_skit_in_their_character_dress_up.jpg">
 </div>
-<p><strong>Continuing with the current programme:</strong>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Library/WhatsApp_Image_2024_11_08_at_10_35_00_AM.jpg">
+</div>
+<p><strong>3) Storytelling @ Recesses</strong>
 </p>
-<p><strong>LIBRARY INDUCTION PROGRAMME (P1 – P3)</strong>
+<p>During recess on some days, students get to enjoy storytelling sessions
+conducted by parent volunteers. The aim of the session is to promote joy
+of reading and to encourage students to explore books of different genres.</p>
+<p><strong>4) Uninterrupted Sustained Silent Reading (USSR)</strong>
 </p>
-<p>Through this programme, the students are more familiar with:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Different sections of the library</p>
-</li>
-<li>
-<p>Library etiquette</p>
-</li>
-<li>
-<p>Programmes and competitions organised by the library</p>
-</li>
-</ol>
-<p><strong>SUPER READER/ MASTER READER/ CLASS READERSHIP AWARDS</strong>
+<p>All students are required to read an English book every Thursday and a
+Mother Tongue book every Friday at their assembly areas in the morning.
+Through this programme, we hope to cultivate a routine of self-directed
+and independent reading.</p>
+<p><strong>5) Library Period</strong>
 </p>
-<p><u>Super Reader Badges</u>&nbsp;- Termly rewards for those who meet the
-target number of books read.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>P1 – 20</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Target: 80 by end Oct</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P2 – 20</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Target: 80 by end Oct</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P3 – 30</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Target: 110 by end Oct</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P4 – 30</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Target: 110 by end Oct</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P5 – 10</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Target: 35 by end Oct</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P6 – 5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Target: 18 by end Oct</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><u>Master Reader Badges</u>&nbsp;- Year-end rewards for those who hit
-the target number of books borrowed for the whole year (see above).</p>
-<p>Year-end rewards for the top 3 classes with the highest borrowing rate
-of books</p>
-<p>Reading Reviews submitted will also get small tokens from Mdm Hamidah.</p>
-<p><strong>P4 / P5 READING AMBASSADORS</strong>
+<p>Getting students to experience the joy of reading is a regular part of
+the school’s curriculum. Two periods (one for English, one for Mother Tongue)
+are set aside every week for our reading programme. On alternative weeks,
+students are taken to the library to borrow books.</p>
+<p><strong>6) Book Buzz Tuesday (BBT)</strong>
 </p>
-<p>Selected students will be trained by the teachers to become RAs, who will
-promote the School Library activities, like storytelling, Book-a-Date with
-Daddy, Mobile Library, buddy reading, participating in Lit Quiz/competitions,
-recommendations of favourite books to their classmates and organising and
-decorating their class library.</p>
+<p>Join us every Tuesday for BBT! Before morning assembly, we screen captivating
+short story videos featuring colorful animations and recommendations from
+students and teachers. Watch our reading ambassadors and fellow students
+share their favorite books, sparking curiosity and inspiring everyone to
+discover the stories for themselves. Don’t miss out on the excitement!
+(Click <a href="mailto:faith_tan_yi_chin@moe.edu.sg" rel="noopener nofollow" target="_blank">here</a> to
+submit BBT video)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Library/Book_Buzz.jpg">
+</div>
+<p><strong>7) Read and be Rewarded Programme</strong>
+</p>
+<p>Borrow and read books to exchange for attractive gifts! The loyalty card
+programme rewards students for borrowing and reading books available in
+our library. Students will submit a book review to complete the card and
+collect their gifts. Super readers and Master readers are recognized during
+our termly awards and recognition programme.</p>
+<p><strong>8) Assembly Programmes</strong>
+</p>
+<p>Book authors are also invited to share their experiences and insights,
+fostering a deeper appreciation for literature among our students.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Library/Getting_Autographs_from_author_Melanie_Lee.jpg">
+</div>
+<p><strong>9) Books Exchange Day</strong>
+</p>
+<p>Let’s save our Earth! Books Exchange Day allows our students to exchange
+their already read books with ‘new’ books that will allow them to carry
+on reading while saving our earth.</p>
+<p>These initiatives are designed to make our library a vibrant hub for learning
+and creativity, where every student can find joy in reading. We can’t wait
+to see our students embrace these exciting new programs!</p>
+<p>Library Opening Video: <a href="https://drive.google.com/file/d/13xs7NIakkZ2yYQ-0K9EiRcRkSAWBpcYW/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/file/d/13xs7NIakkZ2yYQ-0K9EiRcRkSAWBpcYW/view?usp=sharing</a>
+</p>
+<h4>Library Reflections</h4>
+<div class="iframe-wrapper">
+<iframe height="1109" width="1080" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTTa8L6MqTuB925FCw_zQdTLEh9yc13hF5G1ZSF_Mf1uv1xtR6cnb8g6ww5UeM61Q/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
+<p><strong><u>Useful Links</u></strong>
+</p>
+<p><strong>1) CHIJ (Katong) Primary School Library OPAC:</strong>
+</p>
+<p><a href="https://schoolibrary.moe.edu.sg/chijkatongpri" rel="noopener nofollow" target="_blank">https://schoolibrary.moe.edu.sg/chijkatongpri</a>
+</p>
+<p><strong>Online Public Access Catalogue (OPAC) </strong>allows you to search
+through the existing school library resources and find the specific item
+you are looking for.<strong> </strong>Students and Staff are able to perform
+a search of books and resources available in the school library, check
+for the availability of book titles, check their accounts for borrow/overdue
+titles and reserve book titles by login&nbsp;with their BC number or FIN
+number as the user ID.</p>
+<p><strong>2) School eResources Repository (SERR)</strong>
+</p>
+<p>The School eResource Repository (SERR) is a virtual school library and
+aims to promote recreational reading as well as support learning for students
+across various subjects areas. The repository also provided easy access
+to online resources such as eBooks, audiobooks, videos and web resources.
+To access SERR for CHIJ (Katong) Primary, please click <a href="https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener nofollow" target="_blank">here</a>
+</p>
+<p><strong>3) NLB Overdrive: </strong><a href="https://nlb.overdrive.com/" rel="noopener nofollow" target="_blank">https://nlb.overdrive.com/</a>
+</p>
+<p>You can also browse, borrow and enjoy titles from the&nbsp;<a href="https://nlb.overdrive.com/collection/21779" rel="noopener nofollow" target="_blank">National Library Board</a> digital
+collection.</p>
+<p><strong>4) NLB discoverReads (Children &amp; Teens Services):</strong>
+</p>
+<p><a href="https://www.nlb.gov.sg/main/site/discovereads" rel="noopener nofollow" target="_blank">https://www.nlb.gov.sg/main/site/discovereads</a>
+</p>
+<p>Access storytelling videos, e-books, book recommendations and other reading-related
+resources at NLB discoveReads. You will need an account to borrow e-books.
+Students may sign up for an account, with their parent's Singpass, <a href="https://account.nlb.gov.sg/" rel="noopener nofollow" target="_blank">here</a>
+</p>
+<p><strong>5) NLB eBooks Recommendations (by Levels and Languages)</strong> To
+access, please click <a href="https://eresources.nlb.gov.sg/ereads/DiscoveReads/All?level=p" rel="noopener nofollow" target="_blank">here.</a>
+</p>
+<p>a) <a href="https://www.nlb.gov.sg/main/site/discovereads/MTL/Chinese" rel="noopener nofollow" target="_blank">Chinese Service 中文服务 (nlb.gov.sg)</a>
+</p>
+<p>b) <a href="https://www.nlb.gov.sg/main/site/discovereads/MTL/Malay" rel="noopener nofollow" target="_blank">Malay Library Services (nlb.gov.sg)</a>
+</p>
+<p>c) <a href="https://www.nlb.gov.sg/main/site/discovereads/MTL/Tamil" rel="noopener nofollow" target="_blank">Tamil Language Services (nlb.gov.sg)</a>
+</p>
+<p><strong>6) Periodicals</strong>
+</p>
+<p>a) <strong>ZB Schools: </strong><a href="https://www.zbschools.sg" rel="noopener nofollow" target="_blank">https://www.zbschools.sg</a>
+</p>
+<p>《早报校园》 - 《大拇指》Thumbs Up，《小拇指》Thumbs Up Junior</p>
+<p>Fortnightly periodical that comes with online learning guide, a mobile
+app, workshops for teachers and parents.</p>
+<p>b) <strong>Smart Kids Magazine (Cilik Cerdik): </strong><a href="https://www.smartkidsukr.com" rel="noopener nofollow" target="_blank">https://www.smartkidsukr.com</a>
+</p>
+<p>Bilingual monthly periodical in Malay and English language.</p>
+<p>c) <strong>Balar Murasu: </strong><a href="https://www.tamilmurasu.com.sg" rel="noopener nofollow" target="_blank">https://www.tamilmurasu.com.sg</a>
+</p>
+<p>Monthly periodical in Tamil Language</p>
+<p><strong>7) National Geographic Kids</strong>:&nbsp;<a href="https://kids.nationalgeographic.com/" rel="noopener nofollow" target="_blank">https://kids.nationalgeographic.com/</a>
+</p>
+<p>Discover wildlife, cultures, and geography with engaging articles and
+fun activities for young explorers.</p>
+<p><strong>8) Science News for Students: </strong><a href="https://www.sciencenewsforstudents.org/" rel="noopener nofollow" target="_blank">https://www.sciencenewsforstudents.org/</a>
+</p>
+<p><strong>9) Storyline Online: </strong><a href="https://www.storylineonline.net/" rel="noopener nofollow" target="_blank">https://www.storylineonline.net/</a>
+</p>
+<p>Enjoy videos of children’s books read aloud alongside creatively produced
+illustrations at Storyline Online.</p>
+<p><strong>10) Unite for Literacy: </strong><a href="https://www.uniteforliteracy.com/" rel="noopener nofollow" target="_blank">https://www.uniteforliteracy.com/</a>
+</p>
+<p>Enjoy simple books at Unite for Literacy</p>
