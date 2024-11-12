@@ -24,7 +24,7 @@ sections:
       alt: Image alt text
   - infobar:
       title: Chairperson / IJ Board of Management
-      subtitle: 2023 year end message from
+      subtitle: 2024 year end message from
       id: infobar
       button: Click to read
       url: /announcements/ijbom/
