@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Form Teachers
 ---
-<h2>PE, Arts &amp; Music</h2>
+<h2>PE, Art &amp; Music</h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
