@@ -24,7 +24,8 @@ CHIJ Katong Convent, our schools will be celebrating 95 years of CHIJ education.
 </p>
 <p><strong><em>8 Love never fails.</em></strong>
 </p>
-<p></p>
+<p><strong>What does this mean for our school in 2025?</strong>
+</p>
 <p></p>
 <p></p>
 <p></p>
