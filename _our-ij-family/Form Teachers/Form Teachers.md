@@ -351,7 +351,8 @@ variant: tiptap
 <p>Mrs Jaclyn Guo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Barathi Rajan</p>
+<p><a href="mailto:barathi_rajan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Barathi Rajan</a>
+</p>
 <p>Ms Jasmine Tan</p>
 </td>
 </tr>
