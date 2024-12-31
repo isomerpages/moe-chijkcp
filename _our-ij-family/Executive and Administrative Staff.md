@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h3>Executive and Administrative Staff (EAS)</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -68,19 +72,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Desktop Engineer</strong> 
-<br><a href="mailto:de-ncs5637pde@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Bobby Lim</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Desktop Engineer</strong> 
 <br><a href="mailto:de-ncs5637pde@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Gayathri Sudhagar</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
 </p>
 </td>
 </tr>
@@ -95,7 +87,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
