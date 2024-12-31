@@ -197,7 +197,8 @@ variant: tiptap
 <p>TA2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Angeline Grace</p>
+<p><a href="mailto:angeline_grace_garcia_bitgue@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Angeline Grace</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Marjorie Seek</p>
