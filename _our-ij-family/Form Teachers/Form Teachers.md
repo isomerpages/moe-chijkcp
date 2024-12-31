@@ -191,7 +191,8 @@ variant: tiptap
 <p>MO2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Bernard Tan</p>
+<p><a href="mailto:tan_ghim_seng_bernard@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Bernard Tan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Anville Tan</p>
