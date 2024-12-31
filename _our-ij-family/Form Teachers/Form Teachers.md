@@ -176,7 +176,8 @@ variant: tiptap
 <p>JO2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Faith Heng</p>
+<p><a href="mailto:seah_lai_hiang@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Faith Heng</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ng May May</p>
