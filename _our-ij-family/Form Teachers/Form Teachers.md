@@ -255,7 +255,8 @@ variant: tiptap
 <p>CE3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Daisy Ng</p>
+<p><a href="mailto:ng_poh_choo_daisy@moe.edu.sg" rel="noopener nofollow" target="_blank">Miss Daisy Ng</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Bavaani</p>
