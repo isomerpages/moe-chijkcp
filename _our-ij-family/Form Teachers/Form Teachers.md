@@ -49,7 +49,8 @@ variant: tiptap
 <p>Mrs Doreen Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Huimin</p>
+<p><a href="mailto:ng_huimin@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Ng Huimin</a>
+</p>
 </td>
 </tr>
 <tr>
