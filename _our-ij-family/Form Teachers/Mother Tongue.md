@@ -6,7 +6,11 @@ third_nav_title: Form Teachers
 variant: tiptap
 ---
 <h2>Mother Tongue</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -79,31 +83,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yong_kwon_seng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Yong Kwon Seng</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:zhai_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zhai Yuan</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zhang_xuyang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zhang Xuyang</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:GanToh_Hui_Bok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Gan-Toh Hui Bok</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_siew_khim_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ong Siew Khim</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -117,7 +112,11 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -158,7 +157,11 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
