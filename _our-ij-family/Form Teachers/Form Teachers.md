@@ -327,7 +327,8 @@ variant: tiptap
 <p>Ms Christina Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rozana</p>
+<p><a href="mailto:rozana_kamsari@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Rozana</a>
+</p>
 </td>
 </tr>
 <tr>
