@@ -78,7 +78,7 @@ third_nav_title: Form Teachers
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Arts</p>
+<p>Art</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
