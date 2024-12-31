@@ -56,7 +56,8 @@ variant: tiptap
 <p>EM1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Alice Ng</p>
+<p><a href="mailto:alice_yong_keng_cheng@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Alice Ng</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Louisa Low</p>
