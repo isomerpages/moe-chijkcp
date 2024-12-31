@@ -91,7 +91,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Toh Chiew Yen</p>
+<p><a href="mailto:toh_chiew_yen@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Toh Chiew Yen</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -256,7 +257,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Angela Loy</p>
+<p><a href="mailto:chua_poh_heoh_angela@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Angela Loy</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -264,7 +266,8 @@ variant: tiptap
 <p>BU3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Josephine Kua</p>
+<p><a href="mailto:mok_sau_mei_josephine@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Josephine Kua</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:rasyidah_abdul_rasid@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Rasyidah</a>
@@ -289,7 +292,8 @@ variant: tiptap
 <p>EM3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Tracey Hoa</p>
+<p><a href="mailto:berlee_tracey-ann_allyson@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Tracey Hoa</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:angelia_zhang_yanchun@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Angelia Zhang</a>
@@ -306,7 +310,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Edward Toh</p>
+<p><a href="mailto:toh_boon_how@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Edward Toh</a>
+</p>
 </td>
 </tr>
 <tr>
