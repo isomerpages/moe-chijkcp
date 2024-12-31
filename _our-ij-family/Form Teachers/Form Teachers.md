@@ -14,11 +14,8 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>PRIMARY 1</p>
-</th>
-<th rowspan="1" colspan="2">
-<p>FORM TEACHERS</p>
+<th rowspan="1" colspan="3">
+<p>PRIMARY ONE</p>
 </th>
 </tr>
 <tr>
@@ -109,6 +106,97 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p>PRIMARY TWO</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AM2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Venus Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Abigail Choo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BU2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Faith Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Nur Adawiyah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CE2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nazurah Omar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Er Li LI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EM2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Alice Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Louisa Low</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JO2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Siti Nabilah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Desiree Ang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MO2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Macrina Fernandez</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Toh Chiew Yen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TA2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Zhang Xuyang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sharifah Hana</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -122,9 +210,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff List 2024/Slide1.JPG">
-</div>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff List 2024/Slide2a.jpg">
