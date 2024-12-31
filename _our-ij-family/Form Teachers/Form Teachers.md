@@ -421,7 +421,8 @@ variant: tiptap
 <p>CE5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Vanitha</p>
+<p><a href="mailto:vanitha_vasudevan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Vanitha</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Poon Mun Ye</p>
