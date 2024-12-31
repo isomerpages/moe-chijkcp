@@ -138,7 +138,8 @@ variant: tiptap
 <p>BU2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Faith Tan</p>
+<p><a href="mailto:faith_tan_yi_chin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Faith Tan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Nur Adawiyah</p>
