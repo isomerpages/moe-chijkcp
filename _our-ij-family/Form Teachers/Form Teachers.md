@@ -530,10 +530,12 @@ variant: tiptap
 <p>AM6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zur Amira</p>
+<p><a href="mailto:zur_amira_aisha_mohd@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Zur Amira</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lie Christina</p>
+<p><a href="mailto:christina_lie@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Lie Christina</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -541,10 +543,12 @@ variant: tiptap
 <p>BU6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Balwindar Singh</p>
+<p><a href="mailto:balwindar_singh@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Balwindar Singh</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Angelia Chan</p>
+<p><a href="mailto:chan_chee_khiang@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Angelia Chan</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -552,7 +556,8 @@ variant: tiptap
 <p>E6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Vevian Ng</p>
+<p><a href="mailto:seow_swee_lin_vevian@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Vevian Ng</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nazeerah_allaudin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nazeerah</a>
@@ -564,10 +569,12 @@ variant: tiptap
 <p>EM6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chin Lip Nyen</p>
+<p><a href="mailto:chin_lip_nyen@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Chin Lip Nyen</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zhai Yuan</p>
+<p><a href="mailto:zhai_yuan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Zhai Yuan</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -575,10 +582,12 @@ variant: tiptap
 <p>JO6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Jacinta Lee</p>
+<p><a href="mailto:chia_mei_ling_jacinta@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Jacinta Lee</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Hazel Chang</p>
+<p><a href="mailto:loh_hui_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Hazel Chang</a>
+</p>
 </td>
 </tr>
 <tr>
