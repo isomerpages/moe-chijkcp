@@ -361,7 +361,8 @@ variant: tiptap
 <p>Mrs Irene Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Normah</p>
+<p><a href="mailto:normah_nordin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Normah</a>
+</p>
 </td>
 </tr>
 <tr>
