@@ -130,7 +130,8 @@ variant: tiptap
 <p>AM2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Venus Tan</p>
+<p><a href="mailto:tan_wan_ing_venus@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Venus Tan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Abigail Choo</p>
