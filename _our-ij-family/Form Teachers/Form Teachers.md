@@ -67,7 +67,8 @@ variant: tiptap
 <p>JO1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Siti Nabilah</p>
+<p><a href="mailto:siti_nabilah_abdul_aziz@moe.edu.sg" rel="noopener nofollow" target="_blank">Miss Siti Nabilah</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Desiree Ang</p>
