@@ -22,13 +22,6 @@ sections:
       button: Click to read
       url: /announcements/ijbom/
   - infopic:
-      title: CHIJ 170th Anniversary
-      id: infopic
-      button: Click for more information
-      url: https://www.chijkcp.moe.edu.sg/chij170anniversary/
-      image: /images/170CHIJ.jpg
-      alt: Image alt text
-  - infopic:
       title: CHIJ (Katong) Primary Instagram
       id: infopic
       button: JOIN US
