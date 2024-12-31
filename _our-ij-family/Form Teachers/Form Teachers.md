@@ -410,7 +410,8 @@ variant: tiptap
 <p>Mdm Nor Shida</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hazel Han</p>
+<p><a href="mailto:han_huirong@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Hazel Han</a>
+</p>
 </td>
 </tr>
 <tr>
