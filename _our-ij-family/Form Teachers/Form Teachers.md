@@ -161,7 +161,8 @@ variant: tiptap
 <p>Ms Sharon Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ang Bee Bee</p>
+<p><a href="mailto:ang_bee_bee_a@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Ang Bee Bee</a>
+</p>
 </td>
 </tr>
 <tr>
