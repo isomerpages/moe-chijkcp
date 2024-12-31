@@ -265,7 +265,8 @@ variant: tiptap
 <p>Mrs Tracey Hoa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Angelia Zhang</p>
+<p><a href="mailto:angelia_zhang_yanchun@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Angelia Zhang</a>
+</p>
 <p>Ms Rhoda Kua</p>
 </td>
 </tr>
