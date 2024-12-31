@@ -500,7 +500,8 @@ variant: tiptap
 <p>Mrs Vevian Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nazeerah</p>
+<p><a href="mailto:nazeerah_allaudin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nazeerah</a>
+</p>
 </td>
 </tr>
 <tr>
