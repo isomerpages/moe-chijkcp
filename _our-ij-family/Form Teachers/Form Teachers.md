@@ -252,7 +252,8 @@ variant: tiptap
 <p>Mrs Josephine Kua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rasyidah</p>
+<p><a href="mailto:rasyidah_abdul_rasid@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Rasyidah</a>
+</p>
 </td>
 </tr>
 <tr>
