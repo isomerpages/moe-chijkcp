@@ -281,7 +281,8 @@ variant: tiptap
 <p>JO3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Charlene Ann Lee</p>
+<p><a href="mailto:lee_ann_charlene@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Charlene Ann Lee</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Edward Toh</p>
