@@ -353,7 +353,8 @@ variant: tiptap
 <p>CE4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Lee Kin</p>
+<p><a href="mailto:tan_lee_kin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Tan Lee Kin</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Janice Teo</p>
