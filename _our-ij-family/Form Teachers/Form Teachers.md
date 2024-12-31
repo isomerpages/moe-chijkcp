@@ -443,7 +443,8 @@ variant: tiptap
 <p>Mdm Zabrina Singham</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Pauline Tan</p>
+<p><a href="mailto:lim_poh_lean_pauline@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Pauline Tan</a>
+</p>
 </td>
 </tr>
 <tr>
