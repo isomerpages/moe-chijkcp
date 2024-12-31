@@ -108,49 +108,41 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Operations Support Officer</strong> 
-<br><a href="mailto:patmah_wahnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Patmah Binte Wahnan</a>
-</p>
+<br>Mdm Patmah Wahnan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Operations Support Officer</strong> 
-<br><a href="mailto:masdania_mohamed_sani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Masdania Mohd Sani</a>
-</p>
+<br>Miss Masdania Mohd Sani</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Operations Support Officer</strong> 
-<br><a href="mailto:harison_raisuli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Harison Binte Raisuli</a>
-</p>
+<br>Mdm Harison Raisuli</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Operations Support Officer</strong> 
-<br><a href="mailto:fareetha_begum_kachi_ibrahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fareetha Begum Binte Kachi</a>
-</p>
+<br>Mdm Fareetha Begum</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Operations Support Officer</strong> 
-<br><a href="mailto:abdol_siron@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Abdol Bin Siron</a>
-</p>
+<br>Mr Abdol Siron</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Operations Support Officer</strong> 
-<br><a href="mailto:puah_lai_teck@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Puah Lai Teck</a>
-</p>
+<br>Mr Puah Lai Teck</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Security Officer</strong> 
-<br><a href="mailto:chijktps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lily</a>
-</p>
+<br>Ms Lily</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Security Officer</strong> 
-<br><a href="mailto:chijktps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Romy</a>
-</p>
+<br>Ms Romy</p>
 </td>
 </tr>
 <tr>
