@@ -23,15 +23,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:alice_yong_keng_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Alice Ng</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH (Aesthetics)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:toh_boon_how@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Edward Toh</a>
 </p>
 </td>
