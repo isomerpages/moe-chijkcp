@@ -317,7 +317,8 @@ variant: tiptap
 <p>Ms Siti Aishah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jasmine Lai</p>
+<p><a href="mailto:jasmine_lai_ying_loo@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Jasmine Lai</a>
+</p>
 <p>Mrs Cindy Ng</p>
 </td>
 </tr>
