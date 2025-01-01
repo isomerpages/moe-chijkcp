@@ -1,12 +1,16 @@
 ---
-title: PE, Arts & Music
-permalink: /our-ij-family/form-teachers/pe-arts-music/
+title: PE, Art & Music
+permalink: /our-ij-family/form-teachers/pe-art-music/
 variant: tiptap
 description: ""
 third_nav_title: Form Teachers
 ---
-<h2>PE, Arts &amp; Music</h2>
-<table>
+<h2>PE, Art &amp; Music</h2>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -66,11 +70,15 @@ third_nav_title: Form Teachers
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Arts</p>
+<p>Art</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -82,7 +90,7 @@ third_nav_title: Form Teachers
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rahat_bano_mohd_ashraf@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rahat Bano</a>
+<p><a href="mailto:lim_oi_lean_irene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Irene Lim</a>
 </p>
 </td>
 </tr>
@@ -106,7 +114,11 @@ third_nav_title: Form Teachers
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">

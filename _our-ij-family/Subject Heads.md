@@ -7,7 +7,11 @@ variant: tiptap
 <h3>Subject Heads (SH)</h3>
 <p></p>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -16,15 +20,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Designation</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:alice_yong_keng_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Alice Ng</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH (Aesthetics)</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -42,15 +37,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SH (English Language)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yong_kwon_seng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Yong Kwon Seng</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH (Chinese Language)</p>
 </td>
 </tr>
 <tr>
