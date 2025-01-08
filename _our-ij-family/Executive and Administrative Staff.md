@@ -71,9 +71,19 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>ICT Associate</strong>
+<br><a href="mailto:bobby_lim_dao_rui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Bobby Lim Dao Rui</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Desktop Engineer</strong> 
 <br><a href="mailto:de-ncs5637pde@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Gayathri Sudhagar</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
