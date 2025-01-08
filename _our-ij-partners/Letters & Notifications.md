@@ -5,6 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h3>Letters &amp; Notifications</h3>
+<h5><strong>Beginning of Year Parents' Webinar</strong></h5>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <h5><strong>Parent Child Teacher Conference (PCTC)</strong></h5>
 <p><a href="/files/PCTC/2024_CHIJ_KCP_Parent_Teacher_Meetings_PCTC__for_parents_.pdf" rel="noopener nofollow" target="_blank">PCTC Parents' Briefing</a>
 </p>
