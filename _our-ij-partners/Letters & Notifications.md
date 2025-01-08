@@ -5,6 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h3>Letters &amp; Notifications</h3>
+<h5><strong>P1 Parents' Briefing</strong></h5>
+<p><a href="/files/P1_2025/P1_Parents_Briefing_SLS_and_MIMS_Account_Management.pdf" rel="noopener nofollow" target="_blank">SLS and MIMS Account Management</a>
+<br><a href="/files/P1_2025/P1_Parents_Engagement_on_School_Based_Assessment_2025.pdf" rel="noopener nofollow" target="_blank">Parents Engagement on School Based Assessment</a>
+<br><a href="/files/P1_2025/P1_Student_Well_Being_Presentation_by_YH.pdf" rel="noopener nofollow" target="_blank">P1 Student Well-Being</a>
+</p>
 <h5><strong>Beginning of Year Parents' Webinar</strong></h5>
 <p><a href="/files/BOY Webinar 2025/Journey_Through_The_Seasons_of_Life_With_Love_2025.pdf" rel="noopener nofollow" target="_blank">Journey Through The Seasons of Life With Love</a>
 </p>
