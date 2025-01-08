@@ -7,19 +7,11 @@ description: ""
 <h4>School Dental Clinic</h4>
 <p>Dental Therapist: Ms Judy Tee</p>
 <p>Tel: 89401058</p>
-<p><strong><u>Operating Hours on Alternate Week</u></strong>
+<p><strong><u>Operating Hours </u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Monday, Wednesday and Friday</strong>
-</p>
-<p>Morning: 8:00 am to 1:00 pm</p>
-<p>Afternoon: 2:00 pm to 5:00 pm</p>
-<p>(*Dental Clinic will be closed on Fridays from 25<sup>th</sup> October
-to 31<sup>st </sup>December 2024)</p>
-</li>
-<li>
-<p><strong>Tuesday and Thursday</strong>
+<p><strong>Wednesday and Thursday</strong>
 </p>
 <p>Morning: 8:00 am to 1:00 pm</p>
 <p>Afternoon: 2:00 pm to 5.30 pm</p>
