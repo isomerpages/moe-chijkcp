@@ -1,10 +1,10 @@
 ---
-title: Subject Heads
+title: Subject Heads & Level Heads
 permalink: /our-ij-family/subject-heads-sh-n-level-heads-lh/
 description: ""
 variant: tiptap
 ---
-<h3>Subject Heads (SH)</h3>
+<h3>Subject Heads (SH) / Level Heads (LH)</h3>
 <p></p>
 <p></p>
 <table style="minWidth: 50px">
@@ -46,6 +46,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SH (Malay &amp; Tamil Language)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Anville Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH (Mathematics)</p>
 </td>
 </tr>
 <tr>
