@@ -12,16 +12,11 @@ variant: tiptap
 </p>
 <h5><strong>Beginning of Year Parents' Webinar</strong></h5>
 <p><a href="/files/BOY Webinar 2025/Journey_Through_The_Seasons_of_Life_With_Love_2025.pdf" rel="noopener nofollow" target="_blank">Journey Through The Seasons of Life With Love</a>
-</p>
-<p><a href="/files/BOY Webinar 2025/P2___P6_Principal_Parents_Briefing_2025_compressed__2_.pdf" rel="noopener nofollow" target="_blank">P2 - P6 Parents' Briefing by Principal</a>
-</p>
-<p><a href="/files/BOY Webinar 2025/P2_BOY_YH_Briefing_for_Parents_2025.pdf" rel="noopener nofollow" target="_blank">BOY Briefing for Lower Primary</a>
-</p>
-<p><a href="/files/BOY Webinar 2025/P3___P4_BOY_YH_Briefing_for_Parents_2025.pdf" rel="noopener nofollow" target="_blank">BOY Briefing for Middle Primary</a>
-</p>
-<p><a href="/files/BOY Webinar 2025/P5___P6_BOY_YH_Briefing_for_Parents_2025.pdf" rel="noopener nofollow" target="_blank">BOY Briefing for Upper Primary</a>
-</p>
-<p><a href="/files/BOY Webinar 2025/P1___P6_Arrival___Dismissal_Brief_2025.pdf" rel="noopener nofollow" target="_blank">Briefing on Arrival and Dismissal</a>
+<br><a href="/files/BOY Webinar 2025/P2___P6_Principal_Parents_Briefing_2025_compressed__2_.pdf" rel="noopener nofollow" target="_blank">P2 - P6 Parents' Briefing by Principal</a>
+<br><a href="/files/BOY Webinar 2025/P2_BOY_YH_Briefing_for_Parents_2025.pdf" rel="noopener nofollow" target="_blank">Briefing for Lower Primary</a>
+<br><a href="/files/BOY Webinar 2025/P3___P4_BOY_YH_Briefing_for_Parents_2025.pdf" rel="noopener nofollow" target="_blank">Briefing for Middle Primary</a>
+<br><a href="/files/BOY Webinar 2025/P5___P6_BOY_YH_Briefing_for_Parents_2025.pdf" rel="noopener nofollow" target="_blank">Briefing on Upper Primary</a>
+<br><a href="/files/BOY Webinar 2025/P1___P6_Arrival___Dismissal_Brief_2025.pdf" rel="noopener nofollow" target="_blank">Briefing on Arrival and Dismissal</a>
 </p>
 <h5><strong>Parent Child Teacher Conference (PCTC)</strong></h5>
 <p><a href="/files/PCTC/2024_CHIJ_KCP_Parent_Teacher_Meetings_PCTC__for_parents_.pdf" rel="noopener nofollow" target="_blank">PCTC Parents' Briefing</a>
