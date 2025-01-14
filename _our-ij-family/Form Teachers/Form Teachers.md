@@ -553,7 +553,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>E6</p>
+<p>CE6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:seow_swee_lin_vevian@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Vevian Ng</a>
