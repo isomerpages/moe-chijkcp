@@ -40,7 +40,7 @@ to work together in a choreography.
 <br><strong>DAY:</strong>&nbsp;Friday
 <br><strong>TIME:</strong>&nbsp;2:15 pm – 4:00 pm
 <br><strong>VENUE:</strong>&nbsp;School (Music Room 2)
-<br><strong>TEACHERS I/C:</strong>&nbsp;Ms Er Li Li</p>
+<br><strong>TEACHERS I/C:</strong>&nbsp;Mrs Barathi Rajan</p>
 <h4>SYNOPSIS:</h4>
 <p>This Contemporary Dance CCA is dedicated to nurturing confidence, grace,
 and creativity in students through the exploration of various dance genres,
