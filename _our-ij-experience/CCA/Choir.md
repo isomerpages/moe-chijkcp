@@ -10,8 +10,8 @@ variant: tiptap
 <br><strong>DAY:</strong>&nbsp;Tuesday &amp; Friday
 <br><strong>TIME:</strong>&nbsp;2:00pm - 4:00pm
 <br><strong>VENUE:</strong>&nbsp;School (Dance Studio)
-<br><strong>TEACHERS I/C:</strong>&nbsp;Mrs Carian Ye, Mrs Jacinta Lee &amp;
-Mrs Barathi Rajan</p>
+<br><strong>TEACHERS I/C:</strong>&nbsp;Ms Angeline Grace &amp; Mrs Jacinta
+Lee</p>
 <h4><strong>SYNOPSIS:</strong></h4>
 <p>The CHIJ (Katong) Primary Choir was formed in 2001. The choir sings music
 from all genres including jazz and songs in different languages. The students
