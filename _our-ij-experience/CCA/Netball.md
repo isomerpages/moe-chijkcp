@@ -10,7 +10,7 @@ variant: tiptap
 <br><strong>DAY:</strong>&nbsp;Friday
 <br><strong>TIME:</strong>&nbsp;2:15pm - 4:00pm
 <br><strong>VENUE:</strong>&nbsp;School (Courtyard)
-<br><strong>TEACHERS I/C:</strong>&nbsp;Mdm Li Li &amp; Miss Syazana</p>
+<br><strong>TEACHERS I/C:</strong>&nbsp;Mdm Li Li</p>
 <h4>SYNOPSIS:</h4>
 <p>To learn the fundamental movements of netball (eg. running, jumping) and
 develop the skills of catching and throwing netball through fun and modified
@@ -23,8 +23,7 @@ games.</p>
 <br><strong>DAY:</strong>&nbsp;Tuesday and Friday
 <br><strong>TIME:</strong>&nbsp;2.15pm - 4.00pm
 <br><strong>VENUE:</strong>&nbsp;School (ISH)
-<br><strong>TEACHERSI/C:</strong>&nbsp;Miss Daisy Ng, Miss Sherlyn Yeo, Ms
-Charlene Lee &amp; Mdm Zur Amira</p>
+<br><strong>TEACHERSI/C:</strong>&nbsp;Miss Daisy Ng &amp; Mdm Zur Amira</p>
 <h4>SYNOPSIS:</h4>
 <p>Netball CCA aims to foster physical fitness, self-discipline, teamwork
 and sportsmanship in students. It provides a platform for students to be
