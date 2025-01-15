@@ -10,7 +10,7 @@ variant: tiptap
 <br><strong>DAY:</strong>&nbsp;Tuesday
 <br><strong>TIME:</strong>&nbsp;2:00pm - 4:00pm
 <br><strong>VENUE:</strong>&nbsp;School (Music Room 1)
-<br><strong>TEACHERS I/C:</strong>&nbsp;Ms Poon Mun Ye &amp; Ms Angeline Grace</p>
+<br><strong>TEACHERS I/C:</strong>&nbsp;Ms Er Li Li &amp; Mrs Magdalene Tan</p>
 <h4>VISION:</h4>
 <p>The CHIJ (Katong) Primary Handbell Ensemble was established in 2004, with
 the aim of providing an opportunity for students with varied musical abilities
