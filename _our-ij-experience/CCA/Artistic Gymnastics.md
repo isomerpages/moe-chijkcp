@@ -8,7 +8,8 @@ variant: tiptap
 <h2>Artistic Gymnastics (Modular)</h2>
 <p><strong>Level:</strong>&nbsp;P3 to P6
 <br><strong>DAY:</strong>&nbsp;Tuesday
-<br><strong>TIME:</strong>&nbsp;2:15pm - 5:15pm (TBC)
+<br><strong>TIME:</strong>&nbsp;2:15pm - 3:30pm (Session 1) &amp; 3:30pm -
+5:00pm (Session 2)
 <br><strong>VENUE:</strong>&nbsp;School (ISH)
 <br><strong>TEACHERS I/C:</strong>&nbsp;Mdm Ang Bee Bee &amp; Mrs Doreen Yeo</p>
 <h4>SYNOPSIS:</h4>
