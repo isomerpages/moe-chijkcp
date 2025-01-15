@@ -11,8 +11,8 @@ variant: tiptap
 Team)
 <br><strong>TIME:</strong>&nbsp;2:15pm - 5:00pm (TBC)
 <br><strong>VENUE:</strong>&nbsp;To Be Confirmed
-<br><strong>TEACHERS I/C:</strong>&nbsp;Mdm Toh Chiew Yen, Mdm Zhai Yuan,
-Ms Nabilah &amp; Mdm Rahat</p>
+<br><strong>TEACHERS I/C:</strong>&nbsp;Mdm Toh Chiew Yen, Ms Jasmine Lai,
+Mdm Zhang Xuyang</p>
 <h4>SYNOPSIS:</h4>
 <p>Bowling CCA provide students with a structured and engaging environment
 to learn and develop various Bowling skills, values, and attributes beyond

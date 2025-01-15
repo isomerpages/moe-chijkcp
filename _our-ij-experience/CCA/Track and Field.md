@@ -15,8 +15,8 @@ variant: tiptap
 <br><strong>TIME:</strong>&nbsp;2:00pm (Depart from school) &amp; 4:40pm (Arrive
 back in school)
 <br><strong>VENUE:</strong>&nbsp;School/External Venues (Transport is provided)
-<br><strong>TEACHERS I/C:</strong>&nbsp;Ms Jasmine Lai, Ms Li Meina, Mdm Nazurah,
-Mdm Zhang Xuyang</p>
+<br><strong>TEACHERS I/C: </strong>Mdm Nazurah, Ms Li Meina, Mdm Rasyidah
+&amp; Miss Siti Nabilah</p>
 <h4>SYNOPSIS:</h4>
 <p>During Track &amp; Field CCA sessions, students can look forward to learning
 a range of skills like running, jumping and throwing. Through drills and

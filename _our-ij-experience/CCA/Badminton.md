@@ -10,7 +10,7 @@ variant: tiptap
 <br><strong>DAY:</strong>&nbsp;Friday
 <br><strong>TIME:</strong>&nbsp;2:15pm - 4:00pm
 <br><strong>VENUE:</strong>&nbsp;School (MPH)
-<br><strong>TEACHERS I/C:</strong>&nbsp;Mdm Tan Lee Kin &amp; Mrs Jaclyn Guo</p>
+<br><strong>TEACHERS I/C:</strong>&nbsp;Ms Charlene Lee &amp; Mrs Jaclyn Guo</p>
 <h4>SYNOPSIS:</h4>
 <p>After the completion of the CCA, students will acquire a fundamental understanding
 of the basic requirements and techniques in badminton, enhancing their
