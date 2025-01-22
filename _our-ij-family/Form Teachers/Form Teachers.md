@@ -66,7 +66,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lousia_sng_mei_cheah@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Louisa Low</a>
+<p><a href="mailto:louisa_sng_mei_cheah@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Louisa Low</a>
 </p>
 </td>
 </tr>
