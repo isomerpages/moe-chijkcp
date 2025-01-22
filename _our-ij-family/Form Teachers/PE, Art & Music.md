@@ -134,7 +134,7 @@ third_nav_title: Form Teachers
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tay_siew_lan_bernadette@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Bernadette Khoo</a>
+<p><a href="mailto:tay_siew_lan_bernadette@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Bernadette Koo</a>
 </p>
 </td>
 </tr>
