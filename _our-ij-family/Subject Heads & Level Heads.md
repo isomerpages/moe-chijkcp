@@ -50,7 +50,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Anville Tan</p>
+<p><a href="mailto:anville_tan_hwee_li@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Anville Tan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LH (Mathematics)</p>
