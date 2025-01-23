@@ -88,7 +88,7 @@ more information on the scope of Sexuality Education in the school curriculum.</
 </li>
 </ol>
 <p></p>
-<h3>Sexuality Education Lessons:</h3>
+<h3><strong><u>Sexuality Education Lessons:</u></strong></h3>
 <ol start="6" data-tight="true" class="tight">
 <li>
 <p>The upper primary years mark the onset of puberty. With better nutrition
