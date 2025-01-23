@@ -28,12 +28,10 @@ on sexuality issues.</p>
 <li>
 <p>Support students in managing their physiological, social and emotional
 changes as they grow up and develop safe and healthy relationships.</p>
-<p></p>
 </li>
 <li>
 <p>Guide students to make wise, informed and responsible decisions on sexuality
 matters.</p>
-<p></p>
 </li>
 <li>
 <p>Help students develop a moral compass and respect for themselves and others
@@ -51,16 +49,13 @@ are premised on the family as the basic unit of society.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Love and respect yourself as you love and respect others;</p>
-<p></p>
 </li>
 <li>
 <p>Build positive relationships based on love and respect (which are the
 foundation for strong families);</p>
-<p></p>
 </li>
 <li>
 <p>Make responsible decisions for yourself, your family and society; and</p>
-<p></p>
 </li>
 <li>
 <p>Abstinence before marriage is the best protection against STIs/HIV and
@@ -89,7 +84,6 @@ more information on the scope of Sexuality Education in the school curriculum.</
 <ul data-tight="true" class="tight">
 <li>
 <p>Science</p>
-<p></p>
 </li>
 <li>
 <p>Character and Citizenship Education (CCE)</p>
