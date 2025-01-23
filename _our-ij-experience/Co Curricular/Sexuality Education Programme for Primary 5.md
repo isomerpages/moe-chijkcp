@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Co Curricular
 variant: tiptap
 ---
-<h3><strong>&nbsp;Moe Sexuality Education in Schools</strong></h3>
+<h2>Moe Sexuality Education in Schools</h2>
 <ol data-tight="true" class="tight">
 <li>
 <p>Sexuality Education (SEd) in schools aims to enable students to understand
