@@ -122,16 +122,15 @@ to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
 </li>
 </ol>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Sexuality_Education_Lesson_in_CCE__1_.jpg">
+</div>
 <p>&nbsp;&nbsp;</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong><br></strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong><br></strong>
-</p>
-<h3><strong>Information for Parents</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Sexuality_Education_Lesson_in_CCE__2_.jpg">
+</div>
+<h3><strong>&nbsp;Information for Parents</strong></h3>
 <ol start="8" data-tight="true" class="tight">
 <li>
 <p>Parents may opt their children out of Sexuality Education lessons, and/or
