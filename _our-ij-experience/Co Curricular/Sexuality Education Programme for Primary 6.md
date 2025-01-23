@@ -42,7 +42,7 @@ are premised on the family as the basic unit of society.</p>
 </li>
 <li>
 <p>The <strong>Key Messages</strong> of Sexuality Education are:</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Love and respect yourself as you love and respect others;</p>
 </li>
@@ -58,7 +58,7 @@ foundation for strong families);</p>
 unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 </li>
-</ol>
+</ul>
 <p></p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
