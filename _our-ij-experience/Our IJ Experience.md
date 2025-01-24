@@ -40,6 +40,21 @@ rooted in values that reflect the very best of the CHIJ tradition.</p>
 CHIJ, ensuring that they are empowered to become agents of change, champions
 of justice, and ambassadors of love in the world.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our IJ Experience/Staff_Bonding.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our IJ Experience/Students_Gift.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our IJ Experience/Girl_Drawing.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our IJ Experience/Classroom.png">
+</div>
 <p></p>
 <p><strong>Empowered Learners who are future – ready</strong>.</p>
 <p>The school’s Strategic Objective 1 aims to prepare CHIJ KCP girls for
