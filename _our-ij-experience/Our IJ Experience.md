@@ -128,7 +128,7 @@ in each person and strive to include the disadvantaged, the last, lost
 and least.</p>
 <p>The following Strategic Initiatives enable the school to foster a CHRIST
 – centered community where the mission of CHIJ can be achieved.&nbsp;</p>
-<p><strong>S1 4 Community Student Leaders who actively contribute</strong>
+<p><strong>SI 4 Community Student Leaders who actively contribute</strong>
 </p>
 <p>The focus of Student Leadership development in the school is based on
 these main principles:</p>
