@@ -4,7 +4,9 @@ permalink: /our-ij-partners/parents-portal/
 description: ""
 variant: tiptap
 ---
-<p></p>
+<h4>Gifted Education Programme (2025)</h4>
+<p><a href="/files/GEP_Identification_Exercise__2025_.pdf" rel="noopener nofollow" target="_blank">GEP Identification Exercise</a>
+</p>
 <h4>Primary 1 (2025) Orientation</h4>
 <p><a href="/files/Parents Portal/P1_Orientation_2024_Principal_s_Addressv2.pdf" rel="noopener nofollow" target="_blank">P1 Orientation Principal's Address</a>
 <br><a href="/files/Parents Portal/P1_Orientation_2024_Safety_Brief_VPAdmin.pdf" rel="noopener nofollow" target="_blank">P1 Orientation Vice Principal Admin's Safety Briefing</a>
@@ -14,8 +16,6 @@ variant: tiptap
 <h4>Primary 1 (2025) Administration Day</h4>
 <p><a href="/files/P1 Admin Day 2025/2025_P1_Admin_Day_Annex_A.pdf" rel="noopener nofollow" target="_blank">Primary 1 (2025) Administration Day</a>
 </p>
-<h4>Gifted Education Programme (2025)</h4>
-<p><a href="/files/GEP_Identification_Exercise__2025_.pdf" rel="noopener nofollow" target="_blank">GEP Identification Exercise</a>
-</p>
+<h4></h4>
 <h4></h4>
 <p></p>
