@@ -20,18 +20,9 @@ variant: tiptap
 <h5><strong>CCA Briefing Slides</strong></h5>
 <p><a href="/files/PCTC/2024_CHIJ_KCP_CCA_Briefing__for_parents_.pdf" rel="noopener nofollow" target="_blank">Co-Curricular Activity (CCA) Briefing</a>
 </p>
-<h5><strong>P6 Parents' PSLE Briefing</strong></h5>
-<p><a href="/files/CHIJKCP_P6_Parents_Briefing_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Parents' PSLE Briefing (2024)</a>
-</p>
 <h5><strong>Group Personal Accident (GPA) for Students</strong></h5>
 <p><a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">GPA Insurance for Students</a>
 </p>
-<h5><strong>Growth Mindset Matters</strong></h5>
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Embracing the Growth Mindset</a> 
-<br><a href="" rel="noopener noreferrer nofollow" target="_blank">CHIJ (Katong) Primary Growth Mindset Parents Bulletin</a> 
-<br><a href="" rel="noopener noreferrer nofollow" target="_blank">Smart Goal Setting Worksheet</a> 
-<br><a href="" rel="noopener noreferrer nofollow" target="_blank">WOOP (Planning for Obstacles) Worksheet</a> 
-<br>
-</p>
+<h5></h5>
 <h5></h5>
 <p></p>
