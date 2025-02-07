@@ -5,6 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h3>Letters &amp; Notifications</h3>
+<h5><strong>Gifted Education Programme (GEP) Identification Exercise</strong></h5>
+<p><a href="/files/P3%20GEP%20NOTIFICATION%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3 Gifted Education Programme Notification</a>
+</p>
+<p></p>
 <h5><strong>P1 Parents' Briefing</strong></h5>
 <p><a href="/files/P1_2025/P1_Parents_Briefing_SLS_and_MIMS_Account_Management.pdf" rel="noopener nofollow" target="_blank">SLS and MIMS Account Management</a>
 <br><a href="/files/P1_2025/P1_Parents_Engagement_on_School_Based_Assessment_2025.pdf" rel="noopener nofollow" target="_blank">Parents Engagement on School Based Assessment</a>
@@ -37,6 +41,5 @@ variant: tiptap
 <br><a href="" rel="noopener noreferrer nofollow" target="_blank">WOOP (Planning for Obstacles) Worksheet</a> 
 <br>
 </p>
-<h5><strong>Gifted Education Programme (GEP) Identification Exercise</strong></h5>
-<p><a href="/files/P3%20GEP%20NOTIFICATION%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3 Gifted Education Programme Notification</a>
-</p>
+<h5></h5>
+<p></p>
