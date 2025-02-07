@@ -8,7 +8,6 @@ variant: tiptap
 <h5><strong>Gifted Education Programme (2025)</strong></h5>
 <p><a href="/files/GEP_Identification_Exercise__2025_.pdf" rel="noopener nofollow" target="_blank">GEP Identification Exercise</a>
 </p>
-<p></p>
 <h5><strong>P1 Parents' Briefing</strong></h5>
 <p><a href="/files/P1_2025/P1_Parents_Briefing_SLS_and_MIMS_Account_Management.pdf" rel="noopener nofollow" target="_blank">SLS and MIMS Account Management</a>
 <br><a href="/files/P1_2025/P1_Parents_Engagement_on_School_Based_Assessment_2025.pdf" rel="noopener nofollow" target="_blank">Parents Engagement on School Based Assessment</a>
