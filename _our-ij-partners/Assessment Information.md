@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>ASSESSMENT INFORMATION</h3>
-<p><a href="/files/Assessment Information /21_Jan_2025_P1_P6_Assessment_Overview_Letter_HA_P1_6_PMY_007_2025.pdf" rel="noopener nofollow" target="_blank">P1 - P6 Assessment OverviPrimary 1 to Primary 6 Assessment Overview Letter</a>
+<p><a href="/files/Assessment Information /21_Jan_2025_P1_P6_Assessment_Overview_Letter_HA_P1_6_PMY_007_2025.pdf" rel="noopener nofollow" target="_blank">Primary 1 to Primary 6 Assessment Overview Letter</a>
 </p>
 <h4><strong>Term 1</strong></h4>
 <p><a href="/files/Assessment Information /22_Jan_2025_P5_T1_WA_Letter_HA_P5_PMY_010_2025.pdf" rel="noopener nofollow" target="_blank">Primary 5 Weighted Assessment Letter</a>
