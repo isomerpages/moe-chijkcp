@@ -5,8 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h3>Letters &amp; Notifications</h3>
-<h5><strong>Gifted Education Programme (GEP) Identification Exercise</strong></h5>
-<p><a href="/files/P3%20GEP%20NOTIFICATION%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3 Gifted Education Programme Notification</a>
+<h5>Gifted Education Programme (2025)</h5>
+<p><a href="/files/GEP_Identification_Exercise__2025_.pdf" rel="noopener nofollow" target="_blank">GEP Identification Exercise</a>
 </p>
 <p></p>
 <h5><strong>P1 Parents' Briefing</strong></h5>
