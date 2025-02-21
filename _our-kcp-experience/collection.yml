@@ -2,5 +2,6 @@ collections:
   our-kcp-experience:
     output: true
     order:
+      - Applied Learning Programme (ALP).md
       - Chaplaincy Religious Education.md
       - Our IJ Experience.md
