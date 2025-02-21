@@ -2,6 +2,7 @@ collections:
   our-kcp-experience:
     output: true
     order:
+      - Learning for Life Programme (LLP).md
       - Applied Learning Programme (ALP).md
       - Chaplaincy Religious Education.md
       - Our IJ Experience.md
