@@ -2,4 +2,5 @@ collections:
   our-kcp-experience:
     output: true
     order:
+      - Chaplaincy Religious Education.md
       - Our IJ Experience.md
