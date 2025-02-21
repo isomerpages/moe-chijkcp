@@ -1,5 +1,5 @@
 collections:
-  our-ij-experience:
+  our-departments:
     output: true
     order:
       - Our IJ Experience.md
