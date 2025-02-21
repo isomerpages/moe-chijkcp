@@ -4,10 +4,14 @@ links:
     collection: our-ij-story
   - title: Our IJ Family
     collection: our-ij-family
-  - title: Our IJ Experience
+  - title: Our Departments
     collection: our-ij-experience
+  - title: Our KCP Experience
+    collection: announcements
   - title: OUR IJ Partners
     collection: our-ij-partners
+  - title: Recent Happenings
+    collection: announcements
   - title: News And Events
     collection: news-and-events
   - title: SLS/MIMS Support
