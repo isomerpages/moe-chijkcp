@@ -2,6 +2,7 @@ collections:
   our-kcp-experience:
     output: true
     order:
+      - Growth Mindset.md
       - Girls Like Tech.md
       - After School Programme (ASP).md
       - Learning for Life Programme (LLP).md
