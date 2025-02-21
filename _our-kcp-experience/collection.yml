@@ -1,4 +1,5 @@
 collections:
   our-kcp-experience:
     output: true
-    order: []
+    order:
+      - Our IJ Experience.md
