@@ -2,7 +2,6 @@ collections:
   our-departments:
     output: true
     order:
-      - Our IJ Experience.md
       - Curricular/.keep
       - Curricular/English.md
       - Curricular/Mathematics.md
