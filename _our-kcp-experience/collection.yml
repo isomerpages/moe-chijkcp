@@ -2,12 +2,12 @@ collections:
   our-kcp-experience:
     output: true
     order:
-      - Save the Earth.md
-      - Art in Claynation.md
-      - Growth Mindset.md
-      - Girls Like Tech.md
-      - After School Programme (ASP).md
-      - Learning for Life Programme (LLP).md
-      - Applied Learning Programme (ALP).md
-      - Chaplaincy Religious Education.md
       - Our IJ Experience.md
+      - Chaplaincy Religious Education.md
+      - Applied Learning Programme (ALP).md
+      - Learning for Life Programme (LLP).md
+      - After School Programme (ASP).md
+      - Girls Like Tech.md
+      - Growth Mindset.md
+      - Art in Claynation.md
+      - Save the Earth.md
