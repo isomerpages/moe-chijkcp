@@ -2,6 +2,7 @@ collections:
   our-kcp-experience:
     output: true
     order:
+      - Girls Like Tech.md
       - After School Programme (ASP).md
       - Learning for Life Programme (LLP).md
       - Applied Learning Programme (ALP).md
