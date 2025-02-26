@@ -1,4 +1,5 @@
 collections:
   recent-happenings:
     output: true
-    order: []
+    order:
+      - CNY 2025.md
