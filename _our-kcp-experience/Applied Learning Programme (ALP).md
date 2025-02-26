@@ -4,7 +4,7 @@ permalink: /our-ij-experience/signature-programs/applied-learning-programme-alp/
 description: ""
 variant: tiptap
 ---
-<h3>Applied Learning Programme (ALP)</h3>
+<h2>Comminucation Development</h2>
 <h4><strong>Our Vision</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
