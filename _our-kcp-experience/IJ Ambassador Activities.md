@@ -4,6 +4,7 @@ permalink: /our-kcp-experience/
 variant: tiptap
 description: ""
 ---
+<h3>Celebrating Our Roots and Championing of Our Heritage</h3>
 <p>At CHIJ (Katong) Primary, we are deeply proud to be part of the esteemed
 CHIJ fraternity. Our rich heritage and time-honoured traditions form a
 strong connection and foundation for everything we do, shaping the values
