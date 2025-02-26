@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Curricular
 ---
-<h3>Aesthetics</h3>
+<h2>Aesthetics</h2>
 <h4>Our Vision</h4>
 <p><strong>Passion for the Arts</strong>
 </p>
