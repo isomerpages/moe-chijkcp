@@ -4,6 +4,7 @@ permalink: /our-ij-experience/signature-programs/chaplaincy-religious-education/
 description: ""
 variant: tiptap
 ---
+<h3>Deepening Our Faith</h3>
 <h4>Religious Education in School</h4>
 <p>In our school, the Catholic Identity is evident in the practice and knowledge
 of the Catholic faith through all parts of the school day. Prayers and
