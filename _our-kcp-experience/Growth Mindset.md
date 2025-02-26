@@ -52,4 +52,5 @@ in time to come.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Growth Mindset/GM4.png">
 </div>
+<h2></h2>
 <p></p>
