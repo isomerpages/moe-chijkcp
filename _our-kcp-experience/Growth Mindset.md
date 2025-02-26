@@ -4,7 +4,7 @@ permalink: /growth-mindset/
 variant: tiptap
 description: ""
 ---
-<h3>Embracing a Growth Mindset at CHIJ (Katong) Primary</h3>
+<h2>Embracing Growth Mindset for Resilience and Success</h2>
 <h4>Our Vision:</h4>
 <p><em>Our girls will be the best version of themselves, pursuing their own definitions of success with confidence, resilience and a Growth mindset.</em>
 </p>
