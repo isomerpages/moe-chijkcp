@@ -1,0 +1,6 @@
+collections:
+  recent-happenings:
+    output: true
+    order:
+      - Primary 5 Camp 2025.md
+      - CNY 2025.md

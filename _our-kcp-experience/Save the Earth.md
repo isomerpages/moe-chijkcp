@@ -3,9 +3,8 @@ title: Save the Earth
 permalink: /our-ij-experience/signature-programs/save-the-earth/
 description: ""
 variant: tiptap
-third_nav_title: Signature Programs
 ---
-<h3>Save the Earth</h3>
+<h2>Saving the Earth for the Future</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Save The Earth 2024/Save_The_Earth_website__2024_Page_01.jpg">

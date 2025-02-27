@@ -3,9 +3,8 @@ title: Growth Mindset
 permalink: /growth-mindset/
 variant: tiptap
 description: ""
-third_nav_title: Signature Programs
 ---
-<h3>Embracing a Growth Mindset at CHIJ (Katong) Primary</h3>
+<h2>Embracing Growth Mindset for Resilience and Success</h2>
 <h4>Our Vision:</h4>
 <p><em>Our girls will be the best version of themselves, pursuing their own definitions of success with confidence, resilience and a Growth mindset.</em>
 </p>
@@ -53,4 +52,5 @@ in time to come.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Growth Mindset/GM4.png">
 </div>
+<h2></h2>
 <p></p>

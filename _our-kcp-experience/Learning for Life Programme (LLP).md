@@ -3,9 +3,8 @@ title: Learning for Life Programme (LLP)
 permalink: /our-ij-experience/signature-programs/learning-for-life-programme-llp/
 description: ""
 variant: tiptap
-third_nav_title: Signature Programs
 ---
-<h4>Learning For Life Programme (LLP) - Community Student Leadership</h4>
+<h2>Serve with Love</h2>
 <p>Our School is a Christ-centred school community where all work together
 for the promotion of truth, justice, freedom and love, with special reference
 to the needs of persons who are disadvantaged in any way. Aligned to our

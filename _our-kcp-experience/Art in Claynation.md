@@ -3,8 +3,8 @@ title: Art in Claynation
 permalink: /our-ij-experience/signature-programs/art-in-claynation/
 description: ""
 variant: tiptap
-third_nav_title: Signature Programs
 ---
+<h2>Celebrating Our Talents</h2>
 <p><strong><u>Art InCLAYnation</u></strong>
 </p>
 <p>In May 2019, a group of 6 teachers embarked on a Ceramic-Making Course
