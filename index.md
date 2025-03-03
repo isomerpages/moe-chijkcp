@@ -27,7 +27,7 @@ sections:
       button: JOIN US
       alt: Image alt text
       url: https://www.instagram.com/chij_katong_primary/
-      image: /images/chij instav2.jpg
+      image: /images/IG_Homepage.png
   - infopic:
       title: CHIJ (Katong) Primary Facebook
       id: infopic
