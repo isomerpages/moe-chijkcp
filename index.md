@@ -16,10 +16,9 @@ sections:
           description: School Events & Activities
           url: https://www.chijkcp.moe.edu.sg/news-and-events/schoolcalendar/
   - infobar:
-      title: Chairperson / IJ Board of Management
-      subtitle: 2024 year end message from
+      title: Bookshop closed from 17th to 21st March for stock-take
+      subtitle: NOTICE
       id: infobar
-      button: Click to read
       url: /announcements/ijbom/
   - infopic:
       title: CHIJ (Katong) Primary Instagram
