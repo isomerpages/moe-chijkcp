@@ -93,12 +93,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:GanToh_Hui_Bok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Gan-Toh Hui Bok</a>
+<p><a href="mailto:ong_siew_khimwang_xiuqin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ong Siew Khim</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_siew_khimwang_xiuqin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ong Siew Khim</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
