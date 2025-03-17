@@ -2,8 +2,8 @@ collections:
   announcements:
     output: true
     order:
-      - Canteen Advertisement.md
       - Announcements.md
+      - Canteen Advertisement.md
       - 2024 Year End Message from IJBOM Chairperson.md
       - Safety and Security Briefing.md
       - Management of High Temperature Conditions in School.md
