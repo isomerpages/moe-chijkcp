@@ -54,7 +54,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH (Mathematics)</p>
+<p>SH (Mathematics)</p>
 </td>
 </tr>
 <tr>
