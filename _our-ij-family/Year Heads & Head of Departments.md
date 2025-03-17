@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h3>Year Heads (YH) &amp; Head of Departments (HOD)</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -58,15 +62,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD (English Language)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:hou_sook_min_cindy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Cindy Ng</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD (Mathematics)</p>
 </td>
 </tr>
 <tr>
