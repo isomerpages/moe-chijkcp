@@ -56,7 +56,7 @@ etc.</p>
 </ol>
 <p>Shortlisted applicants will be notified for an interview and food sampling
 by the School Canteen Selection Committee at the applicant's own expense.</p>
-<p></p>
-<p></p>
+<p><a href="/files/Application_for_Canteen_Stall_in_Existing_School.pdf" rel="noopener nofollow" target="_blank">Application for Canteen Stall</a>
+</p>
 <p></p>
 <p></p>
