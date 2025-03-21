@@ -2,13 +2,12 @@ collections:
   our-ij-partners:
     output: true
     order:
-      - ROAD SAFETY OF STUDENTS.md
       - Parents Portal.md
       - Letters & Notifications.md
+      - Parents' Newsletter/.keep
       - Parents' Newsletter/2025 Term 1.md
       - Parents' Newsletter/2025.md
       - Parents' Newsletter/2024 Term 4.md
-      - Parents' Newsletter/.keep
       - Parents' Newsletter/2024 Term 3.md
       - Parents' Newsletter/2024 Term 2.md
       - Parents' Newsletter/2024 Term 1.md
@@ -20,4 +19,5 @@ collections:
       - IJ Parent Volunteers (PV).md
       - CCA Online Registration.md
       - Traffic Safety Around the School.md
+      - ROAD SAFETY OF STUDENTS.md
       - Advisory Note for Cycling to School.md
