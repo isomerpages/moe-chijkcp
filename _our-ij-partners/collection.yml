@@ -2,6 +2,7 @@ collections:
   our-ij-partners:
     output: true
     order:
+      - ROAD SAFETY OF STUDENTS.md
       - Parents Portal.md
       - Letters & Notifications.md
       - Parents' Newsletter/2025 Term 1.md
