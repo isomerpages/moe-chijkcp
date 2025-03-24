@@ -2,9 +2,9 @@ collections:
   news-and-events:
     output: true
     order:
-      - 95th Anniversary Celebration.md
       - School Calendar.md
       - Useful Links.md
+      - 95th Anniversary Celebration.md
       - E Open House.md
       - Enhanced OPAC and SERR.md
       - Celebration of the 400th Anniversary of the birth of our founder,
