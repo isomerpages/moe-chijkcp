@@ -19,7 +19,7 @@ sections:
       title: 95th Anniversary Celebration
       id: infopic
       button: Click Here
-      url: https://www.chijkcp.moe.edu.sg/events/95th-anniversary-celebration/
+      url: https://www.chijkcp.moe.edu.sg/95th-anniversary-celebration/
       alt: Image alt text
       image: /images/HomePage.png
   - infopic:
