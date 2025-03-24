@@ -6,7 +6,7 @@ description: ""
 ---
 <h4><strong>CHIJ (Katong) Primary Celebrates 95 Years of Faith, Love, and Service</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mfm7KRsWcEI?si=rKonR_wqHBFw4HIv"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mfm7KRsWcEI?si=rKonR_wqHBFw4HIv"></iframe>
 </div>
 <p>On 10 March 2025, CHIJ (Katong) Primary joyfully launched its 95th Anniversary
 Celebrations, marking nearly a century of nurturing hearts and minds. The
