@@ -15,11 +15,13 @@ sections:
         - title: SCHOOL CALENDAR
           description: School Events & Activities
           url: https://www.chijkcp.moe.edu.sg/news-and-events/schoolcalendar/
-  - infobar:
-      title: Bookshop closed from 17th to 21st March for stock-take
-      subtitle: NOTICE
-      id: infobar
-      url: /announcements/ijbom/
+  - infopic:
+      title: 95th Anniversary Celebration
+      id: infopic
+      button: Click Here
+      url: https://www.chijkcp.moe.edu.sg/events/95th-anniversary-celebration/
+      alt: Image alt text
+      image: /images/HomePage.png
   - infopic:
       title: CHIJ (Katong) Primary Instagram
       id: infopic
