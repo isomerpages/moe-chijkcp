@@ -18,10 +18,10 @@ sections:
   - infopic:
       title: 95th Anniversary Celebration
       id: infopic
-      description: Infopic description
       button: Click Here
       url: https://www.chijkcp.moe.edu.sg/95th-anniversary-celebration/
       alt: Image alt text
+      image: /images/HomePage.png
   - infopic:
       title: CHIJ (Katong) Primary Instagram
       id: infopic
