@@ -2,5 +2,6 @@ collections:
   recent-happenings:
     output: true
     order:
+      - Mothership Roundtable EP2.md
       - Primary 5 Camp 2025.md
       - CNY 2025.md
