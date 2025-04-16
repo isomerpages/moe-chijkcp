@@ -4,7 +4,7 @@ permalink: /international-friendship-day-2025/
 variant: tiptap
 description: ""
 ---
-<h3>Forging Friendships in a Complex World</h3>
+<h2>Forging Friendships in a Complex World</h2>
 <p>Our school commemorated International Friendship Day on 9 April with the
 theme <em>"</em><strong><em>Forging Friendships in a Complex World.</em></strong><em>"</em>
 </p>
