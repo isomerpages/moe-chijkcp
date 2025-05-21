@@ -4,6 +4,12 @@ permalink: /our-ij-partners/parents-portal/
 description: ""
 variant: tiptap
 ---
+<h5><strong>PSLE Briefing for P6 Parents</strong></h5>
+<p><a href="/files/SHARING_BY_PRINCIPAL_P6_Parents_Briefing.pdf" rel="noopener nofollow" target="_blank">Sharing by Principal</a>
+<br><a href="/files/BRIEFING_FOR_P6_PARENTS_YH_SLIDES.pdf" rel="noopener nofollow" target="_blank">Briefing for P6 Parents</a>
+<br><a href="/files/Sharing_with_P6_Parents___Managing_Expectations_and_Stress.pdf" rel="noopener nofollow" target="_blank">Managing Expectations and Stress</a>
+</p>
+<p></p>
 <h5><strong>Beginning of Year Parents' Webinar</strong></h5>
 <p><a href="/files/BOY Webinar 2025/Journey_Through_The_Seasons_of_Life_With_Love_2025.pdf" rel="noopener nofollow" target="_blank">Journey Through The Seasons of Life With Love</a>
 <br><a href="/files/BOY Webinar 2025/P2___P6_Principal_Parents_Briefing_2025_compressed__2_.pdf" rel="noopener nofollow" target="_blank">P2 - P6 Parents' Briefing by Principal</a>
