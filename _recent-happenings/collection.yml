@@ -2,6 +2,7 @@ collections:
   recent-happenings:
     output: true
     order:
+      - Recycling With Our Neighbours.md
       - Medan Cultural Immersion Journey 2025.md
       - Book a Date with Dad or Mum.md
       - Sports Carnival 2025.md
