@@ -4,7 +4,7 @@ permalink: /recycling-with-our-neighbours/
 variant: tiptap
 description: ""
 ---
-<h1>Making a Difference Together</h1>
+<h1>Making a Difference Together </h1>
 <p>What a meaningful day it was! Our Save The Earth ambassadors and their
 wonderful parents took to the streets of our school neighbourhood!</p>
 <p>Our young eco-warriors collected old newspapers and clothing for recycling,
