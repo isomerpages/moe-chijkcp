@@ -2,6 +2,7 @@ collections:
   recent-happenings:
     output: true
     order:
+      - Celebrating 95 Years of IJ Legacy.md
       - Medan Cultural Immersion Journey 2025.md
       - Recycling With Our Neighbours.md
       - Book a Date with Dad or Mum.md
