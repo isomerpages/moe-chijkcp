@@ -84,11 +84,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rozana_kamsari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rozana Kamsari</a>
+<p><a href="mailto:woon" rel="noopener noreferrer nofollow" target="_blank">Mdm Jane Woon</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (Physical Education &amp; Co-Curricular Activities)</p>
+<p>HOD (Character &amp; Citizenship Education)</p>
 </td>
 </tr>
 <tr>
