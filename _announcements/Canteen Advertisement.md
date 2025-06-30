@@ -4,11 +4,11 @@ permalink: /canteen-advertisement/
 variant: tiptap
 description: ""
 ---
-<h4>CHIJ (Katong) Primary School Canteen Advertisement</h4>
+<h4>School Canteen Advertisement</h4>
 <p>CHIJ (Katong) Primary would like to invite interested applicants to operate
-a Muslim Rice Stall at 17 Martia Road, Singapore 424281.The contract is
-renewable on a yearly basis, subject to good performance. The student and
-staff population is estimated at 1,200.</p>
+a Japanese/Korean Stall at 17 Martia Road, Singapore 424281.</p>
+<p>The contract is renewable on a yearly basis, subject to good performance.
+The student and staff population is estimated at 1,200.</p>
 <p>Interested applicants must fulfil the following criteria:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -38,7 +38,7 @@ Certificate.</p>
 </li>
 </ul>
 <p>The following documents to be submitted via <a href="mailto:chijktps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chijktps@moe.edu.sg</a> or hand delivered
-to the school’s General Office by 30 May 2025.</p>
+to the school’s General Office by <strong>30 Sep 2025</strong>.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Complete the attached Application Form</p>
