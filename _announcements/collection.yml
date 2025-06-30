@@ -2,8 +2,8 @@ collections:
   announcements:
     output: true
     order:
-      - Come and Connect.md
       - Announcements.md
+      - Come and Connect.md
       - Canteen Advertisement.md
       - 2024 Year End Message from IJBOM Chairperson.md
       - Safety and Security Briefing.md
