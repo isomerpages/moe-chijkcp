@@ -87,13 +87,23 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zhang_xuyang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zhang Xuyang</a>
+<p><a href="mailto:ong_siew_khimwang_xiuqin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ong Siew Khim</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_siew_khimwang_xiuqin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ong Siew Khim</a>
+<p><a href="mailto:lin_lin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Lin Lin</a> 
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="leong_leting_chelsia@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Chelsia Leong</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chiu_huay_yi@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Tiffany Chiu</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

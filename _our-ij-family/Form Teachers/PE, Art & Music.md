@@ -22,17 +22,7 @@ third_nav_title: Form Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rozana_kamsari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rozana Kamsari</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:lim_poh_lean_pauline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Pauline Tan</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:han_huirong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Hazel Han</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -42,17 +32,27 @@ third_nav_title: Form Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_ann_charlene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Charlene Ann Lee</a>
+<p><a href="mailto:han_huirong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Hazel Han</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_ghim_seng_bernard@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Bernard Tan</a>
+<p><a href="mailto:lee_ann_charlene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Charlene Ann Lee</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:tan_ghim_seng_bernard@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Bernard Tan</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_farhan_musbah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Farhan</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lau_sook_hun_pearlyn_b@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Pearlyn Lau</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -134,8 +134,17 @@ third_nav_title: Form Teachers
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:tan_jin_choo_magdalene_a@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Magdalene Lim</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:tay_siew_lan_bernadette@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Bernadette Koo</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
