@@ -63,7 +63,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH (Information and Communications Technology)</p>
+<p>SH (Information &amp; Communications Technology)</p>
 </td>
 </tr>
 <tr>
