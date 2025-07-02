@@ -79,11 +79,12 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Desktop Engineer</strong> 
-<br><a href="mailto:de-ncs5637pde@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Gayathri Sudhagar</a>
 </p>
+<p>Mrs Gayathri Sudhagar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Desktop Engineer</strong> 
+<br>Mr Shievanesaan Ravee</p>
 </td>
 </tr>
 <tr>
