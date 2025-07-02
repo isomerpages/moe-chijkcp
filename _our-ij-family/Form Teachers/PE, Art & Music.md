@@ -134,7 +134,8 @@ third_nav_title: Form Teachers
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tan_jin_choo_magdalene_a@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Magdalene Lim</a>
+</p>
 </td>
 </tr>
 <tr>
