@@ -93,7 +93,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lin_lin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Lin Lin</a> 
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="leong_leting_chelsia@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Chelsia Leong</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chiu_huay_yi@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Tiffany Chiu</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
