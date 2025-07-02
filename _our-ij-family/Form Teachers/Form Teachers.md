@@ -105,7 +105,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sharifah_hana_isa_binsmit@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Sharifah Hana</a>
+<p><a href="mailto:leong_leting_chelsia@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Chelsia Leong</a>
 </p>
 </td>
 </tr>
@@ -439,7 +439,7 @@ variant: tiptap
 <p>AM5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="Ms Li Meina" rel="noopener nofollow" target="_blank">Ms LI Meina</a>
+<p><a href="Ms Li Meina" rel="noopener nofollow" target="_blank">Ms Li Meina</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
