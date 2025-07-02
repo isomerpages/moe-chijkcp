@@ -59,6 +59,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:han_huirong@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Hazel Han</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH (Information and Communications Technology)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_syazana_mohammad_taha@moe.edu.sg" rel="noopener nofollow" target="_blank">Miss Nur Syazana</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH (Character &amp; Citizenship Education)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
