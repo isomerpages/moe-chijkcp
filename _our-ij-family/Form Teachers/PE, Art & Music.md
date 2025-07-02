@@ -52,6 +52,15 @@ third_nav_title: Form Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:lau_sook_hun_pearlyn_b@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Pearlyn Lau</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
