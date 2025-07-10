@@ -51,7 +51,12 @@ the school's General Office.</p>
 <h4>How to get to CHIJ (Katong) Primary?</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Nearest</p>
+<p>Nearest Thomson-East Coast Line (TEL) station: Marine Terrace MRT station
+(TE27)</p>
+</li>
+<li>
+<p>Bus Services: 13, 15, 16, 31, 36, 43, 47, 48, 55, 134, 135, 196 &amp;
+197</p>
 </li>
 </ul>
 <p></p>
