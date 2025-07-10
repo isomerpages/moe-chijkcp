@@ -25,7 +25,7 @@ Procedure below.</p>
 <h4>Application Procedure</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Complete the <a href="/files/Call_for_Proposal___Annex_A.pdf" rel="noopener nofollow" target="_blank">Call for Proposal - Annex A </a>(Information
+<p>Complete the <a href="/files/Call_for_Proposal___Annex_A.pdf" rel="noopener nofollow" target="_blank">Call for Proposal - Annex A</a> (Information
 Required from Vendor)</p>
 </li>
 <li>
