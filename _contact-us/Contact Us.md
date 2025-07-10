@@ -12,7 +12,12 @@ variant: tiptap
 <br>
 </p>
 <p>Opening Hours of School Gates:</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -85,7 +90,8 @@ variant: tiptap
 <br>Fax: 6345 9007
 <br>Email:&nbsp;<a href="mailto:chijktps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chijktps@moe.edu.sg</a>
 </p>
-<p>Nearest MRT Stations: Paya Lebar (EW8 &amp; CC9) / Eunos (EW7)
+<p>Nearest Thomson-East Coast Line (TEL) station: Marine Terrace MRT station
+(TE27)
 <br>Bus Services at Gate 1 (along East Coast Road): 10, 12, 14, 32 &amp; 40
 <br>Bus Services at Gate 2 (along Marine Parade Road): 13, 15, 16, 31, 36,
 43, 47, 48, 55, 134, 135, 196 &amp; 197</p>
