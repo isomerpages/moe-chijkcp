@@ -79,8 +79,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Desktop Engineer</strong> 
-</p>
-<p>Mrs Gayathri Sudhagar</p>
+<br>Mrs Gayathri Sudhagar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Desktop Engineer</strong> 
@@ -92,7 +91,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p></p>
 </td>
 </tr>
