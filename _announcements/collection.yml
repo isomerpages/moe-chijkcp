@@ -2,8 +2,8 @@ collections:
   announcements:
     output: true
     order:
-      - School Bus Advertisement.md
       - Announcements.md
+      - School Bus Advertisement.md
       - Come and Connect at IJ Secondary.md
       - Canteen Advertisement.md
       - 2024 Year End Message from IJBOM Chairperson.md
