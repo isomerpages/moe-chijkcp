@@ -17,7 +17,7 @@ variant: tiptap
 <br><a href="/files/2025 EOY Exam/P5_EOY_EXAM_FORMAT_HCL.pdf" rel="noopener nofollow" target="_blank">Exam Format - Mother Tongue (Higher Chinese)</a>
 <br><a href="/files/2025 EOY Exam/P5_EOY_EXAM_FORMAT_FCL.pdf" rel="noopener nofollow" target="_blank">Exam Format - Mother Tongue (Foundation Chinese)</a>
 </p>
-<p><a href="/files/2025 EOY Exam/P4_EOY_EXAMINATION_SCHEDULE_2025.pdf" rel="noopener nofollow" target="_blank">Primary 4 Examination Schedule</a>
+<p><a href="/files/P4_EOY_EXAMINATION_SCHEDULE_2025.pdf" rel="noopener nofollow" target="_blank">Primary 4 Examination Schedule</a>
 <br><a href="/files/2025 EOY Exam/P4_EOY_SCOPE_2025.pdf" rel="noopener nofollow" target="_blank">Primary 4 Examination Scope</a>
 <br><a href="/files/2025 EOY Exam/P4_EOY_EXAM_FORMAT_EL__MATH___SC.pdf" rel="noopener nofollow" target="_blank">Exam Format - English, Mathematics &amp; Science</a>
 <br><a href="/files/2025 EOY Exam/P4_EOY_EXAM_FORMAT_CL.pdf" rel="noopener nofollow" target="_blank">Exam Format - Mother Tongue (Chinese)</a>
