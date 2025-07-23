@@ -4,6 +4,7 @@ permalink: /gift-of-love-project/
 variant: tiptap
 description: ""
 ---
+<h2>Gift of Love</h2>
 <p>In 2025, our school continued the Gift of Love project by collecting food
 and household items for the Families in Need (FINs) supported by the Society
 of St Vincent de Paul (SSVP), Church of the Holy Family.
