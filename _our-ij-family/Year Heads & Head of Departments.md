@@ -84,7 +84,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:woon" rel="noopener noreferrer nofollow" target="_blank">Mdm Jane Woon</a>
+<p><a href="mailto:woon_wei_yien_jane@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jane Woon</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
