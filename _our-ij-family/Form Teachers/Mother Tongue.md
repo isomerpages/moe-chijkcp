@@ -93,11 +93,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lin_lin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Lin Lin</a> 
+<p><a href="mailto:lin_lin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Lin Lin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="leong_leting_chelsia@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Chelsia Leong</a>
+<p><a href="mailto:leong_leting_chelsia@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Chelsia Leong</a>
 </p>
 </td>
 </tr>
@@ -107,7 +107,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:yong_siew_yu_a@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Sharon Yong</a>
+</p>
 </td>
 </tr>
 <tr>
