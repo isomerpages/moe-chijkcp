@@ -56,7 +56,8 @@ third_nav_title: Form Teachers
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:muhammad_amirul_hakim_mohamad@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Amirul Hakim</a>
+</p>
 </td>
 </tr>
 <tr>
