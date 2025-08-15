@@ -31,4 +31,5 @@ School</p>
 carnival.&nbsp;</p>
 <p>Please note that this event is a closed-door event and only opened to
 current students and their immediate family members.</p>
-<p></p>
+<p><a href="/files/95th_Anniversary_Carnival___Letter_to_Parents_8_August_2025.pdf" rel="noopener nofollow" target="_blank">95th Anniversary Carnival - Letter to Parents (8 August 2025)</a>
+</p>
