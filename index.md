@@ -26,7 +26,7 @@ sections:
       id: infopic
       button: Click Here
       url: https://www.chijkcp.moe.edu.sg/95th-anniversary-carnival/
-      image: /images/Carnival_2025.png
+      image: /images/Stage_Backdrop_Design_for_95th_Anniversary_lowres.png
       alt: Image alt text
   - infopic:
       title: 95th Anniversary Celebration
