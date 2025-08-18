@@ -22,6 +22,13 @@ sections:
       button: CLICK for more info
       url: https://www.chijkcp.moe.edu.sg/come-and-connect/
   - infopic:
+      title: 95th Anniversary Carnival
+      id: infopic
+      button: Click Here
+      url: https://www.chijkcp.moe.edu.sg/95th-anniversary-carnival/
+      image: /images/WhatsApp_Image_2025_08_18_at_09_20_53.jpg
+      alt: Image alt text
+  - infopic:
       title: 95th Anniversary Celebration
       id: infopic
       button: Click Here
