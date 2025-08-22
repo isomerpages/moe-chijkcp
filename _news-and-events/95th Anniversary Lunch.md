@@ -4,7 +4,7 @@ permalink: /95th-anniversary-lunch/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Celebrating 95 Years of Sisterhood, Strength and Service - One Family, One Spirit</strong></h4>
+<h2><strong>Celebrating 95 Years of Sisterhood, Strength and Service - One Family, One Spirit</strong></h2>
 <p>Calling all former KCP and KC Girls: 95 Years as One Katong Convent Family
 - Katong Convent Alumnae Association Lunch:</p>
 <p>From 1930 to today, the Katong Convent family has stood strong - nurturing
