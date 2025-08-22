@@ -24,8 +24,8 @@ sections:
   - infobar:
       title: 95th Anniversary Lunch
       id: infobar
-      description: Celebrating 95 Years of Sisterhood, Strength and Service
       url: https://www.chijkcp.moe.edu.sg/95th-anniversary-lunch/
+      button: CLICK for more info
   - infopic:
       title: 95th Anniversary Carnival
       id: infopic
