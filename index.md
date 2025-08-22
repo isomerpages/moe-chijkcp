@@ -21,6 +21,12 @@ sections:
       description: Share the Love at The Cozy IJ "Kopitiam"
       button: CLICK for more info
       url: https://www.chijkcp.moe.edu.sg/come-and-connect/
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: Button Text
   - infopic:
       title: 95th Anniversary Carnival
       id: infopic
