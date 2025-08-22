@@ -10,9 +10,9 @@ description: ""
 </div>
 <p><strong>Links:</strong>
 </p>
-<p>Alumni Lunch Tickets: <a rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/95KC45KCSAA2025</a>
+<p><a href="https://tinyurl.com/95KC45KCSAA2025" rel="noopener nofollow" target="_blank">Alumni Lunch Tickets</a>
 </p>
-<p>KCP School Tour: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/kcpschooltour</a>
+<p><a href="https://go.gov.sg/kcpschooltour" rel="noopener nofollow" target="_blank">KCP School Tour</a>
 </p>
-<p>Collection of Memories of KC&amp;KCP: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/kckcpmemories</a>
+<p><a href="https://go.gov.sg/kckcpmemories" rel="noopener nofollow" target="_blank">Collection of Memories of KC &amp; KCP</a>
 </p>
