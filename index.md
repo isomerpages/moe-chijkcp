@@ -23,7 +23,6 @@ sections:
       url: https://www.chijkcp.moe.edu.sg/come-and-connect/
   - infobar:
       title: 95th Anniversary Lunch
-      subtitle: One Family, One Spirit
       id: infobar
       description: Celebrating 95 Years of Sisterhood, Strength and Service
       url: https://www.chijkcp.moe.edu.sg/95th-anniversary-lunch/
