@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - 95th Anniversary Lunch.md
       - School Calendar.md
       - Useful Links.md
       - 95th Anniversary Carnival.md
