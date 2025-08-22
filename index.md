@@ -28,11 +28,6 @@ sections:
       url: https://www.chijkcp.moe.edu.sg/95th-anniversary-lunch/
       image: /images/95th_Anniversary_Lunchv2.png
       alt: Image alt text
-  - infobar:
-      title: 95th Anniversary Lunch
-      id: infobar
-      url: https://www.chijkcp.moe.edu.sg/95th-anniversary-lunch/
-      button: CLICK for more info
   - infopic:
       title: 95th Anniversary Carnival
       id: infopic
