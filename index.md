@@ -22,10 +22,10 @@ sections:
       button: CLICK for more info
       url: https://www.chijkcp.moe.edu.sg/come-and-connect/
   - infobar:
-      title: Infobar
-      subtitle: Add informational text
+      title: 95th Anniversary Lunch
+      subtitle: One Family, One Spirit
       id: infobar
-      description: Infobar description
+      description: Celebrating 95 Years of Sisterhood, Strength and Service
       url: https://www.chijkcp.moe.edu.sg/95th-anniversary-lunch/
   - infopic:
       title: 95th Anniversary Carnival
