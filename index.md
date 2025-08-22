@@ -26,7 +26,7 @@ sections:
       subtitle: Add informational text
       id: infobar
       description: Infobar description
-      button: Button Text
+      url: https://www.chijkcp.moe.edu.sg/95th-anniversary-lunch/
   - infopic:
       title: 95th Anniversary Carnival
       id: infopic
