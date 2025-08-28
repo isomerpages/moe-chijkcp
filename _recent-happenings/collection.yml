@@ -2,6 +2,7 @@ collections:
   recent-happenings:
     output: true
     order:
+      - Catholic Education Sunday 2025.md
       - Learning Journey to the World Aquatics Championship.md
       - Gift of Love.md
       - Founder’s Day 2025.md
