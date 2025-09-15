@@ -4,6 +4,11 @@ permalink: /our-ij-partners/parents-portal/
 description: ""
 variant: tiptap
 ---
+<h5><strong>P3 EOY Examination Briefing</strong></h5>
+<p><a href="/files/SHARING_BY_PRINCIPAL_P6_Parents_Briefing.pdf" rel="noopener nofollow" target="_blank">Sharing by Principal</a>
+<br><a href="/files/BRIEFING_FOR_P6_PARENTS_YH_SLIDES.pdf" rel="noopener nofollow" target="_blank">Briefing for P6 Parents</a>
+<br><a href="/files/Sharing_with_P6_Parents___Managing_Expectations_and_Stress.pdf" rel="noopener nofollow" target="_blank">Managing Expectations and Stress</a>
+</p>
 <h5><strong>PSLE Briefing for P6 Parents</strong></h5>
 <p><a href="/files/SHARING_BY_PRINCIPAL_P6_Parents_Briefing.pdf" rel="noopener nofollow" target="_blank">Sharing by Principal</a>
 <br><a href="/files/BRIEFING_FOR_P6_PARENTS_YH_SLIDES.pdf" rel="noopener nofollow" target="_blank">Briefing for P6 Parents</a>
