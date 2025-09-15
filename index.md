@@ -15,12 +15,6 @@ sections:
         - title: SCHOOL CALENDAR
           description: School Events & Activities
           url: https://www.chijkcp.moe.edu.sg/news-and-events/schoolcalendar/
-  - infobar:
-      title: COME & CONNECT
-      id: infobar
-      description: Share the Love at The Cozy IJ "Kopitiam"
-      button: CLICK for more info
-      url: https://www.chijkcp.moe.edu.sg/come-and-connect/
   - infopic:
       title: 95th Anniversary Lunch
       id: infopic
