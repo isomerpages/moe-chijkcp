@@ -2,6 +2,7 @@ collections:
   recent-happenings:
     output: true
     order:
+      - Brownies Adventure Camp.md
       - Catholic Education Sunday 2025.md
       - Learning Journey to the World Aquatics Championship.md
       - Gift of Love.md
