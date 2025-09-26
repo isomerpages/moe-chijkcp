@@ -4,7 +4,7 @@ permalink: /chijkps/announcements/
 description: ""
 variant: tiptap
 ---
-<h4>SLS/MIMS Technical Support</h4>
+<h3>SLS/MIMS Technical Support</h3>
 <p>Please click on the <a href="https://go.gov.sg/vlrhsb" rel="noopener nofollow" target="_blank">link</a>&nbsp;or
 scan the QR code to access the FormSG</p>
 <p></p>
