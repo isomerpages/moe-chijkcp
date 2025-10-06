@@ -4,7 +4,7 @@ permalink: /parents-portal/cca-online-registration/
 description: ""
 variant: tiptap
 ---
-<h3><strong>CCA Online Registration for 2025</strong></h3>
+<h3><strong>CCA Online Registration for 2026</strong></h3>
 <p></p>
 <p>Online registration will start on 1 Nov 2024 and end on 15 Nov 2024. More
 details will be given via Parents Gateway.</p>
@@ -13,7 +13,7 @@ details will be given via Parents Gateway.</p>
 1, 2025.</p>
 <p>&nbsp;For enquiry, please contact:</p>
 <p>HOD Aesthetics, Ms Christina Lie via email (<a href="mailto:christina_lie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">christina_lie@moe.edu.sg</a>), or</p>
-<p>HOD PE/CCA, Mdm Rozana via email (<a href="mailto:rozana_kamsari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rozana_kamsari@moe.edu.sg</a>).</p>
+<p>HOD PE/CCA, Mrs Sharon Tng via email (<a href="mailto:rozana_kamsari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rozana_kamsari@moe.edu.sg</a>).</p>
 <p>&nbsp;<strong>Important notes:</strong>
 </p>
 <ul data-tight="true" class="tight">
