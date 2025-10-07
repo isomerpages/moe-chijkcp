@@ -5,12 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h5><strong>Primary 1 (2026) Administration Day</strong></h5>
-<p><a href="/files/CHIJ_KCP_2025_P3_Assessment_Briefing.pdf" rel="noopener nofollow" target="_blank">P1 (2026) Administration Day</a>
-</p>
-<h5><strong>Primary 1 (2026) Orientation</strong></h5>
-<p><a href="/files/Parents Portal/P1_Orientation_2024_Principal_s_Addressv2.pdf" rel="noopener nofollow" target="_blank">P1 Orientation Principal's Address</a>
-<br><a href="/files/Parents Portal/P1_Orientation_2024_Safety_Brief_VPAdmin.pdf" rel="noopener nofollow" target="_blank">P1 Orientation Vice Principal Admin's Safety Briefing</a>
-<br><a href="/files/Parents Portal/P1Orientation_2024_YH_Address.pdf" rel="noopener nofollow" target="_blank">P1 Orientation Year Head's Address</a>
+<p><a href="/files/2026_P1_Admin_Day_Annex_A.pdf" rel="noopener nofollow" target="_blank">P1 (2026) Administration Day</a>
 </p>
 <h5><strong>P3 EOY Examination Briefing</strong></h5>
 <p><a href="/files/CHIJ_KCP_2025_P3_Assessment_Briefing.pdf" rel="noopener nofollow" target="_blank">Sharing by Principal</a>
