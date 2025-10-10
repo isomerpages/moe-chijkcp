@@ -119,7 +119,7 @@ fails to attend a session.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bowling
-<br>(Modular for New Members)</p>
+<br>(Modular for new members)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
