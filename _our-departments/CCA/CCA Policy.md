@@ -44,7 +44,7 @@ fails to attend a session.</p>
 <p>Parents are to write in to the Principal to seek approval for exemption.</p>
 <h4>Transport Arrangement</h4>
 <p>Parents are to make their own transport arrangement after CCAs.</p>
-<h4>Co-curricular Activities (2025)</h4>
+<h4>Co-curricular Activities (2026)</h4>
 <p></p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -79,7 +79,7 @@ fails to attend a session.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Innovation Club
-<br>(Non-Modular)</p>
+<br>(Non Modular)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Artistic Gymnastics
@@ -87,17 +87,17 @@ fails to attend a session.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Brownies
-<br>(Non-modular)</p>
+<br>(Non Modular)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Choir
-<br>(Non-Modular)</p>
+<br>(Non Modular)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Math/Science Club
-<br>(Modular)</p>
+<br>(Non Modular)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Badminton
@@ -110,7 +110,7 @@ fails to attend a session.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Drama Club
-<br>(Non-Modular)</p>
+<br>(Non Modular)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
@@ -119,8 +119,7 @@ fails to attend a session.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bowling
-<br>(Non-Modular for P4 - P6,
-<br>Modular for P3)</p>
+<br>(Modular for new members)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -136,7 +135,7 @@ fails to attend a session.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Football
-<br>(Non-Modular)</p>
+<br>(Non Modular)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -145,7 +144,7 @@ fails to attend a session.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Dance SYF
-<br>(Non-Modular)</p>
+<br>(Non Modular)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -161,14 +160,14 @@ fails to attend a session.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Handbells Ensemble
-<br>(Non-Modular)</p>
+<br>(Non Modular)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>*Sailing
-<br>(Non-Modular)
+<br>(Non Modular)
 <br>*Not recruiting new members</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -203,7 +202,7 @@ fails to attend a session.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Track &amp; Field
-<br>(Non-Modular for P4 - P6,
+<br>(Non Modular for P4 - P6,
 <br>Modular for P3)</p>
 </td>
 <td rowspan="1" colspan="1">

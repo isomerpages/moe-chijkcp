@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CCA
 variant: tiptap
 ---
-<h2>Bowling (Modular - P3 &amp; Non Modular - P4 to P6)</h2>
+<h2>Bowling (Modular - New Members)</h2>
 <p><strong>Level:</strong>&nbsp;P3 to P6
 <br><strong>DAY:</strong>&nbsp;Tuesday (All members) &amp; Friday (Development
 Team)
