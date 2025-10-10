@@ -5,6 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h3>Letters &amp; Notifications</h3>
+<h5><strong>CCA Briefing Slides</strong></h5>
+<p><a href="/files/CCA_Briefing_2025_for_website.pdf" rel="noopener nofollow" target="_blank">Co-Curricular Activity (CCA) Briefing</a>
+</p>
 <h5><strong>Gifted Education Programme (2025)</strong></h5>
 <p><a href="/files/GEP_Identification_Exercise__2025_.pdf" rel="noopener nofollow" target="_blank">GEP Identification Exercise</a>
 </p>
@@ -15,9 +18,6 @@ variant: tiptap
 </p>
 <h5><strong>Parent Child Teacher Conference (PCTC)</strong></h5>
 <p><a href="/files/PCTC/2024_CHIJ_KCP_Parent_Teacher_Meetings_PCTC__for_parents_.pdf" rel="noopener nofollow" target="_blank">PCTC Parents' Briefing</a>
-</p>
-<h5><strong>CCA Briefing Slides</strong></h5>
-<p><a href="/files/PCTC/2024_CHIJ_KCP_CCA_Briefing__for_parents_.pdf" rel="noopener nofollow" target="_blank">Co-Curricular Activity (CCA) Briefing</a>
 </p>
 <h5><strong>Group Personal Accident (GPA) for Students</strong></h5>
 <p><a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">GPA Insurance for Students</a>
