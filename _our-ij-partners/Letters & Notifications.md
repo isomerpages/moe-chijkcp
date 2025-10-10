@@ -6,8 +6,7 @@ variant: tiptap
 ---
 <h3>Letters &amp; Notifications</h3>
 <h5><strong>CCA Briefing Slides</strong></h5>
-<p><a href="/files/CCA_Briefing_2025_for_website.pdf" rel="noopener nofollow" target="_blank">Co-Curricular Activity (CCA) Briefing</a>
-</p>
+<p></p>
 <h5><strong>Gifted Education Programme (2025)</strong></h5>
 <p><a href="/files/GEP_Identification_Exercise__2025_.pdf" rel="noopener nofollow" target="_blank">GEP Identification Exercise</a>
 </p>
