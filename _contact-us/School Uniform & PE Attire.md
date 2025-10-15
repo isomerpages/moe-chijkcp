@@ -7,7 +7,7 @@ description: ""
 <h4>School Uniform &amp; PE Attire</h4>
 <p><strong>Magdalene Sewing Centre Pte Ltd</strong> 
 <br>5000, Ang Mo Kio Avenue 5, Techplace 2 #05-09, Singapore 569870
-<br>Tel: 8638 0499 (WhatsApp only) / 6293 5840
+<br>Tel: 8683 6993 (WhatsApp only) / 6293 5840
 <br>Operating Hours: Monday to Friday (9:00 am – 4:00 pm)
 <br>The school uniform is being sold at the School Bookshop as follow:</p>
 <ul data-tight="true" class="tight">
