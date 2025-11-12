@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p>CHIJ (Katong) Primary&nbsp;would like to&nbsp;invite interested applicants
-to operate a&nbsp;Western &amp; Japanese stall (Halal) and Muslim Rice
+to operate a&nbsp;Western &amp; Japanese stall (Halal) and/or Muslim Rice
 stall at 17 Martia Road, Singapore 424281.</p>
 <p>The contract is renewable on a yearly basis, subject to good performance.
 The student and staff population is estimated at 1,200.</p>
@@ -111,6 +111,6 @@ etc</p>
 </ol>
 <p>Shortlisted applicants will be notified for an interview and food sampling
 by the School Canteen Selection Committee at the applicant's own expense.</p>
-<p>Application form as attached.</p>
-<p><a href="/files/canteen_application_form.pdf" rel="noopener nofollow" target="_blank">Application for Canteen Stall in Existing School</a>
+<p><a href="/files/canteen_application_form.pdf" rel="noopener nofollow" target="_blank">Click Here for Application Form</a>
 </p>
+<p></p>
