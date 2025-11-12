@@ -75,7 +75,7 @@ in consultation with the school.</p>
 <li>
 <p>Provide food that meets the health/nutritional standards set by Health
 Promotion&nbsp;Board (HPB).&nbsp;Applicant may refer to the HPB website
-at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a>.</p>
+at&nbsp;<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a>.</p>
 </li>
 <li>
 <p>Maintain high standard of food and personal hygiene.</p>
@@ -93,7 +93,7 @@ Certificate.</p>
 </li>
 </ul>
 <p>&nbsp;The following documents to be submitted via&nbsp;<a href="mailto:chijktps@moe.edu.sg" rel="noopener nofollow" target="_blank">chijktps@moe.edu.sg</a> or
-hand delivered to the school’s General Office by <strong>31 Jan 2026</strong>.</p>
+hand delivered to the school’s General Office by <strong>31 January 2026</strong>.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Complete the attached Application Form</p>
