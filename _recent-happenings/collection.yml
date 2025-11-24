@@ -2,6 +2,7 @@ collections:
   recent-happenings:
     output: true
     order:
+      - P6 Graduation Party.md
       - 95th Anniversary School Carnival.md
       - Brownies Adventure Camp.md
       - Catholic Education Sunday 2025.md
