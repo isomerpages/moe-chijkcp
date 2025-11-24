@@ -28,6 +28,6 @@ sisterhood. The P6 Class of 2025 left the hall with cherished memories
 and hearts to dream big and fly high into the next chapter of their lives.</p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQMjM1jSiLL28eEHk2vHhJgySLHg9j7ckRLXEOLmkHpz4WoQdQ3XX5UNk3VCwtx5tAdClERkTCU6tLj/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQMjM1jSiLL28eEHk2vHhJgySLHg9j7ckRLXEOLmkHpz4WoQdQ3XX5UNk3VCwtx5tAdClERkTCU6tLj/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p></p>
