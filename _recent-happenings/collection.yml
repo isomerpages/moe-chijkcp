@@ -2,6 +2,7 @@ collections:
   recent-happenings:
     output: true
     order:
+      - Thanksgiving Mass.md
       - 95th Anniversary Lunch.md
       - P6 Graduation Party.md
       - 95th Anniversary School Carnival.md
