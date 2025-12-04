@@ -4,7 +4,7 @@ permalink: /prize-giving-ceremony/
 variant: tiptap
 description: ""
 ---
-<h2>Price Giving Ceremony 2025</h2>
+<h2>Prize Giving Ceremony 2025</h2>
 <p>The Annual Prize-Giving Ceremony at CHIJ (Katong) Primary took place on
 19 November 2025, filling the Multi-Purpose Hall with excitement and anticipation.
 Parents, staff, students, and honoured guests gathered to celebrate the
