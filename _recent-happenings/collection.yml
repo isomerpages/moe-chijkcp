@@ -2,6 +2,7 @@ collections:
   recent-happenings:
     output: true
     order:
+      - Prize Giving Ceremony.md
       - Thanksgiving Mass.md
       - 95th Anniversary Lunch.md
       - P6 Graduation Party.md
