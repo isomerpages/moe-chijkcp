@@ -117,7 +117,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Operations Support Officer</strong> 
-<br>Mdm Patmah Wahnan</p>
+<br>Mdm Fareetha Begum</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Operations Support Officer</strong> 
@@ -131,7 +131,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Operations Support Officer</strong> 
-<br>Mdm Fareetha Begum</p>
+<br>Mr Puah Lai Teck</p>
 </td>
 </tr>
 <tr>
@@ -140,8 +140,7 @@ variant: tiptap
 <br>Mr Abdol Siron</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Operations Support Officer</strong> 
-<br>Mr Puah Lai Teck</p>
+<p></p>
 </td>
 </tr>
 <tr>
