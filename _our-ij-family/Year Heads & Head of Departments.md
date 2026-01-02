@@ -21,7 +21,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_chee_khiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Angelia Chan</a>
+<p><a href="mailto:long_yin_yin_desiree@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Desiree Ang</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -30,7 +30,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:long_yin_yin_desiree@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Desiree Ang</a>
+<p><a href="mailto:ang_an_lian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Alexis Ang</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -75,11 +75,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_wan_ing_venus@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Venus Tan</a>
+<p><a href="mailto:tay_chiew_guat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tay Chiew Guat</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (Mother Tongue Language)</p>
+<p>HOD (PE &amp; CCA)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:christina_lie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Christina Lie</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD (Aesthetics)</p>
 </td>
 </tr>
 <tr>
@@ -93,11 +102,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:christina_lie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Christina Lie</a>
+<p><a href="mailto:tan_wan_ing_venus@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Venus Tan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (Aesthetics)</p>
+<p>HOD (Mother Tongue Language)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_wan_ing_venus@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Freida Ho</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD (Information &amp; Communications Technology)</p>
 </td>
 </tr>
 <tr>
