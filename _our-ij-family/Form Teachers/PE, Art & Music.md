@@ -46,7 +46,7 @@ third_nav_title: Form Teachers
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_farhan_musbah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Farhan</a>
+<p><a href="mailto:muhammad_farhan_musbah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Farhan</a>
 </p>
 </td>
 </tr>
@@ -56,7 +56,7 @@ third_nav_title: Form Teachers
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_amirul_hakim_mohamad@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Amirul Hakim</a>
+<p><a href="mailto:muhammad_amirul_hakim_mohamad@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Hakim</a>
 </p>
 </td>
 </tr>
