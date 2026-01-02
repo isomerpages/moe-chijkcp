@@ -345,11 +345,11 @@ variant: tiptap
 <p>AM4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_aishah_mohamed_kasmani@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Siti Aishah</a>
+<p><a href="mailto:yip_chuen_yen@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Yip Chuen Yen</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jasmine_lai_ying_loo@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Jasmine Lai</a>
+<p><a href="mailto:chua_poh_heoh_angela@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Angela Loy</a>
 </p>
 </td>
 </tr>
@@ -358,13 +358,11 @@ variant: tiptap
 <p>BU4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:carian_siyuen_tham@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Carian Ye</a>
+<p><a href="mailto:mok_sau_mei_josephine@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Josephine Kua</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:christina_tan_mui_leng@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Christina Tan</a>
-</p>
-<p><a href="mailto:lau_sook_hun_pearlyn_b@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Pearlyn Lau</a>
+<p><a href="mailto:rasyidah_abdul_rasid@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Rasyidah</a>
 </p>
 </td>
 </tr>
@@ -373,11 +371,11 @@ variant: tiptap
 <p>CE4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_lee_kin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Tan Lee Kin</a>
+<p><a href="mailto:ng_poh_choo_daisy@moe.edu.sg" rel="noopener nofollow" target="_blank">Miss Daisy Ng</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:janice_teo_wei_lin@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Janice Teo</a>
+<p><a href="mailto:woon_wei_yien_jane@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Jane Woon</a>
 </p>
 </td>
 </tr>
@@ -386,11 +384,11 @@ variant: tiptap
 <p>EM4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_ying_nian_jaclyn@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Jaclyn Guo</a>
+<p><a href="mailto:berlee_tracey-ann_allyson@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Tracey Hoa</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:barathi_rajan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Barathi Rajan</a>
+<p><a href="mailto:ang_bee_bee_a@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Ang Bee Bee</a>
 </p>
 </td>
 </tr>
@@ -399,11 +397,11 @@ variant: tiptap
 <p>JO4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_oi_lean_irene@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Irene Lim</a>
+<p><a href="mailto:lee_ann_charlene@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Charlene Ann Lee</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:normah_nordin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Normah</a>
+<p><a href="mailto:toh_boon_how@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Edward Toh</a>
 </p>
 </td>
 </tr>
@@ -437,11 +435,11 @@ variant: tiptap
 <p>AM5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="Ms Li Meina" rel="noopener nofollow" target="_blank">Ms Li Meina</a>
+<p><a href="mailto:zabrina_razali_spr_singham@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Zabrina Singham</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:anandani_heeran_partab_heer@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Heeran Soloman</a>
+<p><a href="mailto:tay_chiew_guat@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Tay Chiew Guat</a>
 </p>
 </td>
 </tr>
@@ -450,11 +448,11 @@ variant: tiptap
 <p>BU5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nor_shida_nazar_khan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nor Shida</a>
+<p><a href="mailto:janice_teo_wei_lin@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Janice Teo</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:han_huirong@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Hazel Han</a>
+<p><a href="mailto:christina_lie@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Lie Christina</a>
 </p>
 </td>
 </tr>
@@ -463,11 +461,11 @@ variant: tiptap
 <p>CE5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:vanitha_vasudevan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Vanitha</a>
+<p><a href="mailto:loh_hui_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Hazel Chang</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:poon_mun_ye@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Poon Mun Ye</a>
+<p><a href="mailto:zhai_yuan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Zhai Yuan</a>
 </p>
 </td>
 </tr>
@@ -476,11 +474,11 @@ variant: tiptap
 <p>EM5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Nur_Syazana_Mohammad_Taha@moe.edu.sg" rel="noopener nofollow" target="_blank">Miss Nur Syazana</a>
+<p><a href="mailto:er_li_li@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Er Li Li</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shanti_marion_prakash@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Shanti Prakash</a>
+<p><a href="mailto:freida_ho@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Freida Ho</a>
 </p>
 </td>
 </tr>
@@ -489,11 +487,11 @@ variant: tiptap
 <p>JO5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zabrina_razali_spr_singham@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Zabrina Singham</a>
+<p><a href="mailto:chia_mei_ling_jacinta@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Jacinta Lee</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_poh_lean_pauline@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Pauline Tan</a>
+<p><a href="mailto:tan_ying_nian_jaclyn@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Jaclyn Guo</a>
 </p>
 </td>
 </tr>
