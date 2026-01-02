@@ -23,24 +23,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:toh_boon_how@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Edward Toh</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH (Student Well-Being)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:seah_lai_hiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Faith Heng</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH (English Language)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:normah_nordin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Normah Nordin</a>
 </p>
 </td>
@@ -50,11 +32,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:anville_tan_hwee_li@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Anville Tan</a>
+<p><a href="mailto:toh_boon_how@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Edward Toh</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH (Mathematics)</p>
+<p>SH (Student Well-Being)</p>
 </td>
 </tr>
 <tr>
@@ -73,6 +55,24 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SH (Character &amp; Citizenship Education)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:anville_tan_hwee_li@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Anville Tan</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH (Mathematics)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:poon_mun_ye@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Poon Mun Ye</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH (Science)</p>
 </td>
 </tr>
 <tr>
