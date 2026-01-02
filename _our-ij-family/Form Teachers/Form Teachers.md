@@ -23,11 +23,11 @@ variant: tiptap
 <p>AM1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:li_li_a@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Li Li</a>
+<p><a href="mailto:barathi_rajan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Barathi Rajan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nazreen_begum@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nazreen Begum</a>
+<p><a href="mailto:sharon_lim_tsu_wei@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Sharon Lim</a>
 </p>
 </td>
 </tr>
