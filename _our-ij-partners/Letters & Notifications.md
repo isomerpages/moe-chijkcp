@@ -19,8 +19,5 @@ variant: tiptap
 <p><a href="/files/PCTC/2024_CHIJ_KCP_Parent_Teacher_Meetings_PCTC__for_parents_.pdf" rel="noopener nofollow" target="_blank">PCTC Parents' Briefing</a>
 </p>
 <h5><strong>Group Personal Accident (GPA) for Students</strong></h5>
-<p><a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">GPA Insurance for Students</a>
+<p><a href="/files/Product_Fact_Sheet__Year_2026_.pdf" rel="noopener nofollow" target="_blank">GPA Insurance for Students</a>
 </p>
-<h5></h5>
-<h5></h5>
-<p></p>
