@@ -21,6 +21,3 @@ variant: tiptap
 <h5><strong>Group Personal Accident (GPA) for Students</strong></h5>
 <p><a href="/files/Product_Fact_Sheet__Year_2026_.pdf" rel="noopener nofollow" target="_blank">GPA Insurance for Students</a>
 </p>
-<h5></h5>
-<h5></h5>
-<p></p>
