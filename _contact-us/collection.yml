@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Contact Us.md
+      - School Canteen Menu.md
       - School Bookshop.md
       - School Uniform & PE Attire.md
       - School Bus.md
