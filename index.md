@@ -16,6 +16,13 @@ sections:
           description: School Events & Activities
           url: https://www.chijkcp.moe.edu.sg/news-and-events/schoolcalendar/
   - infopic:
+      title: Annual Prize-Giving Ceremony 2025
+      id: infopic
+      button: Click here
+      url: https://www.chijkcp.moe.edu.sg/prize-giving-ceremony/
+      image: /images/DSC03213n.jpg
+      alt: Image alt text
+  - infopic:
       title: CHIJ (Katong) Primary Instagram
       id: infopic
       button: JOIN US
