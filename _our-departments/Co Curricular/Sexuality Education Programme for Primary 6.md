@@ -113,6 +113,7 @@ to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
 </li>
 </ol>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_2026_Info_on_SEd_for_schs_website__Primary_Schools_.png">
 </div>
