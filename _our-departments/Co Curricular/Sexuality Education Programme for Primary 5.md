@@ -70,7 +70,7 @@ more information on MOE Sexuality Education.</p>
 </li>
 </ol>
 <p></p>
-<h3><strong>Overview of CHIJ (Katong) Primary Sexuality Education Programme for 2025</strong></h3>
+<h3><strong>Overview of CHIJ (Katong) Primary Sexuality Education Programme for 2026</strong></h3>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
@@ -119,12 +119,9 @@ from sexuality-related risks.</p>
 </ol>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Sexuality_Education_Lesson_in_CCE__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_2026_Info_on_SEd_for_schs_website__Primary_Schools_.png">
 </div>
 <p>&nbsp;&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Sexuality_Education_Lesson_in_CCE__2_.jpg">
-</div>
 <h3><strong>&nbsp;Information for Parents</strong></h3>
 <ol start="8" data-tight="true" class="tight">
 <li>
