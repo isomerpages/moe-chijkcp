@@ -4,7 +4,7 @@ permalink: /boy-mass/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<h2>Beginning of Year Mass 2026</h2>
 <p>We celebrated our Beginning-of-Year Mass on Friday, 9 January 2026. We
 thank Father Adrian Yeo from Holy Family Church for presiding and for guiding
 our school community as we entrusted the year ahead to God’s loving care.
