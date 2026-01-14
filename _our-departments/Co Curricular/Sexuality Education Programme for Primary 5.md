@@ -140,8 +140,6 @@ The completed opt-out form is to be submitted by 31/01/2026.</p>
 <li>
 <p>Parents can contact the school at 63443072 for discussion or to seek clarification
 about the school’s Sexuality Education programme.</p>
-</li>
-<li>
 <p></p>
 </li>
 </ol>
