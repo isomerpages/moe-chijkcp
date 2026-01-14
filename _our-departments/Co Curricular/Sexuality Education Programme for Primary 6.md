@@ -65,7 +65,7 @@ more information on MOE Sexuality Education.</p>
 <p></p>
 </li>
 </ol>
-<h3><strong>Overview of CHIJ (Katong) Primary Sexuality Education Programme for 2025</strong></h3>
+<h3><strong>Overview of CHIJ (Katong) Primary Sexuality Education Programme for 2026</strong></h3>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
@@ -114,11 +114,7 @@ from sexuality-related risks.</p>
 </li>
 </ol>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Sexuality_Education_Lesson_in_CCE_P6__1_.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Sexuality_Education_Lesson_in_CCE_P6__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_2026_Info_on_SEd_for_schs_website__Primary_Schools_.png">
 </div>
 <h4>INFORMATION FOR PARENTS</h4>
 <ol start="8" data-tight="true" class="tight">
@@ -129,7 +125,7 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 <li>
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
-&nbsp;to parents at the start of the year and is also downloadable <a href="https://form.gov.sg/67875673864ffc362d362960" rel="noopener noreferrer nofollow" target="_blank">here</a>.The
+&nbsp;to parents at the start of the year and is also downloadable <a href="https://go.gov.sg/p6sexualityeducation" rel="noopener noreferrer nofollow" target="_blank">here</a>.The
 completed opt-out form is to be submitted by 31/01/2025.</p>
 </li>
 <li>
