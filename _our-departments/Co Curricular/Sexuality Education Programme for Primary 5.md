@@ -115,13 +115,12 @@ years. They learn to build healthy and rewarding relationships with others,
 including those with members of the opposite sex. Students are also guided
 to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
+<p></p>
 </li>
 </ol>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_2026_Info_on_SEd_for_schs_website__Primary_Schools_.png">
 </div>
-<p>&nbsp;&nbsp;</p>
 <h3><strong>&nbsp;Information for Parents</strong></h3>
 <ol start="8" data-tight="true" class="tight">
 <li>
@@ -133,14 +132,17 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 <li>
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
-&nbsp;to parents at the start of the year and is also downloadable <a href="https://form.gov.sg/6787555f2939e5f4dce70a6e" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed opt-out form is to be submitted by 31/01/2025.</p>
+&nbsp;to parents at the start of the year and is also downloadable <a href="https://go.gov.sg/p6sexualityeducation" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+The completed opt-out form is to be submitted by 31/01/2026.</p>
 </li>
 </ol>
 <ol start="10" data-tight="true" class="tight">
 <li>
 <p>Parents can contact the school at 63443072 for discussion or to seek clarification
 about the school’s Sexuality Education programme.</p>
+</li>
+<li>
+<p></p>
 </li>
 </ol>
 <p></p>
