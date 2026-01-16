@@ -2,6 +2,7 @@ collections:
   recent-happenings:
     output: true
     order:
+      - Orientation Week.md
       - Catholic Students Retreat (P4, P5 & P6).md
       - "P1 and P4: I Can Be A Pal (Buddy Programme).md"
       - Beginning of Year Mass.md
