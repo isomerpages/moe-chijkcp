@@ -38,7 +38,7 @@ description: ""
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><em>12 February 2026</em></strong>
+<p><strong><em>19 February 2026</em></strong>
 </p>
 <p>Morning: 8:00 am to 1:00 pm</p>
 <p></p>
