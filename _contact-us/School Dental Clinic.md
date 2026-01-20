@@ -100,6 +100,17 @@ please contact the following Dental Clinic:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Tanjong Katong Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10 Seraya Road (S437259)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>91128295</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
