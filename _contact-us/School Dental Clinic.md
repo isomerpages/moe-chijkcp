@@ -7,14 +7,41 @@ description: ""
 <h4>School Dental Clinic</h4>
 <p>Dental Therapist: Ms Judy Tee</p>
 <p>Tel: 89401058</p>
-<p><strong><u>Operating Hours </u></strong>
+<p><strong><u>Operating Hours</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Wednesday and Thursday</strong>
+<p><strong><em>19-22 January 2026</em></strong>
 </p>
 <p>Morning: 8:00 am to 1:00 pm</p>
 <p>Afternoon: 2:00 pm to 5.30 pm</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><em>26-27 January 2026</em></strong>
+</p>
+<p>Morning: 8:00 am to 1:00 pm</p>
+<p>Afternoon: 2:00 pm to 5.30 pm</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><em>2-5 February 2026</em></strong>
+</p>
+<p>Morning: 8:00 am to 1:00 pm</p>
+<p>Afternoon: 2:00 pm to 5.30 pm</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><em>19 February 2026</em></strong>
+</p>
+<p>Morning: 8:00 am to 1:00 pm</p>
+<p></p>
 </li>
 </ul>
 <p>If your child requires urgent dental treatment and the clinic is closed,
@@ -43,7 +70,7 @@ please contact the following Dental Clinic:</p>
 <p>Tao Nan School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>49 Marine Cresent (S449761)</p>
+<p>49 Marine Crescent (S449761)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>91130636</p>
