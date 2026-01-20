@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>ASSESSMENT INFORMATION</h3>
-<p><a href="/files/Assessment Information /21_Jan_2025_P1_P6_Assessment_Overview_Letter_HA_P1_6_PMY_007_2025.pdf" rel="noopener nofollow" target="_blank">Primary 1 to Primary 6 Assessment Overview Letter</a>
+<p><a href="/files/20_Jan_2026_P1_P6_Assessment_Overview_Letter_HA_P1_6_PMY_009_2026.pdf" rel="noopener nofollow" target="_blank">Primary 1 to Primary 6 Assessment Overview Letter</a>
 </p>
 <h4><strong>EOY Examination (2025)</strong></h4>
 <p><a href="/files/2025 EOY Exam/P5_EOY_EXAMINATION_SCHEDULE_2025.pdf" rel="noopener nofollow" target="_blank">Primary 5 Examination Schedule</a>
