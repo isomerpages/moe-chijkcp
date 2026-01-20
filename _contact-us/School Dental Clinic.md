@@ -11,10 +11,37 @@ description: ""
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Wednesday and Thursday</strong>
+<p><strong><em>16-19 January 2026</em></strong>
 </p>
 <p>Morning: 8:00 am to 1:00 pm</p>
 <p>Afternoon: 2:00 pm to 5.30 pm</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><em>23-24 January 2026</em></strong>
+</p>
+<p>Morning: 8:00 am to 1:00 pm</p>
+<p>Afternoon: 2:00 pm to 5.30 pm</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><em>2-5 February 2026</em></strong>
+</p>
+<p>Morning: 8:00 am to 1:00 pm</p>
+<p>Afternoon: 2:00 pm to 5.30 pm</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><em>12 February 2026</em></strong>
+</p>
+<p>Morning: 8:00 am to 1:00 pm</p>
+<p></p>
 </li>
 </ul>
 <p>If your child requires urgent dental treatment and the clinic is closed,
