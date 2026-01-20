@@ -11,7 +11,7 @@ description: ""
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><em>16-19 January 2026</em></strong>
+<p><strong><em>19-22 January 2026</em></strong>
 </p>
 <p>Morning: 8:00 am to 1:00 pm</p>
 <p>Afternoon: 2:00 pm to 5.30 pm</p>
@@ -20,7 +20,7 @@ description: ""
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><em>23-24 January 2026</em></strong>
+<p><strong><em>26-27 January 2026</em></strong>
 </p>
 <p>Morning: 8:00 am to 1:00 pm</p>
 <p>Afternoon: 2:00 pm to 5.30 pm</p>
