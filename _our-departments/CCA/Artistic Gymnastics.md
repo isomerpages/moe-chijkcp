@@ -8,8 +8,8 @@ variant: tiptap
 <h2>Artistic Gymnastics (Modular)</h2>
 <p><strong>Level:</strong>&nbsp;P3 to P6
 <br><strong>DAY:</strong>&nbsp;Tuesday
-<br><strong>TIME:</strong>&nbsp;2:15pm - 3:30pm (Session 1) &amp; 3:30pm -
-5:00pm (Session 2)
+<br><strong>TIME:</strong>&nbsp;2:00pm - 3:30pm (Session 1 - P3 &amp; P4)
+&amp; 3:30pm - 5:00pm (Session 2 - P5 &amp; P6)
 <br><strong>VENUE:</strong>&nbsp;School (ISH)
 <br><strong>TEACHERS I/C:</strong>&nbsp;Mdm Ang Bee Bee &amp; Mrs Doreen Yeo</p>
 <h4>SYNOPSIS:</h4>
@@ -24,6 +24,6 @@ in other sport too.</p>
 <p>Besides requiring basic gymnastics skills, our girls also develop teamwork
 and friendships with their peers.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRIZO74RMwSA4lwliJg549786GWU7_dElN2qpCjZIORFITYpcQFOFNk0oajIk-q3aLAO9gJCPWUdTAb/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRIZO74RMwSA4lwliJg549786GWU7_dElN2qpCjZIORFITYpcQFOFNk0oajIk-q3aLAO9gJCPWUdTAb/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
 </div>
 <p></p>
