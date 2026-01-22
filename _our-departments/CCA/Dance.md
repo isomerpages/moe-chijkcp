@@ -10,8 +10,8 @@ variant: tiptap
 <br><strong>DAY:</strong>&nbsp;Tuesday*
 <br><strong>TIME:</strong>&nbsp;2.00 pm – 4.00 pm
 <br><strong>VENUE:</strong>&nbsp;School (MPH)
-<br><strong>TEACHERS I/C:</strong>&nbsp;*Mrs Josephine Kua &amp; Ms Faith
-Tan
+<br><strong>TEACHERS I/C:</strong>&nbsp;*Mrs Josephine Kua &amp; Mrs Barathi
+Rajan
 <br>*Note: For SYF year, additional session on Thursday from beginning of
 the year to SYF event.</p>
 <h4>SYNOPSIS:</h4>
@@ -40,7 +40,7 @@ to work together in a choreography.
 <br><strong>DAY:</strong>&nbsp;Friday
 <br><strong>TIME:</strong>&nbsp;2:15 pm – 4:00 pm
 <br><strong>VENUE:</strong>&nbsp;School (Music Room 2)
-<br><strong>TEACHERS I/C:</strong>&nbsp;Mrs Barathi Rajan</p>
+<br><strong>TEACHERS I/C:</strong>&nbsp;Mrs Marjorie Seek</p>
 <h4>SYNOPSIS:</h4>
 <p>This Contemporary Dance CCA is dedicated to nurturing confidence, grace,
 and creativity in students through the exploration of various dance genres,
@@ -52,6 +52,6 @@ and an appreciation for the art of dance. Through these experiences, students
 develop the confidence to express themselves and build essential competencies
 for the 21st century.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS10hgOo44P94OsX_r-2OAHgogqdCQweTX-35sc6P29tcrIEBh8vKeWss9FGisnagVpuD7NymojCaPW/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS10hgOo44P94OsX_r-2OAHgogqdCQweTX-35sc6P29tcrIEBh8vKeWss9FGisnagVpuD7NymojCaPW/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
 </div>
 <p></p>
