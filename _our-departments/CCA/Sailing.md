@@ -10,8 +10,7 @@ variant: tiptap
 <br><strong>DAY:</strong>&nbsp;Tuesday (Extra session during NSG)
 <br><strong>TIME:</strong>&nbsp;2:00pm - 5:30pm
 <br><strong>VENUE:</strong>&nbsp;Changi Sailing Club, 32 Netheravon Road S(508508)
-<br><strong>TEACHERS I/C:</strong>&nbsp;Mrs Vanitha Kalai &amp; Mrs Marjorie
-Seek</p>
+<br><strong>TEACHERS I/C:</strong>&nbsp;Mrs Vanitha Kalai</p>
 <h4>SYNOPSIS:</h4>
 <p>Sailing is the art of using wind to propel a boat across water. It involves
 navigating by harnessing the wind's power with sails, which are adjusted
@@ -21,6 +20,6 @@ Sailors use various techniques to change direction and maintain course.
 Sailing is also valued for its recreational and adventurous aspects, offering
 a blend of skill, strategy, and connection to nature.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS_DrA_cSv12LK07XBs716TbZggRR1Zcs31nlX333AEwecfKqjOdohy6EKH1W3OQhZqLh_gA98y1tzB/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS_DrA_cSv12LK07XBs716TbZggRR1Zcs31nlX333AEwecfKqjOdohy6EKH1W3OQhZqLh_gA98y1tzB/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
 </div>
 <p></p>
