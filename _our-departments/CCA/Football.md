@@ -9,7 +9,7 @@ variant: tiptap
 <p><strong>Level:</strong>&nbsp;P3 to P6
 <br><strong>DAY:</strong>&nbsp;Tuesday
 <br><strong>TIME:</strong>&nbsp;2:15pm - 4:00pm
-<br><strong>VENUE:</strong>&nbsp;To Be Confirmed
+<br><strong>VENUE:</strong>&nbsp;Tao Nan School
 <br><strong>TEACHERS I/C:</strong>&nbsp;Mdm Shida &amp; Mr Farhan</p>
 <h4>SYNOPSIS:</h4>
 <p>This programme is designed to introduce beginner-level players to the
@@ -21,6 +21,6 @@ fitness. Additionally, the programme emphasizes important life skills such
 as teamwork, communication, resilience, and sportsmanship, in alignment
 with the <strong>Framework for 21st Century Competencies and Student Outcomes</strong>.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6KR-iqiyZXLJAJbF3gz6P9VhYKgIo1w9RsHfDayLqml5blAo_lMpNwmjSOGcwgOjJ_onFTfhwQ38T/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6KR-iqiyZXLJAJbF3gz6P9VhYKgIo1w9RsHfDayLqml5blAo_lMpNwmjSOGcwgOjJ_onFTfhwQ38T/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
 </div>
 <p></p>
