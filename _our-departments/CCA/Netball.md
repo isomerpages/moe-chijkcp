@@ -10,13 +10,13 @@ variant: tiptap
 <br><strong>DAY:</strong>&nbsp;Friday
 <br><strong>TIME:</strong>&nbsp;2:15pm - 4:00pm
 <br><strong>VENUE:</strong>&nbsp;School (Courtyard)
-<br><strong>TEACHERS I/C:</strong>&nbsp;Mdm Li Li</p>
+<br><strong>TEACHERS I/C:</strong>&nbsp;Mdm Li Li &amp; Mdm Faith Tan</p>
 <h4>SYNOPSIS:</h4>
 <p>To learn the fundamental movements of netball (eg. running, jumping) and
 develop the skills of catching and throwing netball through fun and modified
 games.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRdek9LF3KfcFtSTXN6wqeWOSu4hdkiO58dn1dI9QB6jY2rE1mr3tBLDOhcbrTOqg-27q6MEEu0OW2g/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRdek9LF3KfcFtSTXN6wqeWOSu4hdkiO58dn1dI9QB6jY2rE1mr3tBLDOhcbrTOqg-27q6MEEu0OW2g/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
 </div>
 <h2>Netball – Development Team (Non Modular)</h2>
 <p><strong>Level:</strong>&nbsp;P3 to P6
