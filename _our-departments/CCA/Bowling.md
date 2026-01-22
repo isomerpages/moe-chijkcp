@@ -10,7 +10,7 @@ variant: tiptap
 <br><strong>DAY:</strong>&nbsp;Tuesday (All members) &amp; Friday (Development
 Team)
 <br><strong>TIME:</strong>&nbsp;2:15pm - 5:00pm (TBC)
-<br><strong>VENUE:</strong>&nbsp;To Be Confirmed
+<br><strong>VENUE:</strong>&nbsp;Chinese Swimming Club
 <br><strong>TEACHERS I/C:</strong>&nbsp;Mdm Toh Chiew Yen, Ms Jasmine Lai,
 Mrs Singh &amp; Mr Hakim</p>
 <h4>SYNOPSIS:</h4>
@@ -19,6 +19,6 @@ to learn and develop various Bowling skills, values, and attributes beyond
 the academic curriculum. While winning can be a positive outcome, the primary
 focus of a Bowling CCA is on the holistic growth of the participants.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSBr4KvDNAsVQvlXFlzekwXVRYokNIv6o8ROjp1H0bDgY8l2LdrEyMR_3yQWHEm_4_zqcVHAB_-zeG4/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSBr4KvDNAsVQvlXFlzekwXVRYokNIv6o8ROjp1H0bDgY8l2LdrEyMR_3yQWHEm_4_zqcVHAB_-zeG4/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
 </div>
 <p></p>
