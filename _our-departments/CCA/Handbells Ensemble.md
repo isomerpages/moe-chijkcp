@@ -10,7 +10,8 @@ variant: tiptap
 <br><strong>DAY:</strong>&nbsp;Tuesday
 <br><strong>TIME:</strong>&nbsp;2:00pm - 4:00pm
 <br><strong>VENUE:</strong>&nbsp;School (Music Room 1)
-<br><strong>TEACHERS I/C:</strong>&nbsp;Ms Er Li Li &amp; Mrs Magdalene Tan</p>
+<br><strong>TEACHERS I/C:</strong>&nbsp;Ms Er Li Li, Mrs Magdalene Tan &amp;
+Mdm Faith Tan</p>
 <h4>VISION:</h4>
 <p>The CHIJ (Katong) Primary Handbell Ensemble was established in 2004, with
 the aim of providing an opportunity for students with varied musical abilities
@@ -36,6 +37,6 @@ and surfacing young talents in music and the performing arts.</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRAa3Ho-mafQQdn9fNRoz0P9PQZu1Q9S9slCFkzxBEwjVEZg2SRnB0_iqAaZ6FsNN77TiN3zkZ2qCkY/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRAa3Ho-mafQQdn9fNRoz0P9PQZu1Q9S9slCFkzxBEwjVEZg2SRnB0_iqAaZ6FsNN77TiN3zkZ2qCkY/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
 </div>
 <p></p>
