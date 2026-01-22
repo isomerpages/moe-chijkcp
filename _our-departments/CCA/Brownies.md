@@ -9,7 +9,7 @@ variant: tiptap
 <p><strong>Level:</strong>&nbsp;P3 to P6
 <br><strong>DAY:</strong>&nbsp;Friday
 <br><strong>TIME:</strong>&nbsp;2:15pm - 4:00pm
-<br><strong>VENUE:</strong>&nbsp;School (Classroom)
+<br><strong>VENUE:</strong>&nbsp;MO2 &amp; TA2
 <br><strong>TEACHERS I/C:</strong>&nbsp;Mrs Macrina Fernandez &amp; Mrs Nazeerah
 Faizal</p>
 <h4>SYNOPSIS:</h4>
@@ -25,6 +25,6 @@ by a comprehensive 5-Point Programme, which develops them in 5 areas. Brownies
 enjoy working for interest badges and awards that will help them develop
 new skills.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSbHfJ-GborIUSoLzyKXBowxbpwmxmI75f9czf6hNZNph0xQVkeH8ItpFlNCFdhxXpFRKyYZ-IGV8Ey/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSbHfJ-GborIUSoLzyKXBowxbpwmxmI75f9czf6hNZNph0xQVkeH8ItpFlNCFdhxXpFRKyYZ-IGV8Ey/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
 </div>
 <p></p>
