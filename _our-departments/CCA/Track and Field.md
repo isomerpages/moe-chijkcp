@@ -26,6 +26,6 @@ in competitions based on their performance during training. More importantly,
 they develop all-round physical fitness which contributes to an active
 and healthy lifestyle.</p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSOIgyU5nVBbi6HTjzp2LsxQSAspozHkCCnvaa35kTpcwaF1Txgztx2BKqGDoGnJYoVwhxjCNsQIUqY/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSOIgyU5nVBbi6HTjzp2LsxQSAspozHkCCnvaa35kTpcwaF1Txgztx2BKqGDoGnJYoVwhxjCNsQIUqY/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p></p>
