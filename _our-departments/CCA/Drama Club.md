@@ -33,6 +33,6 @@ effectively with peers from diverse backgrounds. These shared experiences
 help them develop teamwork, empathy, and resilience as they work together
 towards common goals, both on and off the stage.</p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQcpOFMR1oNIVDt_ebbURSJnTtK3sa4bl3Q550Js0_YJxrRKcDKXbPovgNFR1Tp-By1CwWnTYV-tRWD/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQcpOFMR1oNIVDt_ebbURSJnTtK3sa4bl3Q550Js0_YJxrRKcDKXbPovgNFR1Tp-By1CwWnTYV-tRWD/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p></p>
