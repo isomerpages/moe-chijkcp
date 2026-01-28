@@ -27,7 +27,7 @@ in a supportive environment.</p>
 on building students' confidence and communication skills. Members develop
 key abilities such as articulation, voice projection, and public speaking,
 alongside essential theatre skills including mime, movement, characterisation,
-role-play, improvisation, body awareness and damatisation.</p>
+role-play, improvisation, body awareness and dramatisation.</p>
 <p>Through individual, paired and group work, students learn to collaborate
 effectively with peers from diverse backgrounds. These shared experiences
 help them develop teamwork, empathy, and resilience as they work together
