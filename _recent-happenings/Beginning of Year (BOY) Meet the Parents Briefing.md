@@ -23,8 +23,7 @@ and goals set for the year.</p>
 <p>We look forward to a meaningful and fruitful partnership with all our
 parents in 2026. Together, we are strong as one!</p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT19nGqVB7dVWZzNjhaPT_4IsWUNbZyuhMia6M-UenT4hwTDizNJsOSkn_-WQhTkB0pAjmq87cYygWI/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSGGoUNCovqBte1rUM4VamLcrtCzW2ivlZsbmQaUzX9U_2lA6h4q8iiUMIXIiiz7w37ptJ1LVvxtnmR/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
-<p></p>
 <p></p>
 <p></p>
