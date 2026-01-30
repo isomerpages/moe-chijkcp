@@ -22,6 +22,9 @@ form teachers, and gain a clearer understanding of the classroom expectations
 and goals set for the year.</p>
 <p>We look forward to a meaningful and fruitful partnership with all our
 parents in 2026. Together, we are strong as one!</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT19nGqVB7dVWZzNjhaPT_4IsWUNbZyuhMia6M-UenT4hwTDizNJsOSkn_-WQhTkB0pAjmq87cYygWI/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
 <p></p>
 <p></p>
 <p></p>
