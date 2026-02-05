@@ -2,6 +2,7 @@ collections:
   recent-happenings:
     output: true
     order:
+      - Science Learning Journey.md
       - The Living Classroom.md
       - Beginning of Year (BOY) Meet the Parents Briefing.md
       - Orientation Week.md
