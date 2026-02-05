@@ -17,7 +17,6 @@ and fun.</p>
 <p>It was a rewarding experience that sparked curiosity and deepened students’
 appreciation for science.</p>
 <p></p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR-3P7k5FVkN76RrSpm9GprKpPny_rH0n2ak_3dVV-ZsyZ-Du2jkq2hl1Vg_JAL60xPs4OA5MpFNdx5/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
