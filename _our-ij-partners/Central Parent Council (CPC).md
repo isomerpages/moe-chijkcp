@@ -6,7 +6,8 @@ variant: tiptap
 ---
 <h3>Central Parent Council (CPC)</h3>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_CPC_Organizational_Chart__A4__Landscape__.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CPC_orgchart.png">
 </div>
 <p></p>
