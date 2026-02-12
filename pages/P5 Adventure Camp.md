@@ -20,3 +20,7 @@ demonstrating resilience and a growth mindset throughout the experience.</p>
 bonding with their classmates and teachers through this challenging outdoor
 adventure. It was a great and memorable start to the year at a new level,
 with new friendships forged and confidence strengthened.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTjMx5SuGqplgsm6ayHuyP_rrUYRHufTgUyQAP23kUdt9fkL6Un6q56efjfrrJMvubFvWifU-aJDbvz/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
+<p></p>
