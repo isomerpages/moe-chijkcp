@@ -2,6 +2,7 @@ collections:
   recent-happenings:
     output: true
     order:
+      - Parent and Child Lenten Activity.md
       - P5 Adventure Camp.md
       - Joy of Learning Science.md
       - Science Learning Journey.md
