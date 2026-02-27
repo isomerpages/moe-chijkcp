@@ -2,6 +2,7 @@ collections:
   recent-happenings:
     output: true
     order:
+      - CNY 2026.md
       - Parent and Child Lenten Activity.md
       - P5 Adventure Camp.md
       - Joy of Learning Science.md
@@ -32,4 +33,3 @@ collections:
       - International Friendship Day 2025.md
       - Serve to Lead.md
       - Mothership Roundtable EP2.md
-      - CNY 2025.md
