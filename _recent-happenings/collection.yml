@@ -2,6 +2,7 @@ collections:
   recent-happenings:
     output: true
     order:
+      - CNY 2026.md
       - Parent and Child Lenten Activity.md
       - P5 Adventure Camp.md
       - Joy of Learning Science.md
