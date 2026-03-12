@@ -11,7 +11,7 @@ Competencies.</p>
 <p>✔️ Signing up for workshops they were genuinely interested in</p>
 <p>✔️ Keeping track of their own schedules</p>
 <p>✔️ Managing themselves responsibly after school</p>
-<p>&nbsp;</p>
+<p></p>
 <p>In Term 1, we saw enthusiastic participation across disciplines:</p>
 <p>English Language – Quick Write, Board Games</p>
 <p>Science – Bath Bombs</p>
