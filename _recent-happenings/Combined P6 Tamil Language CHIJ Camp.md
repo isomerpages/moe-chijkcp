@@ -14,7 +14,6 @@ game).</p>
 as they shared their learning and experiences from the day. Supported by
 dedicated teachers and parent volunteers, the camp fostered friendships,
 built confidence, and deepened students’ appreciation for the Tamil language.</p>
-<p></p>
 <p>Students left feeling inspired, enriched, and more connected, continuing
 a cherished CHIJ tradition of cultural learning and shared experiences.</p>
 <p>
