@@ -10,8 +10,7 @@ meaningful and enriching cultural experience. Pupils explored Tamil traditions
 through a variety of engaging activity stations, such as saree tying, <em>Aadu Puli Aatam</em> (goat
 and tiger strategy game), and <em>Pallanguzhi</em> (traditional counting
 game).</p>
-<p>
-<br>Oral presentation segments further strengthened students’ oracy skills,
+<p>Oral presentation segments further strengthened students’ oracy skills,
 as they shared their learning and experiences from the day. Supported by
 dedicated teachers and parent volunteers, the camp fostered friendships,
 built confidence, and deepened students’ appreciation for the Tamil language.</p>
