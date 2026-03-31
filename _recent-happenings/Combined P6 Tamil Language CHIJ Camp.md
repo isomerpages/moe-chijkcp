@@ -16,6 +16,10 @@ dedicated teachers and parent volunteers, the camp fostered friendships,
 built confidence, and deepened students’ appreciation for the Tamil language.</p>
 <p>Students left feeling inspired, enriched, and more connected, continuing
 a cherished CHIJ tradition of cultural learning and shared experiences.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTuVeu8r_7HQUGFaHGq5iYj3xr31ZNJhWvu574Fdbmn8_l67ad9Q8x2Vh3PpAF39bEI4xc8wsn--y0B/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
 <p>
 <br>
 <br>
