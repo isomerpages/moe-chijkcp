@@ -16,3 +16,7 @@ demonstrated teamwork, resilience, and sportsmanship, learning to support
 one another and persevere through challenges.&nbsp;</p>
 <p>We are grateful to our parent volunteers and all staff involved for making
 the day a meaningful and memorable for our girls!</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRuTw05RbsL4xPrvd7u0Q-hOrOTKTHK8nCN0Mj6OgPzZKBr_ZFQ3gNUzbHQVOVmkZMhybE6S9DQh520/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
+<p></p>
