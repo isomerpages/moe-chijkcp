@@ -17,3 +17,7 @@ There was a reenactment of the scene where our Principal and two teachers
 washed the feet of 12 Upper Primary students. Through the assembly message,
 everyone was encouraged to practise these values in their daily lives,
 especially within the school community.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTlYM6vnoF3qqKegYHvnH24LqSo9kaB-QAQ2hlM2o6RNVcUQzOkDgVDHNIvEy9GE6ujzDVomCFu4aJq/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
+<p></p>
