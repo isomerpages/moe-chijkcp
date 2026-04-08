@@ -2,6 +2,9 @@ collections:
   recent-happenings:
     output: true
     order:
+      - Easter Monday.md
+      - Maundy Thursday.md
+      - Sports Carnival.md
       - Combined P6 Tamil Language CHIJ Camp.md
       - Penitential Service 2026.md
       - Term 1 After – School Workshops.md
