@@ -19,3 +19,7 @@ our students understood the importance of friendships, working and accepting
 one another.&nbsp;</p>
 <p>Together, we play our part in forging friendships in a complex world —
 Strong As One!</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSqj2XhDG7i2uBkBX4uSC1x87ZLM445HqRs8vIgIS4gccWivSvR0-shEWIjcMyh2nON6160W8SVnCyj/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
+<p></p>
