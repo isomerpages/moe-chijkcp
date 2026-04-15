@@ -2,6 +2,8 @@ collections:
   recent-happenings:
     output: true
     order:
+      - International Friendship Day.md
+      - P1 and P4 I Can Be A Pal.md
       - Easter Monday.md
       - Maundy Thursday.md
       - Sports Carnival.md
