@@ -31,5 +31,7 @@ etc.</p>
 <p>Shortlisted applicants will be notified for an interview and food sampling
 by the School Canteen Selection Committee at the applicant's own expense.</p>
 <p>Application form as attached.</p>
+<p><a href="/files/canteen_application_form.pdf" rel="noopener nofollow" target="_blank">Canteen Application Form</a>
+</p>
 <p></p>
 <p></p>
