@@ -22,7 +22,7 @@ Singapore Food Agency (SFA).</p>
 <p>• Successful applicant and stall assistant must possess the WSQ Food Hygiene
 Certificate.</p>
 <p>The following documents to be submitted via <a href="mailto:chijktps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chijktps@moe.edu.sg</a> or hand delivered
-to the school’s General Office by 31 Jan 2026.</p>
+to the school’s General Office by 29 May 2026.</p>
 <p>1. Complete the attached Application Form</p>
 <p>2. Photocopy of the NRIC (front and back)</p>
 <p>3. List of proposed menu and pricing for all items</p>
@@ -31,7 +31,6 @@ etc.</p>
 <p>Shortlisted applicants will be notified for an interview and food sampling
 by the School Canteen Selection Committee at the applicant's own expense.</p>
 <p>Application form as attached.</p>
-<p><a href="/files/canteen_application_form.pdf" rel="noopener nofollow" target="_blank">Canteen Application Form</a>
-</p>
+<p></p>
 <p></p>
 <p></p>
