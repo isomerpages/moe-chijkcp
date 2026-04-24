@@ -30,7 +30,3 @@ to the school’s General Office by 29 May 2026.</p>
 etc.</p>
 <p>Shortlisted applicants will be notified for an interview and food sampling
 by the School Canteen Selection Committee at the applicant's own expense.</p>
-<p>Application form as attached.</p>
-<p></p>
-<p></p>
-<p></p>
