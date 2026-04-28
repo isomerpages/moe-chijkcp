@@ -21,6 +21,7 @@ new student feels welcomed and quickly adjusts to school life.</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQsV042W07lgx0a4bYh7wuE8GqL7pLfSuo9ZkzYo9fofJJfMoTtVJhJvmnogdv5R2_iVOWQsa3xfjBA/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Grace and Love Programme</strong>
@@ -48,6 +49,7 @@ from one another and develop greater self-awareness.</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTpLEjMcOMnltyYr9QoF3NwclSBEVhg30kSe5Jmh4E_RCLEwVWWQEjINOoIN-g3JQEMB4aQIw1iINiW/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Build Flourishing Friendships</strong>
@@ -73,11 +75,30 @@ daily lives.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BFF2.png">
 </div>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>Cyberwellness</strong>
 </p>
+</li>
+</ul>
 <p>Our Cyber Wellness education empowers students to become savvy, e-learning-ready
 technology users. We guide them to be discerning netizens who spread positivity
 and uphold truth, justice, and love in both digital and physical spaces.
 Ultimately, we aim to develop Women of Grace and Substance who navigate
 the 21st-century technological landscape with integrity and character.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Safer_Internet_Day.jpg">
+</div>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Educational Career Guidance</strong>
+</p>
+</li>
+</ul>
+<p>Our Education and Career Guidance (ECG) Programme aims to empower our
+girls to make informed, responsible decisions as they discover their unique
+potential. Through annual Educational Career Guidance fair and insights
+from inspiring speakers, we build the awareness and motivate our students
+to pursue their aspirations with confidence.</p>
 <p></p>
