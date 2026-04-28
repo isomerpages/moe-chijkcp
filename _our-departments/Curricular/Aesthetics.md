@@ -120,3 +120,7 @@ events, exhibitions, competitions and concerts</p>
 <p><strong>Music Co-ordinator: Ms Angeline Grace Bitgue</strong>
 </p>
 <p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTfYnWA9CjnX2hTtKKkkKgGdOJBvYwf36WvQJsZ2qmITAGwqcvdvDcGP7_jfd1myCgXDORMqzzocpMQ/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
+<p></p>
