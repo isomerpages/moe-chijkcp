@@ -16,6 +16,13 @@ sections:
           description: School Events & Activities
           url: https://www.chijkcp.moe.edu.sg/news-and-events/schoolcalendar/
   - infopic:
+      title: CHIJ (Katong) Primary Open House
+      id: infopic
+      button: click here
+      url: https://www.chijkcp.moe.edu.sg/announcements/openhouse
+      alt: Image alt text
+      image: /images/Open_House_2026___Poster_A.png
+  - infopic:
       title: Annual Prize-Giving Ceremony 2025
       id: infopic
       button: Click here
@@ -36,10 +43,4 @@ sections:
       alt: Image alt text
       url: https://www.facebook.com/p/CHIJ-Katong-Primary-100064368781577/
       image: /images/chij facebook.jpg
-  - infopic:
-      title: CHIJ (Katong) Primary Open House
-      id: infopic
-      button: click here
-      url: https://www.chijkcp.moe.edu.sg/announcements/openhouse
-      alt: Image alt text
 ---
