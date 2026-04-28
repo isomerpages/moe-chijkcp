@@ -14,8 +14,7 @@ third_nav_title: Curricular
 </p>
 <h4>E3 Approach</h4>
 <p><strong>"Experience, Enrich and Excel" Approach</strong>
-<br><strong>All aesthetics department programmes are aligned to this approach.</strong>
-</p>
+<br>All aesthetics department programmes are aligned to this approach.</p>
 <p><strong>Experience:</strong>
 </p>
 <p>All students are given the opportunity to be exposed to the Arts through
@@ -91,7 +90,7 @@ their talent.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Students represent the school in cluster, IJ, national and international
+<p>Students represent the school in cluster, IJ, national or international
 events, exhibitions, competitions and concerts</p>
 </li>
 <li>
