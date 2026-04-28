@@ -30,18 +30,14 @@ their talent.</p>
 <p></p>
 <p></p>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Group</p>
-</th>
 <th rowspan="1" colspan="1">
 <p>Experience</p>
 </th>
@@ -53,9 +49,6 @@ their talent.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>ALL</p>
-</td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
@@ -81,16 +74,13 @@ their talent.</p>
 <p>Arts Excustions/Learning Journeys</p>
 </li>
 <li>
-<p>Training for Arts Representatives</p>
+<p>Training/Opportunities for Arts Monitors</p>
 </li>
 <li>
-<p>Opt-In Enrichment Programmes</p>
+<p>Opt-In Enrichment programmes</p>
 </li>
 <li>
 <p>Platforms for performance in and out of school</p>
-</li>
-<li>
-<p>Project Heart &amp; Soul</p>
 </li>
 <li>
 <p>Exhibitions</p>
@@ -120,21 +110,13 @@ events, exhibitions, competitions and concerts</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 </tbody>
 </table>
-<div class="iframe-wrapper">
-<iframe height="535" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1NWmP2IEys36hCoZPa6AMi47lnPO6h6st2OwPXOL4kvM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<p><strong>Ms Christina Lie</strong>
-<br><strong>Head of Department (Aesthetics)</strong>
+<p><strong>HOD Aesthetics: Ms Christina Lie</strong>
 </p>
-<p><strong>Mrs Alice Ng</strong>
-<br><strong>Subject Head (Aesthetics)</strong>
+<p><strong>SH Art (Internal): Mdm Rasyidah Abdul Rasid</strong>
 </p>
-<p><strong>Ms Angeline Grace Bitgue</strong>
-<br><strong>Music Co-ordinator</strong>
+<p><strong>Music Co-ordinator: Ms Angeline Grace Bitgue</strong>
 </p>
+<p></p>
