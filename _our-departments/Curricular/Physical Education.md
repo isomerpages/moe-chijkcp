@@ -12,51 +12,50 @@ third_nav_title: Curricular
 <h4>Mission</h4>
 <p><strong>To empower students to feel good about themselves through involvement in sports and recreational endeavours for personal excellence in life.</strong>
 </p>
-<p>The purpose of Physical Education is to develop physically competent and
-individuals who enjoy a lifetime of active and healthy living safely and
-responsibly.</p>
-<p>The PE Syllabus at Primary level seeks to develop Competent Participants
-who demonstrate foundational movement competencies, outdoor competencies
-and health enhancing practices. Students acquire the competencies and practices
-through various learning experiences in 3 learning areas (and strands):</p>
-<p>1) Physical Activity (Athletics, Dance, Games &amp; Sports, Gymnastics
-and Swimming);</p>
-<p>2) Outdoor Education (Outdoor Living, Sense of Place, Risk Assessment
-&amp; Management);</p>
-<p>3) Physical Health and Safety (Physical Fitness, Nutrition, Safety &amp;
-Risk Management, Personal Hygiene Self-Care)</p>
-<p>At CHIJ (Katong) Primary, all students will experience the following activities:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Lower Primary Games for Primary 1-2 &amp; Sports Carnival for Primary
-3-6;</p>
-</li>
-<li>
-<p>A day trip in the school's neighbourhood by end of Primary 4;</p>
-</li>
-<li>
-<p>A 3-Day 2-Night Outdoor Adventure Learning Cohort Camp at Primary 5;</p>
-</li>
-<li>
-<p>National Day Workout;</p>
-</li>
-<li>
-<p>Level sports activities</p>
-</li>
-</ul>
-<p><strong>The students had so much fun competing with other classes during the Games Day and Sports Carnival!</strong>
+<p>At CHIJ (Katong) Primary, Physical Education is more than movement — it
+is character in action. We believe that when a girl moves with confidence,
+she grows with confidence — in body, in mind, and in character.</p>
+<p>Our PE programme develops physically competent, health-literate individuals
+who are equipped to lead active, responsible, and fulfilling lives. Grounded
+in the MOE PE Syllabus, learning is organised across three interconnected
+areas:</p>
+<p>Physical Activity — Athletics, Dance, Games &amp; Sports, Gymnastics,
+and Swimming</p>
+<p>Outdoor Education — Outdoor Living, Sense of Place, and Risk Assessment
+&amp; Management</p>
+<p>Physical Health &amp; Safety — Physical Fitness, Nutrition, Safety &amp;
+Risk Management, and Personal Hygiene &amp; Self-Care</p>
+<p>Every girl at CHIJ (Katong) Primary embarks on a rich progression of experiences
+across her six years with us:</p>
+<p>Primary 1 &amp; 2: Lower Primary Games — joyful, play-based movement for
+every child</p>
+<p>Primary 3 – 6: Annual Sports Carnival — inter-house competition, teamwork,
+and school pride</p>
+<p>Primary 5: 3-Day 2-Night Outdoor Adventure Learning Cohort Camp
+<br>All levels: National Day Workout &amp; Level Sports Activities</p>
+<p>From cheering on their houses at the Sports Carnival to conquering ziplines
+and rock walls at the Outdoor Adventure Camp, our girls learn to push past
+their limits, support one another, and embrace challenge with resilience
+and a growth mindset — values that extend far beyond the PE lesson.</p>
+<p><strong>Games Day &amp; Sports Carnival</strong>
 </p>
+<p>Our annual Sports Carnival brought together Primary 3 to Primary 6 girls
+and their families for a morning bursting with energy, laughter, and heart.
+On Children's Day, we also celebrated our P1 and P2 girls with a Lower
+Primary Games Day — a joyful close to a wonderful year of learning!</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRC4Wq4-CTYdmQ9zyowenJEXicfC3f4EGf65PF_qPm3eMyqCeMcba8vHXmMX_pTWn8Gayw9BXFxoArG/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS4oPs-Q7tpUvci0AbJnr-CVaGBwhv8ydpf-Ywo9N7rztLocsiLeuYrUrawsKibKBVvd9dcSFoZ6v7B/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
-<p><strong>Our P5 and some of the P6 students experienced Virtual Reality (VR) during PE lessons.</strong>
+<p></p>
+<p><strong>3-Day 2-Night Cohort Camp</strong>
 </p>
+<p>Our Primary 5 girls spent three unforgettable days at the MOE Changi Coast
+Outdoor Adventure Learning Centre — abseiling, ziplining, climbing rock
+walls, and performing at the campfire under the stars. More than the thrills,
+it was the quiet moments — encouraging a friend on the tower circuit, laughing
+over meals together, sleeping bags, etc. that made this camp truly special.
+They came back braver, closer, and ready to take on the year ahead.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQXHWsJtnHcTFUK4m0NavA8yk-wp94YHCvPsrSO05ZcXIvsw8nlbA-_j_Wlp9hZMaf4KYpdvtcPJ1vc/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-</div>
-<p><strong>The P5 students participated in a 3Day 2Night Cohort Camp at the MOE Labrador Adventure Outdoor Adventure Centre.</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTLTuVQNFLG8KFe8rj4SgfG5_q0XHM2KV1ZmovuiC4Rwhh45BbbFuuZv_wH_Nv6yZD1tLz8fLDeFaRv/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQIa6Paj048fcG20Pu_dhBv8zIHsPVNUOcDnY9r3L5O5bZYwangfA-pNFNxphr2c-ftaN2irP4FKJd3/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p></p>
