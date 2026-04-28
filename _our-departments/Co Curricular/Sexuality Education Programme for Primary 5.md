@@ -68,7 +68,7 @@ ones.</p>
 </ol>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<h4> Overview of CHIJ (Katong) Primary Sexuality Education Programme for 2026</h4>
+<h4>Overview of CHIJ (Katong) Primary Sexuality Education Programme for 2026</h4>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
@@ -141,8 +141,4 @@ about the school’s Sexuality Education programme.</p>
 <p></p>
 </li>
 </ol>
-<p></p>
-<p>
-<br>
-</p>
 <p></p>
