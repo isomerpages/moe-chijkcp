@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Co Curricular
 variant: tiptap
 ---
-<h3>MOE SEXUALITY EDUCATION IN SCHOOLS</h3>
+<h4>MOE SEXUALITY EDUCATION IN SCHOOLS</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Sexuality Education (SEd) in schools aims to enable students to understand
@@ -65,7 +65,7 @@ more information on MOE Sexuality Education.</p>
 <p></p>
 </li>
 </ol>
-<h3><strong>Overview of CHIJ (Katong) Primary Sexuality Education Programme for 2026</strong></h3>
+<h4><strong>Overview of CHIJ (Katong) Primary Sexuality Education Programme for 2026</strong></h4>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
@@ -88,7 +88,7 @@ more information on the scope of Sexuality Education in the school curriculum.</
 </li>
 </ol>
 <p></p>
-<h3><strong><u>Sexuality Education Lessons:</u></strong></h3>
+<h4>Sexuality Education Lessons:</h4>
 <ol start="6" data-tight="true" class="tight">
 <li>
 <p>The upper primary years mark the onset of puberty. With better nutrition
@@ -117,7 +117,7 @@ from sexuality-related risks.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_2026_Info_on_SEd_for_schs_website__Primary_Schools_.png">
 </div>
-<h4>INFORMATION FOR PARENTS</h4>
+<h4>Information for Parents</h4>
 <ol start="8" data-tight="true" class="tight">
 <li>
 <p>Parents may opt their children out of Sexuality Education lessons, and/or

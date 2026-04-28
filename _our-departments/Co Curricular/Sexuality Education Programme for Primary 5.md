@@ -1,11 +1,11 @@
 ---
 title: Sexuality Education Programme for Primary 5
-permalink: /our-ij-experience/co-curricular/cce/sexuality-education-programme-2025-primary5/
+permalink: /sexuality-education-programme-for-primary-5/
+variant: tiptap
 description: ""
 third_nav_title: Co Curricular
-variant: tiptap
 ---
-<h3>MOE SEXUALITY EDUCATION IN SCHOOLS</h3>
+<h4>MOE SEXUAL EDUCATION IN SCHOOLS</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Sexuality Education (SEd) in schools aims to enable students to understand
@@ -62,21 +62,19 @@ foundation for strong families);</p>
 <p>Abstinence before marriage is the best protection against STIs/HIV and
 unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
-<p></p>
-<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more information on MOE Sexuality Education.</p>
 </li>
 </ul>
 </li>
 </ol>
-<p></p>
-<h3><strong>Overview of CHIJ (Katong) Primary Sexuality Education Programme for 2026</strong></h3>
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
+more information on MOE Sexuality Education.</p>
+<h4>Overview of CHIJ (Katong) Primary Sexuality Education Programme for 2026</h4>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener nofollow" target="_blank">here</a> for
 more information on the scope of Sexuality Education in the school curriculum.</p>
 <p></p>
 </li>
@@ -92,7 +90,7 @@ more information on the scope of Sexuality Education in the school curriculum.</
 </ul>
 </li>
 </ol>
-<h3><strong><u>Sexuality Education Lessons</u></strong>:</h3>
+<h4>Sexuality Education Lessons:</h4>
 <ol start="6" data-tight="true" class="tight">
 <li>
 <p>The upper primary years mark the onset of puberty. With better nutrition
@@ -115,13 +113,13 @@ years. They learn to build healthy and rewarding relationships with others,
 including those with members of the opposite sex. Students are also guided
 to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
-<p></p>
 </li>
 </ol>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_2026_Info_on_SEd_for_schs_website__Primary_Schools_.png">
 </div>
-<h3><strong>&nbsp;Information for Parents</strong></h3>
+<h4>Information for Parents</h4>
 <ol start="8" data-tight="true" class="tight">
 <li>
 <p>Parents may opt their children out of Sexuality Education lessons, and/or
@@ -132,7 +130,7 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 <li>
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
-&nbsp;to parents at the start of the year and is also downloadable <a href="https://go.gov.sg/p5sexualityeducation" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+&nbsp;to parents at the start of the year and is also downloadable <a href="https://go.gov.sg/p5sexualityeducation" rel="noopener nofollow" target="_blank">here</a>.
 The completed opt-out form is to be submitted by 31/01/2026.</p>
 </li>
 </ol>

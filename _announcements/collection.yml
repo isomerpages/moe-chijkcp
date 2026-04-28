@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Announcements.md
+      - Open House.md
       - School Canteen Advertisement.md
       - Safety and Security Briefing.md
       - Management of High Temperature Conditions in School.md
