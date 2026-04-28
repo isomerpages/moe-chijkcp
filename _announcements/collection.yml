@@ -2,8 +2,8 @@ collections:
   announcements:
     output: true
     order:
-      - Open House 2026.md
       - Announcements.md
+      - Open House 2026.md
       - School Canteen Advertisement.md
       - Safety and Security Briefing.md
       - Management of High Temperature Conditions in School.md
