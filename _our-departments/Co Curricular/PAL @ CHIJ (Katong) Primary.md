@@ -35,7 +35,7 @@ process, they will be presented with opportunities to resolve conflicts
 and find compromises, through which they will learn to recognize and manage
 their emotions and reactions to achieve the desirable outcome.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRPY8RiA_8djr5zVyOx4KYQJYC2GoPccokfda5MwdHZv92ogN9DS93lXOWsI_vx7WUUmYTTfsa6WvJo/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS-VgoBJTEnwnuHF3lr4Mg_83uz1S6SjSnwZWQe2bMPT9sh9YucSJ0A_1v6NcE5-lDQL2p4oXg0UMsN/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <h4>Drama</h4>
 <p>PAL Drama aims to promote creativity, self-confidence and critical thinking
@@ -52,7 +52,7 @@ among others. The teacher acts as a guide to allow for creative development
 and expression, constantly motivating a child that is already dynamic in
 her own way.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTBtGHLJeH4PFJ56EC_b3HjqJ3JTe8gK6k5JJzKGd4xYK7UsWKYEz6ic-AOMsTdxpxw6kWw09uKZjyd/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vShWvyCti6u8Y9-zI9WADj4KnrJo3naL_AwlRBbVRZWMRtaAJJJWr6cbXvPCOQhE6fyr5rnsB_-a7eg/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <h4>Visual Arts</h4>
 <p>The PAL VA aims to develop our students into confident, competent and
@@ -76,7 +76,7 @@ for the students to demonstrate our school’s virtues and the SEL competencies.
 interpersonal and social skills, attitudes and values. It provides fun
 and enjoyable learning experiences for students.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSzpyAuqE-Om2rsEiuazp1eWbwL7twoP-7km5_pP8_v7e5PIRGpkcA2SWqL5TXDsFJkxC4Mk7g6QMvX/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQMcFpX-jQKFYser4Q1KorN5T_yI2vjG2zMmoIQ1FM2w5XY4EACuRcMx_o64JE9Od9i5lgFFGF0o8qh/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <h4>Outdoor Education</h4>
 <p>PAL OE provides opportunities for students to engage in activities outdoors
@@ -87,6 +87,6 @@ their level of learning. Students will be able to interact with each other
 as they learn and play games. This exposure will aid in the holistic development
 of our students.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRUb4yaR4u0GIuOeWmm-dm6Wx2MoMKN1lN1TZY07iekD-5jE8IXldKWG5vqqWI8B6ikc6utpD88ZaAs/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQwwRHIN1K33zRHXdtjZ_Omg7tPNq4zfN81G2YyHQci5AUlKxNeZ-EV8MmnWiTRRZ-QHfPWFAE_E0tL/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p></p>
