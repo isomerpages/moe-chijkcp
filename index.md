@@ -16,7 +16,7 @@ sections:
           description: School Events & Activities
           url: https://www.chijkcp.moe.edu.sg/news-and-events/schoolcalendar/
   - infopic:
-      title: CHIJ (Katong) Primary Open House
+      title: CHIJ (Katong) Primary Open House 2026
       id: infopic
       button: click here
       url: https://www.chijkcp.moe.edu.sg/announcements/openhouse
