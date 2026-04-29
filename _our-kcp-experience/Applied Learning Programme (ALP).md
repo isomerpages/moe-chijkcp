@@ -32,6 +32,10 @@ communicate in a respectful manner.</p>
 <p>P3: Story-telling</p>
 <p>P4: Public Speaking</p>
 <p>P5: Debate</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6A7TGcdqhexAyR5w_fM5vgDXrHgdLk8KuCAG2-pgSPBRNVHDpacUXDbGjXyK4Zs3D_F6I6aA0bxYf/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
 <p>Students learn to interact and converse with their friends using guided
 sentence structures aligned to the MTL curriculum. As they progress to
 the middle and upper levels, they are exposed to a range of graphic stimuli,
@@ -49,15 +53,17 @@ attentive listeners and confident speakers.</p>
 <p>P2: Speech and Drama; ALP Lessons; Talent Showcase</p>
 <p>P3 &amp; P4: ALP Lessons</p>
 <p>P5: ALP Lessons / Content Creation (Canva)</p>
+<p></p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTsTO6ysq9sOklsVr_v8WXvsQ0xU4DKGFCNggJqQXkqRpifwztpre8I2kgKEBTdYhclhAU7Y7v2i5vJ/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSP16AIewAgqjy0fVlxnj51M5jEN4kCm8kVFoybpQh6AEFVOsrefWulnkPfzydevkMWgpZCAeXd15Dc/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <h4><strong>Tier 2 programmes are conducted for selected students who show greater aptitude and/or interest.</strong></h4>
 <p>The following activities are offered:</p>
 <p>Wits and Words (EL)</p>
 <p>Drama Club (EL)</p>
 <p>After School Programmes Eg Reading Circle, Public Speaking Workshop</p>
+<p></p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQnC7TwTNznNtqL0XeR5Qmjog7Jvo2gSdqzfpkcCZbnj6sRm0gn6hvpZs4JcpyKPIywON1trcV8s5nc/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6cmayqDmUugUJOTlN5frBprdrJuQ3_WCLYQvZapN97W_Mr8O7EIZ-76VFMHoRSBtekntW9bxICUlz/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p></p>
