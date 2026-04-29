@@ -31,9 +31,9 @@ communicate in a respectful manner.</p>
 <p>P2: Readers' Theatre; Pick-and-Tell; Talent Showcase</p>
 <p>P3: Story-telling</p>
 <p>P4: Public Speaking</p>
-<p>P5: Sales Pitch; Debate</p>
+<p>P5: Debate</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ9r03sqqpUL-LSDA8B_Be0hzIKhs8zdGH-vsfHSRQsfUlMPcsbdIHU1zLtxKDZ7iOvhkM2fLd8cB7i/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ9r03sqqpUL-LSDA8B_Be0hzIKhs8zdGH-vsfHSRQsfUlMPcsbdIHU1zLtxKDZ7iOvhkM2fLd8cB7i/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p>In Mother-Tongue Language (MTL), students learn to interact and converse
 with their friends using guided sentence structures aligned to the MTL
@@ -52,7 +52,7 @@ taught to be respectful communicators (good listeners and confident speakers).</
 <p>P3 &amp; P4: ALP Lessons</p>
 <p>P5: ALP Lessons / Content Creation (Canva)</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTsTO6ysq9sOklsVr_v8WXvsQ0xU4DKGFCNggJqQXkqRpifwztpre8I2kgKEBTdYhclhAU7Y7v2i5vJ/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTsTO6ysq9sOklsVr_v8WXvsQ0xU4DKGFCNggJqQXkqRpifwztpre8I2kgKEBTdYhclhAU7Y7v2i5vJ/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <h4><strong>Tier 2 programmes are conducted for selected students who show greater aptitude and/or interest.</strong></h4>
 <p>The following activities are offered:</p>
@@ -61,6 +61,6 @@ taught to be respectful communicators (good listeners and confident speakers).</
 <p>After School Programmes Eg Reading Circle, Concurrent Affairs (EL), Let’s
 Act on Oral (CL)</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQnC7TwTNznNtqL0XeR5Qmjog7Jvo2gSdqzfpkcCZbnj6sRm0gn6hvpZs4JcpyKPIywON1trcV8s5nc/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQnC7TwTNznNtqL0XeR5Qmjog7Jvo2gSdqzfpkcCZbnj6sRm0gn6hvpZs4JcpyKPIywON1trcV8s5nc/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p></p>
