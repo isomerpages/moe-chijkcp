@@ -116,6 +116,9 @@ for shared reading sessions every Thursday and Friday morning.</p>
 and foster responsibility and collaboration among students. It also provides
 opportunities for Reading Champs to model good reading habits while encouraging
 their buddies to engage more actively with texts.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSDPQA_HXC9xZOyC2WlGrlUVAIHkAXrfGwVXiq1sLH3H6CSYffco1t5i1SS_sUeTrlCoXumO_Zxo0M3/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
 <p><strong>Alternative Assessments</strong>
 </p>
 <p>In our English classrooms, we move beyond traditional examinations to
