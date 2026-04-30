@@ -33,10 +33,10 @@ are developed holistically as they thrive in a fun and supportive environment.</
 <h4>Pre-requisite:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Must be able to commit from P4 to P6 if selected to represent school.</p>
+<p>Able to commit to the CCA from P4 to P6 if selected to represent school</p>
 </li>
 <li>
-<p>n</p>
+<p>Able to commit to twice a week training</p>
 </li>
 </ul>
 <p></p>
