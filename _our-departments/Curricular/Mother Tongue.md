@@ -5,91 +5,77 @@ description: ""
 variant: tiptap
 third_nav_title: Curricular
 ---
-<h2>Mother Tongue</h2>
-<h4>Vision</h4>
-<p>To develop our students into confident, effective communicators who appreciate
-different cultures and thrive in a vibrant learning environment.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MT_1.jpg">
-</div>
-<h4>Approach to learning MTL in CHIJ (Katong) Primary</h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MT_2.jpg">
-</div>
-<p>A safe, happy and harmonious environment invites children to take risks,
-make mistakes and learn. In CHIJ (Katong) Primary, the Mother Tongue Language
-department strives to create this happy and safe environment to engage
-our students in fun way of learning MTL through their primary education
-with us. By incorporating stories, songs and games into our lessons at
-the lower primary levels, we hope to ignite their interest in the language.
-ICT tools and other resources are also used to excite and support their
-learning.</p>
-<p>In middle primary levels, there is more emphasis on the oral, reading,
-writing and comprehension skills to prepare students for more complex linguistic
-skills in the upper primary. In upper primary, focus will be on enhancing
-all language skills taught to prepare them for PSLE.</p>
-<h4>Events &amp; Programmes</h4>
-<p><strong>Mother Tongue Fortnight Activities</strong>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Developing Confident Communicators and Thinkers</strong>
 </p>
-<p>An annual platform for all students to learn and appreciate their cultures
-through various cultural activities and to instill in the learning of Mother
-Tongue Languages. Students learn in a fun way and at the same time allow
-for authentic usage of their Mother Tongue Language. These activities include
-Chinese Bean Art, Chinese Hand Puppet Making, Calligraphy, Culture Appreciation,
-Speech &amp; Drama, Dikir Barat, Taridra, Bangsawan, Indian Classical Dance,
-Debate and Drama.</p>
+</li>
+</ol>
+<p>Our Mother Tongue programme develops students into <strong>confident and thoughtful users of their language</strong>,
+aligned with the MOE’s <strong>21st Century Competencies (E21CC)</strong>.</p>
+<p>In a <strong>safe and nurturing environment</strong>, students are encouraged
+to express their ideas, listen to others, and grow in confidence. Teachers
+create supportive classroom spaces where every student feels valued and
+is given opportunities to participate, take risks, and learn from one another.</p>
+<p>Through purposeful interactions and meaningful learning experiences, students
+learn to communicate clearly, think about what they say, and build on the
+ideas of others. They come to see language as a way to connect, express,
+and make sense of the world.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSQocAP7jiuMXguzUipP-UDac22jndAcYSW2pNyr_vfwlJqpFzIbs1brw9zlSxO6-v80lV634StGW_2/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRa6SXNW6sp2RxCtgrM9SWF6-4Tt2pBm70GDHaeJZg5xCwrymO7ByzAyeAnuchQx4D8zrXFAvoQbN2P/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
-<p><strong>Cultural Exposure</strong>
+<p></p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>A Progressive and Meaningful Learning Journey</strong>
 </p>
-<p>Our MTL teachers plan and provide opportunities for students to learn
-MTL in an immersive manner. The activities provide authentic opportunities
-for students to use MTL and to gain a deeper understanding and appreciation
-of our cultures.</p>
+</li>
+</ol>
+<p>Our curriculum is designed to build confidence first, then depth, and
+finally independence in language use.</p>
+<p><strong>Lower Primary – Building Confidence</strong>
+<br>Students are immersed in engaging language experiences through songs,
+stories, and interactive activities. In a supportive setting, they develop
+listening and speaking skills while growing in confidence to use the language.</p>
+<p><strong>Middle Primary – Deepening Use</strong>
+<br>Students apply their language skills in more meaningful contexts. Through
+guided discussions, collaborative tasks, and interdisciplinary learning,
+they learn to organise their ideas and communicate with greater clarity.</p>
+<p><strong>Upper Primary – Expressing Thinking</strong>
+<br>Students express their views, explain their thinking, and engage in more
+extended communication. They learn to use language purposefully across
+contexts, developing confidence and independence.</p>
+<p>Across all levels, teachers provide guidance and feedback to support reflection,
+improvement, and ownership of learning.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRCLYMpMr50JoFheaTUnf1oToFeNSpVPdFayUWpmdWoMqwOcNDor76P2hctbVfVza7zeABmeLZSW2Us/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRrmLDpvcEmsQMjyOb-JJutXlaUwk4a4yGDaL5g--VXXgezSgMmmfRS8D4Vn5RXT1C5Rrd6Xn-NBB7y/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
-<p><strong>Speech and Drama</strong>
+<p></p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p><strong>Learning Beyond the Classroom</strong>
 </p>
-<p>Speech and Drama provides students with the opportunity to learn Mother
-Tongue Languages (MTL) authentically. Guided by trained teachers and instructors,
-students, in a group setting, will learn to present short stories confidently
-and articulately.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mother Tongue Dept/MT_3.jpg">
+</li>
+</ol>
+<p>Students experience the Mother Tongue as a living language through authentic
+and culturally rich experiences.</p>
+<p>These include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>applied learning experiences that connect language to real-life contexts</p>
+</li>
+<li>
+<p>cultural learning through festivals and school-based programmes</p>
+</li>
+<li>
+<p>opportunities to present and share their learning</p>
+</li>
+</ul>
+<p>Through these experiences, students develop language proficiency alongside
+a deeper appreciation of culture and identity. They learn to communicate
+with confidence, relate to others with respect, and use language meaningfully
+beyond the classroom.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT76PF-v12P_1GrMhO0P1czj9Ch7v-IbYtqg_0chmtXYi2SuvzUderUujfwJBuY4F6cYRg7g2jvGYtc/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mother Tongue Dept/MT_4.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mother Tongue Dept/MT_5.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mother Tongue Dept/MT_6.jpg">
-</div>
-<p><strong>Mother Tongue Support (MTSP)</strong>
-</p>
-<p>MTSP incorporates a systematic approach and pedagogy to teach P3 and P4
-students who need additional support in the learning of Mother Tongue Languages
-(MTL), using a set of customised resources. MTSP aims to build their confidence
-in learning MTL and to strengthen their oracy and literacy foundation so
-that deeper learning in MTL can take place in their later years.</p>
-<p><strong>Higher Mother Tongue</strong>
-</p>
-<p>Students who show an aptitude for Mother Tongue Languages will be exposed
-to richer literature such as poetries, mini novels, children’s plays and
-many more through the Higher Mother Tongue programme offered in the upper
-primary years.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mother Tongue Dept/MT_7.jpg">
-</div>
-<p></p>
 <p></p>
