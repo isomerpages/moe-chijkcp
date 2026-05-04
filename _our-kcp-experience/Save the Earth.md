@@ -23,9 +23,10 @@ a school that truly cares — about the environment, about the future, and
 about the world they will grow up in. Because when young people understand
 the impact of their choices, they become the changemakers our planet needs.</p>
 <p></p>
-<p><strong><u>School Wide Programmes</u></strong>
+<p><strong><u>SCHOOL WIDE PROGRAMMES</u></strong>
 </p>
-<p><strong><u>EARTH DAY CELEBRATION</u></strong>
+<p></p>
+<p><strong><u>Earth Day Celebration</u></strong>
 </p>
 <p>Save the Earth ambassadors together with Parent volunteers did their part
 for Earth Day by conducting recess activities for our students to educate
@@ -52,5 +53,70 @@ what can be turned into a compost and what can’t.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/STESR.png">
 </div>
+<p></p>
+<p><strong><u>World Water Day Celebration</u></strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STESR2.png">
+</div>
+<p>Pupils created a skit that creates awareness of sustaining and protecting
+Singapore’s 4 National Taps and how individuals can preserve and protect
+our precious water resources.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STESR3.png">
+</div>
+<p>Students making a pledge to save water.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STESR4.png">
+</div>
+<p><strong><u>Learning Journeys</u></strong>
+</p>
+<p>Primary 3 Coastal Clean Up at East Coast Park</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STESR5.png">
+</div>
+<p>Follow up activities in class. Poem making and Best Decorated Classroom
+Contest using recycling materials.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STESR6.png">
+</div>
+<p>Save The Earth Ambassadors Learning Journey to Sustainable Gallery</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STESR7.png">
+</div>
+<p><strong><u>P6 VIA Projects</u></strong>
+</p>
+<p>The P6 students embarked on a level-wide project on saving the environment,
+with focus on reducing the use of plastics.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STESR8.png">
+</div>
+<p>Our Sailing Club members also did their part for the environment, cleaning
+up at Sentosa Beach.&nbsp; They learnt that as beach users, it is also
+their responsibility to keep it clean.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STESR9.png">
+</div>
+<p><u>Using natural sunlight as an alternative to lights and usage of fans</u>
+</p>
+<p>Save The Earth Committee conducted an assembly talk, reminding both teachers
+and students to switch off some lights on brighter days and switch off
+some fans on cooler days. Teachers conducting lessons conducted in the
+afternoon are encouraged to use natural light in their classrooms instead
+of switching on lights.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STESR10.png">
+</div>
+<p><u>Posters put up to encourage water conservation</u>
+</p>
+<p>Posters are put up in toilets and canteens to remind all the importance
+of saving water.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS84ZVWDNxOeTDWg15TqGLvDXn7QnZ4n88JqTgHsZ_ytk4xubqADrZqruX0YVctGsuzREZIQNsv5CCk/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
