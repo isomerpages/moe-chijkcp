@@ -47,5 +47,10 @@ what can be turned into a compost and what can’t.</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQC1ZHE6Su9r-mrX6EHCz9J6NtxBC2PZo_P7LRTiyF4sXbB4HplGty8OJedh44f0WXEUX2d0sWIUAfi/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
+<p><strong>Student’s Reflections</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STESR.png">
+</div>
 <p></p>
 <p></p>
