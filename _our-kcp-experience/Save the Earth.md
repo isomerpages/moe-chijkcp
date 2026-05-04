@@ -107,7 +107,7 @@ afternoon are encouraged to use natural light in their classrooms instead
 of switching on lights.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STESR10.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/STESR10.png">
 </div>
 <p><u>Posters put up to encourage water conservation</u>
 </p>
@@ -116,6 +116,35 @@ of saving water.</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS84ZVWDNxOeTDWg15TqGLvDXn7QnZ4n88JqTgHsZ_ytk4xubqADrZqruX0YVctGsuzREZIQNsv5CCk/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
+<p>A challenge to show the parent volunteers a ‘clean plate’ to get a “Finish
+your plate” stamp</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STESR11.png">
+</div>
+<p>Colouring for lower primary</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Clean plate “Finish your plate” stamp</p>
+</li>
+<li>
+<p>Mind Body Session - Stretching Exercises</p>
+</li>
+<li>
+<p>Pledging to eat healthily</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STESR12.png">
+</div>
+<p><u>Our Parent Support Group</u>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/STESR13.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
