@@ -141,6 +141,12 @@ your plate” stamp</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/STESR13.png">
 </div>
+<p><u>Our Student Game Card</u>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STESR14.png">
+</div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
