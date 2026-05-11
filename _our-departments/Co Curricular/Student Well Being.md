@@ -24,34 +24,6 @@ new student feels welcomed and quickly adjusts to school life.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Grace and Love Programme</strong>
-</p>
-</li>
-</ul>
-<p>For our Catholic students from Primary 1 to Primary 6, Religious Education
-lessons are conducted by Catholic teachers. These lessons aim to help students
-understand their faith and apply Gospel values in their daily lives. Beyond
-the classroom, students are given opportunities to deepen their faith through
-activities such as church visits, retreats, KC Sings sessions, and Rosary
-devotions. Catholic students also participate in termly Family Masses,
-while all students attend School Masses. Our Catholic students attend our <strong>GRACE</strong> (God
-Reaching out to All Children Everyday) Programme lessons that are aimed
-at helping students to understand their faith and live the Gospel values
-in their daily lives. The lessons are planned according to the Liturgical
-calendar.</p>
-<p>Our non-Catholic students attend our&nbsp;<strong>LOVE</strong>&nbsp;(<strong>L</strong>iving&nbsp;<strong>O</strong>ur&nbsp;<strong>V</strong>irtues&nbsp;<strong>E</strong>veryday)
-Programme lessons which is aligned to our School Virtues. The programme
-focuses on developing in students a growth mindset, leadership competencies,
-Growth Mindset and 21CC in line with the school virtues. These lessons
-incorporate interactive activities such as group discussions, personal
-sharing, and reflection, providing students with opportunities to learn
-from one another and develop greater self-awareness.</p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTpLEjMcOMnltyYr9QoF3NwclSBEVhg30kSe5Jmh4E_RCLEwVWWQEjINOoIN-g3JQEMB4aQIw1iINiW/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-</div>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>Build Flourishing Friendships</strong>
 </p>
 </li>
