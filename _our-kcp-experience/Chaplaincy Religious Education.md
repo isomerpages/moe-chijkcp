@@ -35,15 +35,7 @@ Growth Mindset and 21CC in line with the school virtues. These lessons
 incorporate interactive activities such as group discussions, personal
 sharing, and reflection, providing students with opportunities to learn
 from one another and develop greater self-awareness.</p>
-<p></p>
-<p>Once a fortnight, our Catholic students attend the Our GRACE (God Reaching
-out to All Children Everyday) Programme lessons that are aimed at helping
-students to understand their faith and live the gospel values in their
-daily lives. The lessons are planned according to the Liturgical calendar.</p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT7TWggJGiq17QFwPaf6bjPayf1tbZBIvynmh9TH0AJ-3LN77SqrLZ3u1kjbRQHtcYQonvblbIfavo5/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTpLEjMcOMnltyYr9QoF3NwclSBEVhg30kSe5Jmh4E_RCLEwVWWQEjINOoIN-g3JQEMB4aQIw1iINiW/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
-<p>The non-Catholic students attend our <strong>LOVE</strong> (<strong>L</strong>iving <strong>O</strong>ur <strong>V</strong>irtues <strong>E</strong>veryday)
-Programme which is aligned to our School Virtues. The programme focuses
-on developing in students a growth mindset, leadership competencies and
-21CC in line with the school virtues.</p>
+<p></p>
