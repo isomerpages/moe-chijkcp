@@ -2,82 +2,150 @@
 title: Information Communications Technology (ICT)
 permalink: /our-ij-experience/co-curricular/information-communications-technology-ict/
 description: ""
-variant: markdown
+variant: tiptap
 third_nav_title: Co Curricular
 ---
-### Information Communications Technology (ICT)
-
-
-#### The Vision
-
-
-**_Enhance Empower Engage._**
-
-#### The Mission Statement
-
-
-**_To infuse the use of ICT in the aspects of the educational process for the benefits of the entire school community._**
-
-#### The Guiding Principle
-
-
-**_If we teach TODAY as we taught YESTERDAY, we rob our students of TOMORROW._**
-
-#### HOD's Message
-
-
-People in the 21st century live in a technology and media-suffused environment, marked by various characteristics, including:
-
-1.  access to an abundance of information
-2.  rapid changes in technology tools, and
-3.  the ability to collaborate and make individual contributions on an unprecedented scale.
-
-  
-
-To be effective in the 21st century, citizens and workers must be able to exhibit a range of functional and critical thinking skills related to information, media and technology.
-
-  
-
-In this Digital Generation Age, “digital” children do not learn in isolation. They might be alone, but they learn in groups. For them, knowledge is like dropping a pebble in the pond. Waves of understanding wash over the digital classroom. Working out an answer and sharing it with your digital classmate is no longer considered cheating. Cheating is keeping the answer to yourself. Learning is collaborative and social, NOT solitary and competitive.
-
-  
-
-At CHIJ (Katong) Primary, the ICT programme has been tailored to ensure that the latter is met.
-
-  
-
-The ICT programmes for 2020 are as follows:
-
-  
-
-1. **Acquiring Computer skills Education in Infocommunication Technology! (ACE-iT!)**
-
-ACE-iT! is a structured 6-year programme for P1-P6 pupils. Pupils undergo a comprehensive programme where the acquisition of essential ICT skills is learnt. The deliverables are a project customized by the level teachers which incorporate ICT skills with the curriculum. Upon completion of the programme, each pupil will receive a certificate, a Rubric card and a badge to mark their achievement.
-
-  
-
-2\. **iEnrich Programme**
-
-During the term breaks, different levels of pupils will be invited to participate in the holiday enrichment programme.
-
-  
-
-Here the pupils have an extension of the ACE-iT! skills that have been taught. Interested pupils will sign up for a 4-6 hour (depending on the level) programme where a particular ICT skill will be imparted to them.
-
-  
-
-3\. **e-Learning @ IJ (iLearn &amp; Project CLICK)**
-
-It is commonly thought that new technologies can make a big difference in education. One such technology initiative implemented by CHIJ (Katong) Primary since 2004 is e-Learning. Each pupil subscribes to a McOnline portal account where a rich variety of curriculum resources are available for both the teachers and the pupils. Every month, there is a day that has been set aside for the pupils to not have any written work. This day is known as iLearn @ IJ. Instead they do their homework online. Once a semester, pupils will undergo Project CLICK @ IJ – an independent e-learning day where the objectives are for pupils to experience independent learning, be exposed to a different learning environment and be operationally ready in a national emergency.
-
-  
-
-Once a term, students will also have the opportunity to have fun through technology in our programme called Wireless@ the G – children explore various tools such as laptops, internet surfing, playing games through the use of iPad, game consoles (Wii etc.) during recess time.
-
-  
-
-In conclusion, the future @ IJ is an exciting adventure where we are working towards textbooks being replaced by rich, interactive content and technology transforms learning into a real-time, collective and multi-dimensional experience. Pupils everywhere interact through sharing and connectivity.
-
-  
-
-In the words of Prime Minister Lee Hsien Loong’s 2006 National Day Rally Speech, “We are preparing our young for this new age (Digital Age). We have made IT an integral part of our school life. With IT, we make the most of our talents. Singapore is changing and we must change.”
+<h3>Information &amp; Communications Technology (ICT)</h3>
+<p><strong><em>Confident Learners. Responsible Digital Citizens. Creative Problem Solvers.</em></strong>
+</p>
+<p>Nurturing students to use technology with confidence, discernment and
+purpose, our ICT programme equips our girls with essential digital skills
+and competencies, as well as the values and dispositions needed to grow
+into young women of substance in a digital age.</p>
+<p><strong>Confident Learners – Growing in Capacity and Character</strong>
+</p>
+<p>Confidence in learning stems from an awareness of one’s abilities and
+a willingness to embrace new challenges. As confident learners in a technology‑enabled
+environment, IJ students develop the competence to navigate ICT tools,
+adapt to emerging technologies and take ownership of their learning.</p>
+<p>Guided instruction and purposeful practice enable students to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Use ICT tools effectively to support learning</p>
+</li>
+<li>
+<p>Approach new technologies with curiosity and assurance</p>
+</li>
+<li>
+<p>Develop independence and self‑directed learning habits</p>
+</li>
+</ul>
+<p>This confidence reflects the school’s emphasis on grace, where students
+are supported, encouraged and guided to grow steadily in capability and
+courage.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ICT1.png">
+</div>
+<p><strong>Responsible Digital Citizens – Growing in Discernment and Integrity</strong>
+</p>
+<p>Responsibility in learning is rooted in strong values and thoughtful decision‑making.
+As responsible citizens in a connected world, IJ students learn to use
+technology ethically, safely and respectfully, understanding that their
+actions have impact on themselves and others.</p>
+<p>Through explicit instruction and applied learning experiences, students
+are guided to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Exercise discernment in their use of ICT and media</p>
+</li>
+<li>
+<p>Practise safe, respectful and ethical online behaviour</p>
+</li>
+<li>
+<p>Take responsibility for their choices and interactions</p>
+</li>
+</ul>
+<p>This sense of responsibility reflects the school’s emphasis on integrity
+and respect, nurturing students who live out their values consistently
+in both physical and virtual spaces.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ICT2.png">
+</div>
+<p><strong>Creative Problem Solvers – Growing in Thinking and Resilience</strong>
+</p>
+<p>Creative problem‑solving involves curiosity, perseverance and the willingness
+to learn from challenges. As creative problem solvers, IJ students are
+encouraged to use technology purposefully to explore ideas, solve problems
+and create meaningful, innovative solutions.</p>
+<p>Through hands‑on ICT experiences, students learn to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Apply logical reasoning and critical thinking strategies</p>
+</li>
+<li>
+<p>Break problems into manageable steps and explore multiple solutions</p>
+</li>
+<li>
+<p>Collaborate, reflect and persist through challenges</p>
+</li>
+</ul>
+<p>These experiences nurture resilient and creative thinkers, equipping students
+with the confidence to apply their learning thoughtfully and purposefully
+in a rapidly changing world.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ICT3a.png">
+</div>
+<p><em>Post-PSLE students engaging in computational thinking and coding with Sphero robots, learning key programming concepts through interactive, group-based activities.</em>
+</p>
+<p><strong>Signature Programmes</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>P1–P2: Touch Typing</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Build strong digital foundations through proper keyboarding skills</p>
+</li>
+<li>
+<p>Develop accuracy, speed, and confidence for daily learning tasks</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>P3–P4: National Digital Explorer (NDE)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learn to use technology skillfully and safely</p>
+</li>
+<li>
+<p>Develop essential digital literacy skills</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>P5–P6: Coding</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learn to think logically and solve problems through coding</p>
+</li>
+<li>
+<p>Apply computational thinking to create digital solutions</p>
+</li>
+<li>
+<p>Prepare for future learning in an increasingly digital world</p>
+</li>
+</ul>
+</li>
+</ul>
+<p>Together, these programmes empower students to be confident users and
+thoughtful creators of technology.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ICT4a.png">
+</div>
+<p><em>Designing and building robots to solve real-world challenges using Stick ‘Em.</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ICT5a.png">
+</div>
+<p><strong><em>Meet our Media Monitors</em></strong><em> — the student leaders behind the scenes who keep technology-enabled lessons running smoothly! From setting up AV equipment and capturing school moments on camera to lending a helping hand with ICT in class, they make sure learning looks good, sounds great, and works without a hitch.</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ICT6.png">
+</div>
+<p>Integrating technology with physical education, students safely experience
+challenges like high rope courses using VR headsets.</p>
+<p></p>
+<p></p>
