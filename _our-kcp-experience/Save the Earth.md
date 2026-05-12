@@ -219,9 +219,31 @@ is placed in the canteen for all students to recycle products made of paper.</p>
 <img style="width: 85%;" height="auto" width="100%" alt="" src="/images/STESR20.png">
 </div>
 <p>In order to further encourage our students to recycle more paper, our
-school organized an Inter-level Recycling competitiol</p>
+school organized an Inter-level Recycling competition.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/STESR21.png">
+</div>
+<p>Sembcorp Recycling Programme:</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/STESR22.png">
+</div>
+<p>Posters are put up to remind all the 3Rs as well as reduce wastage.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTot7s2Xzl_psdXYORaFAx6f-nAF7OhRc4AFI1nBIHbpwt2PPX33EcQ8dil39tCFhdfjfYLwsePff_j/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
+<p>Trash to Treasure</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/STESR24.png">
+</div>
+<p><u>Proper garbage segregation methods for recycling paper, glass, metal, plastic and ink cartridges</u>
+</p>
+<p>All recycling bins across the school are clearly labelled to ensure proper
+disposal of recyclables.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTfCMfERi3eadxp0TXw5Ul5NwsIZoSw831z-4vbl0fd1oTIBFISArk9yw43qp0s-IOofX-Bx3WoCZDt/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
 <p></p>
 <p></p>
