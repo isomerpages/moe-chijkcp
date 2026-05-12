@@ -170,11 +170,56 @@ borrow. Students who do not have a book to read during our morning reading
 programme at the courtyard can also borrow these books.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/STESR16.png">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/STESR16.png">
 </div>
+<p><u>Storybook Donation Drive</u>
+</p>
+<p>In term 4, students were encouraged to donate their used story books to
+the school library.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/STESR17.png">
+</div>
+<p><u>- Recycling awareness reminders and campaigns</u>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>At the start of the term, 2 Save The Earth Ambassadors were appointed
+for each class. Their duty include putting up the recycle bin for paper
+in the classrooms and encouraging their classmates to do their part in
+recycling.</p>
+</li>
+</ol>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQZ5kK7ixq7pnrVUCLBBS_SG7k_jID79xFvTAoYOdZVGClCIjWd0lXV6NX3Y5bvVqjpd9nXBd2SIuBE/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>P5 Bloobox Project: Decorating clss Bloobox is one of the three environmental
+initiatives done by our P5 students.</p>
+</li>
+</ol>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/STESR18.png">
+</div>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>Talk on recycling to educate students on matters related to it.</p>
+</li>
+</ol>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/STESR19a.png">
+</div>
+<p>In term 2, students are encouraged to recycle papers collected in the
+classroom and home via a vending machine provided by SG RECYCLE. The machine
+is placed in the canteen for all students to recycle products made of paper.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/STESR20.png">
+</div>
+<p>In order to further encourage our students to recycle more paper, our
+school organized an Inter-level Recycling competitiol</p>
 <p></p>
 <p></p>
 <p></p>
