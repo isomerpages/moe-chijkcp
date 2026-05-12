@@ -25,7 +25,6 @@ the impact of their choices, they become the changemakers our planet needs.</p>
 <p></p>
 <p><strong><u>SCHOOL WIDE PROGRAMMES</u></strong>
 </p>
-<p></p>
 <p><strong><u>Earth Day Celebration</u></strong>
 </p>
 <p>Save the Earth ambassadors together with Parent volunteers did their part
@@ -52,10 +51,8 @@ what can be turned into a compost and what can’t.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/STESR.png">
 </div>
-<p></p>
 <p><strong><u>World Water Day Celebration</u></strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/STESR2.png">
 </div>
@@ -153,7 +150,6 @@ each term.</p>
 </p>
 <p>Posters are put up to remind students not to waste food and to help turn
 their food waste into fertilisers.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/STESR15.png">
 </div>
@@ -168,7 +164,6 @@ parents/guardians.</p>
 are placed at the school inner courtyard, free for students to take or
 borrow. Students who do not have a book to read during our morning reading
 programme at the courtyard can also borrow these books.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 45%;" height="auto" width="100%" alt="" src="/images/STESR16.png">
 </div>
@@ -176,7 +171,6 @@ programme at the courtyard can also borrow these books.</p>
 </p>
 <p>In term 4, students were encouraged to donate their used story books to
 the school library.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 85%;" height="auto" width="100%" alt="" src="/images/STESR17.png">
 </div>
@@ -199,7 +193,6 @@ recycling.</p>
 initiatives done by our P5 students.</p>
 </li>
 </ol>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 85%;" height="auto" width="100%" alt="" src="/images/STESR18.png">
 </div>
@@ -208,7 +201,6 @@ initiatives done by our P5 students.</p>
 <p>Talk on recycling to educate students on matters related to it.</p>
 </li>
 </ol>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/STESR19a.png">
 </div>
@@ -220,12 +212,10 @@ is placed in the canteen for all students to recycle products made of paper.</p>
 </div>
 <p>In order to further encourage our students to recycle more paper, our
 school organized an Inter-level Recycling competition.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/STESR21.png">
 </div>
 <p>Sembcorp Recycling Programme:</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/STESR22.png">
 </div>
@@ -234,7 +224,6 @@ school organized an Inter-level Recycling competition.</p>
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTot7s2Xzl_psdXYORaFAx6f-nAF7OhRc4AFI1nBIHbpwt2PPX33EcQ8dil39tCFhdfjfYLwsePff_j/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p>Trash to Treasure</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/STESR24.png">
 </div>
