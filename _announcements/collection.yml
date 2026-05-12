@@ -2,8 +2,8 @@ collections:
   announcements:
     output: true
     order:
-      - Mid Year Learning Festival.md
       - Announcements.md
+      - Mid Year Learning Festival.md
       - Open House.md
       - School Canteen Advertisement.md
       - Safety and Security Briefing.md
