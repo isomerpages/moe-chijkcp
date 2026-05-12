@@ -4,6 +4,11 @@ permalink: /our-ij-partners/parents-portal/
 description: ""
 variant: tiptap
 ---
+<h5><strong>PSLE Briefing for Parents</strong></h5>
+<p><a href="/files/P6_Parents_Briefing_Mrs__Simon_2026__for_website_.pdf" rel="noopener nofollow" target="_blank">Sharing by Principal</a>
+</p>
+<p><a href="/files/Sharing_with_Parents___Managing_Expectations_and_Stress___Updated_as_at_6_May_2026.pdf" rel="noopener nofollow" target="_blank">Managing Expectations and Stress</a>
+</p>
 <h5><strong>Beginning of Year (Meet the Parents)</strong></h5>
 <p><a href="/files/CHIJ__Katong__Primary_P2___P6_Parents__briefings_2026__for_parents__11zon.pdf" rel="noopener nofollow" target="_blank">Briefing for P2-P6 Parents by Principal</a>
 </p>
