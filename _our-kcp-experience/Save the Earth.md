@@ -146,7 +146,32 @@ stall. These containers are collected daily and the waste is processed
 in a composting machine. The resulting compost is then used as fertiliser
 for our school gardens. On average, about 4 - 5 kg of compost is produced
 each term.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQiOid8wRal6RYHjyi-M9k-C0FjmzHaez2MHolYTIG4Hxz2XEZLOH_ubS-_1In2IAelpdEdCWVtZIsq/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
+<p><u>-Introduce different portion sizes</u>
+</p>
+<p>Posters are put up to remind students not to waste food and to help turn
+their food waste into fertilisers.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/STESR15.png">
+</div>
+<p>Primary 2 students were assigned a Save The Earth Upcycling Project with
+parents/guardians.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSn_RKSD2StACTEmDEs282g9U9CT4Y8jlElZ-h8Jx2eHPQwco_1kfdGYm2a_7qvcvXCeUnKSqqzOzg3/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
+<p><u>Condemned library books</u>
+</p>
+<p>Instead of throwing away condemned books from our school library, they
+are placed at the school inner courtyard, free for students to take or
+borrow. Students who do not have a book to read during our morning reading
+programme at the courtyard can also borrow these books.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/STESR16.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
