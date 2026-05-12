@@ -43,4 +43,11 @@ sections:
       alt: Image alt text
       url: https://www.facebook.com/p/CHIJ-Katong-Primary-100064368781577/
       image: /images/chij facebook.jpg
+  - infopic:
+      title: MID YEAR LEARNING FESTIVAL
+      id: infopic
+      button: More Info
+      url: https://www.chijkcp.moe.edu.sg/mid-year-learning-festival/
+      image: /images/MYLF.png
+      alt: Image alt text
 ---
