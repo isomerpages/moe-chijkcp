@@ -23,6 +23,13 @@ sections:
       alt: Image alt text
       image: /images/Open_House_2026___Poster_A.png
   - infopic:
+      title: MID YEAR LEARNING FESTIVAL
+      id: infopic
+      button: More Info
+      url: https://www.chijkcp.moe.edu.sg/mid-year-learning-festival/
+      image: /images/MYLF.png
+      alt: Image alt text
+  - infopic:
       title: Annual Prize-Giving Ceremony 2025
       id: infopic
       button: Click here
