@@ -35,7 +35,7 @@ creating the requires students to think out of the box, as they compare
 and evaluate different materials to use to make the toy, while applying
 science knowledge and concepts.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTupSknVMC5UU7vEyldBj9690L4K2puTb3YS6yPwt6-2cHTeRUOYtpp4q1CghPYDIjC8H4Z-l5vVjq8/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTupSknVMC5UU7vEyldBj9690L4K2puTb3YS6yPwt6-2cHTeRUOYtpp4q1CghPYDIjC8H4Z-l5vVjq8/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p></p>
 </li>
@@ -49,7 +49,7 @@ in the classroom, students develop a sense of responsibility when they
 take care of their allocated area and show appreciation for how food gets
 from the source to our plates.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRYFxWYBwEBqQPFjD4aTCTgJfXVzwzF8v8ffM85gf7cpUlrQfT4XwFjhh_U2i09Jc7idsXeoxDKwliP/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRYFxWYBwEBqQPFjD4aTCTgJfXVzwzF8v8ffM85gf7cpUlrQfT4XwFjhh_U2i09Jc7idsXeoxDKwliP/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <ol start="3" data-tight="true" class="tight">
 <li>
@@ -59,13 +59,13 @@ encouraged to explore and engage in constructive discussions with their
 peers, to gain a deeper understanding of observations and phenomena around
 us.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSn_pkCyaE_Yg6Lb2S4rKThUDXYJB8fmwE6fzCtRMOPlUWLZvP_YaXwnzezEObGLjiBVF_Gkp1JbIU5/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSn_pkCyaE_Yg6Lb2S4rKThUDXYJB8fmwE6fzCtRMOPlUWLZvP_YaXwnzezEObGLjiBVF_Gkp1JbIU5/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 </li>
 </ol>
 <ol start="4" data-tight="true" class="tight">
 <li>
-<p>‘Let’s Recycle with our Neighbours’ 2023</p>
+<p>‘Let’s Recycle with our Neighbours’</p>
 <p>Reduce, reuse, recycle is a phrase that many of us are acquainted with.
 At CHIJ (Katong) Primary, we attempt to incorporate these principles into
 the classroom to pass it on to the next generation. In collaboration with
@@ -74,7 +74,7 @@ neighbourhood to gather newspapers for recycling. Such an activity can
 help our students in character-building and to create an awareness about
 the needs to conserve and save the environment.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRYOCqs7WothV_KTHn_6ayUxf2ygr1LcsHtQsNXUB3HJY9Up3AMSLR_c3EaBzaxmyXW0r-TIvSk-S4m/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRYOCqs7WothV_KTHn_6ayUxf2ygr1LcsHtQsNXUB3HJY9Up3AMSLR_c3EaBzaxmyXW0r-TIvSk-S4m/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p></p>
 </li>
@@ -86,7 +86,7 @@ current Science syllabus. It is through such trips that the students become
 more acquainted and aware of conservation efforts, scientific concepts
 and much more.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ7IoyOEs1sbYzXevp1Sahy_q9Sjm4JhePtd3_KDy66lPGT7IiZeSskzIPG01nRaocAzMliHBO9MH53/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ7IoyOEs1sbYzXevp1Sahy_q9Sjm4JhePtd3_KDy66lPGT7IiZeSskzIPG01nRaocAzMliHBO9MH53/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p></p>
 </li>
@@ -97,7 +97,7 @@ are tasked with conducting interesting and engaging experiments for their
 schoolmates, which provide them with the opportunity to get first-hand
 experience at exploring and discovering various scientific concepts.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vReXuxtFaVkmqbeGSgJE8a9m20vP_nwn7EyyqVWtdcKz0kJfj79DkzktlXAyK1FES6KTLB5e-GJfkdF/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vReXuxtFaVkmqbeGSgJE8a9m20vP_nwn7EyyqVWtdcKz0kJfj79DkzktlXAyK1FES6KTLB5e-GJfkdF/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p></p>
 </li>
@@ -110,7 +110,7 @@ as nature guides. During the trail, the students will be immersed in a
 realm of knowledge related to flora and fauna, which will not only captivate
 their senses but bring them closer to nature!</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQrCXe92RBvbWFsEd8DhB-NTRKirZRiSbp3fqyftkA4BVza7W0R4hJC9fdBltyLgo9i9Rn-2YFCHWMz/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQrCXe92RBvbWFsEd8DhB-NTRKirZRiSbp3fqyftkA4BVza7W0R4hJC9fdBltyLgo9i9Rn-2YFCHWMz/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p></p>
 </li>
