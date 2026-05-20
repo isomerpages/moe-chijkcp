@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Announcements.md
-      - Open House.md
       - Mid Year Learning Festival.md
       - School Canteen Advertisement.md
       - Safety and Security Briefing.md
