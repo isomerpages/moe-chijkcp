@@ -2,6 +2,7 @@ collections:
   recent-happenings:
     output: true
     order:
+      - MYLF (Level Sports Programme).md
       - Open House 2026.md
       - Family Mass (17 April 2026).md
       - International Friendship Day.md
