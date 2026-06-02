@@ -19,3 +19,7 @@ for students to demonstrate sportsmanship, collaborate with their peers,
 and appreciate new experiences.</p>
 <p>Through exposure to different sports, we hope this would encourage our
 girls to continue to pursue active lifestyles and personal growth.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSVXWxsSYDvrRh20BQdtTN7876qoIs4nDIexLefAoY7IUwopVva_Tv3XaPxUBGYmZ1WTcxPoRQRh18_/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
+<p></p>
