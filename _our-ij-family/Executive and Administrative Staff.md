@@ -60,7 +60,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Science Laboratory Technician</strong> 
-<br><a href="mailto:Alizah_Ismail_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Alizah Ismail</a>
+<br><a href="mailto:Teoh_Leng_Hui_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Teoh Leng Hui</a>
 </p>
 </td>
 </tr>
@@ -119,9 +119,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Operations Manager</strong>
-</p>
-<p><a href="mailto:low_chu_song@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Low Chu Song</a>
+<p><strong>Operations Manager</strong> 
+<br><a href="mailto:low_chu_song@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Low Chun Song</a>
 </p>
 </td>
 </tr>
