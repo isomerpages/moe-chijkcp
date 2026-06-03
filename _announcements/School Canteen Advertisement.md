@@ -22,7 +22,7 @@ Singapore Food Agency (SFA).</p>
 <p>• Successful applicant and stall assistant must possess the WSQ Food Hygiene
 Certificate.</p>
 <p>The following documents to be submitted via <a href="mailto:chijktps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chijktps@moe.edu.sg</a> or hand delivered
-to the school’s General Office by 29 May 2026.</p>
+to the school’s General Office by 28 August 2026.</p>
 <p>1. Complete the attached <a href="/files/Application_for_Canteen_Stall_in_Existing_School_2023.pdf" rel="noopener nofollow" target="_blank">Application Form</a>
 </p>
 <p>2. Photocopy of the NRIC (front and back)</p>
