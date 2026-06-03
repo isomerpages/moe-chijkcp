@@ -109,8 +109,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Operations Manager</strong> 
 <br><a href="mailto:lee_tuck_hin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Tuck Hin</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Manager</strong>
+</p>
+<p><a href="mailto:low_chu_song@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Low Chu Song</a>
 </p>
 </td>
 </tr>
