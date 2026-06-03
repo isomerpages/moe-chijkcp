@@ -7,46 +7,18 @@ description: ""
 <h4>School Dental Clinic</h4>
 <p>Dental Therapist: Ms Judy Tee</p>
 <p>Tel: 89401058</p>
-<p><strong><u>Operating Hours</u></strong>
+<p><strong><u>Operating Hours during June School Holidays</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><em>19-22 January 2026</em></strong>
+<p><strong><em>23 &amp; 24 June</em></strong>
 </p>
 <p>Morning: 8:00 am to 1:00 pm</p>
-<p>Afternoon: 2:00 pm to 5.30 pm</p>
-</li>
-</ul>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong><em>26-27 January 2026</em></strong>
-</p>
-<p>Morning: 8:00 am to 1:00 pm</p>
-<p>Afternoon: 2:00 pm to 5.30 pm</p>
-</li>
-</ul>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong><em>2-5 February 2026</em></strong>
-</p>
-<p>Morning: 8:00 am to 1:00 pm</p>
-<p>Afternoon: 2:00 pm to 5.30 pm</p>
-</li>
-</ul>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong><em>19 February 2026</em></strong>
-</p>
-<p>Morning: 8:00 am to 1:00 pm</p>
-<p></p>
+<p>Afternoon: 2:00 pm to 5:00 pm</p>
 </li>
 </ul>
 <p>If your child requires urgent dental treatment and the clinic is closed,
 please contact the following Dental Clinic:</p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -67,46 +39,24 @@ please contact the following Dental Clinic:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tao Nan School</p>
+<p>Red Swastika School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>49 Marine Crescent (S449761)</p>
+<p>350 Bedok North Ave 3 (S469719)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>91130636</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ngee Ann Primary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>344 Marine Terrace (S449149)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>89405130</p>
+<p>89409587</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>St. Stephen's School</p>
+<p>Fern Green Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20 Siglap View (S455789)</p>
+<p>70 Fernvale Link (S797538)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>91122045</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tanjong Katong Primary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10 Seraya Road (S437259)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>91128295</p>
+<p>89402213</p>
 </td>
 </tr>
 <tr>
