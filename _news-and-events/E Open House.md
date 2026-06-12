@@ -6,6 +6,7 @@ variant: tiptap
 ---
 <h3>E-Open House</h3>
 <h4>CHIJ (Katong) Primary Corporate Video 2026</h4>
+<p></p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="608" width="1080" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1200623472?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
 </div>
