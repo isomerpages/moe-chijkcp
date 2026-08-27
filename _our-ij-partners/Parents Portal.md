@@ -4,7 +4,7 @@ permalink: /our-ij-partners/parents-portal/
 description: ""
 variant: tiptap
 ---
-<h5><strong>P3 Assessment Briefing </strong></h5>
+<h5><strong>P3 Assessment Briefing</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/CHIJ_KCP_2026_P3_Assessment_Briefing_Mrs_Simon__PG_Website_Parents_.pdf" rel="noopener nofollow" target="_blank">Briefing by Principal</a>
