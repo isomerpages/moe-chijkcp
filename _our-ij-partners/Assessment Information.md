@@ -15,7 +15,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Assessment_Weightings.png">
 </div>
-<h3><strong>End-of-Year (EOY) Examination - Schedule </strong></h3>
+<h3><strong>End-of-Year (EOY) Examination - Schedule</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Assessment Information /29_Jul_2026_P5_EOY_Exam_Schedule_AT_056.pdf" rel="noopener nofollow" target="_blank">Primary 5 EOY Schedule</a>
