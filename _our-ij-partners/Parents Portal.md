@@ -15,7 +15,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Sharing_with_Parents___Stress_Not__Manage_Well___Full_version_Website_Parents_.pdf" rel="noopener nofollow" target="_blank">Stress Not! Manage Well! </a>
+<p><a href="/files/Sharing_with_Parents___Stress_Not__Manage_Well___Full_version_Website_Parents_.pdf" rel="noopener nofollow" target="_blank">Stress Not! Manage Well!</a>
 </p>
 </li>
 </ul>
